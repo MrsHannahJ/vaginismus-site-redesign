@@ -1,6 +1,6 @@
 {
     "path": {
-        "main.scss": {
+        "css/main.scss": {
             "sass.enabled": true,
             "sass.options": {
                 "outputDir": ".",

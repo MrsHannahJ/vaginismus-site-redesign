@@ -57,6 +57,8 @@ table {
 //Caturrita
 @import url("//hello.myfonts.net/count/2fd6f8");
 
+
+
 //Font Variables
 $sans: 'Open Sans', sans-serif;
 $lato: 'Lato', sans-serif;
@@ -70,6 +72,71 @@ em{
 strong{
   font-weight: bold;
 }
+
+//Icon Font
+@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontello/font/fontello.eot?19569027');
+  src: url('../fonts/fontello/font/fontello.eot?19569027#iefix') format('embedded-opentype'),
+       url('../fonts/fontello/font/fontello.woff2?19569027') format('woff2'),
+       url('../fonts/fontello/font/fontello.woff?19569027') format('woff'),
+       url('../fonts/fontello/font/fontello.ttf?19569027') format('truetype'),
+       url('../fonts/fontello/font/fontello.svg?19569027#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?19569027#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-check:before { content: '\e800'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-gplus:before { content: '\f0d5'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-pinterest:before { content: '\f231'; } /* '' */
 
 
 $brand: #4eb3b3;
@@ -601,16 +668,20 @@ footer{
 
 /*---------HERO---------------*/
 #hero{
-  background-image: url(img/Header-EN.jpg);
+  background-image: url(../img/header-mobile.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   width:100%;
   min-height: 300px;
+  .icon-check:before{
+    font-size: 1.5rem;
+    margin-right: 5%;
+  }
 }
 
 .hero-text{
   text-align: center;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 /*-----------VAGINISMUS BANNER-------------*/
@@ -738,7 +809,7 @@ footer{
 /*-----------REVIEWS SECTION-------------*/
 
 #reviews{
-  background: url(img/White-Wood-bkgd.jpg);
+  background: url(../img/White-Wood-bkgd.jpg);
   background-size: cover;
   text-align: center;
   h2{
@@ -1498,7 +1569,7 @@ footer{
   
 /*-----------HERO SECTION (DESKTOP)-------------*/
   #hero{
-    background-image: url(img/home-header-en.png);
+    background-image: url(../img/home-header-en.png);
     background-repeat: no-repeat;
     background-size:cover;
 //    width:100%;
@@ -1539,7 +1610,16 @@ footer{
       margin: 5% 0;
     }
   }
+/*-----------WHAT IS SECTION (DESKTOP-------------*/
+#what-is-vaginismus{
 
+  
+  .blurb{
+    padding: 5% 0 7%;
+  }
+
+
+}
 
 /*-----------HIGHLIGHTED CONTENT SECTION (DESKTOP)-------------*/
 
@@ -1562,9 +1642,9 @@ footer{
     }
 
     .highlighted-content-1{
-      background-image: url(img/World-Wide-Resources-e1.jpg);
+      background-image: url(../img/books-stacked.jpg);
       background-repeat: no-repeat;
-      background-size:contain;
+      background-size:100%;
 
       .btn-container{
         text-align: center;
@@ -1581,17 +1661,17 @@ footer{
       }
     }
     .highlighted-content-2{
-      background-image: url(img/bg-community.png);
+      background-image: url(../img/bg-community-desktop.jpg);
       background-repeat: no-repeat;
       background-size: 100%;
     }
     .highlighted-content-3{
-      background-image: url(img/Vaginal-Atrophy-new2.jpg);
+      background-image: url(../img/Vaginal-Atrophy-new2.jpg);
       background-repeat: no-repeat;
       background-size: 100%;
     }
     .highlighted-content-4{
-      background-image: url(img/bg-stories1.jpg);
+      background-image: url(../img/bg-stories1.jpg);
       background-repeat: no-repeat;
       background-size: 100%;
     }
