@@ -1,0 +1,331 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+
+
+/*---------HERO---------------*/
+#hero{
+background-image: url(../img/header-mobile.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width:100%;
+  .icon-check:before{
+    font-size: 18px;
+    font-size: 1.125rem;
+  }
+
+  .hero-text{
+    text-align: center;
+    line-height: 1.5;
+
+  }
+ 
+//TABLET
+  @media screen and (min-width: 768px){
+    background-image: url(../img/home-header-en.png);
+//  position: relative;
+    .icon-check:after{
+      margin-right: 100px;
+    }
+    .hero-text{
+      text-align: left;
+      text-indent: 10px;
+      margin: 0;
+//        position: absolute;
+//        top: 20%;
+//        right: 5%;
+      i{
+        padding-right: 10px;
+      }
+      h1{
+        text-align: left;
+      }
+      li{
+        line-height: 2;
+      }
+      
+    }
+  }
+}
+/*-----------VAGINISMUS BANNER-------------*/
+
+.vaginismus-banner{
+  background-color: $brand;
+  text-align: center;
+  color: $white;
+  height: 5rem;
+  h3{
+    padding: 0.5rem;
+  }
+  a{
+    padding: 0.25rem 1rem;
+  }
+}
+//TABLET
+@media screen and (min-width: 768px){
+  .vaginismus-banner{
+    height: 48px;
+    height: 3rem;
+    h3, a{
+      display: inline;
+      line-height: 48px;
+      line-height: 3rem;
+    }
+  }
+}
+
+
+/*-----------PRODUCTS SECTION-------------*/
+
+#products{
+  text-align: center;
+  img{
+    max-width: 80%;
+  }
+  h3{
+    max-width: 400px;
+    color: $light-gray-text;
+  }
+  a{
+    text-decoration: none;
+    font-family: $accent-font-common;
+  }
+//TABLET
+  @media screen and (min-width: 768px){
+    h3{
+      max-width: 160px;
+      font-size: 15.2px;
+      font-size: 0.95rem;
+    }
+    img{
+      max-width: 100%;
+    }
+  }
+  //DESKTOP
+  @media screen and (min-width: 980px){
+    h3{
+      max-width: 250px;
+    }
+  }
+}
+
+
+
+/*-----------WHAT IS SECTION-------------*/
+#what-is-vaginismus{
+  text-align: center;
+  color: $white;
+
+  h3{
+    font-weight: 600;
+
+  }
+  img{
+    width: 30%;
+    max-width: 5rem;
+  }
+    p{
+    padding-bottom: 0.5rem;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  a{
+    color: $white;
+  }
+//TABLET
+  @media screen and (min-width: 768px){
+    padding: 1rem 0;
+  }
+//DESKTOP
+  @media screen and (min-width: 980px){
+    #what-is-vaginismus{
+      text-align: justify;
+      img{
+        width: 50%;
+        max-width: 8rem;
+      }
+      .column-12-tablet-6{
+        padding: 0 !important;
+      }
+    }
+  }
+}
+
+/*-----------HIGHLIGHTED CONTENT SECTION-------------*/
+#highlighted-content{
+  text-align: center;
+
+  img{
+    padding-bottom: 10%;
+  }
+  .purple-hr{
+    border: 0;
+    height: 1.5px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(110,88,185, 0.75), rgba(0, 0, 0, 0));
+    margin-top: 1rem;
+  }
+}
+.highlighted-content-1{
+  a{
+    padding: 4%;
+    display: inline-block;
+    width: 40%;
+  }
+}
+
+//TABLET
+@media screen and (min-width: 768px){
+  #highlighted-content{
+    margin: 5% 0 10%; 
+    img{
+      padding-bottom: 5%;
+      width: 80%;
+    }
+    .highlighted-content-1{
+      a{
+        padding: 2%;
+        margin: 0.5rem;
+        width: 25%;
+      }
+    }
+    .highlighted-content-2, .highlighted-content-3, .highlighted-content-4{
+      padding: 1rem 0 1.5rem;
+      a{
+        display: block;
+        width: 25%;
+        margin: 0 auto;
+        text-align: center;
+      }
+      p{
+        padding: 0.5rem 0 1rem;
+      }
+    }
+  }
+}
+
+//DESKTOP
+@media screen and (min-width: 980px){
+  #highlighted-content{
+    margin: 0;
+    .hc-text, .hc-text h2, .hc-text h3{
+      text-align: left;
+    }
+    .highlighted-content-1{
+      background-image: url(../img/books-stacked.jpg);
+      .btn-container{
+        padding-top: 2%;
+      }
+      .btn-row{
+        display: inline;
+      }
+      a{
+        text-align: center;
+        width: 35%;
+      }
+    }
+    .highlighted-content-2, .highlighted-content-3, .highlighted-content-4{
+      a{
+        display: inline-block;
+        width: 50%;
+      }
+    }
+    .highlighted-content-2{
+      background-image: url(../img/bg-community-desktop.jpg);
+    }
+    .highlighted-content-3{
+      background-image: url(../img/Vaginal-Atrophy-new2.jpg);
+    }
+    .highlighted-content-4{
+      background-image: url(../img/bg-stories1.jpg);
+    }
+    .highlighted-content-2 .hc-text, .highlighted-content-4 .hc-text{
+      float: right;
+    }
+  }
+}
+
+/*-----------REVIEWS SECTION-------------*/
+
+#reviews{
+  padding-top: 1rem;
+  background: url(../img/White-Wood-bkgd.jpg);
+  background-size: cover;
+  text-align: center;
+  h2{
+    padding-bottom: 1rem;
+  }
+  .testimonial{
+    width: 95%;
+    margin: 0 auto;
+    padding: 1rem;
+    background:white;
+    position: relative;
+    p{
+      line-height: 1.2;
+    }
+  }
+  .testimonial-text{
+    padding: 5% 2%;
+  }
+  .quotes{
+    position: absolute;
+    top: -15px;
+    left: 45%;
+    z-index: 999;
+    width: 32px;
+  }
+//DESKTOP
+@media screen and (min-width: 980px){
+    .quotes{
+      position: absolute;
+      top: -13px;
+      left: 45%;
+      z-index: 999;
+      width: 24px;
+    }
+  h2{
+    font-size: 32rem;
+    font-size: 2rem;
+  }
+  }
+}
+
+/*-----------REVIEWS BANNER-------------*/
+
+.reviews-banner{
+  text-align: center;
+  color: $white;
+  line-height: 80px;
+  height: 5rem;
+  a{
+  line-height: 80px;
+  line-height: 5rem;
+  }
+//TABLET
+  @media screen and (min-width: 768px){
+    margin-top: 1rem;
+  }
+}
+
+/*-----------COMMON LINKS SECTION-------------*/
+
+#common-links{
+  text-align: center;
+  .common-links-1, .common-links-2, .common-links-3, .common-links-4{
+    max-width: 275px;
+    margin: 0 auto;
+  }
+  h4{
+    padding-bottom: 5%;
+  }
+  li{
+    text-align:left;
+    list-style:disc;
+  }
+  a{
+    color:$brand;
+    text-decoration: none;
+    line-height: 1.5;
+  }
+}

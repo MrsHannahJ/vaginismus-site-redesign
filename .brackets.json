@@ -9,7 +9,7 @@
                 "outputStyle": "compressed"
             },
             "brackets-git.gitPath": "git",
-            "linting.collapsed": true,
+            "linting.collapsed": false,
             "mikaeljorhult.bracketsAutoprefixer.enabled": false,
             "mikaeljorhult.bracketsAutoprefixer.visualCascade": false,
             "mikaeljorhult.bracketsAutoprefixer.browsers": [

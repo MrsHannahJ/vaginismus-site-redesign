@@ -1,0 +1,76 @@
+/**
+ * Basic typography style for copy text
+**/
+
+
+html{
+  font-size: 16px;
+  @media screen and (min-width: 980px){
+    font-size: 14px;
+  }
+}
+
+body {
+  font-family: $base;
+  font-size: 16px;
+  font-size: 1rem;
+
+}
+
+h1{
+  font-size:32px;
+  font-size: 2rem;
+  color: $brand;
+  font-family: $accent-font-rare;
+  text-align: center;
+  @media screen and (min-width: 980px){
+    font-size:56px;
+    font-size: 3.5rem;
+  }
+}
+h2{
+  font-size:24px;
+  font-size: 1.5rem;
+  font-family: $accent-font-common;
+  font-weight: 500;
+  padding-top: 1rem;
+  @media screen and (min-width: 980px){
+    font-size:40px;
+    font-size: 2.5rem;
+  }
+}
+h3{
+  font-size:22px;
+  font-size: 1.375rem;
+  font-family: $accent-font-common;
+  @media screen and (min-width: 980px){
+    font-size:24px;
+    font-size: 1.5rem;
+  }
+}
+h4{
+  font-size:20px;
+  font-size: 1.25rem;
+}
+p{
+  font-size:18px;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+a{
+  font-size:18px;
+  font-size: 1.125rem;
+}
+li{
+  font-size:16px;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+
+em{
+  font-style: italic;
+}
+strong{
+  font-weight: bold;
+}
