@@ -1,40 +1,21 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the home page.
 // -----------------------------------------------------------------------------
-
-
+#home{
 
 /*---------HERO---------------*/
-#hero{
+.hero-banner-image{
 background-image: url(../img/header-mobile.jpg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  width:100%;
   .icon-check:before{
     font-size: 18px;
     font-size: 1.125rem;
   }
 
-  .hero-text{
-    text-align: center;
-    line-height: 1.5;
-
-  }
- 
 //TABLET
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: $breakpoint-medium){
     background-image: url(../img/home-header-en.png);
-//  position: relative;
-    .icon-check:after{
-      margin-right: 100px;
-    }
-    .hero-text{
-      text-align: left;
-      text-indent: 10px;
-      margin: 0;
-//        position: absolute;
-//        top: 20%;
-//        right: 5%;
+    .hero-text-right{
+       width: 45%;
       i{
         padding-right: 10px;
       }
@@ -42,9 +23,18 @@ background-image: url(../img/header-mobile.jpg);
         text-align: left;
       }
       li{
-        line-height: 2;
+        line-height: 1.5;
+        font-size: 14px;
       }
-      
+    }
+  }
+//DESKTOP
+  @media screen and (min-width: $breakpoint-large){
+    .hero-text-right{
+       width: 40%;
+      li{
+        font-size: 17px;
+      }
     }
   }
 }
@@ -140,13 +130,9 @@ background-image: url(../img/header-mobile.jpg);
 //DESKTOP
   @media screen and (min-width: 980px){
     #what-is-vaginismus{
-      text-align: justify;
       img{
         width: 50%;
         max-width: 8rem;
-      }
-      .column-12-tablet-6{
-        padding: 0 !important;
       }
     }
   }
@@ -155,7 +141,7 @@ background-image: url(../img/header-mobile.jpg);
 /*-----------HIGHLIGHTED CONTENT SECTION-------------*/
 #highlighted-content{
   text-align: center;
-
+  padding: 0;
   img{
     padding-bottom: 10%;
   }
@@ -208,6 +194,7 @@ background-image: url(../img/header-mobile.jpg);
 @media screen and (min-width: 980px){
   #highlighted-content{
     margin: 0;
+    padding: 0;
     .hc-text, .hc-text h2, .hc-text h3{
       text-align: left;
     }
@@ -248,7 +235,7 @@ background-image: url(../img/header-mobile.jpg);
 /*-----------REVIEWS SECTION-------------*/
 
 #reviews{
-  padding-top: 1rem;
+  padding-bottom: 0;
   background: url(../img/White-Wood-bkgd.jpg);
   background-size: cover;
   text-align: center;
@@ -328,4 +315,5 @@ background-image: url(../img/header-mobile.jpg);
     text-decoration: none;
     line-height: 1.5;
   }
+}
 }

@@ -42,10 +42,10 @@
 }
 
 //button themes
-@mixin button-theme($color) {
+@mixin button-theme($color, $background:transparent) {
   color: $color;
   border-color: $color;
-  background-color: transparent;
+  background-color: $background;
 
   &:hover{
   opacity: 0.7;
@@ -62,5 +62,15 @@
   background-color: $bg-color;
   float: $float;
 }
+
+//responsive background image
+//@mixin background-image($bg-mobile, $bg-desktop){
+//  background:$white url('$bg-mobile') no-repeat center;
+//  background-size: 100%;
+//  width: 100%;
+//  @media screen and (min-width: $breakpoint-medium){
+//    background:$white url('$bg-desktop') no-repeat center;
+//  }
+//}
 
 

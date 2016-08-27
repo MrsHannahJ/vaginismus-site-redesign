@@ -2,8 +2,41 @@
 // This file contains all styles related to the banner-image component.
 // -----------------------------------------------------------------------------
 
-.banner-image, .top-banner-image{
+//IMG BANNERS
+.banner-image{
   background-repeat: no-repeat;
   background-size: 100%;
   width:100%;
+  background-position: center;
+}
+
+//HERO BANNERS
+.hero-banner-image{
+  background-repeat: no-repeat;
+  background-size: auto;
+  width:100%;
+  background-position: center;
+}
+
+.hero-text{
+  text-align: center;
+  line-height: 1.5;
+  padding: 3% 0;
+  h2{
+    font-size: 18px;
+    text-align:left;
+  }
+  @media screen and (min-width: $breakpoint-medium){
+    text-align: left;
+    width: 50%;
+    h2{
+      font-size: 20px;
+    }
+  }
+}
+.hero-text-right{
+  @extend .hero-text;
+  @media screen and (min-width: $breakpoint-medium){
+    float: right;
+  }
 }

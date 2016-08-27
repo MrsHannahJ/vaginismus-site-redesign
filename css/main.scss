@@ -27,11 +27,13 @@
 @import
   'components/button',
   'components/text-block',
+  'components/call-out',
   'components/banner-image';
 
 // 6. Page-specific styles
 @import
-  'pages/home';
+  'pages/home',
+  'pages/symptoms';
 
 // 7. Themes
 @import

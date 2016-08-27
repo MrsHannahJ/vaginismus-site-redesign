@@ -1,0 +1,30 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the symptoms page.
+// -----------------------------------------------------------------------------
+@import
+  '../abstracts/variables';
+
+#symptoms{
+
+/*---------HERO---------------*/
+  .hero-banner-image{
+    background: url(../../img/symptoms-header-mobile-en.jpg);
+    @media screen and (min-width: 768px){
+      background: url(../../img/symptoms-header-en.jpg);
+    }
+  }
+  
+  #primary-secondary{
+    background: url(../../img/v-background.jpg);
+  }
+  
+
+  
+  
+  
+  
+/*---------PRE-FOOTER NAV---------------*/
+  .pre-footer-nav{
+  background-color: $gray-background;
+  }
+}
