@@ -5,7 +5,7 @@
 
 /*---------HERO---------------*/
 .hero-banner-image{
-background-image: url(../img/header-mobile.jpg);
+background-image: url(../../img/home/home-header-mobile.jpg);
   .icon-check:before{
     font-size: 18px;
     font-size: 1.125rem;
@@ -13,7 +13,7 @@ background-image: url(../img/header-mobile.jpg);
 
 //TABLET
   @media screen and (min-width: $breakpoint-medium){
-    background-image: url(../img/home-header-en.png);
+    background-image: url(../../img/home/home-header-en.png);
     .hero-text-right{
        width: 45%;
       i{
@@ -199,7 +199,7 @@ background-image: url(../img/header-mobile.jpg);
       text-align: left;
     }
     .highlighted-content-1{
-      background-image: url(../img/books-stacked.jpg);
+      background-image: url(../../img/home/home-languages.jpg);
       .btn-container{
         padding-top: 2%;
       }
@@ -218,13 +218,13 @@ background-image: url(../img/header-mobile.jpg);
       }
     }
     .highlighted-content-2{
-      background-image: url(../img/bg-community-desktop.jpg);
+      background-image: url(../../img/home/home-community.jpg);
     }
     .highlighted-content-3{
-      background-image: url(../img/Vaginal-Atrophy-new2.jpg);
+      background-image: url(../../img/home/home-atrophy.jpg);
     }
     .highlighted-content-4{
-      background-image: url(../img/bg-stories1.jpg);
+      background-image: url(../../img/home/home-pregnancy.jpg);
     }
     .highlighted-content-2 .hc-text, .highlighted-content-4 .hc-text{
       float: right;
@@ -236,7 +236,7 @@ background-image: url(../img/header-mobile.jpg);
 
 #reviews{
   padding-bottom: 0;
-  background: url(../img/White-Wood-bkgd.jpg);
+  background: url(../../img/white-wood-bkgd.jpg);
   background-size: cover;
   text-align: center;
   h2{
