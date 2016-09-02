@@ -5,8 +5,8 @@
 //IMG BANNERS
 .banner-image{
   background-repeat: no-repeat;
-  background-size: 100%;
-  width:100%;
+  background-size: contain;
+//  width:100%;
   background-position: center;
 }
 
@@ -14,7 +14,7 @@
 .hero-banner-image{
   background-repeat: no-repeat;
   background-size: auto;
-  width:100%;
+//  width:100%;
   background-position: center;
 }
 
