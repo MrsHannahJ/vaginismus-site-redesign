@@ -461,6 +461,12 @@
       ]
     },
     {
+      "uid": "a58032f4aafd0eec54803075f5b320d4",
+      "css": "email",
+      "code": 59426,
+      "src": "zocial"
+    },
+    {
       "uid": "53f6a2c397e5353d1fc069c3360dc9c9",
       "css": "arrow_up",
       "code": 33,

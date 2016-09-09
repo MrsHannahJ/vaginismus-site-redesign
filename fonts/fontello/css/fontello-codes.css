@@ -33,6 +33,7 @@
 .icon-icon_documents:before { content: '\e81f'; } /* '' */
 .icon-arrow_carrot-left:before { content: '\e820'; } /* '' */
 .icon-arrow_carrot-right:before { content: '\e821'; } /* '' */
+.icon-email:before { content: '\e822'; } /* '' */
 .icon-info-circled-alt:before { content: '\f086'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-facebook:before { content: '\f09a'; } /* '' */
