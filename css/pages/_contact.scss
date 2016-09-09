@@ -73,7 +73,7 @@
   }
   #contact #captcha span{
     width: 40px;
-    font-size: 18px;
+    @include font-size(18px);
 
   }
   #contact #captcha input{
@@ -107,7 +107,7 @@
   }
 
   p{
-    font-size: 14px;
+    @include font-size(14px);
   }
    
 

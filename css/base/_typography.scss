@@ -12,58 +12,49 @@ html{
 
 body {
   font-family: $base;
-  font-size: 16px;
-  font-size: 1rem;
+  @include font-size(16px);
   line-height: 1.4;
 }
 
 h1{
-  font-size:32px;
-  font-size: 2rem;
+  @include font-size(32px);
   color: $brand;
   font-family: $accent-font-rare;
+  font-style: normal;
+  font-weight: normal;
   text-align: center;
   @media screen and (min-width: 980px){
-    font-size:52px;
-    font-size: 3.25rem;
+    @include font-size(52px);
   }
 }
 h2{
-  font-size:24px;
-  font-size: 1.5rem;
+  @include font-size(24px);
   font-family: $accent-font-common;
   font-weight: 500;
   padding-top: 1rem;
   @media screen and (min-width: 980px){
-    font-size:40px;
-    font-size: 2.5rem;
+    @include font-size(40px);
   }
 }
 h3{
-  font-size:22px;
-  font-size: 1.375rem;
+  @include font-size(22px);
   font-family: $accent-font-common;
   @media screen and (min-width: 980px){
-    font-size:24px;
-    font-size: 1.5rem;
+    @include font-size(24px);
   }
 }
 h4{
-  font-size:20px;
-  font-size: 1.25rem;
+  @include font-size(20px);
 }
 p{
-  font-size:18px;
-  font-size: 1.125rem;
+  @include font-size(18px);
   line-height: 1.3;
 }
 a{
-  font-size:18px;
-  font-size: 1.125rem;
+  @include font-size(18px);
 }
 li{
-  font-size:16px;
-  font-size: 1rem;
+  @include font-size(16px);
   line-height: 1.3;
 }
 
