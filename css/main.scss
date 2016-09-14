@@ -21,7 +21,8 @@
 @import
   'layout/grid',
   'layout/header',
-  'layout/footer';
+  'layout/footer',
+  'layout/sidebar';
 
 // 5. Components
 @import
@@ -36,6 +37,8 @@
 @import
   'pages/home',
   'pages/symptoms',
+  'pages/faq',
+  'pages/faq-questions',
   'pages/contact';
 
 // 7. Themes

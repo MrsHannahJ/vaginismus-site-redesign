@@ -1,0 +1,64 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to all the faq pages.
+// -----------------------------------------------------------------------------
+@import '../abstracts/variables';
+@import '../abstracts/mixins';
+
+.faq-question{
+  section{
+    margin-top: 2rem;
+    border-right: 2px solid $light-gray-background;
+    line-height: 1.4;
+  h1{
+   @include font-size(32px);
+   padding-bottom: 1rem;
+   font-weight: 500;
+  }
+  audio{
+    width: 100%;
+    margin: 0.25rem 0 1rem 0;
+  }
+  a{
+    font-weight: 600;
+  }
+  figure{
+    text-align: center;
+  }
+  h3, h4{
+    text-align: left;
+    font-family: $accent-font-common;
+    @include font-size(24px);
+    padding: 1.5rem 0 0.25rem 0;
+  }
+  p{
+    @include font-size(19px);
+    padding-bottom: 1rem;
+    font-weight:400;
+  }
+  hr{
+    color: $light-gray-text;
+    opacity: .5;
+    margin: 1rem 0;
+  }
+  ul li{
+    list-style: disc;
+  }
+  .see-also{
+    ul{
+    margin-left: 3rem;
+      li{
+        padding-bottom: 1.5rem;
+        &:first-child{
+          padding-top:1rem;
+        }
+      }
+    }
+  }
+    .img-50{
+      width: 50%
+    }
+    
+    
+  }
+  
+}

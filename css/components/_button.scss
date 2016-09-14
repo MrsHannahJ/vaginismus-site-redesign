@@ -23,3 +23,9 @@ a.white-btn {
   @extend %button;
   @include button-theme($dark-gray-text);
 }
+
+.shaded-btn {
+  @extend %button;
+  @include button-theme($dark-gray-text, $light-gray-background);
+  border:none;
+}

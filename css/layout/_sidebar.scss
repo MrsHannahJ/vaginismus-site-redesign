@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the sidebar of the site.
+// -----------------------------------------------------------------------------
+@import '../abstracts/variables';
+@import '../abstracts/mixins';
+
+/*-------------SIDEBAR---------------*/
+
+aside{
+  margin-top: 2rem;
+  h2{
+    @include font-size(28px);
+    margin: 3rem 0 1rem 0;
+    font-weight: 600;
+  }
+  a{
+    color: $light-gray-text;
+    @include font-size(20px);
+    font-weight: 600;
+    font-family: $sans;
+  }
+  
+  i, .active{
+    color: $brand;
+  }
+  i:before{
+    font-size: 16px;
+  }
+  ul li{
+    list-style: none;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+  }
+  .shaded-btn{
+    border-radius: 0;
+    @include font-size(16px);
+    display: block;
+    text-align: center;
+  }
+
+}

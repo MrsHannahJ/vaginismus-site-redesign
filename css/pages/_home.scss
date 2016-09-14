@@ -6,35 +6,37 @@
 /*---------HERO---------------*/
 .hero-banner-image{
   background-image: url("../img/home/home-header-mobile.jpg");
-
+  h1{
+    font-family: $accent-font-rare
+  }
   
   .icon-check:before{
     @include font-size(18px);
   }
-   .quick-links{
-  display: block;
-  vertical-align: bottom;
-  text-indent: -10px;
-  line-height: 2.5em;
-  padding: 0 0 0 1rem;
-  margin-top: 1rem;
-   form, select, option{
-     font-family: $sans;
-     @include font-size(14.4px);
-     color: $light-gray-text;
+  .quick-links{
+    display: block;
+    vertical-align: bottom;
+    text-indent: -10px;
+    line-height: 2.5em;
+    padding: 0 0 0 1rem;
+    margin-top: 1rem;
+    form, select, option{
+      font-family: $sans;
+      @include font-size(14.4px);
+      color: $light-gray-text;
    }
-     select{
-       width: 150px; 
-       height: 1.7rem;
-     }
-   input{
-     background: $brand;
-     padding:  0.2rem 0.5rem;
-     border-radius: 5px;
-     color: $white;
-     font-weight: 600;
-     cursor: pointer;
-   }
+    select{
+      width: 150px; 
+      height: 1.7rem;
+    }
+    input{
+      background: $brand;
+      padding:  0.2rem 0.5rem;
+      border-radius: 5px;
+      color: $white;
+      font-weight: 600;
+      cursor: pointer;
+    }
 
   }
 
