@@ -1,64 +1,122 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to all the faq pages.
 // -----------------------------------------------------------------------------
-@import '../abstracts/variables';
-@import '../abstracts/mixins';
 
 .faq-question{
+
   section{
     margin-top: 2rem;
-    border-right: 2px solid $light-gray-background;
     line-height: 1.4;
-  h1{
-   @include font-size(32px);
-   padding-bottom: 1rem;
-   font-weight: 500;
-  }
-  audio{
-    width: 100%;
-    margin: 0.25rem 0 1rem 0;
-  }
-  a{
-    font-weight: 600;
-  }
-  figure{
-    text-align: center;
-  }
-  h3, h4{
-    text-align: left;
-    font-family: $accent-font-common;
-    @include font-size(24px);
-    padding: 1.5rem 0 0.25rem 0;
-  }
-  p{
-    @include font-size(19px);
-    padding-bottom: 1rem;
-    font-weight:400;
-  }
-  hr{
-    color: $light-gray-text;
-    opacity: .5;
-    margin: 1rem 0;
-  }
-  ul li{
-    list-style: disc;
-  }
-  .see-also{
+
+    h1{
+     @include font-size(28px);
+     padding-bottom: 1rem;
+     font-weight: 500;
+    }
+    audio{
+      width: 100%;
+      margin: 0.25rem 0 1rem 0;
+    }
+    a{
+      font-weight: 600;
+    }
+    figure{
+      text-align: center;
+      margin: 1rem 0;
+      figcaption p, figcaption h3{
+        text-align: center;
+      }
+    }
+    h3{
+      text-align: left;
+      font-family: $accent-font-common;
+      @include font-size(24px);
+      padding: 1.5rem 0 0.25rem 0;
+    }
+    p{
+      @include font-size(19px);
+      padding-bottom: 1rem;
+      font-weight:400;
+      text-align: justify;
+    }
+    hr{
+      color: $light-gray-text;
+      opacity: .5;
+      margin: 1rem 0;
+    }
+
     ul{
-    margin-left: 3rem;
+      margin-left: 1rem;
       li{
+        @include font-size(19px);
+        list-style: disc;
         padding-bottom: 1.5rem;
         &:first-child{
           padding-top:1rem;
         }
       }
     }
-  }
-    .img-50{
-      width: 50%
+    ol{
+      margin-left: 1rem;
+      padding: 0.5rem 0;
+      li{
+        list-style: upper-roman;
+        text-indent: 0.5rem;
+        padding-bottom: 1rem;
+      }
+    }
+    table{
+      margin: 1rem auto;
+
+    }
+    table, th {
+      @include font-size(19px);
+      
+    }
+    th{
+      font-weight: bold;
+      padding: 1rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+    }
+    thead tr:nth-child(2) th{
+      padding: 0.5rem;
+      text-align: left;
+    }
+    td{
+      padding: 0.5rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+      &:first-child{
+      width: 30%;
+      padding-right: 1rem;
+      }
+    }
+    .treatment-rate-table td:first-child{
+      font-weight:bold;
     }
     
-    
+//TABLET
+    @media screen and (min-width:$breakpoint-medium){
+      h1{
+       @include font-size(32px);
+      }
+      ul{
+        margin-left: 3rem;
+      }
+      .img-50{
+        width: 50%
+      }
+    }
   }
+//DESKTOP
+    @media screen and (min-width:$breakpoint-large){
+      section{
+        border-right: 2px solid $light-gray-background;
+      }
+      .long-side section{
+        border-right:none;
+      }
+    }
   
 }

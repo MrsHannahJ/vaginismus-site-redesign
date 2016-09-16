@@ -1,16 +1,13 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the sidebar of the site.
 // -----------------------------------------------------------------------------
-@import '../abstracts/variables';
-@import '../abstracts/mixins';
 
 /*-------------SIDEBAR---------------*/
 
 aside{
-  margin-top: 2rem;
   h2{
     @include font-size(28px);
-    margin: 3rem 0 1rem 0;
+    margin: 0 0 1rem 0;
     font-weight: 600;
   }
   a{
@@ -33,9 +30,29 @@ aside{
   }
   .shaded-btn{
     border-radius: 0;
+    padding: 1rem;
     @include font-size(16px);
     display: block;
     text-align: center;
+    margin-top: 0.5rem;
   }
 
+//DESKTOP
+  @media screen and (min-width:$breakpoint-large){
+    margin-top: 3rem;
+    
+    ul li{
+      margin-left: 0;
+    }
+    h2{
+    margin: 3rem 0 1rem 0;
+    }
+    
+  }
+}
+//to make the long sidebar have a border when the section is short
+@media screen and (min-width:$breakpoint-large){
+  .long-side aside{
+    border-left: 2px solid $light-gray-background;
+  }
 }
