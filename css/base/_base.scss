@@ -112,6 +112,9 @@ img{
 //.grow { transition: all .2s ease-in-out; }
 //.grow:hover { transform: scale(1.1); }
 
-
+.outline{
+  border: 1px solid $light-gray-text;
+  padding: 1.5rem;
+}
 
 

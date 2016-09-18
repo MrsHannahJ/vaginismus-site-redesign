@@ -1,0 +1,47 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the resources page.
+// -----------------------------------------------------------------------------
+@import
+  '../abstracts/variables',
+  '../abstracts/functions',
+  '../abstracts/mixins';
+
+#resources{
+  
+
+/*---------HERO---------------*/
+  #hero{
+    background-image: url(../img/resources/resources-hero.jpg);
+    .hero-text-right{
+      background: $white;
+//      opacity: .9;
+    }
+//MOBILE ONLY
+    @media screen and (max-width: $breakpoint-medium){
+      h3{
+        @include font-size(26px);
+      }
+    }
+    
+    }
+
+
+  
+/*---------MAIN---------------*/
+  main{
+    ul li{
+      list-style: disc;
+      padding: 1rem 0;
+    }
+    #resource-links{
+      
+      @media screen and (max-width: $breakpoint-medium){
+        h2{
+          text-align: left;
+        }
+      }
+    }
+  }
+
+
+}

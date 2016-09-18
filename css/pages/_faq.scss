@@ -28,10 +28,7 @@
     h2{
       @include font-size(24px);
     }
-  //TABLET
-  @media screen and (min-width: $breakpoint-medium){
-    
-  }
+
 //DESKTOP
   @media screen and (min-width: $breakpoint-large){
     h1{
@@ -47,11 +44,14 @@
   
 /*---------MAIN---------------*/
   main{
-    h2{
-      
-    }
+    
     #general-faq .large-8, #dilator-faq .large-8, #customer-service-faq .large-8{
       float: right;
+    }
+    #general-faq, #dilator-faq, #pregnancy-faq{
+      h2{
+        padding-bottom: 1rem;
+      }
     }
     ul{
       margin-left: 5%;
@@ -111,6 +111,9 @@
     
 //DESKTOP
     @media screen and (min-width: 980px){
+      a{
+        @include font-size(20px);
+      }
       #general-faq{
         background-image:url(../img/faq/faq-general.jpg);
         h2{
