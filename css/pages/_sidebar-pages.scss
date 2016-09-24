@@ -131,6 +131,103 @@
     }
 
     
+//For Press and Blog Pages
+    .article-title{
+      text-align: left;
+    }
+    .article-preview{
+      padding-top: 0;
+    }
+    h2 a{
+      @include font-size(24px);
+      color: $dark-gray-text;
+    }
+
+//For Pages with Comments
+    #comments{
+      ul{
+        margin-left: 0;
+      }
+      p{
+        padding-top:0;
+        padding-bottom: 0.25rem;
+      }
+    }
+    .comment-list{
+
+      li{
+        list-style-type: none;
+        background: $white;
+        border: 1px solid $light-gray-background;
+        padding: 0.5rem;
+        margin: 1rem 0;
+        -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+        -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+        box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      }
+      p{
+        @include font-size(16px);
+      }
+      .comment-name{
+        font-weight: bold;
+      }
+    }
+    
+//For Blog Pages
+    .blog-article{
+      margin-top: 1rem;
+      ol li{
+        list-style: decimal;
+        text-indent: 0;
+        @include font-size(19px);
+      }
+    }
+    
+    p.blog-meta, .blog-meta a{
+      @include font-size(16px);
+      padding: 0;
+//      text-align: center;
+    }
+//For Review Pages
+    .review{
+      border: 1px solid $light-gray-background;
+      padding: 0.5rem;
+      -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      margin-bottom: 1.5rem;
+    }
+    .review-body{
+      p:last-child{
+        padding-bottom:0.5rem;
+      }
+      h2{
+        padding-top: 0;
+        font-weight: bold;
+        text-align: left;
+        color: $dark-gray-text;
+        
+        &:before{
+          content: '\e811';
+          font-family: 'fontello';
+          font-size: 24px;
+          display:block;
+          text-align: center;
+          color: $brand;
+        }
+      }
+      
+    }
+    .review-author{
+      p{
+        @include font-size(16px);
+        text-align: right;
+        padding: 0;
+        opacity: 0.8;
+      }
+    }
+    
+    
 //MOBILE AND TABLET ONLY
     @media screen and (max-width: $breakpoint-medium){
       .shipping-rates{
@@ -215,7 +312,28 @@
       .img-50{
         width: 50%
       }
+      //For Pages with Comments
+    #comments{
+      ul{
+        margin-left: 0;
+      }
+      p{
+        padding-top:0;
+        padding-bottom: 0.25rem;
+      }
     }
+    .comment-list{
+      background: $light-gray-background;
+      padding: 0.5rem;
+      li{
+        margin: 1rem;
+        
+      }
+
+    }
+    
+      
+  }
   }
 //DESKTOP
     @media screen and (min-width:$breakpoint-large){

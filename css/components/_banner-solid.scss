@@ -1,5 +1,6 @@
 .grad1 {
   color: $white;
+  text-align: center;
   
   background: #4eb3b3;
   /* For browsers that do not support gradients */
@@ -15,4 +16,10 @@
   
   background: linear-gradient(45deg, $brand-light, $brand);
   /* Standard syntax (must be last) */
+  
+  a{
+    color: $white;
+    font-weight: bold;
+    text-decoration: underline;
+  }
 }
