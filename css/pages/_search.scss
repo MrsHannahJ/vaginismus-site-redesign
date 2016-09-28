@@ -1,0 +1,17 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the search and 404 pages.
+// -----------------------------------------------------------------------------
+
+.search-page{
+  .search-bar{
+    min-height: 500px;
+    text-align: center;
+  }
+  #site-map{
+    h2, h3, a{
+      text-align: left;
+      text-decoration: none;
+    }
+  }
+  
+}

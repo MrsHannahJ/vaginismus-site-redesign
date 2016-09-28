@@ -1,4 +1,5 @@
 .grad1 {
+  
   color: $white;
   text-align: center;
   
@@ -17,9 +18,13 @@
   background: linear-gradient(45deg, $brand-light, $brand);
   /* Standard syntax (must be last) */
   
+  h1, h2, h3{
+    color: $white;
+    text-align: center;
+  }
+  
   a{
     color: $white;
     font-weight: bold;
-    text-decoration: underline;
   }
 }

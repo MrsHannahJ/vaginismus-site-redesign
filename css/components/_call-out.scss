@@ -5,11 +5,15 @@
 .call-out{
   border-bottom: 4px solid $brand;
   border-top: 4px solid $brand;
-  padding: 10% 5%;
+  padding: 5%;
   p{
-    font-size: 32px;
-    font-size: 2rem;
+    @include font-size(20px);
     font-family: $sans;
     font-weight: 300;
+    word-wrap: break-word;
   }
+}
+
+.did-you-know{
+  
 }

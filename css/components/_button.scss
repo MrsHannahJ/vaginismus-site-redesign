@@ -14,7 +14,7 @@
   border-radius: 5px;
 }
 
-a.white-btn {
+.white-btn {
   @extend %button;
   @include button-theme($white);
 }
@@ -28,4 +28,11 @@ a.white-btn {
   @extend %button;
   @include button-theme($dark-gray-text, $light-gray-background);
   border:none;
+  font-family: $accent-font-common;
+}
+
+.brand-btn{
+  @extend %button;
+  @include button-theme($brand);
+  font-family: $accent-font-common;
 }
