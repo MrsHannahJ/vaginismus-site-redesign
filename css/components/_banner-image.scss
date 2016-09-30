@@ -12,18 +12,26 @@
 
 //HERO BANNERS
 .hero-banner-image{
+  padding: 0;
   background-repeat: no-repeat;
-  padding: 5%;
   background-size: cover;
   background-repeat: no-repeat;
-
+  @media screen and (min-width: $breakpoint-medium){
+    padding: 5%;
+  }
+}
+section .hero-banner-image{
+  padding: 0;
+}
 .hero-text{
   text-align: center;
   line-height: 1.5;
-  padding: 3% 0;
+//  padding: 3% 0;
   h2{
-    font-size: 18px;
-    text-align:left;
+    @include font-size(18px);
+  }
+  h3{
+    @include font-size(18px);
   }
   @media screen and (min-width: $breakpoint-medium){
     text-align: left;

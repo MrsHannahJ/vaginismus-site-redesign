@@ -4,13 +4,22 @@
 
 .search-page{
   .search-bar{
-    min-height: 500px;
+    min-height: 200px;
     text-align: center;
+    h1{
+      padding: 3rem 0;
+    }
   }
   #site-map{
     h2, h3, a{
       text-align: left;
       text-decoration: none;
+    }
+    h2{
+      @include font-size(22px);
+    }
+    h3{
+      @include font-size(18px);
     }
   }
   

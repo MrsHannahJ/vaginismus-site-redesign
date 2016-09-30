@@ -31,13 +31,19 @@
   'components/call-out',
   'components/pre-footer-nav',
   'components/banner-solid',
+  'components/parallax-background',
   'components/banner-image';
 
 // 6. Page-specific styles
 @import
   'pages/home',
   'pages/symptoms',
+  'pages/causes',
+  'pages/stories',
+  'pages/diagnosis',
+  'pages/treatment',
   'pages/faq',
+  'pages/reviews',
   'pages/sidebar-pages',
   'pages/product-pages',
   'pages/resources',
