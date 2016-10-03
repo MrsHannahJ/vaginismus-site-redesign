@@ -35,10 +35,10 @@
 
 </head>
 
-<body>
+<body id="forum-intro">
   
   <div id="page-container">
-        <header>
+    <header>
       <div class="wrapper">
         <h1 class="visually-hidden">Vaginismus.com</h1>
 <!--    icons-->
@@ -97,7 +97,7 @@
 				<li><a href="../reviews/index.html">Reviews</a></li>
 			</ul>
 		</li>
-		<li>
+		<li class="active">
 			<a href="#" aria-haspopup="true">Support<i class="icon-arrow_carrot-down"></i></a>
 			<ul>
 				<li><a href="../faq/index.html">FAQs</a></li>
@@ -199,28 +199,35 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
+      <img src="../img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum introduction">
       <div class="wrapper">
         <div class="large-12 medium-12">
           <div class="hero-text-right">
             <h1>Join Thousands of Women Helping Each Other Grow</h1>
-            <p>Find friendship, support, and healing in the Vaginismus Private Forum with thousands of members from all over the world—growing together.</p>
-            <h3>Log In</h3>
+            <h3>Find friendship, support, and healing in the Vaginismus Private Forum with thousands of members from all over the world—growing together.</h3>
+            <h2>Log In</h2>
 <!--    NEED TO REWORK FORM    -->
-            <form title="Enter your username and password to login to the Vaginismus Private Forums">Username:</p>
-            <div id="forum_login"><input id="username" class="field" maxlength="40" name="username" type="text" value="" />
+            <form title="Enter your username and password to login to the Vaginismus Private Forums">
+            <div id="forum_login">
+              <p>Username:</p>
+              <input id="username" class="field" maxlength="40" name="username" type="text" value="" />
             </div>
-            <div>Password: <a href="#">Forgot?</a></div>
             <div id="fpw">
-            <p><input id="password" class="field" maxlength="32" name="password" type="password" value="" /></p>
-            <p><input class="mainoption" height="18px" name="login" src="https://www.vaginismus.com/wp-content/themes/v3/inc/img/btn_login.gif" type="submit" value="Log in" width="48px" /><br /> <input name="autologin" type="hidden" /><br />                          <input name="redirect" type="hidden" value="" /></p>
-           </div>
+              <p>Password: <a href="#">Forgot?</a></p>
+              <input id="password" class="field" maxlength="32" name="password" type="password" value="" />
+              <input name="login" type="submit" value="Log in" />
+              <input name="autologin" type="hidden" />
+              <input name="redirect" type="hidden" value="" />
+            </div>
+            </form>
+          </div>
         </div>
       </div>
     </section>
       
 <!--      PRIVATE FORUM SECTION      -->
 
-    <section>
+    <section id="private-forum">
       <div class="wrapper">
         <div class="large-4">
           <h2>Our Private Forum</h2>
@@ -239,17 +246,17 @@
     <section class="grad1">
       <div class="wrapper">
         <div class="large-4">
-          <img src="" alt="">
+          <img src="../img/icons/treatment.png" alt="newcomers welcome" aria-hidden="true">
           <h2>Newcomers Welcome</h2>
           <p>Any woman who joins the forum can feel free to post her questions or concerns anonymously by using the screen name of her choice. Some women silently read the posts of others for encouragement and some become active participants in the many encouraging thread discussions.</p>
         </div>
         <div class="large-4">
-          <img src="" alt="">
+          <img src="../img/icons/treatment.png" alt="live chat" aria-hidden="true">
           <h2>Live Chat</h2>
           <p>The forum also has a chat room for women to connect on a more personal level. Women from around the world with vaginismus can chat about their lives or ask questions about treatment. We find that even in anonymity, as women begin to open up about their problem, they become more positive about the condition of vaginismus because they no longer feel as isolated.</p>
         </div>
         <div class="large-4">
-          <img src="" alt="">
+          <img src="../img/icons/treatment.png" alt="you are not alone" aria-hidden="true">
           <h2>You&#8217;re Not Alone</h2>
           <p>The forum is driven by women helping other women and moderators are available for technical and emotional support concerning vaginismus treatment. It is our desire that this will be a safe place of hope, encouragement, knowledge, inspiration, friendship and healing as women work through the<strong> <a href="../products/vaginismus-treatment-kit/index.html">self-help</a></strong> program together at the same time.</p>
         </div>
@@ -258,7 +265,7 @@
        
 <!--      NETWORK OF SUPPORT SECTION      -->
     
-    <section>
+    <section class="forum-testimonials">
       <h2>A Network of Support with Encouragement &amp; Real Answers</h2>
       <div class="wrapper">
         <div class="large-4">
@@ -275,23 +282,35 @@
           </ul>
         </div>
         <div class="large-4">
-          <div>
-            <p><strong>I am so glad to have this forum! </strong>Thank you all for your suggestions and thoughts and thanks mostly for YOUR SUPPORT. I am so glad to have this forum where I know I am not alone.</p><strong>Anonymous</strong>
-            <p>Private Forum User</p>
+          <div class="testimonial outer-shadow-dark">
+            <img src="../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <div class="testimonial-text">
+              <p><strong>I am so glad to have this forum! </strong>Thank you all for your suggestions and thoughts and thanks mostly for YOUR SUPPORT. I am so glad to have this forum where I know I am not alone.</p>
+              <p><strong>Anonymous</strong><br />Private Forum User</p>
+            </div>
           </div>
-          <div>
-            <p><strong>I cannot believe I found this! </strong>I look forward with hope to the encouragement, prayers and support from the wonderful women in this forum. With your help, I know I&#8217;ll soon overcome vaginismus. Discovering this site, learning about the kit, and reading through forum posts have been a God-send.</p><strong>Anonymous</strong>
-            <p>Private Forum User</p>
+          <div class="testimonial outer-shadow-dark">
+            <img src="../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <div class="testimonial-text">
+              <p><strong>I cannot believe I found this! </strong>I look forward with hope to the encouragement, prayers and support from the wonderful women in this forum. With your help, I know I&#8217;ll soon overcome vaginismus. Discovering this site, learning about the kit, and reading through forum posts have been a God-send.</p>
+              <p><strong>Anonymous</strong><br />Private Forum User</p>
+            </div>
           </div>
         </div>
         <div class="large-4">
-          <div>
-            <p><strong>Fantastic support! </strong>It was hard to beat vaginismus before I found out about this forum but now I’m finally making progress … it’s a fantastic support and motivates me like little else!</p><strong>Anonymous</strong>
-            <p>Private Forum User</p>
+          <div class="testimonial outer-shadow-dark">
+            <img src="../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <div class="testimonial-text">
+              <p><strong>Fantastic support! </strong>It was hard to beat vaginismus before I found out about this forum but now I’m finally making progress … it’s a fantastic support and motivates me like little else!</p>
+              <p><strong>Anonymous</strong><br />Private Forum User</p>
+            </div>
           </div>
-          <div>
-            <p><strong>We have started practicing the real thing!</strong> It took me a long time to get started due to lack of time and because I felt that my case wasn’t serious. The program and forum has definitely helped a lot! I wouldn’t know how else to deal with this. Thank you for all the effort you put into helping women find a cure.</p><strong>Anonymous</strong>
-            <p>Private Forum User</p>
+          <div class="testimonial outer-shadow-dark">
+            <img src="../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <div class="testimonial-text">
+              <p><strong>We have started practicing the real thing!</strong> It took me a long time to get started due to lack of time and because I felt that my case wasn’t serious. The program and forum has definitely helped a lot! I wouldn’t know how else to deal with this. Thank you for all the effort you put into helping women find a cure.</p>
+              <p><strong>Anonymous</strong><br />Private Forum User</p>
+            </div>
           </div>
         </div>
       </div>
@@ -314,9 +333,9 @@
      </section>
           
 <!--      HUSBANDS SECTION      -->
-    <section>
+    <section class="spouses-allowed">
       <div class="wrapper">
-        <div class="large-6">
+        <div class="large-6 opaque-box">
           <h2>Are Spouses Allowed?</h2>
           <p>Yes, spouses are allowed. It is often helpful for spouses to educate themselves about vaginismus and to have a place where they can ask questions and find support if desired. We have created an area in the forum reserved for spouses and partners.</p>
           <p>NOTE: Spouses will need their own separate email address to create a username (two usernames cannot share the same address). Also, spouses should note that they need to follow forum guidelines for acceptable posts.</p>
@@ -367,7 +386,7 @@ SCROLL TO TOP FEATURE
       </div>
 
     </footer>
- 
+  </div>
 </body>
 
 </html>

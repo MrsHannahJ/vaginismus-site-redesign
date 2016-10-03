@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------
-// This file contains all styles related to the call-out and did you know components.
+// This file contains all styles related to the call-out, testimonial and did you know components.
 // -----------------------------------------------------------------------------
 
 .call-out{
@@ -15,6 +15,31 @@
   }
 }
 
+//TESTIMONIALS aka-QUOTE BOXES
+
+  .testimonial{
+    width: 95%;
+    margin: 0 auto;
+    padding: 1rem;
+    background:white;
+    position: relative;
+    p{
+      line-height: 1.2;
+    }
+  }
+  .testimonial-text{
+    padding: 5% 2%;
+  }
+  .quotes{
+    position: absolute;
+    top: -15px;
+    left: 45%;
+    z-index: 999;
+    width: 32px;
+  }
+
+
+//DID YOU KNOW LIGHT BULB BOXES
 
 .did-you-know{
   background: $light-gray-background;

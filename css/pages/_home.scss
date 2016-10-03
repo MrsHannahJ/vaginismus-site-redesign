@@ -5,7 +5,7 @@
 
 /*---------HERO---------------*/
 .hero-banner-image{
-  background-image: url("../img/home/home-header-mobile.jpg");
+//  background-image: url("../img/home/home-header-mobile.jpg");
   h1{
     font-family: $accent-font-rare
   }
@@ -26,7 +26,7 @@
       color: $light-gray-text;
    }
     select{
-      width: 150px; 
+      width: 145px;
       height: 1.7rem;
     }
     input{
@@ -39,18 +39,30 @@
     }
 
   }
+//MOBILE ONLY
+  @media screen and (max-width: 767px){
+    img{margin-bottom: 0}
+  }
 
-//TABLET
+//TABLET ONLY
+  @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+    background-image: url("../img/home/home-hero-tablet.jpg");
+    background-position: bottom;
+  }
+//TABLET AND UP
   @media screen and (min-width: $breakpoint-medium){
-    background-image: url("../img/home/home-header-en.png");
-
+    
+    background-size: cover;
     .hero-text-right{
-       width: 45%;
+      width: 45%;
+//      padding: 1rem;
       i{
         padding-right: 10px;
       }
       h1{
-        text-align: left;
+//        text-align: left;
+        line-height: 1;
+        padding-bottom: 0.5rem;
       }
       li{
         line-height: 1.5;
@@ -60,8 +72,11 @@
   }
 //DESKTOP
   @media screen and (min-width: $breakpoint-large){
+    background-image: url("../img/home/home-header-en.jpg");
+    background-position: right;
+//    padding: 10% 0;
     .hero-text-right{
-       width: 40%;
+       width: 43%;
       li{
         @include font-size(17px);
       }
@@ -81,9 +96,13 @@
   a{
     padding: 0.25rem 1rem;
   }
+  //MOBILE ONLY
+  @media screen and (max-width: 767px){
+    margin-top: -0.5rem;
+  }
 }
 //TABLET
-@media screen and (min-width: 768px){
+@media screen and (min-width: $breakpoint-medium){
   .vaginismus-banner{
     height: 48px;
     height: 3rem;
@@ -112,7 +131,7 @@
     font-family: $accent-font-common;
   }
 //TABLET
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: $breakpoint-medium){
     h3{
       max-width: 160px;
       @include font-size(15.2px);
@@ -151,13 +170,14 @@
   }
   a{
     color: $white;
+    text-decoration: underline;
   }
 //TABLET
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: $breakpoint-medium){
     padding: 1rem 0;
   }
 //DESKTOP
-  @media screen and (min-width: 980px){
+  @media screen and (min-width: $breakpoint-large){
     #what-is-vaginismus{
       img{
         width: 50%;
@@ -171,6 +191,14 @@
 #highlighted-content{
   text-align: center;
   padding: 0;
+  h2{
+    color: $dark-gray-text;
+    @include font-size(24px);
+  }
+  h3{
+    color: $dark-gray-text;
+    @include font-size(20px);
+  }
   img{
     padding-bottom: 10%;
   }
@@ -185,7 +213,7 @@
 }
 
 //TABLET
-@media screen and (min-width: 768px){
+@media screen and (min-width: $breakpoint-medium){
   #highlighted-content{
     margin: 5% 0 10%; 
     img{
@@ -215,7 +243,7 @@
 }
 
 //DESKTOP
-@media screen and (min-width: 980px){
+@media screen and (min-width: $breakpoint-large){
   #highlighted-content{
     margin: 0;
     padding: 0;
@@ -224,6 +252,8 @@
     }
     .highlighted-content-1{
       background: url('../img/home/home-languages.jpg');
+      background-position: right;
+//      max-height: 600px;
       .btn-container{
         padding-top: 2%;
       }
@@ -266,35 +296,35 @@
   h2{
     padding-bottom: 1rem;
   }
-  .testimonial{
-    width: 95%;
-    margin: 0 auto;
-    padding: 1rem;
-    background:white;
-    position: relative;
-    p{
-      line-height: 1.2;
-    }
-  }
-  .testimonial-text{
-    padding: 5% 2%;
-  }
-  .quotes{
-    position: absolute;
-    top: -15px;
-    left: 45%;
-    z-index: 999;
-    width: 32px;
-  }
+//  .testimonial{
+//    width: 95%;
+//    margin: 0 auto;
+//    padding: 1rem;
+//    background:white;
+//    position: relative;
+//    p{
+//      line-height: 1.2;
+//    }
+//  }
+//  .testimonial-text{
+//    padding: 5% 2%;
+//  }
+//  .quotes{
+//    position: absolute;
+//    top: -15px;
+//    left: 45%;
+//    z-index: 999;
+//    width: 32px;
+//  }
 //DESKTOP
-@media screen and (min-width: 980px){
-    .quotes{
-      position: absolute;
-      top: -13px;
-      left: 45%;
-      z-index: 999;
-      width: 24px;
-    }
+@media screen and (min-width: $breakpoint-large){
+//    .quotes{
+//      position: absolute;
+//      top: -13px;
+//      left: 45%;
+//      z-index: 999;
+//      width: 24px;
+//    }
     h2{
       @include font-size(32px);
     }
@@ -313,7 +343,7 @@
   line-height: 5rem;
   }
 //TABLET
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: $breakpoint-medium){
     margin-top: 1rem;
   }
 }

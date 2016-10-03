@@ -51,7 +51,14 @@
       h2{
         @include font-size(22px);
       }
-  //TABLET
+//TABLET ONLY
+      @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+        .hero-text{
+          background: $white-opaque;
+          padding: 1rem;
+        }
+      }
+//TABLET
       @media screen and (min-width: $breakpoint-medium){
         background: url(../img/diagnosis/diagnosis-hero.jpg);
         background-size: cover;
@@ -59,12 +66,13 @@
         background-position: right;
     
         .hero-text{
-          padding: 5% 0;
+          padding: 0;
         }
       }
+//DESKTOP
       @media screen and (min-width: $breakpoint-large){
         .hero-text{
-          padding: 10% 0;
+          padding: 0;
         }
       }
     }

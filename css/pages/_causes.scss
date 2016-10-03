@@ -23,21 +23,25 @@
       background: $light-gray-background;
       background-size: cover;
       background-repeat: no-repeat;
-
-  //TABLET
+//TABLET ONLY
+      @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+        .hero-text{
+          background: $white-opaque;
+          padding: 1rem;
+        }
+      }
+//TABLET
       @media screen and (min-width: $breakpoint-medium){
         background: url(../img/causes/causes-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        .hero-text{
-          padding: 5% 0;
-        }
+        padding: 5%;
       }
+//DESKTOP
       @media screen and (min-width: $breakpoint-large){
-        .hero-text{
-          padding: 10% 0;
-        }
+        padding: 10% 0;
       }
+
     }
     h2{
       @include font-size(28px);

@@ -1,0 +1,142 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the forum introduction page.
+// -----------------------------------------------------------------------------
+@import
+  '../abstracts/variables',
+  '../abstracts/functions',
+  '../abstracts/mixins';
+
+
+#forum-intro{
+
+  main{
+    section{
+      -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    }
+    img{
+      display: block;
+      margin: 0 auto;
+    }
+    h2{
+      @include font-size(28px);
+      color: $dark-gray-text;
+    }
+    h4{
+      font-weight: 500;
+      font-family: $accent-font-common;
+      color: $dark-gray-text;
+    }
+    a{
+      font-weight: bold;
+    }
+    ul{
+      padding: 1rem 0;
+      margin-left: 2rem;
+    }
+    ul li{
+      list-style: disc;
+      padding-bottom: 1rem;
+      @include font-size(18px);
+    }
+    
+/*---------HERO---------------*/
+
+    .hero-banner-image{
+      background: $light-gray-background;
+    }
+  //TABLET
+    .hero-banner-image{
+      @media screen and (min-width: $breakpoint-medium){
+        background: url(../img/forum-introduction/forum-introduction-hero.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+        .hero-text{
+          background: $white-opaque;
+          padding: 0.5rem;
+          h2{
+            text-align: left;
+          }
+        }
+      }
+    }
+    
+/*---            PRIVATE FORUM SECTION             ---*/
+    #private-forum{
+      h2{
+        text-align: left;
+        color: $dark-gray-text;
+      }
+      @media screen and (min-width: $breakpoint-large){
+        img{
+          margin-top: 3rem;
+        }
+      }
+      
+  }
+
+/*---            FORUM BANNER             ---*/
+    .grad1{
+      padding: 2rem 0;
+      img{
+        width: 30%;
+        max-width: 5rem;
+      }
+      h2{
+        color: $white;
+      }
+      a{
+        text-decoration: underline;
+      }
+    }
+ 
+/*---            NETWORK OF SUPPORT SECTION          ---*/
+    
+    .forum-testimonials{
+      h2{
+        margin-bottom: 1rem;
+      }
+      .large-4:nth-child(2){
+        padding-bottom: 0.5rem;
+      }
+      .testimonial{
+        margin-bottom: 1.5rem;
+        background: $light-gray-background;
+        width:100%;
+        text-align: center;
+        &:nth-child(2){
+          margin-bottom: 0;
+        }
+      }
+      .testimonial-text{
+        padding: 0;
+        p{
+          line-height: 1.4;
+        }
+      }
+      .quotes{
+        left: 47%;
+      }
+    }
+  
+/*---            HUSBANDS ALLOWED SECTION          ---*/
+ 
+    .spouses-allowed{
+      background: url(../../img/forum-introduction/forum-introduction-husbands.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: right;
+      padding: 5%;
+      .opaque-box{
+        background: $white-opaque;
+        float: right;
+        color: $dark-gray-text;
+      }
+    }
+    
+//end main
+  }
+//end page
+}

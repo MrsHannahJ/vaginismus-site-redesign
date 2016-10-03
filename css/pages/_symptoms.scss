@@ -24,8 +24,6 @@
 /*---------HERO---------------*/
     .hero-banner-image{
       background: $light-gray-background;
-      background-size: cover;
-      background-repeat: no-repeat;
 
   //TABLET
       @media screen and (min-width: 768px){
@@ -37,7 +35,16 @@
           padding: 5% 0;
         }
       }
+    
+
+//DESKTOP
+      @media screen and (min-width: $breakpoint-large){
+        .hero-text{
+          padding: 10% 0;
+        }
+      }
     }
+    
     h2{
       @include font-size(28px);
     }

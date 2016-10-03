@@ -15,10 +15,13 @@
   padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
   @media screen and (min-width: $breakpoint-medium){
     padding: 5%;
   }
+  @media screen and (min-width: $breakpoint-desktop){
+    padding: 10%;
+  }
+  
 }
 section .hero-banner-image{
   padding: 0;

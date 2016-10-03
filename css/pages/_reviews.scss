@@ -1,10 +1,6 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the reviews page.
 // -----------------------------------------------------------------------------
-@import
-  '../abstracts/variables',
-  '../abstracts/functions',
-  '../abstracts/mixins';
 
 
 #reviews{
@@ -13,6 +9,9 @@
     
     .grad1 a{
       text-decoration: underline;
+    }
+    .grad1{
+      padding-bottom: 2rem;
     }
     
     img{
@@ -38,7 +37,7 @@
       background: $light-gray-background;
       background-size: cover;
       background-repeat: no-repeat;
-      background-position:
+      background-position: right;
     }
   //TABLET
     .hero-banner-image{
@@ -46,16 +45,14 @@
         background: url(../img/feedback/feedback-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-    
         .hero-text{
-//          padding: 5% 0;
           background: $white-opaque;
           padding: 0.5rem;
         }
       }
-      @media screen and (min-width: $breakpoint-large){
+      @media screen and (min-width: $breakpoint-medium) and (max-width: $breakpoint-large){
         .hero-text{
-//          padding: 10% 0;
+          width: 100%;
         }
       }
     }

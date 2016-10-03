@@ -5,13 +5,49 @@
 
 #contact-us{
 
-/*---------HERO---------------*/
-  .hero-banner-image{
-    background-image: url(../../img/symptoms/symptoms-header-mobile-en.jpg);
-    @media screen and (min-width: 768px){
-      background-image: url(../../img/contact-us/contact-us-hero.png);
+  main{
+    
+    .grad1 a{
+      text-decoration: underline;
+    }
+    .grad1{
+      padding-bottom: 2rem;
+    }
+    
+    img{
+      display: block;
+      margin: 0 auto;
     }
   }
+  
+  /*---------HERO---------------*/
+
+    .hero-banner-image{
+      background: $light-gray-background;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: right;
+    }
+  //TABLET ONLY
+  @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+    .hero-text{
+      width: 100%;
+    }
+  }
+  //TABLET AND ABOVE
+    .hero-banner-image{
+      @media screen and (min-width: $breakpoint-medium){
+        background: url(../img/contact-us/contact-us-hero.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+        .hero-text{
+          background: $white-opaque;
+          padding: 0.5rem;
+        }
+      }
+
+    }
     
  
 
@@ -74,7 +110,6 @@
   #contact #captcha span{
     width: 40px;
     @include font-size(18px);
-
   }
   #contact #captcha input{
   /*   circle arrows */
@@ -94,21 +129,50 @@
     color:$light-gray-text;
     resize: none;
     margin-bottom:10px;
-
   }
   #contact #form input.submit {
     cursor: pointer;
     width:20%;
     float:right;
     padding:5px;
-  //  margin:10px 16px 0px 0px;
     background:$brand;
     color:$white;
-  }
-
+}
+  
   p{
     @include font-size(14px);
   }
-   
+
+    
+//MOBILE ONLY
+  @media screen and (max-width: 767px){
+    #contact #form input {
+      display:block;
+      float: none;
+    }
+    #contact #form input.email, #contact #form input.phone {
+      width: 100%;
+    }
+    #contact #captcha span{
+      width: 60%;
+    }
+    #contact #captcha input{
+      display:inline-block;
+    }
+    #contact #form input.captcha {
+      display:inline-block;
+      float: none;
+      padding: 10px;
+      width: 50%;
+    }
+    #contact #form input.submit {
+      display:block;
+      clear: both;
+      float: none;
+      width: 100%;
+      margin-top: 1rem;
+    }
+  }
+
 
 }

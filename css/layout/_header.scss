@@ -250,7 +250,7 @@ header{
   }
   
 //tablet
-  @media only screen and ( max-width: $breakpoint-large ){
+  @media only screen and ( max-width: 979px ){
     #nav{
       width: 100%;
       position: static;
@@ -260,7 +260,7 @@ header{
 
 
 //mobile
-  @media only screen and ( max-width: $breakpoint-medium ){
+  @media only screen and ( max-width: 767px ){
 
     #nav{
         position: relative;
@@ -367,7 +367,7 @@ header{
     }
   }
 
-  
+
 }
 
   

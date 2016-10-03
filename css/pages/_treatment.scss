@@ -43,10 +43,14 @@
 
     .hero-banner-image{
       background: $light-gray-background;
-      background-size: contain;
-      background-repeat: no-repeat;
-
-  //TABLET
+//TABLET ONLY
+      @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+        .hero-text{
+          background: $white-opaque;
+          padding: 1rem;
+        }
+      }
+  //TABLET AND UP
       @media screen and (min-width: $breakpoint-medium){
         background: url(../img/treatment/treatment-hero.jpg);
         background-size: cover;
