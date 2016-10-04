@@ -43,10 +43,13 @@
     }
 //TABLET ONLY
     @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
-      .hero-text{
-        background: $white-opaque;
-        padding: 1rem;
-      }
+      background: url(../img/stories/stories-hero-tablet.jpg);
+      background-size: cover;
+        background-repeat: no-repeat;
+//      .hero-text{
+//        background: $white-opaque;
+//        padding: 1rem;
+//      }
     }
 //TABLET
     .hero-banner-image{
@@ -54,18 +57,15 @@
         background: url(../img/stories/stories-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: top;
         .hero-text{
-          padding: 5% 0;
           text-align: center;
         }
       }
 //DESKTOP
-//      @media screen and (min-width: $breakpoint-large){
-//        .hero-text{
-//          padding: 10% 0;
-//        }
-//      }
+      @media screen and (min-width: $breakpoint-large){
+        background-position: right;
+      }
     }
 
  

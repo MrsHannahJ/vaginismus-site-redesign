@@ -16,16 +16,16 @@
   background-repeat: no-repeat;
   background-size: cover;
   @media screen and (min-width: $breakpoint-medium){
-    padding: 5%;
+    padding: 6%;
   }
-  @media screen and (min-width: $breakpoint-desktop){
+  @media screen and (min-width: $breakpoint-large){
     padding: 10%;
   }
   
 }
-section .hero-banner-image{
-  padding: 0;
-}
+//section .hero-banner-image{
+//  padding: 0;
+//}
 .hero-text{
   text-align: center;
   line-height: 1.5;

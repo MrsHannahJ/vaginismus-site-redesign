@@ -53,10 +53,11 @@
       }
 //TABLET ONLY
       @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
-        .hero-text{
-          background: $white-opaque;
-          padding: 1rem;
-        }
+//        .hero-text{
+//          background: $white-opaque;
+//          padding: 1rem;
+//        }
+        background: url(../img/diagnosis/diagnosis-hero-tablet.jpg)
       }
 //TABLET
       @media screen and (min-width: $breakpoint-medium){
@@ -64,7 +65,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: right;
-    
+        height: 400px;
         .hero-text{
           padding: 0;
         }
