@@ -1,0 +1,91 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+
+/*  This is what came in boilerplate
+
+/// Regular font family
+/// @type List
+$text-font-stack: 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
+
+/// Code (monospace) font family
+/// @type List
+$code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
+
+*/
+
+$base: 'Lato', sans-serif;
+$sans: 'Open Sans', sans-serif;
+$accent-font-common: 'Raleway', sans-serif;
+//$source-sans: 'Source Sans Pro', sans-serif;
+$accent-font-rare: 'CaturritaDisplayLight-Light';
+
+
+
+$brand: #4eb3b3;
+$brand-light: #92cfbe;
+$brand-purple: #6e58b9;
+$white: #ffffff;
+$white-opaque: rgba(255,255,255,0.7);
+$white-opaque-90: rgba(255,255,255,0.9);
+$dark-gray-text: #333333;
+$light-gray-text: #656565;
+$gray-background: #e0e0e0;
+$light-gray-background:#f2f2f2;
+
+/*  This is what came in boilerplate
+
+/// Copy text color
+/// @type Color
+$text-color: rgb(34, 34, 34) !default;
+
+/// Main brand color
+/// @type Color
+$brand-color: rgb(229, 0, 80) !default;
+
+/// Light grey
+/// @type Color
+$light-grey: rgb(237, 237, 237) !default;
+
+/// Medium grey
+/// @type Color
+$mid-grey: rgb(153, 153, 153) !default;
+
+/// Dark grey
+/// @type Color
+$dark-grey: rgb(68, 68, 68) !default;
+
+*/
+
+
+/*  This is what came in boilerplate
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1180px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+) !default;
+
+*/
+
+// grid variables
+$grid-columns: 12;
+$grid-max-width: 1273px;
+ 
+ 
+// breakpoints
+$breakpoint-medium: 768px;
+$breakpoint-large: 980px;

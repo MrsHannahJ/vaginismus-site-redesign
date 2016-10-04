@@ -1,0 +1,82 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass mixins.
+// -----------------------------------------------------------------------------
+/*This came with the boilerplate */
+/// Event wrapper
+/// @author Harry Roberts
+/// @param {Bool} $self [false] - Whether or not to include current selector
+/// @link https://twitter.com/csswizardry/status/478938530342006784 Original tweet from Harry Roberts
+//@mixin on-event($self: false) {
+//  @if $self {
+//    &,
+//    &:hover,
+//    &:active,
+//    &:focus {
+//      @content;
+//    }
+//  } @else {
+//    &:hover,
+//    &:active,
+//    &:focus {
+//      @content;
+//    }
+//  }
+//}
+
+/*This came with the boilerplate */
+/// Make a context based selector a little more friendly
+/// @author Hugo Giraudel
+/// @param {String} $context
+//@mixin when-inside($context) {
+//  #{$context} & {
+//    @content;
+//  }
+//}
+
+
+//set border box
+@mixin border-box {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; 
+}
+
+//button themes
+@mixin button-theme($color, $background:transparent) {
+  color: $color;
+  border-color: $color;
+  background-color: $background;
+
+  &:hover{
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  }
+}
+
+//text-box themes
+@mixin text-block($width:100%, $bg-color:transparent, $color:$light-gray-text, $float: none){
+  width: $width;
+  color: $color;
+  background-color: $bg-color;
+  float: $float;
+}
+
+//responsive background image
+//@mixin background-image($bg-mobile, $bg-desktop){
+//  background:$white url('$bg-mobile') no-repeat center;
+//  background-size: 100%;
+//  width: 100%;
+//  @media screen and (min-width: $breakpoint-medium){
+//    background:$white url('$bg-desktop') no-repeat center;
+//  }
+//}
+
+
+//font size rem with px fallback for IE 8 and older
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+

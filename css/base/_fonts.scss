@@ -1,0 +1,170 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+
+
+//Google Fonts
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Open+Sans:300,400,400i|Raleway:300,400,500,600,600i|Source+Sans+Pro:400,600';
+
+
+//Caturrita (Purchased Web Font)
+/**
+ * @license
+ * MyFonts Webfont Build ID 3135224, 2015-12-02T12:47:37-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CaturritaDisplayBold-Bold by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/bold/
+ * Copyright: Copyright (c) 2012 by Armasen Typefaces. 2011 - All rights reserved.. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayRegular by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/regular/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayLight-Light by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/light/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. 2011 - All rights reserved. . All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayMedium-Medium by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/medium/
+ * Copyright: Copyright (c) 2015 by Bruno Mello. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayThin-Thin by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/thin/
+ * Copyright: Copyright (c) 2010 by Armasen Typefaces&#x00AE; 2014 - All rights reserved.. All rights reserved.
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3135224
+ * Licensed pageviews: 10,000
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2fd6f8");
+
+@font-face {font-family: 'CaturritaDisplayBold-Bold';src: url('../fonts/caturrita/webfonts/2FD6F8_0_0.eot');src: url('../fonts/caturrita/webfonts/2FD6F8_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/caturrita/webfonts/2FD6F8_0_0.woff2') format('woff2'),url('../fonts/caturrita/webfonts/2FD6F8_0_0.woff') format('woff'),url('../fonts/caturrita/webfonts/2FD6F8_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayRegular';src: url('../fonts/caturrita/webfonts/2FD6F8_1_0.eot');src: url('../fonts/caturrita/webfonts/2FD6F8_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/caturrita/webfonts/2FD6F8_1_0.woff2') format('woff2'),url('../fonts/caturrita/webfonts/2FD6F8_1_0.woff') format('woff'),url('../fonts/caturrita/webfonts/2FD6F8_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayLight-Light';src: url('../fonts/caturrita/webfonts/2FD6F8_2_0.eot');src: url('../fonts/caturrita/webfonts/2FD6F8_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/caturrita/webfonts/2FD6F8_2_0.woff2') format('woff2'),url('../fonts/caturrita/webfonts/2FD6F8_2_0.woff') format('woff'),url('../fonts/caturrita/webfonts/2FD6F8_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayMedium-Medium';src: url('../fonts/caturrita/webfonts/2FD6F8_3_0.eot');src: url('../fonts/caturrita/webfonts/2FD6F8_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/caturrita/webfonts/2FD6F8_3_0.woff2') format('woff2'),url('../fonts/caturrita/webfonts/2FD6F8_3_0.woff') format('woff'),url('../fonts/caturrita/webfonts/2FD6F8_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayThin-Thin';src: url('../fonts/caturrita/webfonts/2FD6F8_4_0.eot');src: url('../fonts/caturrita/webfonts/2FD6F8_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/caturrita/webfonts/2FD6F8_4_0.woff2') format('woff2'),url('../fonts/caturrita/webfonts/2FD6F8_4_0.woff') format('woff'),url('../fonts/caturrita/webfonts/2FD6F8_4_0.ttf') format('truetype');}
+ 
+ 
+
+
+//Icon Font
+@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontello/font/fontello.eot?44374473');
+  src: url('../fonts/fontello/font/fontello.eot?44374473#iefix') format('embedded-opentype'),
+       url('../fonts/fontello/font/fontello.woff2?44374473') format('woff2'),
+       url('../fonts/fontello/font/fontello.woff?44374473') format('woff'),
+       url('../fonts/fontello/font/fontello.ttf?44374473') format('truetype'),
+       url('../fonts/fontello/font/fontello.svg?44374473#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?43083311#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+//  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+
+.icon-check:before { content: '\e800'; } /* '' */
+.icon-search:before { content: '\e801'; } /* '' */
+.icon-menu:before { content: '\e802'; } /* '' */
+.icon-down-open-big:before { content: '\e803'; } /* '' */
+.icon-down-dir:before { content: '\e804'; } /* '' */
+.icon-cancel:before { content: '\e805'; } /* '' */
+.icon-icon_heart:before { content: '\e806'; } /* '' */
+.icon-up-open-big:before { content: '\e807'; } /* '' */
+.icon-icon_lightbulb_alt:before { content: '\e808'; } /* '' */
+.icon-icon_group:before { content: '\e809'; } /* '' */
+.icon-arrow_carrot-2right:before { content: '\e80a'; } /* '' */
+.icon-icon_search:before { content: '\e80b'; } /* '' */
+.icon-icon_menu:before { content: '\e80c'; } /* '' */
+.icon-arrow_carrot-up:before { content: '\e80d'; } /* '' */
+.icon-arrow_triangle-down:before { content: '\e80e'; } /* '' */
+.icon-icon_check:before { content: '\e80f'; } /* '' */
+.icon-icon_comment_alt:before { content: '\e810'; } /* '' */
+.icon-icon_quotations_alt2:before { content: '\e811'; } /* '' */
+.icon-icon_phone:before { content: '\e812'; } /* '' */
+.icon-icon_cart:before { content: '\e813'; } /* '' */
+.icon-icon_puzzle_alt:before { content: '\e814'; } /* '' */
+.icon-icon_close:before { content: '\e815'; } /* '' */
+.icon-cw:before { content: '\e816'; } /* '' */
+.icon-icon_info_alt:before { content: '\e817'; } /* '' */
+.icon-icon_close_alt:before { content: '\e818'; } /* '' */
+.icon-icon_shield:before { content: '\e819'; } /* '' */
+.icon-icon_book:before { content: '\e81a'; } /* '' */
+.icon-icon_question_alt:before { content: '\e81b'; } /* '' */
+.icon-icon_profile:before { content: '\e81c'; } /* '' */
+.icon-icon_chat:before { content: '\e81d'; } /* '' */
+.icon-arrow_carrot-down:before { content: '\e81e'; } /* '' */
+.icon-icon_documents:before { content: '\e81f'; } /* '' */
+.icon-arrow_carrot-left:before { content: '\e820'; } /* '' */
+.icon-arrow_carrot-right:before { content: '\e821'; } /* '' */
+.icon-email:before { content: '\e822'; } /* '' */
+.icon-info-circled-alt:before { content: '\f086'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-gplus:before { content: '\f0d5'; } /* '' */
+.icon-angle-double-right:before { content: '\f101'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-pinterest:before { content: '\f231'; } /* '' */

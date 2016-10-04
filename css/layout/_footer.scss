@@ -1,0 +1,88 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the footer of the site.
+// -----------------------------------------------------------------------------
+
+
+/*-------------FOOTER---------------*/
+
+footer{
+  text-align: center;
+
+  .social-container{
+    li{
+      display:inline;
+      margin: 0 auto;
+    }
+    img{
+      width:16%;
+      padding: 1%;
+      max-width: 50px;
+      }
+    a{
+      opacity: 0.8;
+      &:hover{
+        opacity: 1.0;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+    }
+  }
+  .secure-badges{
+    img{
+      max-width: 250px;
+    }
+  }
+  #footer-menu{
+    background-color: $gray-background;
+    li{
+      line-height: 1.8;
+    }
+    a{
+      text-decoration: none;
+      color: $dark-gray-text;
+    }
+  }
+  #copyright{
+    img{
+      width: 20%;
+      max-width: 50px;
+    }
+    p{
+      margin: 1rem;
+      font-size:12px;
+      font-size: 0.75rem;
+    }
+  }
+  
+/*-------------FOOTER (TABLET)---------------*/
+  @media screen and (min-width:$breakpoint-medium) {
+    .social-container{
+      text-align:left;
+      img{
+        width:15%;
+      }
+    }
+    .secure-badges{
+      img{
+        max-width: 60%;
+      }
+    }
+  }
+/*-------------FOOTER (DESKTOP)---------------*/
+  @media screen and (min-width:$breakpoint-large) {
+    .secure-badges{
+      text-align: right;
+    }
+    #footer-menu{
+      li{
+        display: inline-block;
+        padding: 0.5% 1%;
+      }
+      a{
+        font-size:14px;
+        font-size: 0.875rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,166 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to all the product pages.
+// -----------------------------------------------------------------------------
+
+.product-page{
+  
+  section{
+    -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  }
+
+  p, a{
+    @include font-size(16px);
+  }
+  
+    .product-kit, .product-dilators, .product-books, .product-description-0, .product-description-1, .product-description-2, .product-description-3, .product-description-4, .product-description-5, .product-description-6, .order-today{
+      h2{
+        text-align: left;
+        @include font-size(26px);
+      }
+      h2, h3, p{
+        color: $dark-gray-text;
+      }
+      p{
+        font-weight: 400;
+        @include font-size(17px);
+        line-height: 1.4;
+      }
+      .product-sku{
+        font-weight: 500;
+        color: $light-gray-text;
+        opacity: 0.7;
+      }
+      .product-description{
+        margin-bottom: 1.5rem;
+      }
+      .product-price{
+        @include font-size(50px);
+        color: $brand;
+        padding-bottom: 0;
+        span{
+          @include font-size(22px);
+        }
+      }
+      .product-price-caption{
+        color: $light-gray-text;
+        opacity: 0.7;
+        padding: 0 0 1.5rem 0;
+      }
+      .shaded-btn{
+        color: $dark-gray-text;
+      }
+      
+      ul li{
+        list-style: disc;
+        padding: 0.5rem 0;
+        color: $dark-gray-text;
+        margin-left: 1rem;
+        @include font-size(17px);
+      }
+      
+    }
+  .hero h3, .grad1 h3{
+    @include font-size(20px);
+    font-weight: 400;
+  }
+  .hero-product-banner-image{
+    background-image: url(../img/products/products-header.jpg);
+    padding: 12%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .hero{
+    padding: 3rem 0;
+  }
+  .product-description-4 h3{
+    text-align: left;
+    font-weight: bold;
+  }
+  .product-description-5{
+    background-image: url(../img/white-wood-bkgd.jpg);
+    .opaque-box{
+      background: $white-opaque;
+      padding: 0.5rem 1rem;
+      margin: 1rem;
+    }
+    h3{
+    text-align: left;
+    font-weight: 500;
+    }
+  }
+  
+  .mission-banner{
+    padding-bottom: 2rem;
+  }
+  
+  .treatment-banner h2{
+      padding: 1rem;
+    }
+  }
+  p .white-btn{
+    margin:1rem;
+  }
+.multi-language{
+ p{
+    text-align: center;
+  }
+}
+
+  .badge-box{
+    background: $light-gray-background;
+    padding: 1rem;
+    display: block;
+    img{
+      display: block;
+      margin: 0 auto;
+      padding-bottom: 1rem;
+    }
+    p{
+      text-align: center;
+      padding: .5rem;
+    }
+    
+    ul li{
+      list-style: disc;
+      padding: .5rem;
+      margin-left: 1rem;
+      span{
+        display: block;
+        margin-left: -.75rem;
+      }
+    }
+    
+    a{
+      font-weight: bold;
+    }
+  }
+  .credit-and-shipping{
+    .large-6{
+      text-align: center;
+    }
+    p{
+      text-align: center;
+    }
+  }
+
+
+//TABLET
+  @media screen and (min-width: $breakpoint-medium){
+    .badge-box{
+      height: 260px;
+    }
+    .product-dilators .wrapper{
+      display: flex;
+      flex-direction: row-reverse;
+    }
+  }
+//DESKTOP
+  @media screen and (min-width: $breakpoint-large){
+    .product-description-1 .wrapper, .product-description-3 .wrapper{
+      display: flex;
+      flex-direction: row-reverse;
+    }
+  }

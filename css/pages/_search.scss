@@ -1,0 +1,45 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the search and 404 pages.
+// -----------------------------------------------------------------------------
+
+.search-page{
+  .search-bar{
+    background: url(../img/flower.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    
+    min-height: 300px;
+    text-align: center;
+    h1{
+      padding: 3rem 0;
+    }
+//    form{
+//      padding-bottom: 15%;
+//      z-index: 999;
+//    }
+//    img{
+//      width: 25%;
+//      position: absolute;
+////      bottom:0;
+//      left:0;
+//      z-index: 0;
+//    }
+  }
+  #site-map{
+    z-index: 999;
+    h2, h3, a{
+      text-align: left;
+      text-decoration: none;
+      padding-top: 0;
+      padding-bottom: 0.5rem;
+    }
+    h2{
+      @include font-size(22px);
+    }
+    h3{
+      @include font-size(18px);
+    }
+  }
+  
+}

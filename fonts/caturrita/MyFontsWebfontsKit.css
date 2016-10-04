@@ -1,0 +1,56 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3135224, 2015-12-02T12:47:37-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CaturritaDisplayBold-Bold by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/bold/
+ * Copyright: Copyright (c) 2012 by Armasen Typefaces. 2011 - All rights reserved.. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayRegular by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/regular/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayLight-Light by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/light/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. 2011 - All rights reserved. . All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayMedium-Medium by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/medium/
+ * Copyright: Copyright (c) 2015 by Bruno Mello. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayThin-Thin by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/thin/
+ * Copyright: Copyright (c) 2010 by Armasen Typefaces&#x00AE; 2014 - All rights reserved.. All rights reserved.
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3135224
+ * Licensed pageviews: 10,000
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2fd6f8");
+
+  
+@font-face {font-family: 'CaturritaDisplayBold-Bold';src: url('webfonts/2FD6F8_0_0.eot');src: url('webfonts/2FD6F8_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FD6F8_0_0.woff2') format('woff2'),url('webfonts/2FD6F8_0_0.woff') format('woff'),url('webfonts/2FD6F8_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayRegular';src: url('webfonts/2FD6F8_1_0.eot');src: url('webfonts/2FD6F8_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FD6F8_1_0.woff2') format('woff2'),url('webfonts/2FD6F8_1_0.woff') format('woff'),url('webfonts/2FD6F8_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayLight-Light';src: url('webfonts/2FD6F8_2_0.eot');src: url('webfonts/2FD6F8_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FD6F8_2_0.woff2') format('woff2'),url('webfonts/2FD6F8_2_0.woff') format('woff'),url('webfonts/2FD6F8_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayMedium-Medium';src: url('webfonts/2FD6F8_3_0.eot');src: url('webfonts/2FD6F8_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FD6F8_3_0.woff2') format('woff2'),url('webfonts/2FD6F8_3_0.woff') format('woff'),url('webfonts/2FD6F8_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CaturritaDisplayThin-Thin';src: url('webfonts/2FD6F8_4_0.eot');src: url('webfonts/2FD6F8_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FD6F8_4_0.woff2') format('woff2'),url('webfonts/2FD6F8_4_0.woff') format('woff'),url('webfonts/2FD6F8_4_0.ttf') format('truetype');}
+ 
