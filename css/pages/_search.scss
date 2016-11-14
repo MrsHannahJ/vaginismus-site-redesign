@@ -1,14 +1,17 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the search and 404 pages.
 // -----------------------------------------------------------------------------
-
 .search-page{
   .search-bar{
     background: url(../img/flower.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom left;
-    
+  }
+}
+
+.search-page, .page-404{
+  .search-bar{
     min-height: 300px;
     text-align: center;
     h1{
