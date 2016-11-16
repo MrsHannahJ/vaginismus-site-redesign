@@ -355,3 +355,92 @@
     }
   
 }
+//----------------------------
+//SPANISH
+//----------------------------
+.faq-question.spanish{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Prioridad Correo"; }
+      td:nth-of-type(3):before {
+        content: "Prioridad Correo Urgente"; }
+      td:nth-of-type(4):before {
+        content: "Prioridad Correo Internacional"; }
+      td:nth-of-type(5):before {
+        content: "Prioridad Correo Urgente Internacional";}
+      td:nth-of-type(6):before {
+        content: "DHL Urgente en Todo el Mundo"; }
+    }
+  }
+}
+//----------------------------
+//PORTUGUESE
+//----------------------------
+.faq-question.portuguese{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Correio Prioritário"; }
+      td:nth-of-type(3):before {
+        content: "Prioridade de Correio Expresso"; }
+      td:nth-of-type(4):before {
+        content: "Internatial Correio Prioritário"; }
+      td:nth-of-type(5):before {
+        content: "Internatial Prioridade de Correio Expresso";}
+      td:nth-of-type(6):before {
+        content: "A DHL Express em Todo o Mundo"; }
+    }
+  }
+}
+//----------------------------
+//RUSSIAN
+//----------------------------
+.faq-question.russian{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Главная Почта"; }
+      td:nth-of-type(3):before {
+        content: "Главная Почта Экспресс"; }
+      td:nth-of-type(4):before {
+        content: "Главная Почта Международный"; }
+      td:nth-of-type(5):before {
+        content: "Главная Почта Экспресс Международный";}
+      td:nth-of-type(6):before {
+        content: "DHL Экспресс Мировой"; }
+    }
+  }
+}
+//----------------------------
+//TURKISH
+//----------------------------
+.faq-question.turkish{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Öncelikli Posta"; }
+      td:nth-of-type(3):before {
+        content: "Öncelik Posta Ekspres"; }
+      td:nth-of-type(4):before {
+        content: "Öncelik Posta Uluslararası"; }
+      td:nth-of-type(5):before {
+        content: "Öncelik Posta Ekspres Uluslararası";}
+      td:nth-of-type(6):before {
+        content: "DHL Ekspres Dünya"; }
+    }
+  }
+}
+    

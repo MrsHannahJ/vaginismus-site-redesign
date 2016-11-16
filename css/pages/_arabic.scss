@@ -1,0 +1,342 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the Arabic pages.
+// -----------------------------------------------------------------------------
+
+html[dir="rtl"]{
+  
+  [class*='medium-'] {
+    float: right;
+    }
+  [class*='large-'] {
+    float: right;
+  }
+}
+
+/*------------------------------*/
+/*-----------HOME---------------*/
+/*------------------------------*/
+
+html[dir="rtl"] #home{
+//HERO---------------*/
+  @media screen and (min-width: $breakpoint-medium){
+    .hero-banner-image .hero-text-right{
+      h1, li{
+        text-align: right;
+      }
+    }
+  }
+//HIGHLIGHTED CONTENT SECTION-------------*/
+  #highlighted-content{
+//DESKTOP
+    @media screen and (min-width: $breakpoint-large){
+      .hc-text p, .hc-text h2, .hc-text h3{
+        text-align: right;
+      }
+      .highlighted-content-2 a, .highlighted-content-3 a, .highlighted-content-4 a{
+        display: block;
+        margin: inherit;
+      }
+      .highlighted-content-1 .hc-text, .highlighted-content-3 .hc-text{
+        float: left;
+      }
+    }
+  }
+//COMMON LINKS SECTION-------------*/
+  #common-links li, #common-links a{
+    text-align:right;
+  }
+}
+
+/*------------------------------*/
+/*-----------TREATMENT----------*/
+/*------------------------------*/
+
+html[dir="rtl"] #treatment main #ten-steps img{
+  float: right;
+  padding: 0 0 0.5rem 0.5rem;
+}
+
+/*------------------------------*/
+/*-----------DIAGNOSIS----------*/
+/*------------------------------*/
+
+html[dir="rtl"] #diagnosis{
+  @media screen and (min-width: $breakpoint-large){
+    .hero-banner-image .hero-text{
+      float: left;
+    }
+  }
+}
+
+/*------------------------------*/
+/*------------STORIES-----------*/
+/*------------------------------*/
+html[dir="rtl"] #stories{
+  h3, h4{
+    text-align: right;
+  }
+  @media screen and (min-width: $breakpoint-large){
+    .hero-banner-image .hero-text{
+      float: left;
+    }
+  }
+}
+
+/*------------------------------*/
+/*------------STORIES-----------*/
+/*------------------------------*/
+html[dir="rtl"] .product-page{
+  .product-kit, .product-dilators, .product-books, .product-description-0, .product-description-1, .product-description-2, .product-description-3, .product-description-4, .product-description-5, .product-description-6, .order-today{
+    h2{
+      text-align: right;
+    }
+  }
+  .product-description-4 h3, .product-description-5 h3{
+    text-align: right;
+  }
+
+  .badge-box ul{
+    margin-right: 1.25rem;
+  }
+  @media screen and (max-width: $breakpoint-medium){
+    .price-box{
+      display: block;
+      width: 70%;
+      margin: 0 auto;
+    }
+  }
+}
+
+/*------------------------------*/
+/*--------------FAQ-------------*/
+/*------------------------------*/
+html[dir="rtl"] #faq{
+  @media screen and (min-width: 768px){
+    #brochures{
+      [class*='large-'], [class*='medium-']{
+        float: left;
+      }
+    }
+  }
+}
+
+/*------------------------------*/
+/*------------FORUM-------------*/
+/*------------------------------*/
+html[dir="rtl"] #forum-intro{
+  .hero-text, .hero-text h2{
+    text-align: right;
+  }
+  #private-forum h2{
+    text-align: center;
+  }
+}
+
+/*------------------------------*/
+/*----------SIDEBAR PAGES-------*/
+/*------------------------------*/
+html[dir="rtl"] .faq-question, .resource-page{
+
+  section{
+    h1{
+    }
+    h3, h4{
+      text-align: right;
+    }  //good
+
+//list styles
+    ul{
+      margin-right: 1rem;
+      }  //good
+    
+    ol{
+      margin-right: 1rem;
+    }  //good
+
+//table styles
+
+    th{
+      font-weight: bold;
+      padding: 1rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+    }
+    thead tr:nth-child(2) th{
+      padding: 0.5rem;
+      text-align: right;
+    }
+    td{
+      padding: 0.75rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+      &:first-child{
+      width: 30%;
+      padding-right: 1rem;
+      }
+    }
+
+    
+    .shipping-rates{
+      thead{
+        background-color: $gray-background;
+        color: $dark-gray-text;
+      }
+      td, th{
+        border: 1px solid $gray-background;
+        border-collapse: collapse;
+        @include font-size(14px);
+      }
+      
+      .country-name{
+        font-weight: bold;
+      }
+    }
+    .indent{
+      padding-left: 30px;
+    }
+
+    
+//For Press and Blog Pages
+    .article-title{
+      text-align: left;
+    }
+    .article-preview{
+      padding-top: 0;
+    }
+    h2 a{
+      @include font-size(24px);
+      color: $dark-gray-text;
+    }
+
+//For Pages with Comments
+    #comments{
+      ul{
+        margin-left: 0;
+      }
+      p{
+        padding-top:0;
+        padding-bottom: 0.25rem;
+      }
+    }
+    .comment-list{
+
+      li{
+        list-style-type: none;
+        background: $white;
+        border: 1px solid $light-gray-background;
+        padding: 0.5rem;
+        margin: 1rem 0;
+        -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+        -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+        box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      }
+      p{
+        @include font-size(16px);
+      }
+      .comment-name{
+        font-weight: bold;
+      }
+    }
+    
+//For Blog Pages
+    .blog-article{
+      margin-top: 1rem;
+      ol li{
+        list-style: decimal;
+        text-indent: 0;
+        @include font-size(19px);
+      }
+    }
+    
+    p.blog-meta, .blog-meta a{
+      @include font-size(16px);
+      padding: 0;
+//      text-align: center;
+    }
+//For Review Pages
+    .review{
+      margin-bottom: 1rem;
+      border-bottom: 1px solid $light-gray-background;
+      padding: 0.5rem;
+      margin-bottom: 2rem;
+      &:last-child{
+        border: none;
+      }
+    }
+    .review-body{
+      p{
+        @include font-size(18px);
+      }
+      p:last-child{
+        padding-bottom:0.5rem;
+      }
+      h2{
+        text-align: right;
+      }
+        
+      
+    }
+  
+    
+    
+//MOBILE ONLY
+    @media screen and (max-width: $breakpoint-medium){
+      
+      .shipping-rates{
+        td{
+          word-wrap: normal;
+        }
+        td:nth-child(1){
+          text-indent: 0;
+          width: 100%;
+          text-align: center;
+        }
+        
+/*
+Label the data
+*/
+  		td:nth-of-type(1):before {
+          content: "";
+        }
+  		td:nth-of-type(2):before {
+          content: "	بريد ذو اولوية"; }
+  		td:nth-of-type(3):before {
+          content: "الأولوية البريد الممتاز"; }
+  		td:nth-of-type(4):before {
+          content: "بريد دولي سريع"; }
+  		td:nth-of-type(5):before {
+          content: "الأولوية البريد السريع الدولي";}
+  		td:nth-of-type(6):before {
+          content: "دي إتش إل إكسبرس في جميع أنحاء العالم"; }
+      }
+    }
+
+  
+//DESKTOP   //good
+  @media screen and (min-width:$breakpoint-large){
+      border-left: 2px solid $light-gray-background;
+      border-right: none;
+    
+    .long-side section{
+      border-left:none;
+    }
+    .long-side aside{
+      border-right: 2px solid $light-gray-background;
+      border-left: none;
+    }
+
+  }
+
+
+}
+  aside h2{
+    text-align: right;
+  }
+}
+  
+
+
+
+    
+
+
