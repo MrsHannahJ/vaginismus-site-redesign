@@ -7,24 +7,59 @@
 
 .search-page, .page-404{
 
-  h1{
-    padding: 3rem 0;
-  }
 
   #site-map{
-    z-index: 999;
-    h2, h3, a{
+    section{
+      -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    }
+    h1{
+      padding-top: 1.5rem;
+    }
+    h2{
+      text-transform:uppercase;
+    
+    }
+    h2, h3, h4{
       text-align: left;
       text-decoration: none;
       padding-top: 0;
       padding-bottom: 0.5rem;
+      font-family: $accent-font-common;
     }
-    h2{
-      @include font-size(22px);
+    a{
+      font-weight: 400;
+      color: $light-gray-text;
     }
-    h3{
-      @include font-size(18px);
+    p{
+      text-align: center;
     }
+    
+    ul{
+      padding-left: 1.5rem;
+    }
+//    ul{
+//      padding-left: 1.5rem;
+//      text-indent: -2rem;
+//    }
+    
+//    i{
+////      padding-right:1rem;
+//    
+//    }
+    
+    .site-map-home{
+      color: $brand;
+    }
+    
+    @media screen and (max-width: $breakpoint-medium){
+      [class*='large-'], [class*='medium-'] {
+        padding-bottom: 0;
+        padding-top: 0;
+      }
+    }
+
   }
   
 }
