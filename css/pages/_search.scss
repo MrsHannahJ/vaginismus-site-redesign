@@ -1,32 +1,29 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the search and 404 pages.
 // -----------------------------------------------------------------------------
-.search-page{
 
-}
 
 .search-page, .page-404{
 
 
   #site-map{
-    section{
-      -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
-      -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
-      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    @media screen and (max-width: $breakpoint-medium){
+      [class*='large-'], [class*='medium-'] {
+        padding-bottom: 0;
+        padding-top: 0;
+      }
     }
     h1{
       padding-top: 1.5rem;
     }
-    h2{
-      text-transform:uppercase;
-    
-    }
+
     h2, h3, h4{
       text-align: left;
       text-decoration: none;
       padding-top: 0;
       padding-bottom: 0.5rem;
       font-family: $accent-font-common;
+      
     }
     a{
       font-weight: 400;
@@ -37,29 +34,57 @@
     }
     
     ul{
-      padding-left: 1.5rem;
+      padding-left: 15px;
+      li{
+        margin-left: 15px;
+        text-indent: -15px;
+      }
     }
-//    ul{
-//      padding-left: 1.5rem;
-//      text-indent: -2rem;
-//    }
-    
-//    i{
-////      padding-right:1rem;
-//    
-//    }
-    
-    .site-map-home{
+    i{
+      font-size: 14px;
       color: $brand;
-    }
-    
-    @media screen and (max-width: $breakpoint-medium){
-      [class*='large-'], [class*='medium-'] {
-        padding-bottom: 0;
-        padding-top: 0;
+      &:before{
+        margin-right: 0;
       }
     }
 
+    #site-map-resources, #site-map-faq, #site-map-languages{
+      margin-top: 2rem;
+    }
+    #site-map-home h1, #site-map-resources h2, #site-map-faq h2, #site-map-languages h2{
+      text-align: left;
+      font-family: $accent-font-common;
+      text-transform: uppercase;
+      a{
+        font-size: 1.75rem;
+      }
+      img{
+        transform: rotate(-90deg);
+        max-width: 2rem;
+        vertical-align: text-bottom;
+      }
+
+    }
+    
+    #site-map-home h2, #site-map-resources h3, #site-map-faq h3, #site-map-languages h3{
+      text-transform:uppercase;
+      a{
+        font-weight: 600;
+      }
+    }
+    .site-map-cust-faq, .site-map-preg-faq, .site-map-treat-faq{
+      margin-top: 1rem;
+    }
+    .large-10{
+      float: none;
+      clear: both;
+      margin: 0 auto;
+      h3{
+        text-align: center;
+      }
+    }
+    
+
   }
-  
 }
+  

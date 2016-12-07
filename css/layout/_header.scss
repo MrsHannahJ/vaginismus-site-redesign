@@ -13,8 +13,11 @@ header{
   color: $light-gray-text;
   font-size: 1rem;
   font-family: $accent-font-common;
-  min-height: 3.75em;
+//  min-height: 3.75em;
 
+  &:after {
+  @extend %clearfix;
+      }
 
 
 .top-bar {
