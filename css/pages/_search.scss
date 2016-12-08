@@ -21,9 +21,8 @@
       text-align: left;
       text-decoration: none;
       padding-top: 0;
-      padding-bottom: 0.5rem;
-      font-family: $accent-font-common;
-      
+      padding-bottom: 1rem;
+      font-family: $accent-font-common;  
     }
     a{
       font-weight: 400;
@@ -72,18 +71,24 @@
         font-weight: 600;
       }
     }
-    .site-map-cust-faq, .site-map-preg-faq, .site-map-treat-faq{
-      margin-top: 1rem;
-    }
-    .large-10{
-      float: none;
-      clear: both;
-      margin: 0 auto;
-      h3{
-        text-align: center;
+    @media screen and (min-width:$breakpoint-medium){
+      .site-map-cust-faq, .site-map-preg-faq, .site-map-treat-faq{
+        margin-top: 1rem;
       }
     }
-    
+    @media screen and (min-width:$breakpoint-medium) and (max-width:$breakpoint-large){
+      .large-4.site-map-col-1{
+        padding-bottom: 0;
+      }
+      .large-4.site-map-col-2{
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+      .large-4.site-map-col-3{
+        padding-top: 0;
+      }
+    }
+   
 
   }
 }
