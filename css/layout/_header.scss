@@ -9,7 +9,7 @@ header{
   -webkit-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
   -moz-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
   box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
-  
+  position: relative;
   color: $light-gray-text;
   font-size: 1rem;
   font-family: $accent-font-common;
@@ -34,9 +34,10 @@ header{
 }
 
 .cart,
-.search {
+.search,
+.contact{
   float: right;
-  max-width: 2.25em;
+  max-width: 1.75em;
   margin-top: .75em;
   margin-right: 1em;
 }
@@ -91,19 +92,19 @@ header{
   left: auto;
   left: 6px;
   bottom: -4px;
-  -moz-transform-origin: left bottom;
-  -ms-transform-origin: left bottom;
-  -webkit-transform-origin: left bottom;
-  transform-origin: left bottom;
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
+//  -moz-transform-origin: left bottom;
+//  -ms-transform-origin: left bottom;
+//  -webkit-transform-origin: left bottom;
+//  transform-origin: left bottom;
+//  -moz-transform: rotate(45deg);
+//  -ms-transform: rotate(45deg);
+//  -webkit-transform: rotate(45deg);
+//  transform: rotate(45deg);
 }
 
   #button {
-  width: 40px;
-  height: 40px;
+  width: 2rem;
+  height: 2rem;
 //  padding: 6px;
   float: right;
 }
@@ -207,6 +208,32 @@ header{
   transition: opacity 0.5s ease-in-out 0s;
 }
 
+/* ----------- */
+/* Breadcrumbs */
+/* ----------- */
+
+  #cssmenu .breadcrumbs{
+    text-align: left;
+//    border-bottom: 1px solid rgba(101,101,101,0.4);
+    font-size: .9rem;
+    padding: 0.5rem 0 0.5rem 35px;
+    text-indent: -35px;
+    a,p{
+      display:inline;
+      font-weight: 400;
+      word-wrap: break-word;
+      color: $brand;
+      padding-right: 5px;
+      padding-left: 5px;
+    }
+    .current{
+      color:$light-gray-text;
+    }
+    .hamburger-logo{
+      width: 25px;
+      vertical-align: middle;
+    }
+  }
 
 /* -------- */
 /* Sub Menu */
@@ -231,12 +258,7 @@ header{
   line-height: 1.3;
 }
 
-#cssmenu > ul > li:first-child > a {
-  color: $brand;
-}
-#cssmenu > ul > li:last-child {
-border-bottom: 1px solid rgba(101,101,101,0.4);
-}
+
 
 #cssmenu > ul > li {
   background: $white;
@@ -245,18 +267,23 @@ border-bottom: 1px solid rgba(101,101,101,0.4);
 #cssmenu > ul > li > a {
   display: block;
   color: $light-gray-text;
-  border-top: 1px solid rgba(101,101,101,0.4);
 }
 #cssmenu > ul > li > a  {
   display: block;
-  padding: 12px 10px;
-  text-transform: uppercase;
+  padding: 10px;
+  font-weight: 600;
+//  text-transform: uppercase;
 }
-#cssmenu > ul > li > a:hover {
-  text-decoration: none;
-}
-#cssmenu > ul > li.active {
-  border-bottom: none;
+
+  .hamburger-icon{
+    width: 23px;
+    vertical-align: text-bottom;
+    margin-right: 10px;
+  }
+  
+#cssmenu > ul > li.has-sub.active {
+  border-top: 1px solid rgba(101,101,101,0.4);
+  border-bottom: 1px solid rgba(101,101,101,0.4);
 }
 #cssmenu > ul > li.has-sub > a span img, #cssmenu > ul > li > a span img{
   float: right;
@@ -272,40 +299,191 @@ border-bottom: 1px solid rgba(101,101,101,0.4);
 
 }
 
-#cssmenu ul ul {
+#cssmenu ul ul{
   display: none;
   background: $white;
   left: 15px;
 }
 
+#cssmenu ul ul li a{
+  line-height: 1.1;
+  }
+#cssmenu ul ul li:first-child a{
+  padding-top: 0;
+}
 #cssmenu ul ul a {
-  padding: 10px;
+  padding: 8px;
   display: block;
   font-weight: normal;
   padding-left: 15px;
   text-indent: -15px;
 }
+  
 #cssmenu ul ul a i {
   padding: 0;
   margin: 0;
   color: $brand;
+  margin-left: 10px;
   &:after, &:before{
     padding: 0;
     margin: 0;
+    
   }
 }
 
+//  cart icon
+  #cssmenu ul ul a img{
+    width:20px;
+    vertical-align: text-bottom;
+    margin-left: 10px;
+  }
+  .desktop-nav, .breadcrumbs-desktop{
+    display: none;
+    
+  }
+  
+
+//  DESKTOP HEADER
+  @media screen and (min-width: $breakpoint-large){
+    .mobile-menu{
+      position: absolute !important;
+      clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+      clip: rect(1px, 1px, 1px, 1px);
+      padding: 0 !important;
+      border: 0 !important;
+      height: 1px !important;
+      width: 1px !important;
+      overflow: hidden;
+    }
+
+    
+  .desktop-nav{
+    display:inherit;
+//    padding: 0.5rem;
+    
+
+    .search, .cart{
+      float: right;
+    }
+    .logo{
+      margin-left: 1rem;
+    }
+//    .cart{
+//      margin-right: 0.5rem;
+//    }
+    ul{
+      float: right;
+      position:relative;
+      margin:0;
+      padding:0;
+      padding-right: 5rem;
+      a{
+        display:block;
+        &:hover{
+          color: $brand;
+          opacity: 1;
+          transition: none;
+        }
+      }
+      li{
+        display: inline-block;
+//        margin: 0 0.5rem;
+        text-align: center;
+//        line-height: 1;
+        position:relative;
+        float:left;
+        margin:0;
+        padding:0;
+        vertical-align:middle;
+        a{
+          color: $light-gray-text;
+          font-size: 0.85rem;
+          padding: 1rem 0.5rem 0 0.5rem;
+        }
+      }
+      ul{
+       	display:none;
+        position:absolute;
+//        top:100%;
+//        left:0;
+        background:$white;
+        padding:0;
+        -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        li{
+    	  float:none;
+	      width:200px;
+          padding-left: 15px;
+          &:hover{
+            background: $light-gray-background;
+            
+//            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+39,0.65+100 */
+//background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 39%, rgba(0,0,0,0.2) 100%); /* FF3.6-15 */
+//background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 39%,rgba(0,0,0,0.2) 100%); /* Chrome10-25,Safari5.1-6 */
+//background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 39%,rgba(0,0,0,0.2) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
+
+          }
+        }
+        a{
+          font-size: 0.85rem;
+          line-height:1.1;
+          padding:8px 0;
+          text-align: left;
+          padding: 8px;
+          padding-left: 15px;
+          text-indent: -15px;
+          img{
+            width:20px;
+            vertical-align: text-bottom;
+            margin-left: 10px;
+          }
+          i{
+            margin: 0;
+            color: $brand;
+          }
+        }
+        
+      }
+    }
+  }
 
 
 
-
-
- 
-
+  .desktop-nav ul li:hover > ul{
+    display:block;
+  }
+    
+/* ----------- */
+/* Breadcrumbs */
+/* ----------- */
+  .breadcrumbs-desktop{
+    clear: both;
+    display: block;
+    text-align: left;
+    margin-right: 0.5rem;
+                /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+39,0.65+100 */
+background: -moz-linear-gradient(left,  rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
+    a{
+      font-size: .9rem;
+      display:inline;
+      font-weight: 400;
+      word-wrap: break-word;
+      color: $brand;
+      padding: 0 0.5rem;
+    }
+    .hamburger-logo{
+      width: 20px;
+      vertical-align: middle;
+    }
+  }
+    
+//end desktop
+  }
+//end header
 }
-  
-  
-
-  
-  
   

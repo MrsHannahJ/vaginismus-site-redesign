@@ -7,6 +7,7 @@
 
 
   #site-map{
+    
     @media screen and (max-width: $breakpoint-medium){
       [class*='large-'], [class*='medium-'] {
         padding-bottom: 0;
@@ -16,20 +17,40 @@
     h1{
       padding-top: 1.5rem;
     }
-
-    h2, h3, h4{
-      text-align: left;
-      text-decoration: none;
-      padding-top: 0;
-      padding-bottom: 1rem;
-      font-family: $accent-font-common;  
+    
+    p{
+      text-align: center;
     }
     a{
       font-weight: 400;
       color: $light-gray-text;
+      padding-bottom: 1rem;
     }
-    p{
-      text-align: center;
+    
+    h2, h3, h4{
+      text-align: left;
+      text-decoration: none;
+      font-family: $accent-font-common;
+    }
+    
+    h2{
+      font-size: 1.5rem;
+      font-weight: 400;
+      a{
+        font-size: inherit;
+      }
+      img{
+        transform: rotate(-90deg);
+        max-width: 2rem;
+        vertical-align: bottom;
+      }
+    }
+    
+    h3{
+      padding-bottom: 0.5rem;
+      a{
+        font-weight: 600;
+      }
     }
     
     ul{
@@ -37,8 +58,10 @@
       li{
         margin-left: 15px;
         text-indent: -15px;
+        padding-bottom: 1rem;
       }
     }
+    
     i{
       font-size: 14px;
       color: $brand;
@@ -47,48 +70,41 @@
       }
     }
 
-    #site-map-resources, #site-map-faq, #site-map-languages{
-      margin-top: 2rem;
-    }
-    #site-map-home h1, #site-map-resources h2, #site-map-faq h2, #site-map-languages h2{
-      text-align: left;
-      font-family: $accent-font-common;
-      text-transform: uppercase;
-      a{
-        font-size: 1.75rem;
+    #site-map-uv{
+      .large-4{
+        padding-bottom: 0;
       }
-      img{
-        transform: rotate(-90deg);
-        max-width: 2rem;
-        vertical-align: text-bottom;
+      .large-6{
+        padding-top:0;
       }
-
     }
     
-    #site-map-home h2, #site-map-resources h3, #site-map-faq h3, #site-map-languages h3{
-      text-transform:uppercase;
-      a{
-        font-weight: 600;
+    .wrapper.site-map-faq{
+      padding-top: 0;
+      h3{
+        padding-left: 1rem;
+      }
+      h4{
+        text-indent: 10px;
+        padding: 1rem 0;
+        a{
+          font-weight: 600;
+        }
+        
       }
     }
-    @media screen and (min-width:$breakpoint-medium){
-      .site-map-cust-faq, .site-map-preg-faq, .site-map-treat-faq{
-        margin-top: 1rem;
-      }
-    }
-    @media screen and (min-width:$breakpoint-medium) and (max-width:$breakpoint-large){
-      .large-4.site-map-col-1{
-        padding-bottom: 0;
-      }
-      .large-4.site-map-col-2{
-        padding-top: 0;
-        padding-bottom: 0;
-      }
-      .large-4.site-map-col-3{
-        padding-top: 0;
-      }
+
+    #site-map-uv, #site-map-resources, #site-map-home,#site-map-languages{
+      font-family: $accent-font-common;
     }
    
+    @media screen and (max-width: $breakpoint-large){
+      #site-map-resources .large-4{
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+    }
+
 
   }
 }

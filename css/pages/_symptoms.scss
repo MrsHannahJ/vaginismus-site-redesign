@@ -127,7 +127,15 @@
   }
 }
 
-
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #symptoms .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/ar/symptoms-ar.jpg");
+    background-position: right;
+    }
+  }
+}
 
   
     

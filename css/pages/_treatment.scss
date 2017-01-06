@@ -123,6 +123,16 @@
   }
 //end page
 }
+
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #treatment .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/tr/treatment-tr.jpg");
+    background-position: left;
+    }
+  }
+}
         
   
 

@@ -76,7 +76,40 @@
 }
         
   
+//ESPANOL & PORTUGUESE
 
+:lang(es), :lang(pt){
+  #stories .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/es/stories-header-es.jpg");
+    background-position: right;
+    .hero-text{
+      background: $white-opaque;
+    }
+    }
+  }
+
+}
+
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #stories .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/ar/stories-header-ar.jpg");
+    background-position: right;
+    .hero-text{
+      background: $white-opaque;
+    }
+    }
+  }
+}
+:lang(ar){
+  #stories .hero-text{
+  @media screen and (min-width: $breakpoint-medium){
+   float: left;
+    }
+  }
+}
 
 
 

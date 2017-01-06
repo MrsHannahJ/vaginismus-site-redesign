@@ -26,7 +26,7 @@
       background: $light-gray-background;
       background-size: cover;
       background-repeat: no-repeat;
-      background-position: right;
+//      background-position: left;
     }
   //TABLET ONLY
   @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
@@ -37,9 +37,11 @@
   //TABLET AND ABOVE
     .hero-banner-image{
       @media screen and (min-width: $breakpoint-medium){
-        background: url(../img/contact-us/contact-us-hero.png);
+        background: url(../../img/contact-us/contact-us.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: left;
+        padding: 5% 0;
     
         .hero-text{
           background: $white-opaque;

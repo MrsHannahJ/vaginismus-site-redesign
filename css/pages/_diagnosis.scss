@@ -53,10 +53,10 @@
       }
 //TABLET ONLY
       @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
-//        .hero-text{
-//          background: $white-opaque;
-//          padding: 1rem;
-//        }
+        .hero-text{
+          background: $white-opaque;
+          padding: 1rem;
+        }
         background: url(../img/diagnosis/diagnosis-hero-tablet.jpg)
       }
 //TABLET
@@ -65,7 +65,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: right;
-        height: 400px;
+//        height: 400px;
         .hero-text{
           padding: 0;
         }
@@ -109,9 +109,35 @@
 }
         
   
+//ESPANOL & PORTUGUESE
 
+:lang(es), :lang(pt){
+  #diagnosis .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/es/diagnosis-header-es.jpg");
+    background-position: right;
+    }
+  }
 
+}
 
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #diagnosis .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/ar/diagnosis-header-ar.jpg");
+    background-position: right;
+//    background-size: auto;
+    }
+  }
+}
+:lang(ar){
+  #diagnosis .hero-text{
+  @media screen and (min-width: $breakpoint-medium){
+    float: left;
+    }
+  }
+}
 
   
     
