@@ -5,11 +5,12 @@
 
 /*---------HERO---------------*/
 .hero-banner-image{
+
 //  background-image: url("../img/home/home-header-mobile.jpg");
   h1{
     font-family: $accent-font-rare;
-    line-height: 1.3;
-    @include font-size(28px);
+//    line-height: 1.3;
+//    @include font-size(28px);
     padding-bottom: 0.5rem;
   }
   
@@ -38,19 +39,22 @@
     background-image: url("../img/home/home-header-en.jpg");
     background-position: right;
     background-size: cover;
-    .hero-text-right{
-       width: 45%;
-      i{
-        padding-right: 10px;
-      }
+    .hero-text{
+//       width: 45%;
+//      i{
+//        padding-right: 10px;
+//      }
       h1{
         text-align: left;
-        @include font-size(30px);
+//        @include font-size(30px);
       }
       li{
         line-height: 1.5;
-        @include font-size(17px);
+        padding-left: 20px;
+        text-indent: -20px;
+//        @include font-size(17px);
       }
+
     }
   }
 }
@@ -164,11 +168,11 @@
   padding: 0;
   h2{
     color: $dark-gray-text;
-    @include font-size(24px);
+//    @include font-size(24px);
   }
   h3{
     color: $dark-gray-text;
-    @include font-size(20px);
+//    @include font-size(20px);
   }
   img{
     padding-bottom: 10%;
@@ -227,6 +231,9 @@
   #highlighted-content{
     margin: 0;
     padding: 0;
+    .large-4{
+      width: 40%;
+    }
     .hc-text, .hc-text h2, .hc-text h3{
       text-align: left;
     }
@@ -242,7 +249,7 @@
       }
       a{
         text-align: center;
-        width: 35%;
+        width: 40%;
       }
     }
     .highlighted-content-2, .highlighted-content-3, .highlighted-content-4{
@@ -254,7 +261,7 @@
     }
     .highlighted-content-2{
       background-image: url(../img/home/home-community.jpg);
-      background-position: left;
+      background-position: 10% 50%;
     }
     .highlighted-content-3{
       background-image: url(../img/home/home-atrophy.jpg);
@@ -262,7 +269,7 @@
     }
     .highlighted-content-4{
       background-image: url(../img/home/home-pregnancy.jpg);
-      background-position: left;
+      background-position: 20% 50%;
     }
     .highlighted-content-2 .hc-text, .highlighted-content-4 .hc-text{
       float: right;

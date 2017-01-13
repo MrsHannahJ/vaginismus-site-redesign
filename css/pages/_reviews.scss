@@ -19,7 +19,7 @@
       margin: 0 auto;
     }
     h2{
-      @include font-size(28px);
+//      @include font-size(28px);
     }
     ul{
       padding: 1rem 0;
@@ -28,35 +28,65 @@
     ul li{
       list-style: disc;
       padding-bottom: 1rem;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
     
 /*---------HERO---------------*/
 
-    .hero-banner-image{
-      background: $light-gray-background;
+//    .hero-banner-image{
+//      background: $light-gray-background;
+//      background-size: cover;
+//      background-repeat: no-repeat;
+//      background-position: right;
+//    }
+  //TABLET
+//    .hero-banner-image{
+//      @media screen and (min-width: $breakpoint-medium){
+//        background: url(../img/feedback/feedback-hero.jpg);
+//        background-size: cover;
+//        background-repeat: no-repeat;
+//        .hero-text{
+//          background: $white-opaque;
+//          padding: 0 1rem 0.5rem;
+//        }
+//      }
+//      @media screen and (min-width: $breakpoint-medium) and (max-width: $breakpoint-large){
+//        .hero-text{
+//          width: 100%;
+//        }
+//      }
+//    }
+   .hero-banner-image{
+    background: $light-gray-background;
+//    @media screen and (min-width: $breakpoint-medium){
+//      background-image: url(../img/resources/resources-hero.jpg);
+//      .hero-text{
+//        background: $white-opaque;
+//        padding: 0 1rem 0.5rem;
+//      }
+//    }
+    
+      //TABLET AND ABOVE
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(../img/feedback/feedback-hero.jpg);
       background-size: cover;
       background-repeat: no-repeat;
-      background-position: right;
-    }
-  //TABLET
-    .hero-banner-image{
-      @media screen and (min-width: $breakpoint-medium){
-        background: url(../img/feedback/feedback-hero.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        .hero-text{
-          background: $white-opaque;
-          padding: 0.5rem;
-        }
-      }
-      @media screen and (min-width: $breakpoint-medium) and (max-width: $breakpoint-large){
-        .hero-text{
-          width: 100%;
-        }
+      background-position: 10% 50%;
+      .hero-text{
+        width: 100%;
+        background: $white-opaque;
+        padding: 0 1rem 0.5rem;
       }
     }
-    
+      //DESKTOP ONLY
+
+    @media screen and (min-width: $breakpoint-large){
+      padding: 5%;
+      .hero-text{
+        width: 60%;
+      }
+    }
+  }
      
 
     

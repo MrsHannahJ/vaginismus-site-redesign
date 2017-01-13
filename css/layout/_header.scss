@@ -38,7 +38,7 @@ header{
 .contact{
   float: right;
   max-width: 1.75em;
-  margin-top: .75em;
+  margin-top: 1em;
   margin-right: 1em;
 }
 
@@ -364,26 +364,23 @@ header{
 
     .search, .cart{
       float: right;
+      margin-top: 0.5rem;
     }
     .logo{
       margin-left: 1rem;
+      margin-top: 0.5rem;
     }
 //    .cart{
 //      margin-right: 0.5rem;
 //    }
     ul{
-      float: right;
+//      float: right;
       position:relative;
       margin:0;
       padding:0;
-      padding-right: 5rem;
-      a{
-        display:block;
-        &:hover{
-          color: $brand;
-          opacity: 1;
-          transition: none;
-        }
+      padding-left: 25%;
+      padding-top: 0.5rem;
+
       }
       li{
         display: inline-block;
@@ -391,32 +388,61 @@ header{
         text-align: center;
 //        line-height: 1;
         position:relative;
-        float:left;
+//        float:left;
         margin:0;
         padding:0;
-        vertical-align:middle;
-        a{
+//        vertical-align:middle;
+//        width: 10%;
+//        margin-top: 0.4rem;
+        border-left: 1px solid $gray-background;
+        &:first-child{
+          border: none;
+        }
+      a{
+//        color: $light-gray-text;
+        @include font-size(16px);
+//        padding: 1rem 0.5rem 0 0.5rem;
+        padding: 0 1rem;
+        
+        display:block;
+        color: $dark-gray-text;
+        font-weight: 500;
+        text-align: left;
+        &:hover{
+          color: $brand;
+          opacity: 1;
+          transition: none;
+        }
+        
+        span{
+         @include font-size(13px);
           color: $light-gray-text;
-          font-size: 0.85rem;
-          padding: 1rem 0.5rem 0 0.5rem;
+          font-weight: 400;
+          padding-left: 0.5rem;
+          opacity: 0.8;
+          
         }
       }
       ul{
        	display:none;
         position:absolute;
+        z-index: 999;
 //        top:100%;
 //        left:0;
         background:$white;
         padding:0;
+
         -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
         -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
         box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
         li{
     	  float:none;
 	      width:200px;
+          z-index: 999;
           padding-left: 15px;
           &:hover{
             background: $light-gray-background;
+            
             
 //            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+39,0.65+100 */
 //background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 39%, rgba(0,0,0,0.2) 100%); /* FF3.6-15 */
@@ -427,7 +453,7 @@ header{
           }
         }
         a{
-          font-size: 0.85rem;
+          font-size: 0.9rem;
           line-height:1.1;
           padding:8px 0;
           text-align: left;
@@ -458,29 +484,28 @@ header{
 /* ----------- */
 /* Breadcrumbs */
 /* ----------- */
-  .breadcrumbs-desktop{
-    clear: both;
-    display: block;
-    text-align: left;
-    margin-right: 0.5rem;
-                /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+39,0.65+100 */
-background: -moz-linear-gradient(left,  rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
-    a{
-      font-size: .9rem;
-      display:inline;
-      font-weight: 400;
-      word-wrap: break-word;
-      color: $brand;
-      padding: 0 0.5rem;
-    }
-    .hamburger-logo{
-      width: 20px;
-      vertical-align: middle;
-    }
-  }
+//  .breadcrumbs-desktop{
+//    clear: both;
+//    display: block;
+//    text-align: left;
+//    margin-left: 3rem;
+//background: -moz-linear-gradient(left,  rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+//background: -webkit-linear-gradient(left,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+//background: linear-gradient(to right,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
+//    a{
+//      font-size: .8rem;
+//      display:inline;
+//      font-weight: 400;
+//      word-wrap: break-word;
+//      color: $brand;
+//      padding: 0 0.5rem;
+//    }
+//    .hamburger-logo{
+//      width: 20px;
+//      vertical-align: middle;
+//    }
+//  }
     
 //end desktop
   }

@@ -17,7 +17,7 @@
       width: 100%;
     }
     h3{
-      @include font-size(24px);
+//      @include font-size(24px);
       font-weight: bold;
       font-style: italic;
       text-align: left;
@@ -25,7 +25,7 @@
       padding-top: 0.5rem;
     }
     h4{
-      @include font-size(22px);
+//      @include font-size(22px);
       font-style: italic;
       text-align: left;
       font-weight: normal;
@@ -38,7 +38,9 @@
     .hero-banner-image{
       background: $light-gray-background;
       h3{
-        @include font-size(22px);
+//        @include font-size(22px);
+        text-align: center;
+        color: $light-gray-text;
       }
     }
 //TABLET ONLY

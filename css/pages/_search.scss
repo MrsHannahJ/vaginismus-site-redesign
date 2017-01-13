@@ -39,6 +39,11 @@
       a{
         font-size: inherit;
       }
+      span{
+        @include font-size(16px);
+        vertical-align: middle;
+        color: $brand;
+      }
       img{
         transform: rotate(-90deg);
         max-width: 2rem;
@@ -94,16 +99,10 @@
       }
     }
 
-    #site-map-uv, #site-map-resources, #site-map-home,#site-map-languages{
+    #site-map-uv, , #site-map-home{
       font-family: $accent-font-common;
     }
-   
-    @media screen and (max-width: $breakpoint-large){
-      #site-map-resources .large-4{
-        padding-top: 0;
-        padding-bottom: 0;
-      }
-    }
+
 
 
   }

@@ -6,7 +6,7 @@
 
 #faq{
   p{
-      @include font-size(16px);
+//      @include font-size(16px);
       margin: 0 0.5rem;
     }
   
@@ -16,23 +16,23 @@
     h1, a{
     color: $white;
     }
-    h1{
-      @include font-size(26px);
-    }
-    a{
-      @include font-size(22px);
-    }
+//    h1{
+////      @include font-size(26px);
+//    }
+//    a{
+////      @include font-size(22px);
+//    }
     img{
       width: 5rem;
     }
-    h2{
-      @include font-size(24px);
-    }
+//    h2{
+//      @include font-size(24px);
+//    }
 
 //DESKTOP
   @media screen and (min-width: $breakpoint-large){
     h1{
-      @include font-size(36px);
+//      @include font-size(36px);
       padding-top: 1rem;
     }
     p{
@@ -112,7 +112,7 @@
 //DESKTOP
     @media screen and (min-width: 980px){
       a{
-        @include font-size(20px);
+//        @include font-size(20px);
       }
       #general-faq{
         background-image:url(../img/faq/faq-general.jpg);
