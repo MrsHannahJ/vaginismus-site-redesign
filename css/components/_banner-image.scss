@@ -35,9 +35,11 @@
 
     padding-left: 1rem;
     padding-right: 5%;
+    li{
+      display:inline;
+    }
     a{
       font-size: 0.9rem;
-      display:inline;
       font-weight: 400;
       word-wrap: break-word;
       color: $brand;

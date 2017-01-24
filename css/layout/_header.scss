@@ -35,7 +35,8 @@ header{
 
 .cart,
 .search,
-.contact{
+.contact,
+.globe{
   float: right;
   max-width: 1.75em;
   margin-top: 1em;
@@ -212,7 +213,7 @@ header{
 /* Breadcrumbs */
 /* ----------- */
 
-  #cssmenu .breadcrumbs{
+  #cssmenu .breadcrumbs-mobile{
     text-align: left;
 //    border-bottom: 1px solid rgba(101,101,101,0.4);
     font-size: .9rem;
@@ -272,6 +273,7 @@ header{
   display: block;
   padding: 10px;
   font-weight: 600;
+  line-height: 1.1;
 //  text-transform: uppercase;
 }
 
@@ -285,12 +287,18 @@ header{
   border-top: 1px solid rgba(101,101,101,0.4);
   border-bottom: 1px solid rgba(101,101,101,0.4);
 }
-#cssmenu > ul > li.has-sub > a span img, #cssmenu > ul > li > a span img{
-  float: right;
-  width: 25px;
-  padding-right: 5px;
-  transform: rotate(-90deg);
-  transition: transform 0.25s linear;
+#cssmenu > ul > li.has-sub > a span, #cssmenu > ul > li > a span{
+  font-size: 13px;
+  font-weight: 400;
+  padding-left: 1rem;
+  img{
+    float: right;
+    width: 25px;
+    padding-right: 5px;
+    transform: rotate(-90deg);
+    transition: transform 0.25s linear;
+  }
+  
 }
 
 #cssmenu > ul > li.has-sub.active > a span img {
@@ -362,9 +370,14 @@ header{
 //    padding: 0.5rem;
     
 
-    .search, .cart{
+    .search, .cart, .contact, .globe{
       float: right;
       margin-top: 0.5rem;
+      margin-right: 0.75rem;
+    }
+    .globe{
+      max-width: 1.5rem;
+//      padding-top: 0.5rem;
     }
     .logo{
       margin-left: 1rem;
@@ -378,7 +391,7 @@ header{
       position:relative;
       margin:0;
       padding:0;
-      padding-left: 25%;
+      padding-left: 23%;
       padding-top: 0.5rem;
 
       }
@@ -386,7 +399,7 @@ header{
         display: inline-block;
 //        margin: 0 0.5rem;
         text-align: center;
-//        line-height: 1;
+        line-height: 1.2;
         position:relative;
 //        float:left;
         margin:0;
@@ -400,14 +413,14 @@ header{
         }
       a{
 //        color: $light-gray-text;
-        @include font-size(16px);
+        @include font-size(14px);
 //        padding: 1rem 0.5rem 0 0.5rem;
         padding: 0 1rem;
         
         display:block;
         color: $dark-gray-text;
         font-weight: 500;
-        text-align: left;
+        text-align: center;
         &:hover{
           color: $brand;
           opacity: 1;
@@ -415,10 +428,10 @@ header{
         }
         
         span{
-         @include font-size(13px);
+         @include font-size(12px);
           color: $light-gray-text;
           font-weight: 400;
-          padding-left: 0.5rem;
+//          padding-left: 0.5rem;
           opacity: 0.8;
           
         }
