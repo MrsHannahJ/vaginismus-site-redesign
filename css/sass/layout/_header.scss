@@ -1,0 +1,527 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site.
+// -----------------------------------------------------------------------------
+
+/*--------------HEADER---------------*/
+
+header{
+  background: $white;
+  -webkit-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  -moz-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  position: relative;
+  color: $light-gray-text;
+  font-size: 1rem;
+  font-family: $accent-font-common;
+//  min-height: 3.75em;
+
+  &:after {
+  @extend %clearfix;
+      }
+
+
+.top-bar {
+  width: -webkit-calc(100% - 75px);
+  width: -moz-calc(100% - 75px);
+  width: calc(100% - 75px);
+  float: right;
+}
+
+.logo {
+  float: left;
+  max-width: 175px;
+  margin-top: 1em;
+}
+
+.cart,
+.search,
+.contact,
+.globe{
+  float: right;
+  max-width: 1.75em;
+  margin-top: 1em;
+  margin-right: 1em;
+}
+
+
+/* --------- */
+/* Slide Out */
+/* --------- */
+
+.nav {
+  position: fixed;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: -250px;
+  z-index: 1000;
+  -moz-transition: left 0.2s ease-in-out 0s;
+  -o-transition: left 0.2s ease-in-out 0s;
+  -webkit-transition: left 0.2s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: left 0.2s ease-in-out 0s;
+  
+  @media screen and (min-width: 375px){
+    left: -340px;
+  }
+}
+
+.nav.open {
+  left: 0;
+  -moz-transition: left 0.3s ease-in-out 0s;
+  -o-transition: left 0.3s ease-in-out 0s;
+  -webkit-transition: left 0.3s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: left 0.3s ease-in-out 0s;
+}
+  
+
+.nav-toggle {
+  display: block;
+  position:absolute;
+  left: 100%;
+  margin: 0.75rem;
+  z-index: 20;
+}
+  .open .nav-toggle{
+    visibility: hidden;
+    transition: left 0.05s ease-in-out 0s;
+  }
+
+.open .nav-toggle:before {
+  width: 100%;
+  left: auto;
+  left: 6px;
+  bottom: -4px;
+//  -moz-transform-origin: left bottom;
+//  -ms-transform-origin: left bottom;
+//  -webkit-transform-origin: left bottom;
+//  transform-origin: left bottom;
+//  -moz-transform: rotate(45deg);
+//  -ms-transform: rotate(45deg);
+//  -webkit-transform: rotate(45deg);
+//  transform: rotate(45deg);
+}
+
+  #button {
+  width: 2rem;
+  height: 2rem;
+//  padding: 6px;
+  float: right;
+}
+
+//.topln,
+//.midln,
+//.bottomln {
+//  width: 100%;
+//  height: 2px;
+//  background-color: $light-gray-text;
+//}
+//
+//.topln {
+//  margin-top: 6px;
+//}
+//
+//.midln,
+//.bottomln {
+//  margin-top: 10px;
+//}
+
+
+.nav-menu {
+  position: relative;
+  padding-top: 20px;
+  padding-top: 1rem;
+  height: 100%;
+  width: 250px;
+  background: $white;
+  overflow:auto;
+  z-index: 10;
+  
+  @media screen and (min-width: 375px){
+    width: 340px;
+  }
+}
+
+.nav-menu ul {
+  list-style-type: none;
+}
+
+.nav-menu li {
+  margin: 0;
+}
+
+.nav-menu a {
+  display: block;
+  padding: 0.4em 1.4em;
+  font-size: 20px;
+  font-size: 1rem;
+  color: $light-gray-text;
+  text-align: left;
+  text-decoration: none;
+  -moz-transition: color 0.3s ease-in-out 0s;
+  -o-transition: color 0.3s ease-in-out 0s;
+  -webkit-transition: color 0.3s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: color 0.3s ease-in-out 0s;
+}
+  
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+  }
+
+
+.nav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #646566;
+  z-index: -1;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
+  -webkit-transition-delay: 0s, 0.6s;
+  transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+}
+
+.nav-overlay.open {
+  z-index: 999;
+  // filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity: 0.8;
+  -moz-transition: opacity 0.5s ease-in-out 0s;
+  -o-transition: opacity 0.5s ease-in-out 0s;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: opacity 0.5s ease-in-out 0s;
+}
+
+/* ----------- */
+/* Breadcrumbs */
+/* ----------- */
+
+  #cssmenu .breadcrumbs-mobile{
+    text-align: left;
+//    border-bottom: 1px solid rgba(101,101,101,0.4);
+    font-size: .9rem;
+    padding: 0.5rem 0 0.5rem 35px;
+    text-indent: -35px;
+    a,p{
+      display:inline;
+      font-weight: 400;
+      word-wrap: break-word;
+      color: $brand;
+      padding-right: 5px;
+      padding-left: 5px;
+    }
+    .current{
+      color:$light-gray-text;
+    }
+    .hamburger-logo{
+      width: 25px;
+      vertical-align: middle;
+    }
+  }
+
+/* -------- */
+/* Sub Menu */
+/* -------- */
+
+#cssmenu,
+#cssmenu ul,
+#cssmenu li,
+#cssmenu a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 1;
+  font-size: 1em;
+  position: relative;
+}
+
+#cssmenu a {
+  line-height: 1.3;
+}
+
+
+
+#cssmenu > ul > li {
+  background: $white;
+}
+
+#cssmenu > ul > li > a {
+  display: block;
+  color: $light-gray-text;
+}
+#cssmenu > ul > li > a  {
+  display: block;
+  padding: 10px;
+  font-weight: 600;
+  line-height: 1.1;
+//  text-transform: uppercase;
+}
+
+  .hamburger-icon{
+    width: 23px;
+    vertical-align: text-bottom;
+    margin-right: 10px;
+  }
+  
+#cssmenu > ul > li.has-sub.active {
+  border-top: 1px solid rgba(101,101,101,0.4);
+  border-bottom: 1px solid rgba(101,101,101,0.4);
+}
+#cssmenu > ul > li.has-sub > a span, #cssmenu > ul > li > a span{
+  font-size: 13px;
+  font-weight: 400;
+  padding-left: 1rem;
+  img{
+    float: right;
+    width: 25px;
+    padding-right: 5px;
+    transform: rotate(-90deg);
+    transition: transform 0.25s linear;
+  }
+  
+}
+
+#cssmenu > ul > li.has-sub.active > a span img {
+  transform: rotate(0deg);
+  transition: transform 0.25s linear;
+
+}
+
+#cssmenu ul ul{
+  display: none;
+  background: $white;
+  left: 15px;
+}
+
+#cssmenu ul ul li a{
+  line-height: 1.1;
+  }
+#cssmenu ul ul li:first-child a{
+  padding-top: 0;
+}
+#cssmenu ul ul a {
+  padding: 8px;
+  display: block;
+  font-weight: normal;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+  
+#cssmenu ul ul a i {
+  padding: 0;
+  margin: 0;
+  color: $brand;
+  margin-left: 10px;
+  &:after, &:before{
+    padding: 0;
+    margin: 0;
+    
+  }
+}
+
+//  cart icon
+  #cssmenu ul ul a img{
+    width:20px;
+    vertical-align: text-bottom;
+    margin-left: 10px;
+  }
+  .desktop-nav, .breadcrumbs-desktop{
+    display: none;
+    
+  }
+  
+
+//  DESKTOP HEADER
+  @media screen and (min-width: $breakpoint-large){
+    .mobile-menu{
+      position: absolute !important;
+      clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+      clip: rect(1px, 1px, 1px, 1px);
+      padding: 0 !important;
+      border: 0 !important;
+      height: 1px !important;
+      width: 1px !important;
+      overflow: hidden;
+    }
+
+    
+  .desktop-nav{
+    display:inherit;
+//    padding: 0.5rem;
+    
+
+    .search, .cart, .contact, .globe{
+      float: right;
+      margin-top: 0.5rem;
+      margin-right: 0.75rem;
+    }
+    .globe{
+      max-width: 1.5rem;
+//      padding-top: 0.5rem;
+    }
+    .logo{
+      margin-left: 1rem;
+      margin-top: 0.5rem;
+    }
+//    .cart{
+//      margin-right: 0.5rem;
+//    }
+    ul{
+//      float: right;
+      position:relative;
+      margin:0;
+      padding:0;
+      padding-left: 23%;
+      padding-top: 0.5rem;
+
+      }
+      li{
+        display: inline-block;
+//        margin: 0 0.5rem;
+        text-align: center;
+        line-height: 1.2;
+        position:relative;
+//        float:left;
+        margin:0;
+        padding:0;
+//        vertical-align:middle;
+//        width: 10%;
+//        margin-top: 0.4rem;
+        border-left: 1px solid $gray-background;
+        &:first-child{
+          border: none;
+        }
+      a{
+//        color: $light-gray-text;
+        @include font-size(14px);
+//        padding: 1rem 0.5rem 0 0.5rem;
+        padding: 0 1rem;
+        
+        display:block;
+        color: $dark-gray-text;
+        font-weight: 500;
+        text-align: center;
+        &:hover{
+          color: $brand;
+          opacity: 1;
+          transition: none;
+        }
+        
+        span{
+         @include font-size(12px);
+          color: $light-gray-text;
+          font-weight: 400;
+//          padding-left: 0.5rem;
+          opacity: 0.8;
+          
+        }
+      }
+      ul{
+       	display:none;
+        position:absolute;
+        z-index: 999;
+//        top:100%;
+//        left:0;
+        background:$white;
+        padding:0;
+
+        -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+        li{
+    	  float:none;
+	      width:200px;
+          z-index: 999;
+          padding-left: 15px;
+          &:hover{
+            background: $light-gray-background;
+            
+            
+//            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+39,0.65+100 */
+//background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 39%, rgba(0,0,0,0.2) 100%); /* FF3.6-15 */
+//background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 39%,rgba(0,0,0,0.2) 100%); /* Chrome10-25,Safari5.1-6 */
+//background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 39%,rgba(0,0,0,0.2) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
+
+          }
+        }
+        a{
+          font-size: 0.9rem;
+          line-height:1.1;
+          padding:8px 0;
+          text-align: left;
+          padding: 8px;
+          padding-left: 15px;
+          text-indent: -15px;
+          img{
+            width:20px;
+            vertical-align: text-bottom;
+            margin-left: 10px;
+          }
+          i{
+            margin: 0;
+            color: $brand;
+          }
+        }
+        
+      }
+    }
+  }
+
+
+
+  .desktop-nav ul li:hover > ul{
+    display:block;
+  }
+    
+/* ----------- */
+/* Breadcrumbs */
+/* ----------- */
+//  .breadcrumbs-desktop{
+//    clear: both;
+//    display: block;
+//    text-align: left;
+//    margin-left: 3rem;
+//background: -moz-linear-gradient(left,  rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+//background: -webkit-linear-gradient(left,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+//background: linear-gradient(to right,  rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=1 ); /* IE6-9 */
+//    a{
+//      font-size: .8rem;
+//      display:inline;
+//      font-weight: 400;
+//      word-wrap: break-word;
+//      color: $brand;
+//      padding: 0 0.5rem;
+//    }
+//    .hamburger-logo{
+//      width: 20px;
+//      vertical-align: middle;
+//    }
+//  }
+    
+//end desktop
+  }
+//end header
+}
+  

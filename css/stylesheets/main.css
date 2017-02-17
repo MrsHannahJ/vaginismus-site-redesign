@@ -1,0 +1,3961 @@
+@charset "UTF-8";
+/*  This is what came in boilerplate
+
+/// Regular font family
+/// @type List
+$text-font-stack: 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
+
+/// Code (monospace) font family
+/// @type List
+$code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
+
+*/
+/*  This is what came in boilerplate
+
+/// Copy text color
+/// @type Color
+$text-color: rgb(34, 34, 34) !default;
+
+/// Main brand color
+/// @type Color
+$brand-color: rgb(229, 0, 80) !default;
+
+/// Light grey
+/// @type Color
+$light-grey: rgb(237, 237, 237) !default;
+
+/// Medium grey
+/// @type Color
+$mid-grey: rgb(153, 153, 153) !default;
+
+/// Dark grey
+/// @type Color
+$dark-grey: rgb(68, 68, 68) !default;
+
+*/
+/*  This is what came in boilerplate
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1180px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+) !default;
+
+*/
+/*This came with the boilerplate */
+/*This came with the boilerplate */
+/*! normalize.css v4.2.0 | MIT License | github.com/necolas/normalize.css */
+/**
+ * 1. Change the default font family in all browsers (opinionated).
+ * 2. Correct the line height in all browsers.
+ * 3. Prevent adjustments of font size after orientation changes in IE and iOS.
+ */
+/* Document
+   ========================================================================== */
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Open+Sans:300,400,400i|Raleway:300,400,500,600,600i|Source+Sans+Pro:400,600";
+@import url("//hello.myfonts.net/count/2fd6f8");
+html {
+  font-family: sans-serif;
+  /* 1 */
+  line-height: 1.15;
+  /* 2 */
+  -ms-text-size-adjust: 100%;
+  /* 3 */
+  -webkit-text-size-adjust: 100%;
+  /* 3 */
+}
+
+/* Sections
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers (opinionated).
+ */
+body {
+  margin: 0;
+}
+
+/**
+ * Add the correct display in IE 9-.
+ */
+article,
+aside,
+footer,
+header,
+nav,
+section {
+  display: block;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * Add the correct display in IE 9-.
+ * 1. Add the correct display in IE.
+ */
+figcaption,
+figure,
+main {
+  /* 1 */
+  display: block;
+}
+
+/**
+ * Add the correct margin in IE 8.
+ */
+figure {
+  margin: 1em 40px;
+}
+
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+hr {
+  box-sizing: content-box;
+  /* 1 */
+  height: 0;
+  /* 1 */
+  overflow: visible;
+  /* 2 */
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+pre {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */
+}
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * 1. Remove the gray background on active links in IE 10.
+ * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
+ */
+a {
+  background-color: transparent;
+  /* 1 */
+  -webkit-text-decoration-skip: objects;
+  /* 2 */
+}
+
+/**
+ * Remove the outline on focused links when they are also active or hovered
+ * in all browsers (opinionated).
+ */
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+/**
+ * 1. Remove the bottom border in Firefox 39-.
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+abbr[title] {
+  border-bottom: none;
+  /* 1 */
+  text-decoration: underline;
+  /* 2 */
+  text-decoration: underline dotted;
+  /* 2 */
+}
+
+/**
+ * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
+ */
+b,
+strong {
+  font-weight: inherit;
+}
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+b,
+strong {
+  font-weight: bolder;
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */
+}
+
+/**
+ * Add the correct font style in Android 4.3-.
+ */
+dfn {
+  font-style: italic;
+}
+
+/**
+ * Add the correct background and color in IE 9-.
+ */
+mark {
+  background-color: #ff0;
+  color: #000;
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Add the correct display in IE 9-.
+ */
+audio,
+video {
+  display: inline-block;
+}
+
+/**
+ * Add the correct display in iOS 4-7.
+ */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/**
+ * Remove the border on images inside links in IE 10-.
+ */
+img {
+  border-style: none;
+}
+
+/**
+ * Hide the overflow in IE.
+ */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* Forms
+   ========================================================================== */
+/**
+ * 1. Change the font styles in all browsers (opinionated).
+ * 2. Remove the margin in Firefox and Safari.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: sans-serif;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+}
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+button,
+input {
+  /* 1 */
+  overflow: visible;
+}
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+button,
+select {
+  /* 1 */
+  text-transform: none;
+}
+
+/**
+ * 1. Prevent a WebKit bug where (2) destroys native `audio` and `video`
+ *    controls in Android 4.
+ * 2. Correct the inability to style clickable types in iOS and Safari.
+ */
+button,
+html [type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+/**
+ * Change the border, margin, and padding in all browsers (opinionated).
+ */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+legend {
+  box-sizing: border-box;
+  /* 1 */
+  color: inherit;
+  /* 2 */
+  display: table;
+  /* 1 */
+  max-width: 100%;
+  /* 1 */
+  padding: 0;
+  /* 3 */
+  white-space: normal;
+  /* 1 */
+}
+
+/**
+ * 1. Add the correct display in IE 9-.
+ * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+progress {
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */
+}
+
+/**
+ * Remove the default vertical scrollbar in IE.
+ */
+textarea {
+  overflow: auto;
+}
+
+/**
+ * 1. Add the correct box sizing in IE 10-.
+ * 2. Remove the padding in IE 10-.
+ */
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */
+}
+
+/**
+ * Remove the inner padding and cancel buttons in Chrome and Safari on OS X.
+ */
+[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+/*
+ * Add the correct display in IE 9-.
+ * 1. Add the correct display in Edge, IE, and Firefox.
+ */
+details,
+menu {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+summary {
+  display: list-item;
+}
+
+/* Scripting
+   ========================================================================== */
+/**
+ * Add the correct display in IE 9-.
+ */
+canvas {
+  display: inline-block;
+}
+
+/**
+ * Add the correct display in IE.
+ */
+template {
+  display: none;
+}
+
+/* Hidden
+   ========================================================================== */
+/**
+ * Add the correct display in IE 10-.
+ */
+[hidden] {
+  display: none;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+/* THis came with boilerplate
+/**
+ * Basic styles for links
+
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  @include on-event {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+ */
+/*------------General Styles---------------- */
+body {
+  background: white;
+  color: #656565;
+}
+
+section {
+  margin: 0;
+  padding: 1rem 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  padding: 0.5rem auto;
+  margin: 0 auto;
+}
+
+p {
+  padding: 0.5rem 0;
+}
+
+a {
+  color: #4eb3b3;
+  text-decoration: none;
+}
+a:hover {
+  opacity: 0.7;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.top-shadow {
+  -webkit-box-shadow: inset 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  -moz-box-shadow: inset 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  box-shadow: inset 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+}
+
+.bottom-shadow {
+  -webkit-box-shadow: inset 0px -5px 4px -4px rgba(8, 8, 8, 0.1);
+  -moz-box-shadow: inset 0px -5px 4px -4px rgba(8, 8, 8, 0.1);
+  box-shadow: inset 0px -5px 4px -4px rgba(8, 8, 8, 0.1);
+}
+
+.outer-shadow {
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+}
+
+.outer-shadow-dark {
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+}
+
+.outline {
+  border: 1px solid #656565;
+  padding: 1.5rem;
+}
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3135224, 2015-12-02T12:47:37-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CaturritaDisplayBold-Bold by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/bold/
+ * Copyright: Copyright (c) 2012 by Armasen Typefaces. 2011 - All rights reserved.. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayRegular by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/regular/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayLight-Light by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/light/
+ * Copyright: Copyright (c) 2015 by Armasen Typefaces. 2011 - All rights reserved. . All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayMedium-Medium by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/medium/
+ * Copyright: Copyright (c) 2015 by Bruno Mello. All rights reserved.
+ * 
+ * Webfont: CaturritaDisplayThin-Thin by Armasen
+ * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/thin/
+ * Copyright: Copyright (c) 2010 by Armasen Typefaces&#x00AE; 2014 - All rights reserved.. All rights reserved.
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3135224
+ * Licensed pageviews: 10,000
+ * 
+ * ┬⌐ 2015 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@font-face {
+  font-family: 'CaturritaDisplayBold-Bold';
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_0_0.eot");
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_0_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'CaturritaDisplayRegular';
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_1_0.eot");
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_1_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'CaturritaDisplayLight-Light';
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot");
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'CaturritaDisplayMedium-Medium';
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_3_0.eot");
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_3_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'CaturritaDisplayThin-Thin';
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_4_0.eot");
+  src: url("../../fonts/caturrita/webfonts/2FD6F8_4_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'fontello';
+  src: url("../../fonts/fontello/font/fontello.eot?44374473");
+  src: url("../../fonts/fontello/font/fontello.eot?44374473#iefix") format("embedded-opentype"), url("../../fonts/fontello/font/fontello.woff2?44374473") format("woff2"), url("../../fonts/fontello/font/fontello.woff?44374473") format("woff"), url("../../fonts/fontello/font/fontello.ttf?44374473") format("truetype"), url("../../fonts/fontello/font/fontello.svg?44374473#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?43083311#fontello') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-check:before {
+  content: '\e800';
+}
+
+/* 'εáÇ' */
+.icon-search:before {
+  content: '\e801';
+}
+
+/* 'εáü' */
+.icon-menu:before {
+  content: '\e802';
+}
+
+/* 'εáé' */
+.icon-down-open-big:before {
+  content: '\e803';
+}
+
+/* 'εáâ' */
+.icon-down-dir:before {
+  content: '\e804';
+}
+
+/* 'εáä' */
+.icon-cancel:before {
+  content: '\e805';
+}
+
+/* 'εáà' */
+.icon-icon_heart:before {
+  content: '\e806';
+}
+
+/* 'εáå' */
+.icon-up-open-big:before {
+  content: '\e807';
+}
+
+/* 'εáç' */
+.icon-icon_lightbulb_alt:before {
+  content: '\e808';
+}
+
+/* 'εáê' */
+.icon-icon_group:before {
+  content: '\e809';
+}
+
+/* 'εáë' */
+.icon-arrow_carrot-2right:before {
+  content: '\e80a';
+}
+
+/* 'εáè' */
+.icon-icon_search:before {
+  content: '\e80b';
+}
+
+/* 'εáï' */
+.icon-icon_menu:before {
+  content: '\e80c';
+}
+
+/* 'εáî' */
+.icon-arrow_carrot-up:before {
+  content: '\e80d';
+}
+
+/* 'εáì' */
+.icon-arrow_triangle-down:before {
+  content: '\e80e';
+}
+
+/* 'εáÄ' */
+.icon-icon_check:before {
+  content: '\e80f';
+}
+
+/* 'εáÅ' */
+.icon-icon_comment_alt:before {
+  content: '\e810';
+}
+
+/* 'εáÉ' */
+.icon-icon_quotations_alt2:before {
+  content: '\e811';
+}
+
+/* 'εáæ' */
+.icon-icon_phone:before {
+  content: '\e812';
+}
+
+/* 'εáÆ' */
+.icon-icon_cart:before {
+  content: '\e813';
+}
+
+/* 'εáô' */
+.icon-icon_puzzle_alt:before {
+  content: '\e814';
+}
+
+/* 'εáö' */
+.icon-icon_close:before {
+  content: '\e815';
+}
+
+/* 'εáò' */
+.icon-cw:before {
+  content: '\e816';
+}
+
+/* 'εáû' */
+.icon-icon_info_alt:before {
+  content: '\e817';
+}
+
+/* 'εáù' */
+.icon-icon_close_alt:before {
+  content: '\e818';
+}
+
+/* 'εáÿ' */
+.icon-icon_shield:before {
+  content: '\e819';
+}
+
+/* 'εáÖ' */
+.icon-icon_book:before {
+  content: '\e81a';
+}
+
+/* 'εáÜ' */
+.icon-icon_question_alt:before {
+  content: '\e81b';
+}
+
+/* 'εá¢' */
+.icon-icon_profile:before {
+  content: '\e81c';
+}
+
+/* 'εá£' */
+.icon-icon_chat:before {
+  content: '\e81d';
+}
+
+/* 'εá¥' */
+.icon-arrow_carrot-down:before {
+  content: '\e81e';
+}
+
+/* 'εá₧' */
+.icon-icon_documents:before {
+  content: '\e81f';
+}
+
+/* 'εáƒ' */
+.icon-arrow_carrot-left:before {
+  content: '\e820';
+}
+
+/* 'εáá' */
+.icon-arrow_carrot-right:before {
+  content: '\e821';
+}
+
+/* 'εáí' */
+.icon-email:before {
+  content: '\e822';
+}
+
+/* 'εáó' */
+.icon-info-circled-alt:before {
+  content: '\f086';
+}
+
+/* '∩éå' */
+.icon-twitter:before {
+  content: '\f099';
+}
+
+/* '∩éÖ' */
+.icon-facebook:before {
+  content: '\f09a';
+}
+
+/* '∩éÜ' */
+.icon-gplus:before {
+  content: '\f0d5';
+}
+
+/* '∩âò' */
+.icon-angle-double-right:before {
+  content: '\f101';
+}
+
+/* '∩äü' */
+.icon-instagram:before {
+  content: '\f16d';
+}
+
+/* '∩à¡' */
+.icon-pinterest:before {
+  content: '\f231';
+}
+
+/* '∩ê▒' */
+/**
+ * Basic typography style for copy text
+**/
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: 32px;
+  font-size: 2rem;
+  color: #4eb3b3;
+  font-family: "CaturritaDisplayLight-Light";
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+}
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: 36px;
+    font-size: 2.25rem;
+  }
+}
+
+h2 {
+  font-size: 26px;
+  font-size: 1.625rem;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  padding-top: 1rem;
+}
+@media screen and (min-width: 980px) {
+  h2 {
+    font-size: 30px;
+    font-size: 1.875rem;
+  }
+}
+
+h3 {
+  font-size: 22px;
+  font-size: 1.375rem;
+  font-family: "Raleway", sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+
+p, li {
+  font-size: 18px;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+a, figcaption, table, th, td {
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}
+
+/**
+ * Clear inner floats
+ */
+.wrapper:after, header:after, clearfix {
+  *zoom: 1;
+}
+.wrapper:after, header:after, clearfix:before, clearfix:after {
+  content: " ";
+  display: table;
+}
+.wrapper:after, header:after, clearfix:after {
+  clear: both;
+}
+
+/**
+ * Main content containers
+ * 1. Make the container full-width with a maximum width
+ * 2. Center it in the viewport
+ * 3. Leave some space on the edges, especially valuable on small screens
+ */
+/* This came with boilerplate
+.container {
+  max-width: $max-width; /* 1 */
+/* This came with boilerplate
+/**
+ * Hide text while making it readable for screen readers
+ * 1. Needed in WebKit-based browsers because of an implementation bug;
+ *    See: https://code.google.com/p/chromium/issues/detail?id=457146
+ */
+/**
+ * Hide element while making it readable for screen readers
+ * Shamelessly borrowed from HTML5Boilerplate:
+ * https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L119-L133
+ */
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+/*------------HELPER STYLES---------------- */
+.invisible {
+  visibility: hidden;
+}
+
+@media screen and (max-width: 767px) {
+  .hidden-mobile {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  .hidden-tablet {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+  }
+}
+@media screen and (min-width: 980px) {
+  .hidden-desktop {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+  }
+}
+#page-container {
+  width: 100%;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+@media screen and (min-width: 980px) {
+  .wrapper {
+    width: 100%;
+    max-width: 1273px;
+  }
+}
+
+[class*='medium-'] {
+  float: left;
+  padding: 1rem;
+  width: 100%;
+}
+
+[class*='large-'] {
+  float: left;
+  padding: 1rem;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  .wrapper {
+    max-width: 780px;
+  }
+
+  .medium-3 {
+    width: 25%;
+  }
+
+  .medium-4 {
+    width: 33.33333%;
+  }
+
+  .medium-6 {
+    width: 50%;
+  }
+
+  .medium-8 {
+    width: 66.66667%;
+  }
+
+  .medium-9 {
+    width: 75%;
+  }
+
+  .medium-12 {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 980px) {
+  .wrapper {
+    width: 80%;
+    max-width: 1273px;
+  }
+
+  .large-1 {
+    width: 8.33333%;
+  }
+
+  .large-2 {
+    width: 16.66667%;
+  }
+
+  .large-3 {
+    width: 25%;
+  }
+
+  .large-4 {
+    width: 33.33333%;
+  }
+
+  .large-5 {
+    width: 41.66667%;
+  }
+
+  .large-6 {
+    width: 50%;
+  }
+
+  .large-7 {
+    width: 58.33333%;
+  }
+
+  .large-8 {
+    width: 66.66667%;
+  }
+
+  .large-9 {
+    width: 75%;
+  }
+
+  .large-10 {
+    width: 83.33333%;
+  }
+
+  .large-11 {
+    width: 91.66667%;
+  }
+
+  .large-12 {
+    width: 100%;
+  }
+}
+/*--------------HEADER---------------*/
+header {
+  background: #ffffff;
+  -webkit-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  -moz-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  position: relative;
+  color: #656565;
+  font-size: 1rem;
+  font-family: "Raleway", sans-serif;
+  /* --------- */
+  /* Slide Out */
+  /* --------- */
+  /* ----------- */
+  /* Breadcrumbs */
+  /* ----------- */
+  /* -------- */
+  /* Sub Menu */
+  /* -------- */
+}
+header .top-bar {
+  width: -webkit-calc(100% - 75px);
+  width: -moz-calc(100% - 75px);
+  width: calc(100% - 75px);
+  float: right;
+}
+header .logo {
+  float: left;
+  max-width: 175px;
+  margin-top: 1em;
+}
+header .cart,
+header .search,
+header .contact,
+header .globe {
+  float: right;
+  max-width: 1.75em;
+  margin-top: 1em;
+  margin-right: 1em;
+}
+header .nav {
+  position: fixed;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: -250px;
+  z-index: 1000;
+  -moz-transition: left 0.2s ease-in-out 0s;
+  -o-transition: left 0.2s ease-in-out 0s;
+  -webkit-transition: left 0.2s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: left 0.2s ease-in-out 0s;
+}
+@media screen and (min-width: 375px) {
+  header .nav {
+    left: -340px;
+  }
+}
+header .nav.open {
+  left: 0;
+  -moz-transition: left 0.3s ease-in-out 0s;
+  -o-transition: left 0.3s ease-in-out 0s;
+  -webkit-transition: left 0.3s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: left 0.3s ease-in-out 0s;
+}
+header .nav-toggle {
+  display: block;
+  position: absolute;
+  left: 100%;
+  margin: 0.75rem;
+  z-index: 20;
+}
+header .open .nav-toggle {
+  visibility: hidden;
+  transition: left 0.05s ease-in-out 0s;
+}
+header .open .nav-toggle:before {
+  width: 100%;
+  left: auto;
+  left: 6px;
+  bottom: -4px;
+}
+header #button {
+  width: 2rem;
+  height: 2rem;
+  float: right;
+}
+header .nav-menu {
+  position: relative;
+  padding-top: 20px;
+  padding-top: 1rem;
+  height: 100%;
+  width: 250px;
+  background: #ffffff;
+  overflow: auto;
+  z-index: 10;
+}
+@media screen and (min-width: 375px) {
+  header .nav-menu {
+    width: 340px;
+  }
+}
+header .nav-menu ul {
+  list-style-type: none;
+}
+header .nav-menu li {
+  margin: 0;
+}
+header .nav-menu a {
+  display: block;
+  padding: 0.4em 1.4em;
+  font-size: 20px;
+  font-size: 1rem;
+  color: #656565;
+  text-align: left;
+  text-decoration: none;
+  -moz-transition: color 0.3s ease-in-out 0s;
+  -o-transition: color 0.3s ease-in-out 0s;
+  -webkit-transition: color 0.3s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: color 0.3s ease-in-out 0s;
+}
+header ::-webkit-scrollbar {
+  width: 6px;
+}
+header ::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+header ::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+header .nav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #646566;
+  z-index: -1;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
+  -webkit-transition-delay: 0s, 0.6s;
+  transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+}
+header .nav-overlay.open {
+  z-index: 999;
+  opacity: 0.8;
+  -moz-transition: opacity 0.5s ease-in-out 0s;
+  -o-transition: opacity 0.5s ease-in-out 0s;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -webkit-transition-delay: 0s;
+  transition: opacity 0.5s ease-in-out 0s;
+}
+header #cssmenu .breadcrumbs-mobile {
+  text-align: left;
+  font-size: .9rem;
+  padding: 0.5rem 0 0.5rem 35px;
+  text-indent: -35px;
+}
+header #cssmenu .breadcrumbs-mobile a, header #cssmenu .breadcrumbs-mobile p {
+  display: inline;
+  font-weight: 400;
+  word-wrap: break-word;
+  color: #4eb3b3;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+header #cssmenu .breadcrumbs-mobile .current {
+  color: #656565;
+}
+header #cssmenu .breadcrumbs-mobile .hamburger-logo {
+  width: 25px;
+  vertical-align: middle;
+}
+header #cssmenu,
+header #cssmenu ul,
+header #cssmenu li,
+header #cssmenu a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 1;
+  font-size: 1em;
+  position: relative;
+}
+header #cssmenu a {
+  line-height: 1.3;
+}
+header #cssmenu > ul > li {
+  background: #ffffff;
+}
+header #cssmenu > ul > li > a {
+  display: block;
+  color: #656565;
+}
+header #cssmenu > ul > li > a {
+  display: block;
+  padding: 10px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+header .hamburger-icon {
+  width: 23px;
+  vertical-align: text-bottom;
+  margin-right: 10px;
+}
+header #cssmenu > ul > li.has-sub.active {
+  border-top: 1px solid rgba(101, 101, 101, 0.4);
+  border-bottom: 1px solid rgba(101, 101, 101, 0.4);
+}
+header #cssmenu > ul > li.has-sub > a span, header #cssmenu > ul > li > a span {
+  font-size: 13px;
+  font-weight: 400;
+  padding-left: 1rem;
+}
+header #cssmenu > ul > li.has-sub > a span img, header #cssmenu > ul > li > a span img {
+  float: right;
+  width: 25px;
+  padding-right: 5px;
+  transform: rotate(-90deg);
+  transition: transform 0.25s linear;
+}
+header #cssmenu > ul > li.has-sub.active > a span img {
+  transform: rotate(0deg);
+  transition: transform 0.25s linear;
+}
+header #cssmenu ul ul {
+  display: none;
+  background: #ffffff;
+  left: 15px;
+}
+header #cssmenu ul ul li a {
+  line-height: 1.1;
+}
+header #cssmenu ul ul li:first-child a {
+  padding-top: 0;
+}
+header #cssmenu ul ul a {
+  padding: 8px;
+  display: block;
+  font-weight: normal;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+header #cssmenu ul ul a i {
+  padding: 0;
+  margin: 0;
+  color: #4eb3b3;
+  margin-left: 10px;
+}
+header #cssmenu ul ul a i:after, header #cssmenu ul ul a i:before {
+  padding: 0;
+  margin: 0;
+}
+header #cssmenu ul ul a img {
+  width: 20px;
+  vertical-align: text-bottom;
+  margin-left: 10px;
+}
+header .desktop-nav, header .breadcrumbs-desktop {
+  display: none;
+}
+@media screen and (min-width: 980px) {
+  header {
+    /* ----------- */
+    /* Breadcrumbs */
+    /* ----------- */
+  }
+  header .mobile-menu {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+  }
+  header .desktop-nav {
+    display: inherit;
+  }
+  header .desktop-nav .search, header .desktop-nav .cart, header .desktop-nav .contact, header .desktop-nav .globe {
+    float: right;
+    margin-top: 0.5rem;
+    margin-right: 0.75rem;
+  }
+  header .desktop-nav .globe {
+    max-width: 1.5rem;
+  }
+  header .desktop-nav .logo {
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+  }
+  header .desktop-nav ul {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    padding-left: 23%;
+    padding-top: 0.5rem;
+  }
+  header .desktop-nav li {
+    display: inline-block;
+    text-align: center;
+    line-height: 1.2;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid #e0e0e0;
+  }
+  header .desktop-nav li:first-child {
+    border: none;
+  }
+  header .desktop-nav li a {
+    font-size: 14px;
+    font-size: 0.875rem;
+    padding: 0 1rem;
+    display: block;
+    color: #333333;
+    font-weight: 500;
+    text-align: center;
+  }
+  header .desktop-nav li a:hover {
+    color: #4eb3b3;
+    opacity: 1;
+    transition: none;
+  }
+  header .desktop-nav li a span {
+    font-size: 12px;
+    font-size: 0.75rem;
+    color: #656565;
+    font-weight: 400;
+    opacity: 0.8;
+  }
+  header .desktop-nav li ul {
+    display: none;
+    position: absolute;
+    z-index: 999;
+    background: #ffffff;
+    padding: 0;
+    -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+    -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+    box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  }
+  header .desktop-nav li ul li {
+    float: none;
+    width: 200px;
+    z-index: 999;
+    padding-left: 15px;
+  }
+  header .desktop-nav li ul li:hover {
+    background: #f2f2f2;
+  }
+  header .desktop-nav li ul a {
+    font-size: 0.9rem;
+    line-height: 1.1;
+    padding: 8px 0;
+    text-align: left;
+    padding: 8px;
+    padding-left: 15px;
+    text-indent: -15px;
+  }
+  header .desktop-nav li ul a img {
+    width: 20px;
+    vertical-align: text-bottom;
+    margin-left: 10px;
+  }
+  header .desktop-nav li ul a i {
+    margin: 0;
+    color: #4eb3b3;
+  }
+  header .desktop-nav ul li:hover > ul {
+    display: block;
+  }
+}
+
+/*-------------FOOTER---------------*/
+footer {
+  text-align: center;
+  /*-------------FOOTER (TABLET)---------------*/
+  /*-------------FOOTER (DESKTOP)---------------*/
+}
+footer .social-container li {
+  display: inline;
+  margin: 0 auto;
+}
+footer .social-container img {
+  width: 16%;
+  padding: 1%;
+  max-width: 50px;
+}
+footer .social-container a {
+  opacity: 0.8;
+}
+footer .social-container a:hover {
+  opacity: 1.0;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+footer .secure-badges img {
+  max-width: 250px;
+}
+footer #footer-menu {
+  background-color: #e0e0e0;
+}
+footer #footer-menu li {
+  line-height: 1.8;
+}
+footer #footer-menu a {
+  text-decoration: none;
+  color: #333333;
+}
+footer #copyright img {
+  width: 20%;
+  max-width: 250px;
+}
+footer #copyright p {
+  margin: 1rem;
+  font-size: 12px;
+  font-size: 0.75rem;
+}
+@media screen and (min-width: 768px) {
+  footer .social-container {
+    text-align: left;
+  }
+  footer .social-container img {
+    width: 15%;
+  }
+  footer .secure-badges img {
+    max-width: 60%;
+  }
+}
+@media screen and (min-width: 980px) {
+  footer .secure-badges {
+    text-align: right;
+  }
+  footer #footer-menu li {
+    display: inline-block;
+    margin: 0.5% 0;
+    padding: 0 1%;
+  }
+  footer #footer-menu a {
+    font-size: 14px;
+    font-size: 0.875rem;
+  }
+}
+
+/*-------------SIDEBAR---------------*/
+aside h2 {
+  font-size: 26px;
+  font-size: 1.625rem;
+  margin: 0 0 1rem 0;
+  font-weight: 600;
+}
+aside a {
+  color: #656565;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+}
+aside .active, aside i {
+  color: #4eb3b3;
+}
+aside i:before {
+  font-size: 16px;
+}
+aside ul li {
+  list-style: none;
+  padding-bottom: 1rem;
+  margin-left: 1rem;
+}
+aside .shaded-btn {
+  border-radius: 0;
+  padding: 1rem;
+  font-size: 16px;
+  font-size: 1rem;
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+aside img {
+  width: 80%;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+aside .sidebar-img {
+  text-align: center;
+}
+aside .sidebar-img a {
+  font-size: 16px;
+  font-size: 1rem;
+}
+@media screen and (min-width: 768px) {
+  aside img {
+    max-width: 250px;
+  }
+}
+@media screen and (min-width: 980px) {
+  aside {
+    margin-top: 3rem;
+  }
+  aside ul li {
+    margin-left: 0;
+  }
+  aside h2 {
+    margin: 3rem 0 1rem 0;
+  }
+  aside img {
+    max-width: 150px;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .long-side aside {
+    border-left: 2px solid #f2f2f2;
+  }
+}
+.white-btn, .dark-btn, .shaded-btn, .brand-btn {
+  padding: 0.5rem 1rem;
+  border-width: 1px;
+  border-style: solid;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.white-btn {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: transparent;
+}
+.white-btn:hover {
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.dark-btn {
+  color: #333333;
+  border-color: #333333;
+  background-color: transparent;
+}
+.dark-btn:hover {
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.shaded-btn {
+  color: #333333;
+  border-color: #333333;
+  background-color: #f2f2f2;
+  border: none;
+  font-family: "Raleway", sans-serif;
+}
+.shaded-btn:hover {
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.brand-btn {
+  color: #4eb3b3;
+  border-color: #4eb3b3;
+  background-color: transparent;
+  font-family: "Raleway", sans-serif;
+}
+.brand-btn:hover {
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.call-out {
+  margin: 1rem 0;
+  border-bottom: 4px solid #4eb3b3;
+  border-top: 4px solid #4eb3b3;
+  padding: 5%;
+}
+.call-out p {
+  font-size: 20px;
+  font-size: 1.25rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.testimonial {
+  width: 95%;
+  margin: 0 auto;
+  padding: 1rem;
+  background: white;
+  position: relative;
+}
+.testimonial p {
+  line-height: 1.2;
+}
+
+.testimonial-text {
+  padding: 5% 2%;
+}
+
+.quotes {
+  position: absolute;
+  top: -15px;
+  left: 45%;
+  z-index: 999;
+  width: 32px;
+}
+
+.did-you-know {
+  background: #f2f2f2;
+  text-align: center;
+  width: 90%;
+  margin: 1.5rem auto;
+  padding: 1rem;
+}
+.did-you-know img {
+  max-width: 6rem;
+  margin: 1.5rem;
+}
+.did-you-know h3 {
+  color: #333333;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+  font-size: 1.375rem;
+  padding-bottom: 0;
+}
+.did-you-know p {
+  font-size: 16px;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.25rem 1rem 1rem;
+}
+.did-you-know a {
+  font-size: 16px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+@media screen and (max-width: 768px) {
+  .did-you-know {
+    width: 100%;
+    padding: 0.5rem;
+  }
+}
+
+.pre-footer-nav {
+  background-color: #f2f2f2;
+}
+.pre-footer-nav .large-6 {
+  text-align: center;
+}
+
+.grad1 {
+  color: #ffffff;
+  text-align: center;
+  background: #4eb3b3;
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(45deg, #92cfbe, #4eb3b3);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(45deg, #92cfbe, #4eb3b3);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(45deg, #92cfbe, #4eb3b3);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(45deg, #92cfbe, #4eb3b3);
+  /* Standard syntax (must be last) */
+}
+.grad1 h1, .grad1 h2, .grad1 h3 {
+  color: #ffffff;
+  text-align: center;
+}
+.grad1 a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.has-v-background {
+  background: url(../img/v-background.jpg) no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-position: center;
+}
+
+.hero-banner-image {
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media screen and (min-width: 768px) {
+  .hero-banner-image {
+    padding: 6%;
+  }
+}
+@media screen and (min-width: 980px) {
+  .hero-banner-image {
+    padding: 10%;
+  }
+}
+.hero-banner-image .breadcrumbs-desktop {
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+17,ffffff+100&1+92,0+100 */
+  background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 );
+  /* IE6-9 */
+  padding-left: 1rem;
+  padding-right: 5%;
+}
+.hero-banner-image .breadcrumbs-desktop li {
+  display: inline;
+}
+.hero-banner-image .breadcrumbs-desktop a {
+  font-size: 0.9rem;
+  font-weight: 400;
+  word-wrap: break-word;
+  color: #4eb3b3;
+  padding: 0 0.5rem;
+}
+
+.hero-text, .hero-text-right {
+  text-align: center;
+  line-height: 1.5;
+}
+@media screen and (min-width: 768px) {
+  .hero-text, .hero-text-right {
+    text-align: left;
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .hero-text-right {
+    float: right;
+  }
+}
+
+#home {
+  /*---------HERO---------------*/
+  /*-----------VAGINISMUS BANNER-------------*/
+  /*-----------PRODUCTS SECTION-------------*/
+  /*-----------WHAT IS SECTION-------------*/
+  /*-----------HIGHLIGHTED CONTENT SECTION-------------*/
+  /*-----------REVIEWS SECTION-------------*/
+  /*-----------REVIEWS BANNER-------------*/
+  /*-----------COMMON LINKS SECTION-------------*/
+}
+#home .hero-banner-image h1 {
+  font-family: "CaturritaDisplayLight-Light";
+  padding-bottom: 0.5rem;
+}
+#home .hero-banner-image .icon-check:before {
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+@media screen and (max-width: 767px) {
+  #home .hero-banner-image img {
+    margin-bottom: 0;
+  }
+  #home .hero-banner-image .hero-text-right {
+    padding-top: 0.5rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #home .hero-banner-image {
+    background-image: url(/img/home/home-header-en.jpg);
+    background-position: right;
+    background-size: cover;
+  }
+  #home .hero-banner-image .hero-text h1, #home .hero-banner-image .hero-text-right h1 {
+    text-align: left;
+  }
+  #home .hero-banner-image .hero-text li, #home .hero-banner-image .hero-text-right li {
+    line-height: 1.5;
+    padding-left: 20px;
+    text-indent: -20px;
+  }
+}
+#home .vaginismus-banner {
+  background-color: #4eb3b3;
+  text-align: center;
+  color: #ffffff;
+  height: 5rem;
+}
+#home .vaginismus-banner h3 {
+  padding: 0.5rem;
+}
+#home .vaginismus-banner a {
+  padding: 0.25rem 1rem;
+}
+@media screen and (max-width: 767px) {
+  #home .vaginismus-banner {
+    margin-top: -0.5rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #home .vaginismus-banner {
+    height: 48px;
+    height: 3rem;
+  }
+  #home .vaginismus-banner h3, #home .vaginismus-banner a {
+    display: inline;
+    line-height: 48px;
+    line-height: 3rem;
+  }
+}
+#home #products {
+  text-align: center;
+}
+#home #products h3 {
+  max-width: 400px;
+  color: #656565;
+}
+#home #products a {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+}
+@media screen and (min-width: 768px) {
+  #home #products img {
+    max-width: 100%;
+  }
+}
+#home #what-is-vaginismus {
+  text-align: center;
+  color: #ffffff;
+}
+#home #what-is-vaginismus h3 {
+  font-weight: 600;
+}
+#home #what-is-vaginismus img {
+  width: 30%;
+  max-width: 5rem;
+}
+#home #what-is-vaginismus p {
+  padding-bottom: 0.5rem;
+  max-width: 400px;
+  margin: 0 auto;
+}
+#home #what-is-vaginismus a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+@media screen and (min-width: 768px) {
+  #home #what-is-vaginismus {
+    padding: 1rem 0;
+  }
+}
+@media screen and (min-width: 980px) {
+  #home #what-is-vaginismus #what-is-vaginismus img {
+    width: 50%;
+    max-width: 8rem;
+  }
+}
+#home #highlighted-content {
+  text-align: center;
+  padding: 0;
+}
+#home #highlighted-content h2 {
+  color: #333333;
+}
+#home #highlighted-content h3 {
+  color: #333333;
+}
+#home #highlighted-content img {
+  padding-bottom: 10%;
+}
+#home .highlighted-content-1 a {
+  padding: 4%;
+  display: inline-block;
+  width: 40%;
+  margin: 0.5rem 0.25rem;
+}
+@media screen and (max-width: 979px) {
+  #home .highlighted-content-1, #home .highlighted-content-2, #home .highlighted-content-3 {
+    -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    padding-bottom: 1rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #home #highlighted-content img {
+    padding-bottom: 5%;
+    width: 80%;
+  }
+  #home #highlighted-content .highlighted-content-1 a {
+    padding: 2%;
+    margin: 0.5rem;
+    width: 25%;
+  }
+  #home #highlighted-content .highlighted-content-2 a, #home #highlighted-content .highlighted-content-3 a, #home #highlighted-content .highlighted-content-4 a {
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #home #highlighted-content .highlighted-content-2 p, #home #highlighted-content .highlighted-content-3 p, #home #highlighted-content .highlighted-content-4 p {
+    padding: 0.5rem 0 1rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  #home #highlighted-content {
+    margin: 0;
+    padding: 0;
+  }
+  #home #highlighted-content .large-4 {
+    width: 40%;
+  }
+  #home #highlighted-content .hc-text, #home #highlighted-content .hc-text h2, #home #highlighted-content .hc-text h3 {
+    text-align: left;
+  }
+  #home #highlighted-content .highlighted-content-1 {
+    background: url("/img/home/home-languages.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+  }
+  #home #highlighted-content .highlighted-content-1 .btn-container {
+    padding-top: 2%;
+  }
+  #home #highlighted-content .highlighted-content-1 .btn-row {
+    display: inline;
+  }
+  #home #highlighted-content .highlighted-content-1 a {
+    text-align: center;
+    width: 40%;
+  }
+  #home #highlighted-content .highlighted-content-2, #home #highlighted-content .highlighted-content-3, #home #highlighted-content .highlighted-content-4 {
+    min-height: 400px;
+  }
+  #home #highlighted-content .highlighted-content-2 a, #home #highlighted-content .highlighted-content-3 a, #home #highlighted-content .highlighted-content-4 a {
+    display: inline-block;
+    width: 50%;
+  }
+  #home #highlighted-content .highlighted-content-2 {
+    background-image: url(/img/home/home-community.jpg);
+    background-position: 10% 50%;
+  }
+  #home #highlighted-content .highlighted-content-3 {
+    background-image: url(/img/home/home-atrophy.jpg);
+    background-position: right;
+  }
+  #home #highlighted-content .highlighted-content-4 {
+    background-image: url(/img/home/home-pregnancy.jpg);
+    background-position: 20% 50%;
+  }
+  #home #highlighted-content .highlighted-content-2 .hc-text, #home #highlighted-content .highlighted-content-4 .hc-text {
+    float: right;
+  }
+}
+#home #reviews {
+  padding-bottom: 0;
+  background: url(/img/white-wood-bkgd.jpg);
+  background-size: cover;
+  text-align: center;
+}
+#home #reviews h2 {
+  padding-bottom: 1rem;
+}
+@media screen and (min-width: 980px) {
+  #home #reviews h2 {
+    font-size: 32px;
+    font-size: 2rem;
+  }
+}
+#home .reviews-banner {
+  text-align: center;
+  color: #ffffff;
+  line-height: 80px;
+  height: 5rem;
+}
+#home .reviews-banner a {
+  line-height: 80px;
+  line-height: 5rem;
+}
+@media screen and (min-width: 768px) {
+  #home .reviews-banner {
+    margin-top: 1rem;
+  }
+}
+#home #common-links {
+  text-align: center;
+}
+#home #common-links .common-links-1, #home #common-links .common-links-2, #home #common-links .common-links-3, #home #common-links .common-links-4 {
+  max-width: 275px;
+  margin: 0 auto;
+}
+#home #common-links h4 {
+  padding-bottom: 5%;
+}
+#home #common-links li {
+  text-align: left;
+  list-style: disc;
+}
+#home #common-links a {
+  color: #4eb3b3;
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+@media screen and (min-width: 768px) {
+  :lang(es) #home .hero-banner-image, :lang(pt) #home .hero-banner-image {
+    background-image: url("/img/es/home-header-es.jpg");
+    background-position: left;
+  }
+  :lang(es) #home .hero-banner-image .hero-text, :lang(es) #home .hero-banner-image .hero-text-right, :lang(pt) #home .hero-banner-image .hero-text, :lang(pt) #home .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #home .hero-banner-image, :lang(tr) #home .hero-banner-image {
+    background-image: url("/img/ar/home-header-ar.jpg");
+    background-position: left;
+  }
+}
+
+#symptoms main {
+  /*-------------------------------------*/
+  /*---------SYMPTOMS PAGE---------------*/
+  /*-------------------------------------*/
+  /*---------HERO---------------*/
+  /*---------EXAMPLES OF EFFECTS SECTION---------------*/
+  /*---------VARIATIONS IN EXPERIENCE SECTION--------------*/
+  /*---------INVOLUNTARY SECTION---------------*/
+  /*---------UNCOMMATED MARRIAGES SECTION---------------*/
+}
+#symptoms main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#symptoms main .grad1 a {
+  text-decoration: underline;
+}
+#symptoms main .hero-banner-image {
+  background: #f2f2f2;
+}
+@media screen and (min-width: 768px) {
+  #symptoms main .hero-banner-image {
+    background: url(../img/symptoms/symptoms-header-en.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+#symptoms main ul {
+  padding: 1rem 0;
+}
+@media screen and (max-width: 768px) {
+  #symptoms main ul {
+    margin-left: 1rem;
+  }
+}
+#symptoms main ul li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#symptoms main figcaption {
+  text-align: justify;
+}
+#symptoms main #examples-effects img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+@media screen and (min-width: 980px) {
+  #symptoms main #examples-effects img {
+    width: 100%;
+    max-width: 500px;
+  }
+}
+#symptoms main #variations-experience {
+  background: url(../img/white-wood-bkgd.jpg);
+}
+#symptoms main #variations-experience .did-you-know, #symptoms main #variations-experience .opaque-box {
+  background: rgba(255, 255, 255, 0.7);
+  margin-top: 0;
+  width: 100%;
+}
+#symptoms main #variations-experience .opaque-box h2 {
+  padding-top: 2rem;
+  padding-bottom: 0;
+}
+#symptoms main #variations-experience .opaque-box p {
+  padding: 0.25rem 2rem 0.5rem;
+}
+#symptoms main #variations-experience .opaque-box ul {
+  padding: 0 2rem;
+  margin-left: 2rem;
+}
+#symptoms main #involuntary {
+  padding: 0 1rem 2rem 1rem;
+}
+#symptoms main #unconsummated-marriages h4 {
+  font-weight: 400;
+}
+#symptoms main #unconsummated-marriages img {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}
+@media screen and (min-width: 980px) {
+  #symptoms main #unconsummated-marriages img {
+    width: 100%;
+    max-width: 500px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #symptoms .hero-banner-image, :lang(tr) #symptoms .hero-banner-image {
+    background-image: url("../../img/ar/symptoms-ar.jpg");
+    background-position: right;
+  }
+}
+
+#causes main {
+  /*---------HERO---------------*/
+  /*---------CYCLE OF PAIN SECTION---------------*/
+  /*---------PHYSICAL & NON-PHYSICAL SECTION---------------*/
+  /*---------OTHER MEDICAL CONDITIONS SECTION-------------*/
+  /*---------PC MUSCLES SECTION-------------*/
+  /*---------RETRAINING BANNER-------------*/
+}
+#causes main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#causes main .grad1 a {
+  text-decoration: underline;
+}
+#causes main .hero-banner-image {
+  background: #f2f2f2;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  #causes main .hero-banner-image .hero-text, #causes main .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #causes main .hero-banner-image {
+    background: url(../../img/causes/causes-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+#causes main figcaption {
+  text-align: justify;
+}
+#causes main #cycle-pain .max-500 img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+@media screen and (min-width: 768px) {
+  #causes main #cycle-pain .max-500 img {
+    width: 100%;
+    max-width: 500px;
+  }
+}
+#causes main #non-physical-causes table, #causes main #physical-causes table {
+  border: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+#causes main #non-physical-causes table a, #causes main #physical-causes table a {
+  font-weight: 600;
+}
+#causes main #non-physical-causes table td, #causes main #physical-causes table td {
+  padding: 0.75rem;
+  border: 3px solid #333333;
+  border-collapse: collapse;
+}
+#causes main #non-physical-causes table td:first-child, #causes main #physical-causes table td:first-child {
+  padding-right: 2rem;
+  font-weight: 600;
+}
+#causes main #non-physical-causes table tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+#causes main #physical-causes table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+#causes main #other-medical {
+  background: url(../img/white-wood-bkgd.jpg);
+}
+#causes main #other-medical .did-you-know, #causes main #other-medical .opaque-box {
+  background: rgba(255, 255, 255, 0.7);
+  margin-top: 0;
+  width: 100%;
+}
+#causes main #other-medical .opaque-box {
+  padding-bottom: 2rem;
+}
+#causes main #other-medical .opaque-box h2 {
+  padding: 2rem 0;
+}
+#causes main #other-medical .opaque-box p {
+  padding: 0.25rem 2rem 0.5rem;
+  text-align: center;
+}
+@media screen and (min-width: 980px) {
+  #causes main #pc-muscles figure {
+    margin: 1rem 0;
+  }
+}
+#causes main .body-retraining {
+  padding-bottom: 2rem;
+}
+
+#stories main {
+  /*---------HERO---------------*/
+}
+#stories main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#stories main img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+#stories main h3 {
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  color: #333333;
+  padding-top: 0.5rem;
+}
+#stories main h4 {
+  font-style: italic;
+  text-align: left;
+  font-weight: normal;
+  color: #333333;
+  padding-bottom: 0.25rem;
+}
+#stories main .hero-banner-image {
+  background: #f2f2f2;
+}
+#stories main .hero-banner-image h3 {
+  text-align: center;
+  color: #656565;
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  #stories main {
+    background: url(../img/stories/stories-hero-tablet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (min-width: 768px) {
+  #stories main .hero-banner-image {
+    background: url(../img/stories/stories-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  #stories main .hero-banner-image .hero-text, #stories main .hero-banner-image .hero-text-right {
+    text-align: center;
+  }
+}
+@media screen and (min-width: 980px) {
+  #stories main .hero-banner-image {
+    background-position: right;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(es) #stories .hero-banner-image, :lang(pt) #stories .hero-banner-image {
+    background-image: url("../../img/es/stories-header-es.jpg");
+    background-position: right;
+  }
+  :lang(es) #stories .hero-banner-image .hero-text, :lang(es) #stories .hero-banner-image .hero-text-right, :lang(pt) #stories .hero-banner-image .hero-text, :lang(pt) #stories .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #stories .hero-banner-image, :lang(tr) #stories .hero-banner-image {
+    background-image: url("../../img/ar/stories-header-ar.jpg");
+    background-position: right;
+  }
+  :lang(ar) #stories .hero-banner-image .hero-text, :lang(ar) #stories .hero-banner-image .hero-text-right, :lang(tr) #stories .hero-banner-image .hero-text, :lang(tr) #stories .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #stories .hero-text, :lang(ar) #stories .hero-text-right {
+    float: left;
+  }
+}
+
+#diagnosis main {
+  /*---------HERO---------------*/
+  /*---------QUICK DIAGNOSIS SECTION---------------*/
+  /*---------SAMPLE SCRIPT SECTION---------------*/
+}
+#diagnosis main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#diagnosis main .grad1 a {
+  text-decoration: underline;
+}
+#diagnosis main .grad1 p {
+  text-align: left;
+}
+#diagnosis main img {
+  display: block;
+  margin: 0 auto;
+}
+#diagnosis main h4 {
+  font-weight: 400;
+  padding-bottom: 1rem;
+}
+#diagnosis main ul {
+  padding: 1rem 0;
+  margin-left: 2rem;
+}
+#diagnosis main ul li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#diagnosis main a {
+  font-weight: bold;
+}
+#diagnosis main .hero-banner-image {
+  background: #f2f2f2;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  #diagnosis main .hero-banner-image {
+    background: url(../img/diagnosis/diagnosis-hero-tablet.jpg);
+  }
+  #diagnosis main .hero-banner-image .hero-text, #diagnosis main .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #diagnosis main .hero-banner-image {
+    background: url(../img/diagnosis/diagnosis-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+}
+@media screen and (min-width: 980px) {
+  #diagnosis main .hero-banner-image .hero-text, #diagnosis main .hero-banner-image .hero-text-right {
+    padding: 0;
+  }
+}
+#diagnosis main #quick-diagnosis {
+  text-align: center;
+}
+#diagnosis main #quick-diagnosis img {
+  width: 15%;
+  max-width: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+}
+#diagnosis main #quick-diagnosis .no-float {
+  float: none;
+  margin: 0 auto;
+}
+#diagnosis main #samplescript {
+  background: url(../img/diagnosis/diagnosis-sample.jpg) no-repeat;
+  background-size: cover;
+}
+
+@media screen and (min-width: 768px) {
+  :lang(es) #diagnosis .hero-banner-image, :lang(pt) #diagnosis .hero-banner-image {
+    background-image: url("../../img/es/diagnosis-header-es.jpg");
+    background-position: right;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #diagnosis .hero-banner-image, :lang(tr) #diagnosis .hero-banner-image {
+    background-image: url("../../img/ar/diagnosis-header-ar.jpg");
+    background-position: right;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #diagnosis .hero-text, :lang(ar) #diagnosis .hero-text-right {
+    float: left;
+  }
+}
+
+#treatment main {
+  /*---------HERO---------------*/
+  /*---------TREATMENT OVERVIEW SECTION---------------*/
+  /*---------TREATMENT DETAILS SECTION---------------*/
+  /*---------10 STEPS SECTION---------------*/
+}
+#treatment main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#treatment main .grad1 {
+  padding-bottom: 2rem;
+}
+#treatment main .grad1 a {
+  text-decoration: underline;
+}
+#treatment main img {
+  display: block;
+  margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+  #treatment main ul {
+    margin-left: 1rem;
+  }
+}
+#treatment main ul li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#treatment main h4 {
+  font-weight: 400;
+  padding-bottom: 1rem;
+}
+#treatment main .hero-banner-image {
+  background: #f2f2f2;
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  #treatment main .hero-banner-image .hero-text, #treatment main .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  #treatment main .hero-banner-image {
+    background: url(../img/treatment/treatment-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5% 0;
+    min-height: 25rem;
+  }
+}
+@media screen and (max-width: 980px) {
+  #treatment main #treatment-overview .large-4:nth-child(3) {
+    padding-top: 0;
+  }
+  #treatment main #treatment-overview .large-4:nth-child(2) {
+    padding-bottom: 0;
+  }
+}
+#treatment main .treatment-details {
+  background: url(../img/white-wood-bkgd.jpg);
+}
+#treatment main .treatment-details .opaque-box {
+  background: rgba(255, 255, 255, 0.7);
+  height: 100%;
+  padding-bottom: 2rem;
+  margin-bottom: 1rem;
+}
+#treatment main .treatment-details .opaque-box:nth-child(2) {
+  margin-bottom: 0;
+}
+#treatment main .treatment-details .opaque-box img {
+  padding-top: 2rem;
+}
+#treatment main .treatment-details .opaque-box h2 {
+  padding: 1rem 0.5rem 0.5rem;
+}
+#treatment main .treatment-details .opaque-box p {
+  padding: 0.25rem 2rem 0.5rem;
+  text-align: center;
+}
+#treatment main #ten-steps h4 {
+  margin-bottom: 1rem;
+}
+#treatment main #ten-steps .large-12 {
+  border: 1px solid #656565;
+  margin-bottom: 2rem;
+}
+#treatment main #ten-steps img {
+  float: left;
+  padding: 0 0.5rem 0.5rem 0;
+  margin: 0;
+}
+#treatment main #ten-steps p {
+  padding-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ar) #treatment .hero-banner-image, :lang(tr) #treatment .hero-banner-image {
+    background-image: url("../../img/tr/treatment-tr.jpg");
+    background-position: left;
+  }
+}
+
+#faq {
+  /*---------HERO---------------*/
+  /*---------MAIN---------------*/
+}
+#faq p {
+  margin: 0 0.5rem;
+}
+#faq .faq-index {
+  text-align: center;
+}
+#faq .faq-index h1, #faq .faq-index a {
+  color: #ffffff;
+}
+#faq .faq-index img {
+  width: 5rem;
+}
+@media screen and (min-width: 980px) {
+  #faq .faq-index h1 {
+    padding-top: 1rem;
+  }
+  #faq .faq-index p {
+    padding-bottom: 1rem;
+  }
+}
+#faq main #general-faq .large-8, #faq main #dilator-faq .large-8, #faq main #customer-service-faq .large-8 {
+  float: right;
+}
+#faq main #general-faq h2, #faq main #dilator-faq h2, #faq main #pregnancy-faq h2 {
+  padding-bottom: 1rem;
+}
+#faq main ul {
+  margin-left: 5%;
+}
+#faq main li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#faq main #general-faq {
+  background-image: url(../img/faq/faq-general.jpg);
+}
+#faq main #treatment-faq {
+  background-image: url(../img/faq/faq-treatment.jpg);
+}
+#faq main #treatment-faq .large-6:first-child {
+  padding-bottom: 0;
+}
+#faq main #treatment-faq .large-6:last-child {
+  padding-top: 0;
+}
+#faq main #dilator-faq {
+  background-image: url(../img/faq/faq-dilator.jpg);
+}
+#faq main #pregnancy-faq {
+  background-image: url(../img/faq/faq-pregnancy.jpg);
+}
+#faq main #customer-service-faq {
+  background-image: url(../img/faq/faq-customer.jpg);
+}
+#faq main #customer-service-faq .large-6:first-child {
+  padding-bottom: 0;
+}
+#faq main #customer-service-faq .large-6:last-child {
+  padding-top: 0;
+}
+#faq main #customer-service-faq ul {
+  margin-left: 2.5%;
+}
+#faq main #brochures {
+  background-image: url(../img/faq/faq-brochures.jpg);
+}
+#faq main #brochures .brochure-download {
+  padding: 1rem;
+  display: block;
+}
+@media screen and (min-width: 768px) {
+  #faq main #customer-service-faq .large-6:first-child {
+    padding-bottom: 1rem;
+    padding-top: 0;
+  }
+}
+@media screen and (min-width: 980px) {
+  #faq main #general-faq {
+    background-image: url(../img/faq/faq-general.jpg);
+  }
+  #faq main #general-faq h2 {
+    text-align: left;
+  }
+  #faq main #treatment-faq {
+    background-image: url(../img/faq/faq-treatment.jpg);
+  }
+  #faq main #treatment-faq .large-6:first-child {
+    padding-bottom: 1rem;
+  }
+  #faq main #treatment-faq .large-6:last-child {
+    padding-top: 1rem;
+  }
+  #faq main #dilator-faq {
+    background-image: url(../img/faq/faq-dilator.jpg);
+  }
+  #faq main #dilator-faq h2 {
+    text-align: left;
+  }
+  #faq main #pregnancy-faq {
+    background-image: url(../img/faq/faq-pregnancy.jpg);
+  }
+  #faq main #pregnancy-faq h2 {
+    text-align: left;
+  }
+  #faq main #customer-service-faq {
+    background-image: url(../img/faq/faq-customer.jpg);
+  }
+  #faq main #brochures {
+    background-image: url(../img/faq/faq-brochures.jpg);
+  }
+  #faq main #brochures .brochure-download {
+    padding: 1rem;
+    display: inline-block;
+  }
+}
+
+#reviews main {
+  /*---------HERO---------------*/
+}
+#reviews main .grad1 a {
+  text-decoration: underline;
+}
+#reviews main .grad1 {
+  padding-bottom: 2rem;
+}
+#reviews main img {
+  display: block;
+  margin: 0 auto;
+}
+#reviews main ul {
+  padding: 1rem 0;
+  margin-left: 2rem;
+}
+#reviews main ul li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#reviews main .hero-banner-image {
+  background: #f2f2f2;
+}
+@media screen and (min-width: 768px) {
+  #reviews main .hero-banner-image {
+    background: url(../img/feedback/feedback-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 10% 50%;
+  }
+  #reviews main .hero-banner-image .hero-text, #reviews main .hero-banner-image .hero-text-right {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  #reviews main .hero-banner-image {
+    padding: 5%;
+  }
+  #reviews main .hero-banner-image .hero-text, #reviews main .hero-banner-image .hero-text-right {
+    width: 60%;
+  }
+}
+
+.faq-question section, .resource-page section {
+  margin-top: 2rem;
+  line-height: 1.4;
+}
+@media screen and (max-width: 979px) {
+  .faq-question section, .resource-page section {
+    -webkit-box-shadow: inset 0 -5px 4px -4px rgba(8, 8, 8, 0.1);
+    -moz-box-shadow: inset 0 -5px 4px -4px rgba(8, 8, 8, 0.1);
+    box-shadow: inset 0 -5px 4px -4px rgba(8, 8, 8, 0.1);
+    margin-bottom: 1rem;
+  }
+}
+.faq-question section h1, .resource-page section h1 {
+  padding-bottom: 1rem;
+  font-weight: 500;
+}
+.faq-question section h3, .resource-page section h3 {
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.faq-question section h4, .resource-page section h4 {
+  text-align: left;
+  font-weight: 600;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.faq-question section p, .resource-page section p {
+  padding-bottom: 1rem;
+  font-weight: 400;
+  text-align: justify;
+}
+.faq-question section a, .resource-page section a {
+  font-weight: 600;
+}
+.faq-question section hr, .resource-page section hr {
+  color: #656565;
+  opacity: .5;
+  margin: 1rem 0;
+}
+.faq-question section ul, .resource-page section ul {
+  margin-left: 1rem;
+}
+.faq-question section ul li, .resource-page section ul li {
+  list-style: disc;
+  padding-bottom: 1.5rem;
+}
+.faq-question section ul li:first-child, .resource-page section ul li:first-child {
+  padding-top: 1rem;
+}
+.faq-question section ol, .resource-page section ol {
+  margin-left: 1rem;
+  padding: 0.5rem 0;
+}
+.faq-question section ol li, .resource-page section ol li {
+  list-style: upper-roman;
+  text-indent: 0.5rem;
+  padding-bottom: 1rem;
+}
+.faq-question section figure, .resource-page section figure {
+  text-align: center;
+  margin: 1rem 0;
+}
+.faq-question section figure figcaption p, .faq-question section figure figcaption h3, .resource-page section figure figcaption p, .resource-page section figure figcaption h3 {
+  text-align: center;
+}
+.faq-question section audio, .resource-page section audio {
+  width: 100%;
+  margin: 0.25rem 0 1rem 0;
+}
+.faq-question section table, .resource-page section table {
+  margin: 1rem auto;
+}
+.faq-question section th, .resource-page section th {
+  font-weight: bold;
+  padding: 1rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+.faq-question section thead tr:nth-child(2) th, .resource-page section thead tr:nth-child(2) th {
+  padding: 0.5rem;
+  text-align: left;
+}
+.faq-question section td, .resource-page section td {
+  padding: 0.75rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+.faq-question section td:first-child, .resource-page section td:first-child {
+  width: 30%;
+  padding-right: 1rem;
+}
+.faq-question section .treatment-rate-table td:first-child, .resource-page section .treatment-rate-table td:first-child {
+  font-weight: bold;
+}
+.faq-question section .shipping-rates thead, .resource-page section .shipping-rates thead {
+  background-color: #e0e0e0;
+  color: #333333;
+}
+.faq-question section .shipping-rates td, .faq-question section .shipping-rates th, .resource-page section .shipping-rates td, .resource-page section .shipping-rates th {
+  border: 1px solid #e0e0e0;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+.faq-question section .shipping-rates .country-name, .resource-page section .shipping-rates .country-name {
+  font-weight: bold;
+}
+.faq-question section .indent, .resource-page section .indent {
+  padding-left: 30px;
+}
+.faq-question section .article-title, .resource-page section .article-title {
+  text-align: left;
+  line-height: 1;
+}
+.faq-question section .article-preview, .resource-page section .article-preview {
+  padding-top: 0;
+}
+.faq-question section h2 a, .resource-page section h2 a {
+  color: #333333;
+}
+.faq-question section #comments ul, .resource-page section #comments ul {
+  margin-left: 0;
+}
+.faq-question section #comments p, .resource-page section #comments p {
+  padding-top: 0;
+  padding-bottom: 0.25rem;
+}
+.faq-question section .comment-list li, .resource-page section .comment-list li {
+  list-style-type: none;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+}
+.faq-question section .comment-list .comment-name, .resource-page section .comment-list .comment-name {
+  font-weight: bold;
+}
+.faq-question section .blog-article, .resource-page section .blog-article {
+  margin-top: 1rem;
+}
+.faq-question section .blog-article ol li, .resource-page section .blog-article ol li {
+  list-style: decimal;
+  text-indent: 0;
+}
+.faq-question section p.blog-meta, .faq-question section .blog-meta a, .resource-page section p.blog-meta, .resource-page section .blog-meta a {
+  padding: 0;
+}
+.faq-question section .review, .resource-page section .review {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+.faq-question section .review:last-child, .resource-page section .review:last-child {
+  border: none;
+}
+.faq-question section .review-body p:last-child, .resource-page section .review-body p:last-child {
+  padding-bottom: 0.5rem;
+}
+.faq-question section .review-body h2, .resource-page section .review-body h2 {
+  font-size: 20px;
+  font-size: 1.25rem;
+  padding-top: 0;
+  font-weight: bold;
+  text-align: left;
+  color: #4eb3b3;
+}
+.faq-question section .review-author p, .resource-page section .review-author p {
+  text-align: right;
+  padding: 0;
+  opacity: 0.8;
+  word-wrap: break-word;
+}
+@media screen and (max-width: 768px) {
+  .faq-question section .shipping-rates, .resource-page section .shipping-rates {
+    display: block;
+    border: 1px solid #e0e0e0;
+    /* Force table to not be like tables anymore */
+    /* Hide table headers (but not display: none;, for accessibility) */
+    /*
+    Label the data
+    */
+  }
+  .faq-question section .shipping-rates thead, .faq-question section .shipping-rates tbody, .faq-question section .shipping-rates th, .faq-question section .shipping-rates td, .faq-question section .shipping-rates tr, .resource-page section .shipping-rates thead, .resource-page section .shipping-rates tbody, .resource-page section .shipping-rates th, .resource-page section .shipping-rates td, .resource-page section .shipping-rates tr {
+    display: block;
+  }
+  .faq-question section .shipping-rates thead tr, .resource-page section .shipping-rates thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  .faq-question section .shipping-rates td:first-child, .resource-page section .shipping-rates td:first-child {
+    width: auto;
+  }
+  .faq-question section .shipping-rates td:nth-child(even), .resource-page section .shipping-rates td:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  .faq-question section .shipping-rates td:nth-child(1), .resource-page section .shipping-rates td:nth-child(1) {
+    background-color: #e0e0e0;
+    text-indent: -30px;
+  }
+  .faq-question section .shipping-rates td, .resource-page section .shipping-rates td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+  }
+  .faq-question section .shipping-rates td:before, .resource-page section .shipping-rates td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: pre-wrap;
+  }
+  .faq-question section .shipping-rates td:nth-of-type(1):before, .resource-page section .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .faq-question section .shipping-rates td:nth-of-type(2):before, .resource-page section .shipping-rates td:nth-of-type(2):before {
+    content: "Priority Mail";
+  }
+  .faq-question section .shipping-rates td:nth-of-type(3):before, .resource-page section .shipping-rates td:nth-of-type(3):before {
+    content: "Priority Mail Express";
+  }
+  .faq-question section .shipping-rates td:nth-of-type(4):before, .resource-page section .shipping-rates td:nth-of-type(4):before {
+    content: "Priority Mail International";
+  }
+  .faq-question section .shipping-rates td:nth-of-type(5):before, .resource-page section .shipping-rates td:nth-of-type(5):before {
+    content: "Priority Mail Express International";
+  }
+  .faq-question section .shipping-rates td:nth-of-type(6):before, .resource-page section .shipping-rates td:nth-of-type(6):before {
+    content: "DHL Express Worldwide";
+  }
+}
+@media screen and (min-width: 768px) {
+  .faq-question section ul, .resource-page section ul {
+    margin-left: 3rem;
+  }
+  .faq-question section .img-50, .resource-page section .img-50 {
+    width: 50%;
+  }
+  .faq-question section #comments ul, .resource-page section #comments ul {
+    margin-left: 0;
+  }
+  .faq-question section #comments p, .resource-page section #comments p {
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+  }
+  .faq-question section .comment-list, .resource-page section .comment-list {
+    background: #f2f2f2;
+    padding: 0.5rem;
+  }
+  .faq-question section .comment-list li, .resource-page section .comment-list li {
+    margin: 1rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  .faq-question section, .resource-page section {
+    border-right: 2px solid #f2f2f2;
+  }
+  .faq-question .long-side section, .resource-page .long-side section {
+    border-right: none;
+  }
+  .faq-question tbody tr:nth-child(even), .resource-page tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .faq-question.spanish .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .faq-question.spanish .shipping-rates td:nth-of-type(2):before {
+    content: "Prioridad Correo";
+  }
+  .faq-question.spanish .shipping-rates td:nth-of-type(3):before {
+    content: "Prioridad Correo Urgente";
+  }
+  .faq-question.spanish .shipping-rates td:nth-of-type(4):before {
+    content: "Prioridad Correo Internacional";
+  }
+  .faq-question.spanish .shipping-rates td:nth-of-type(5):before {
+    content: "Prioridad Correo Urgente Internacional";
+  }
+  .faq-question.spanish .shipping-rates td:nth-of-type(6):before {
+    content: "DHL Urgente en Todo el Mundo";
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .faq-question.portuguese .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .faq-question.portuguese .shipping-rates td:nth-of-type(2):before {
+    content: "Correio Priorit├írio";
+  }
+  .faq-question.portuguese .shipping-rates td:nth-of-type(3):before {
+    content: "Prioridade de Correio Expresso";
+  }
+  .faq-question.portuguese .shipping-rates td:nth-of-type(4):before {
+    content: "Internatial Correio Priorit├írio";
+  }
+  .faq-question.portuguese .shipping-rates td:nth-of-type(5):before {
+    content: "Internatial Prioridade de Correio Expresso";
+  }
+  .faq-question.portuguese .shipping-rates td:nth-of-type(6):before {
+    content: "A DHL Express em Todo o Mundo";
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .faq-question.russian .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .faq-question.russian .shipping-rates td:nth-of-type(2):before {
+    content: "╨ô╨╗╨░╨▓╨╜╨░╤Å ╨ƒ╨╛╤ç╤é╨░";
+  }
+  .faq-question.russian .shipping-rates td:nth-of-type(3):before {
+    content: "╨ô╨╗╨░╨▓╨╜╨░╤Å ╨ƒ╨╛╤ç╤é╨░ ╨¡╨║╤ü╨┐╤Ç╨╡╤ü╤ü";
+  }
+  .faq-question.russian .shipping-rates td:nth-of-type(4):before {
+    content: "╨ô╨╗╨░╨▓╨╜╨░╤Å ╨ƒ╨╛╤ç╤é╨░ ╨£╨╡╨╢╨┤╤â╨╜╨░╤Ç╨╛╨┤╨╜╤ï╨╣";
+  }
+  .faq-question.russian .shipping-rates td:nth-of-type(5):before {
+    content: "╨ô╨╗╨░╨▓╨╜╨░╤Å ╨ƒ╨╛╤ç╤é╨░ ╨¡╨║╤ü╨┐╤Ç╨╡╤ü╤ü ╨£╨╡╨╢╨┤╤â╨╜╨░╤Ç╨╛╨┤╨╜╤ï╨╣";
+  }
+  .faq-question.russian .shipping-rates td:nth-of-type(6):before {
+    content: "DHL ╨¡╨║╤ü╨┐╤Ç╨╡╤ü╤ü ╨£╨╕╤Ç╨╛╨▓╨╛╨╣";
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .faq-question.turkish .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .faq-question.turkish .shipping-rates td:nth-of-type(2):before {
+    content: "├ûncelikli Posta";
+  }
+  .faq-question.turkish .shipping-rates td:nth-of-type(3):before {
+    content: "├ûncelik Posta Ekspres";
+  }
+  .faq-question.turkish .shipping-rates td:nth-of-type(4):before {
+    content: "├ûncelik Posta Uluslararas─▒";
+  }
+  .faq-question.turkish .shipping-rates td:nth-of-type(5):before {
+    content: "├ûncelik Posta Ekspres Uluslararas─▒";
+  }
+  .faq-question.turkish .shipping-rates td:nth-of-type(6):before {
+    content: "DHL Ekspres D├╝nya";
+  }
+}
+
+.product-page section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+.product-page .product-description-0 h2 a {
+  display: block;
+  text-align: center;
+}
+.product-page .product-kit h2, .product-page .product-dilators h2, .product-page .product-books h2, .product-page .product-video h2, .product-page .product-description-0 h2, .product-page .product-description-1 h2, .product-page .product-description-2 h2, .product-page .product-description-3 h2, .product-page .product-description-4 h2, .product-page .product-description-5 h2, .product-page .product-description-6 h2, .product-page .order-today h2 {
+  text-align: left;
+}
+.product-page .product-kit h2, .product-page .product-kit h3, .product-page .product-kit p, .product-page .product-dilators h2, .product-page .product-dilators h3, .product-page .product-dilators p, .product-page .product-books h2, .product-page .product-books h3, .product-page .product-books p, .product-page .product-video h2, .product-page .product-video h3, .product-page .product-video p, .product-page .product-description-0 h2, .product-page .product-description-0 h3, .product-page .product-description-0 p, .product-page .product-description-1 h2, .product-page .product-description-1 h3, .product-page .product-description-1 p, .product-page .product-description-2 h2, .product-page .product-description-2 h3, .product-page .product-description-2 p, .product-page .product-description-3 h2, .product-page .product-description-3 h3, .product-page .product-description-3 p, .product-page .product-description-4 h2, .product-page .product-description-4 h3, .product-page .product-description-4 p, .product-page .product-description-5 h2, .product-page .product-description-5 h3, .product-page .product-description-5 p, .product-page .product-description-6 h2, .product-page .product-description-6 h3, .product-page .product-description-6 p, .product-page .order-today h2, .product-page .order-today h3, .product-page .order-today p {
+  color: #333333;
+}
+.product-page .product-kit p, .product-page .product-dilators p, .product-page .product-books p, .product-page .product-video p, .product-page .product-description-0 p, .product-page .product-description-1 p, .product-page .product-description-2 p, .product-page .product-description-3 p, .product-page .product-description-4 p, .product-page .product-description-5 p, .product-page .product-description-6 p, .product-page .order-today p {
+  font-weight: 400;
+  line-height: 1.4;
+}
+.product-page .product-kit .product-sku, .product-page .product-dilators .product-sku, .product-page .product-books .product-sku, .product-page .product-video .product-sku, .product-page .product-description-0 .product-sku, .product-page .product-description-1 .product-sku, .product-page .product-description-2 .product-sku, .product-page .product-description-3 .product-sku, .product-page .product-description-4 .product-sku, .product-page .product-description-5 .product-sku, .product-page .product-description-6 .product-sku, .product-page .order-today .product-sku {
+  font-weight: 500;
+  color: #656565;
+  opacity: 0.7;
+}
+.product-page .product-kit .product-description, .product-page .product-dilators .product-description, .product-page .product-books .product-description, .product-page .product-video .product-description, .product-page .product-description-0 .product-description, .product-page .product-description-1 .product-description, .product-page .product-description-2 .product-description, .product-page .product-description-3 .product-description, .product-page .product-description-4 .product-description, .product-page .product-description-5 .product-description, .product-page .product-description-6 .product-description, .product-page .order-today .product-description {
+  margin-bottom: 1.5rem;
+}
+.product-page .product-kit .product-price, .product-page .product-dilators .product-price, .product-page .product-books .product-price, .product-page .product-video .product-price, .product-page .product-description-0 .product-price, .product-page .product-description-1 .product-price, .product-page .product-description-2 .product-price, .product-page .product-description-3 .product-price, .product-page .product-description-4 .product-price, .product-page .product-description-5 .product-price, .product-page .product-description-6 .product-price, .product-page .order-today .product-price {
+  font-size: 50px;
+  font-size: 3.125rem;
+  color: #4eb3b3;
+  padding-bottom: 0;
+}
+.product-page .product-kit .product-price span, .product-page .product-dilators .product-price span, .product-page .product-books .product-price span, .product-page .product-video .product-price span, .product-page .product-description-0 .product-price span, .product-page .product-description-1 .product-price span, .product-page .product-description-2 .product-price span, .product-page .product-description-3 .product-price span, .product-page .product-description-4 .product-price span, .product-page .product-description-5 .product-price span, .product-page .product-description-6 .product-price span, .product-page .order-today .product-price span {
+  font-size: 22px;
+  font-size: 1.375rem;
+}
+.product-page .product-kit .product-price-caption, .product-page .product-dilators .product-price-caption, .product-page .product-books .product-price-caption, .product-page .product-video .product-price-caption, .product-page .product-description-0 .product-price-caption, .product-page .product-description-1 .product-price-caption, .product-page .product-description-2 .product-price-caption, .product-page .product-description-3 .product-price-caption, .product-page .product-description-4 .product-price-caption, .product-page .product-description-5 .product-price-caption, .product-page .product-description-6 .product-price-caption, .product-page .order-today .product-price-caption {
+  color: #656565;
+  opacity: 0.7;
+  padding: 0 0 1.5rem 0;
+}
+.product-page .product-kit .shaded-btn, .product-page .product-dilators .shaded-btn, .product-page .product-books .shaded-btn, .product-page .product-video .shaded-btn, .product-page .product-description-0 .shaded-btn, .product-page .product-description-1 .shaded-btn, .product-page .product-description-2 .shaded-btn, .product-page .product-description-3 .shaded-btn, .product-page .product-description-4 .shaded-btn, .product-page .product-description-5 .shaded-btn, .product-page .product-description-6 .shaded-btn, .product-page .order-today .shaded-btn {
+  color: #333333;
+}
+.product-page .product-kit ul li, .product-page .product-dilators ul li, .product-page .product-books ul li, .product-page .product-video ul li, .product-page .product-description-0 ul li, .product-page .product-description-1 ul li, .product-page .product-description-2 ul li, .product-page .product-description-3 ul li, .product-page .product-description-4 ul li, .product-page .product-description-5 ul li, .product-page .product-description-6 ul li, .product-page .order-today ul li {
+  list-style: disc;
+  padding: 0.5rem 0;
+  color: #333333;
+  margin-left: 1rem;
+}
+.product-page .hero-product-banner-image {
+  background-image: url(../img/products/products-header.jpg);
+  padding: 15%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.product-page .hero {
+  padding: 3rem 0;
+}
+.product-page .product-description-4 h3 {
+  text-align: left;
+  font-weight: bold;
+}
+.product-page .product-description-5 {
+  background-image: url(../img/white-wood-bkgd.jpg);
+}
+.product-page .product-description-5 .opaque-box {
+  background: rgba(255, 255, 255, 0.7);
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+}
+.product-page .product-description-5 h3 {
+  text-align: left;
+  font-weight: 500;
+}
+.product-page .mission-banner {
+  padding-bottom: 2rem;
+}
+.product-page .treatment-banner h2 {
+  padding: 1rem;
+}
+
+p .white-btn {
+  margin: 1rem;
+}
+
+.multi-language p {
+  text-align: center;
+}
+
+.badge-box {
+  background: #f2f2f2;
+  padding: 1rem;
+  display: block;
+}
+.badge-box img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+}
+.badge-box p {
+  text-align: center;
+  padding: .5rem;
+}
+.badge-box ul li {
+  list-style: disc;
+  padding: .5rem;
+  margin-left: 1rem;
+}
+.badge-box ul li span {
+  display: block;
+  margin-left: -.75rem;
+}
+.badge-box a {
+  font-weight: bold;
+}
+
+.credit-and-shipping .large-6 {
+  text-align: center;
+}
+.credit-and-shipping p {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .badge-box {
+    height: 260px;
+  }
+
+  .product-dilators .wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
+@media screen and (min-width: 980px) {
+  .product-description-1 .wrapper, .product-description-3 .wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
+#resources {
+  /*---------HERO---------------*/
+  /*---------MAIN---------------*/
+}
+#resources .hero-banner-image {
+  background: #f2f2f2;
+}
+@media screen and (min-width: 768px) {
+  #resources .hero-banner-image {
+    background: url(../img/resources/resources-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #resources .hero-banner-image .hero-text, #resources .hero-banner-image .hero-text-right {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  #resources .hero-banner-image {
+    padding: 5%;
+  }
+  #resources .hero-banner-image .hero-text, #resources .hero-banner-image .hero-text-right {
+    width: 60%;
+  }
+}
+#resources h2 {
+  font-size: 24px;
+  font-size: 1.5rem;
+}
+#resources #resource-links ul li {
+  list-style: disc;
+  padding: 1rem 0;
+}
+@media screen and (max-width: 980px) {
+  #resources #resource-links h2 {
+    text-align: left;
+  }
+}
+@media screen and (min-width: 980px) {
+  #resources #resource-links ul li {
+    padding: 0.5rem 0;
+  }
+}
+
+#forum-intro main {
+  /*---------HERO---------------*/
+  /*---            PRIVATE FORUM SECTION             ---*/
+  /*---            FORUM BANNER             ---*/
+  /*---            NETWORK OF SUPPORT SECTION          ---*/
+  /*---            HUSBANDS ALLOWED SECTION          ---*/
+}
+#forum-intro main section {
+  -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+}
+#forum-intro main img {
+  display: block;
+  margin: 0 auto;
+}
+#forum-intro main h2 {
+  color: #333333;
+}
+#forum-intro main h4 {
+  font-weight: 500;
+  font-family: "Raleway", sans-serif;
+  color: #333333;
+}
+#forum-intro main a {
+  font-weight: bold;
+}
+#forum-intro main ul {
+  padding: 1rem 0;
+  margin-left: 2rem;
+}
+#forum-intro main ul li {
+  list-style: disc;
+  padding-bottom: 1rem;
+}
+#forum-intro main .hero-banner-image {
+  background: #f2f2f2;
+}
+@media screen and (min-width: 768px) {
+  #forum-intro main .hero-banner-image {
+    background: url(../img/forum-introduction/forum-introduction-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 2% 0;
+  }
+  #forum-intro main .hero-banner-image .hero-text, #forum-intro main .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+  #forum-intro main .hero-banner-image .hero-text h2, #forum-intro main .hero-banner-image .hero-text-right h2 {
+    text-align: left;
+  }
+}
+#forum-intro main #private-forum h2 {
+  text-align: left;
+  color: #333333;
+}
+@media screen and (min-width: 980px) {
+  #forum-intro main #private-forum img {
+    margin-top: 3rem;
+  }
+}
+#forum-intro main .grad1 {
+  padding: 2rem 0;
+}
+#forum-intro main .grad1 img {
+  width: 30%;
+  max-width: 5rem;
+}
+#forum-intro main .grad1 h2 {
+  color: #ffffff;
+}
+#forum-intro main .grad1 a {
+  text-decoration: underline;
+}
+#forum-intro main .forum-testimonials h2 {
+  margin-bottom: 1rem;
+}
+#forum-intro main .forum-testimonials .large-4:nth-child(2) {
+  padding-bottom: 0.5rem;
+}
+#forum-intro main .forum-testimonials .testimonial {
+  margin-bottom: 1.5rem;
+  background: #f2f2f2;
+  width: 100%;
+  text-align: center;
+}
+#forum-intro main .forum-testimonials .testimonial:nth-child(2) {
+  margin-bottom: 0;
+}
+#forum-intro main .forum-testimonials .testimonial-text {
+  padding: 0;
+}
+#forum-intro main .forum-testimonials .testimonial-text p {
+  line-height: 1.4;
+}
+#forum-intro main .forum-testimonials .quotes {
+  left: 47%;
+}
+#forum-intro main .spouses-allowed {
+  background: url(../../img/forum-introduction/forum-introduction-husbands.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 5%;
+}
+#forum-intro main .spouses-allowed .opaque-box {
+  background: rgba(255, 255, 255, 0.7);
+  float: right;
+  color: #333333;
+}
+
+@media screen and (max-width: 768px) {
+  .search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+}
+.search-page #site-map h1, .page-404 #site-map h1 {
+  padding-top: 1.5rem;
+}
+.search-page #site-map p, .page-404 #site-map p {
+  text-align: center;
+}
+.search-page #site-map a, .page-404 #site-map a {
+  font-weight: 400;
+  color: #656565;
+  padding-bottom: 1rem;
+}
+.search-page #site-map h2, .search-page #site-map h3, .search-page #site-map h4, .page-404 #site-map h2, .page-404 #site-map h3, .page-404 #site-map h4 {
+  text-align: left;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+}
+.search-page #site-map h2, .page-404 #site-map h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.search-page #site-map h2 a, .page-404 #site-map h2 a {
+  font-size: inherit;
+}
+.search-page #site-map h2 span, .page-404 #site-map h2 span {
+  font-size: 16px;
+  font-size: 1rem;
+  vertical-align: middle;
+  color: #4eb3b3;
+}
+.search-page #site-map h2 img, .page-404 #site-map h2 img {
+  transform: rotate(-90deg);
+  max-width: 2rem;
+  vertical-align: bottom;
+}
+.search-page #site-map h3, .page-404 #site-map h3 {
+  padding-bottom: 0.5rem;
+}
+.search-page #site-map h3 a, .page-404 #site-map h3 a {
+  font-weight: 600;
+}
+.search-page #site-map ul, .page-404 #site-map ul {
+  padding-left: 15px;
+}
+.search-page #site-map ul li, .page-404 #site-map ul li {
+  margin-left: 15px;
+  text-indent: -15px;
+  padding-bottom: 1rem;
+}
+.search-page #site-map i, .page-404 #site-map i {
+  font-size: 14px;
+  color: #4eb3b3;
+}
+.search-page #site-map i:before, .page-404 #site-map i:before {
+  margin-right: 0;
+}
+.search-page #site-map #site-map-uv .large-4, .page-404 #site-map #site-map-uv .large-4 {
+  padding-bottom: 0;
+}
+.search-page #site-map #site-map-uv .large-6, .page-404 #site-map #site-map-uv .large-6 {
+  padding-top: 0;
+}
+.search-page #site-map .wrapper.site-map-faq, .page-404 #site-map .wrapper.site-map-faq {
+  padding-top: 0;
+}
+.search-page #site-map .wrapper.site-map-faq h3, .page-404 #site-map .wrapper.site-map-faq h3 {
+  padding-left: 1rem;
+}
+.search-page #site-map .wrapper.site-map-faq h4, .page-404 #site-map .wrapper.site-map-faq h4 {
+  text-indent: 10px;
+  padding: 1rem 0;
+}
+.search-page #site-map .wrapper.site-map-faq h4 a, .page-404 #site-map .wrapper.site-map-faq h4 a {
+  font-weight: 600;
+}
+.search-page #site-map #site-map-uv, .search-page #site-map #site-map-home, .page-404 #site-map #site-map-uv, .page-404 #site-map #site-map-home {
+  font-family: "Raleway", sans-serif;
+}
+
+#contact-us {
+  /*---------HERO---------------*/
+}
+#contact-us main .grad1 a {
+  text-decoration: underline;
+}
+#contact-us main .grad1 {
+  padding-bottom: 2rem;
+}
+#contact-us main img {
+  display: block;
+  margin: 0 auto;
+}
+#contact-us .hero-banner-image {
+  background: #f2f2f2;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 2% 0;
+}
+@media screen and (min-width: 768px) and (max-width: 979px) {
+  #contact-us .hero-banner-image {
+    background: url(../../img/contact-us/contact-us-hero-mobile.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  #contact-us .hero-banner-image {
+    background: url(../../img/contact-us/contact-us.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem 0.5rem;
+    width: 60%;
+  }
+}
+#contact-us .contact-options {
+  text-align: center;
+}
+#contact-us .contact-options img {
+  width: 5rem;
+}
+
+html[dir="rtl"] [class*='medium-'] {
+  float: right;
+}
+html[dir="rtl"] [class*='large-'] {
+  float: right;
+}
+
+/*------------------------------*/
+/*-----------HOME---------------*/
+/*------------------------------*/
+@media screen and (min-width: 768px) {
+  html[dir="rtl"] #home .hero-banner-image .hero-text-right h1, html[dir="rtl"] #home .hero-banner-image .hero-text-right li {
+    text-align: right;
+  }
+}
+@media screen and (min-width: 980px) {
+  html[dir="rtl"] #home #highlighted-content .hc-text p, html[dir="rtl"] #home #highlighted-content .hc-text h2, html[dir="rtl"] #home #highlighted-content .hc-text h3 {
+    text-align: right;
+  }
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-2 a, html[dir="rtl"] #home #highlighted-content .highlighted-content-3 a, html[dir="rtl"] #home #highlighted-content .highlighted-content-4 a {
+    display: block;
+    margin: inherit;
+  }
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-1 .hc-text, html[dir="rtl"] #home #highlighted-content .highlighted-content-3 .hc-text {
+    float: left;
+  }
+}
+html[dir="rtl"] #home #common-links li, html[dir="rtl"] #home #common-links a {
+  text-align: right;
+}
+
+/*------------------------------*/
+/*-----------TREATMENT----------*/
+/*------------------------------*/
+html[dir="rtl"] #treatment main #ten-steps img {
+  float: right;
+  padding: 0 0 0.5rem 0.5rem;
+}
+
+/*------------------------------*/
+/*-----------DIAGNOSIS----------*/
+/*------------------------------*/
+@media screen and (min-width: 980px) {
+  html[dir="rtl"] #diagnosis .hero-banner-image .hero-text, html[dir="rtl"] #diagnosis .hero-banner-image .hero-text-right {
+    float: left;
+  }
+}
+
+/*------------------------------*/
+/*------------STORIES-----------*/
+/*------------------------------*/
+html[dir="rtl"] #stories h3, html[dir="rtl"] #stories h4 {
+  text-align: right;
+}
+@media screen and (min-width: 980px) {
+  html[dir="rtl"] #stories .hero-banner-image .hero-text, html[dir="rtl"] #stories .hero-banner-image .hero-text-right {
+    float: left;
+  }
+}
+
+html[dir="rtl"] #symptoms .hero-text, html[dir="rtl"] #symptoms .hero-text-right {
+  float: left;
+}
+
+/*------------------------------*/
+/*------------PRODUCTS-----------*/
+/*------------------------------*/
+html[dir="rtl"] .product-page .product-kit h2, html[dir="rtl"] .product-page .product-dilators h2, html[dir="rtl"] .product-page .product-books h2, html[dir="rtl"] .product-page .product-video h2, html[dir="rtl"] .product-page .product-description-0 h2, html[dir="rtl"] .product-page .product-description-1 h2, html[dir="rtl"] .product-page .product-description-2 h2, html[dir="rtl"] .product-page .product-description-3 h2, html[dir="rtl"] .product-page .product-description-4 h2, html[dir="rtl"] .product-page .product-description-5 h2, html[dir="rtl"] .product-page .product-description-6 h2, html[dir="rtl"] .product-page .order-today h2 {
+  text-align: right;
+}
+html[dir="rtl"] .product-page .product-description-4 h3, html[dir="rtl"] .product-page .product-description-5 h3 {
+  text-align: right;
+}
+html[dir="rtl"] .product-page .badge-box ul {
+  margin-right: 1.25rem;
+}
+@media screen and (max-width: 768px) {
+  html[dir="rtl"] .product-page .price-box {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+
+/*------------------------------*/
+/*--------------FAQ-------------*/
+/*------------------------------*/
+@media screen and (min-width: 768px) {
+  html[dir="rtl"] #faq #brochures [class*='large-'], html[dir="rtl"] #faq #brochures [class*='medium-'] {
+    float: left;
+  }
+}
+
+/*------------------------------*/
+/*------------FORUM-------------*/
+/*------------------------------*/
+html[dir="rtl"] #forum-intro .hero-text, html[dir="rtl"] #forum-intro .hero-text-right, html[dir="rtl"] #forum-intro .hero-text h2, html[dir="rtl"] #forum-intro .hero-text-right h2 {
+  text-align: right;
+}
+html[dir="rtl"] #forum-intro #private-forum h2 {
+  text-align: center;
+}
+
+/*------------------------------*/
+/*----------SIDEBAR PAGES-------*/
+/*------------------------------*/
+html[dir="rtl"] .faq-question section h3, html[dir="rtl"] .faq-question section h4, html[dir="rtl"] .resource-page section h3, html[dir="rtl"] .resource-page section h4 {
+  text-align: right;
+}
+html[dir="rtl"] .faq-question section ul, html[dir="rtl"] .resource-page section ul {
+  margin-right: 1rem;
+}
+html[dir="rtl"] .faq-question section ol, html[dir="rtl"] .resource-page section ol {
+  margin-right: 1rem;
+}
+html[dir="rtl"] .faq-question section th, html[dir="rtl"] .resource-page section th {
+  font-weight: bold;
+  padding: 1rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+html[dir="rtl"] .faq-question section thead tr:nth-child(2) th, html[dir="rtl"] .resource-page section thead tr:nth-child(2) th {
+  padding: 0.5rem;
+  text-align: right;
+}
+html[dir="rtl"] .faq-question section td, html[dir="rtl"] .resource-page section td {
+  padding: 0.75rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+html[dir="rtl"] .faq-question section td:first-child, html[dir="rtl"] .resource-page section td:first-child {
+  width: 30%;
+  padding-right: 1rem;
+}
+html[dir="rtl"] .faq-question section .shipping-rates thead, html[dir="rtl"] .resource-page section .shipping-rates thead {
+  background-color: #e0e0e0;
+  color: #333333;
+}
+html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .faq-question section .shipping-rates th, html[dir="rtl"] .resource-page section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates th {
+  border: 1px solid #e0e0e0;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+html[dir="rtl"] .faq-question section .shipping-rates .country-name, html[dir="rtl"] .resource-page section .shipping-rates .country-name {
+  font-weight: bold;
+}
+html[dir="rtl"] .faq-question section .indent, html[dir="rtl"] .resource-page section .indent {
+  padding-left: 30px;
+}
+html[dir="rtl"] .faq-question section .article-title, html[dir="rtl"] .resource-page section .article-title {
+  text-align: left;
+}
+html[dir="rtl"] .faq-question section .article-preview, html[dir="rtl"] .resource-page section .article-preview {
+  padding-top: 0;
+}
+html[dir="rtl"] .faq-question section h2 a, html[dir="rtl"] .resource-page section h2 a {
+  font-size: 24px;
+  font-size: 1.5rem;
+  color: #333333;
+}
+html[dir="rtl"] .faq-question section #comments ul, html[dir="rtl"] .resource-page section #comments ul {
+  margin-left: 0;
+}
+html[dir="rtl"] .faq-question section #comments p, html[dir="rtl"] .resource-page section #comments p {
+  padding-top: 0;
+  padding-bottom: 0.25rem;
+}
+html[dir="rtl"] .faq-question section .comment-list li, html[dir="rtl"] .resource-page section .comment-list li {
+  list-style-type: none;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
+}
+html[dir="rtl"] .faq-question section .comment-list p, html[dir="rtl"] .resource-page section .comment-list p {
+  font-size: 16px;
+  font-size: 1rem;
+}
+html[dir="rtl"] .faq-question section .comment-list .comment-name, html[dir="rtl"] .resource-page section .comment-list .comment-name {
+  font-weight: bold;
+}
+html[dir="rtl"] .faq-question section .blog-article, html[dir="rtl"] .resource-page section .blog-article {
+  margin-top: 1rem;
+}
+html[dir="rtl"] .faq-question section .blog-article ol li, html[dir="rtl"] .resource-page section .blog-article ol li {
+  list-style: decimal;
+  text-indent: 0;
+  font-size: 19px;
+  font-size: 1.1875rem;
+}
+html[dir="rtl"] .faq-question section p.blog-meta, html[dir="rtl"] .faq-question section .blog-meta a, html[dir="rtl"] .resource-page section p.blog-meta, html[dir="rtl"] .resource-page section .blog-meta a {
+  font-size: 16px;
+  font-size: 1rem;
+  padding: 0;
+}
+html[dir="rtl"] .faq-question section .review, html[dir="rtl"] .resource-page section .review {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+html[dir="rtl"] .faq-question section .review:last-child, html[dir="rtl"] .resource-page section .review:last-child {
+  border: none;
+}
+html[dir="rtl"] .faq-question section .review-body p, html[dir="rtl"] .resource-page section .review-body p {
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+html[dir="rtl"] .faq-question section .review-body p:last-child, html[dir="rtl"] .resource-page section .review-body p:last-child {
+  padding-bottom: 0.5rem;
+}
+html[dir="rtl"] .faq-question section .review-body h2, html[dir="rtl"] .resource-page section .review-body h2 {
+  text-align: right;
+}
+@media screen and (max-width: 768px) {
+  html[dir="rtl"] .faq-question section .shipping-rates, html[dir="rtl"] .resource-page section .shipping-rates {
+    /*
+    Label the data
+    */
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates td {
+    word-wrap: normal;
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-child(1), html[dir="rtl"] .resource-page section .shipping-rates td:nth-child(1) {
+    text-indent: 0;
+    width: 100%;
+    text-align: center;
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(1):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(2):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(2):before {
+    content: "	╪¿╪▒┘è╪» ╪░┘ê ╪º┘ê┘ä┘ê┘è╪⌐";
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(3):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(3):before {
+    content: "╪º┘ä╪ú┘ê┘ä┘ê┘è╪⌐ ╪º┘ä╪¿╪▒┘è╪» ╪º┘ä┘à┘à╪¬╪º╪▓";
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(4):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(4):before {
+    content: "╪¿╪▒┘è╪» ╪»┘ê┘ä┘è ╪│╪▒┘è╪╣";
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(5):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(5):before {
+    content: "╪º┘ä╪ú┘ê┘ä┘ê┘è╪⌐ ╪º┘ä╪¿╪▒┘è╪» ╪º┘ä╪│╪▒┘è╪╣ ╪º┘ä╪»┘ê┘ä┘è";
+  }
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(6):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(6):before {
+    content: "╪»┘è ╪Ñ╪¬╪┤ ╪Ñ┘ä ╪Ñ┘â╪│╪¿╪▒╪│ ┘ü┘è ╪¼┘à┘è╪╣ ╪ú┘å╪¡╪º╪í ╪º┘ä╪╣╪º┘ä┘à";
+  }
+}
+@media screen and (min-width: 980px) {
+  html[dir="rtl"] .faq-question section, html[dir="rtl"] .resource-page section {
+    border-left: 2px solid #f2f2f2;
+    border-right: none;
+  }
+  html[dir="rtl"] .faq-question section .long-side section, html[dir="rtl"] .resource-page section .long-side section {
+    border-left: none;
+  }
+  html[dir="rtl"] .faq-question section .long-side aside, html[dir="rtl"] .resource-page section .long-side aside {
+    border-right: 2px solid #f2f2f2;
+    border-left: none;
+  }
+}
+html[dir="rtl"] .faq-question aside h2, html[dir="rtl"] .resource-page aside h2 {
+  text-align: right;
+}

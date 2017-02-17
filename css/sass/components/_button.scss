@@ -1,0 +1,38 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+
+%button {
+//  display: inline-block;
+  padding: 0.5rem 1rem;
+//    font-size: $button-font-size;
+//    font-weight: bold;
+//    text-transform: uppercase;
+  border-width: 1px;
+  border-style: solid;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.white-btn {
+  @extend %button;
+  @include button-theme($white);
+}
+
+.dark-btn {
+  @extend %button;
+  @include button-theme($dark-gray-text);
+}
+
+.shaded-btn {
+  @extend %button;
+  @include button-theme($dark-gray-text, $light-gray-background);
+  border:none;
+  font-family: $accent-font-common;
+}
+
+.brand-btn{
+  @extend %button;
+  @include button-theme($brand);
+  font-family: $accent-font-common;
+}

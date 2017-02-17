@@ -1,0 +1,81 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the banner-image component.
+// -----------------------------------------------------------------------------
+
+//IMG BANNERS
+.banner-image{
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+  background-position: center;
+//  padding: 5% 0;
+}
+
+//HERO BANNERS
+.hero-banner-image{
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  @media screen and (min-width: $breakpoint-medium){
+    padding: 6%;
+  }
+  @media screen and (min-width: $breakpoint-large){
+    padding: 10%;
+  }
+  .breadcrumbs-desktop{
+    position: absolute;
+    left:0;
+    top:4rem;
+//    background: rgba(255,255,255,0.5);
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+17,ffffff+100&1+92,0+100 */
+    background: -moz-linear-gradient(left,  rgba(255,255,255,0.7) 17%, rgba(255,255,255,0.5) 92%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  rgba(255,255,255,0.7) 17%,rgba(255,255,255,0.5) 92%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  rgba(255,255,255,0.7) 17%,rgba(255,255,255,0.5) 92%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
+
+    padding-left: 1rem;
+    padding-right: 5%;
+    li{
+      display:inline;
+    }
+    a{
+      font-size: 0.9rem;
+      font-weight: 400;
+      word-wrap: break-word;
+      color: $brand;
+      padding: 0 0.5rem;
+    }
+//    .hamburger-logo{
+//      width: 20px;
+//      vertical-align: middle;
+//    }
+  }
+}
+//section .hero-banner-image{
+//  padding: 0;
+//}
+
+.hero-text{
+  text-align: center;
+  line-height: 1.5;
+//  padding: 3% 0;
+//  h2{
+//    @include font-size(20px);
+//  }
+//  h3{
+//    @include font-size(20px);
+//  }
+  @media screen and (min-width: $breakpoint-medium){
+    text-align: left;
+    width: 50%;
+//    h2{
+//      font-size: 20px;
+//    }
+  }
+}
+.hero-text-right{
+  @extend .hero-text;
+  @media screen and (min-width: $breakpoint-medium){
+    float: right;
+  }
+}

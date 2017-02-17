@@ -1,0 +1,11 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to parallax effect background images.
+// -----------------------------------------------------------------------------
+
+.has-v-background{
+  background: url(../img/v-background.jpg) no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
