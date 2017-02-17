@@ -1,20 +1,21 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles used to set up the grid system
 // -----------------------------------------------------------------------------
-@import "../abstracts/variables";
 
 #page-container{
   width: 100%;
 }
 
 .wrapper{
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
   
-  @media screen and (min-width: 768px) and (max-width: 979px){
-    max-width: 780px;
-  }
+//  @media screen and (min-width: 768px) and (max-width: 979px){
+//    width: 100%;
+//    max-width: 780px;
+//  }
   @media screen and (min-width: 980px){
+    width: 100%;
     max-width: 1273px;
   }
 }
@@ -34,12 +35,13 @@
     float: left;
     padding: 1rem;
     width: 100%;
-//    min-height: 1px; 
     }
 
-@media screen and (min-width: $breakpoint-medium) and (max-width: $breakpoint-large){
+
+
+@media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
   .wrapper {
-    width: 80%;
+//    width: 80%;
     max-width: 780px;
     }
 

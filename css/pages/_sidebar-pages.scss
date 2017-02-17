@@ -7,27 +7,32 @@
   section{
     margin-top: 2rem;
     line-height: 1.4;
-
+    @media screen and (max-width: 979px){
+      -webkit-box-shadow: inset 0 -5px 4px -4px rgba(8,8,8,.1);
+      -moz-box-shadow: inset 0 -5px 4px -4px rgba(8,8,8,.1);
+      box-shadow: inset 0 -5px 4px -4px rgba(8,8,8,.1);
+      margin-bottom: 1rem;
+    }
     h1{
-     @include font-size(28px);
+//     @include font-size(28px);
      padding-bottom: 1rem;
      font-weight: 500;
     }
     h3{
       text-align: left;
       font-family: $accent-font-common;
-      @include font-size(24px);
+//      @include font-size(24px);
       padding: 1.5rem 0 0.25rem 0;
     }
     
     h4{
       text-align: left;
       font-weight: 600;
-      @include font-size(20px);
+//      @include font-size(20px);
       padding: 1.5rem 0 0.25rem 0;
     }
     p{
-      @include font-size(19px);
+//      @include font-size(19px);
       padding-bottom: 1rem;
       font-weight:400;
       text-align: justify;
@@ -45,7 +50,7 @@
     ul{
       margin-left: 1rem;
       li{
-        @include font-size(19px);
+//        @include font-size(19px);
         list-style: disc;
         padding-bottom: 1.5rem;
         &:first-child{
@@ -80,10 +85,10 @@
       margin: 1rem auto;
 
     }
-    table, th {
-      @include font-size(19px);
+//    table, th {
+//      @include font-size(19px);
       
-    }
+//    }
     th{
       font-weight: bold;
       padding: 1rem;
@@ -130,12 +135,13 @@
 //For Press and Blog Pages
     .article-title{
       text-align: left;
+      line-height: 1;
     }
     .article-preview{
       padding-top: 0;
     }
     h2 a{
-      @include font-size(24px);
+//      @include font-size(24px);
       color: $dark-gray-text;
     }
 
@@ -162,7 +168,7 @@
         box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
       }
       p{
-        @include font-size(16px);
+//        @include font-size(16px);
       }
       .comment-name{
         font-weight: bold;
@@ -175,12 +181,12 @@
       ol li{
         list-style: decimal;
         text-indent: 0;
-        @include font-size(19px);
+//        @include font-size(19px);
       }
     }
     
     p.blog-meta, .blog-meta a{
-      @include font-size(16px);
+//      @include font-size(16px);
       padding: 0;
 //      text-align: center;
     }
@@ -199,7 +205,7 @@
     }
     .review-body{
       p{
-        @include font-size(18px);
+//        @include font-size(18px);
       }
       p:last-child{
         padding-bottom:0.5rem;
@@ -224,7 +230,7 @@
     }
     .review-author{
       p{
-        @include font-size(16px);
+//        @include font-size(16px);
         text-align: right;
         padding: 0;
         opacity: 0.8;
@@ -310,7 +316,7 @@
 //TABLET
     @media screen and (min-width:$breakpoint-medium){
       h1{
-       @include font-size(32px);
+//       @include font-size(32px);
       }
       ul{
         margin-left: 3rem;
@@ -355,3 +361,92 @@
     }
   
 }
+//----------------------------
+//SPANISH
+//----------------------------
+.faq-question.spanish{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Prioridad Correo"; }
+      td:nth-of-type(3):before {
+        content: "Prioridad Correo Urgente"; }
+      td:nth-of-type(4):before {
+        content: "Prioridad Correo Internacional"; }
+      td:nth-of-type(5):before {
+        content: "Prioridad Correo Urgente Internacional";}
+      td:nth-of-type(6):before {
+        content: "DHL Urgente en Todo el Mundo"; }
+    }
+  }
+}
+//----------------------------
+//PORTUGUESE
+//----------------------------
+.faq-question.portuguese{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Correio Prioritário"; }
+      td:nth-of-type(3):before {
+        content: "Prioridade de Correio Expresso"; }
+      td:nth-of-type(4):before {
+        content: "Internatial Correio Prioritário"; }
+      td:nth-of-type(5):before {
+        content: "Internatial Prioridade de Correio Expresso";}
+      td:nth-of-type(6):before {
+        content: "A DHL Express em Todo o Mundo"; }
+    }
+  }
+}
+//----------------------------
+//RUSSIAN
+//----------------------------
+.faq-question.russian{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Главная Почта"; }
+      td:nth-of-type(3):before {
+        content: "Главная Почта Экспресс"; }
+      td:nth-of-type(4):before {
+        content: "Главная Почта Международный"; }
+      td:nth-of-type(5):before {
+        content: "Главная Почта Экспресс Международный";}
+      td:nth-of-type(6):before {
+        content: "DHL Экспресс Мировой"; }
+    }
+  }
+}
+//----------------------------
+//TURKISH
+//----------------------------
+.faq-question.turkish{
+  @media screen and (max-width: $breakpoint-medium){
+    .shipping-rates{
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Öncelikli Posta"; }
+      td:nth-of-type(3):before {
+        content: "Öncelik Posta Ekspres"; }
+      td:nth-of-type(4):before {
+        content: "Öncelik Posta Uluslararası"; }
+      td:nth-of-type(5):before {
+        content: "Öncelik Posta Ekspres Uluslararası";}
+      td:nth-of-type(6):before {
+        content: "DHL Ekspres Dünya"; }
+    }
+  }
+}
+    

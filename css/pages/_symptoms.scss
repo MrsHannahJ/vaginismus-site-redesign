@@ -28,11 +28,13 @@
   //TABLET
       @media screen and (min-width: 768px){
         background: url(../img/symptoms/symptoms-header-en.jpg);
-        padding: 5%;
+//        padding: 5%;
         background-size: cover;
         background-repeat: no-repeat;
+//        padding: 5% 0;
+//        min-height: 25rem;
         .hero-text{
-          padding: 5% 0;
+//          padding: 5% 0;
         }
       }
     
@@ -40,13 +42,13 @@
 //DESKTOP
       @media screen and (min-width: $breakpoint-large){
         .hero-text{
-          padding: 10% 0;
+//          padding: 10% 0;
         }
       }
     }
     
     h2{
-      @include font-size(28px);
+//      @include font-size(28px);
     }
     ul{
       padding: 1rem 0;
@@ -58,11 +60,11 @@
     ul li{
       list-style: disc;
       padding-bottom: 1rem;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
     figcaption{
       text-align: justify;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
 
 /*---------EXAMPLES OF EFFECTS SECTION---------------*/
@@ -127,7 +129,15 @@
   }
 }
 
-
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #symptoms .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/ar/symptoms-ar.jpg");
+    background-position: right;
+    }
+  }
+}
 
   
     

@@ -1,11 +1,6 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the forum introduction page.
 // -----------------------------------------------------------------------------
-@import
-  '../abstracts/variables',
-  '../abstracts/functions',
-  '../abstracts/mixins';
-
 
 #forum-intro{
 
@@ -20,7 +15,7 @@
       margin: 0 auto;
     }
     h2{
-      @include font-size(28px);
+//      @include font-size(28px);
       color: $dark-gray-text;
     }
     h4{
@@ -38,7 +33,7 @@
     ul li{
       list-style: disc;
       padding-bottom: 1rem;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
     
 /*---------HERO---------------*/
@@ -52,10 +47,11 @@
         background: url(../img/forum-introduction/forum-introduction-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        padding: 2% 0;
     
         .hero-text{
           background: $white-opaque;
-          padding: 0.5rem;
+          padding: 0 1rem 0.5rem;
           h2{
             text-align: left;
           }

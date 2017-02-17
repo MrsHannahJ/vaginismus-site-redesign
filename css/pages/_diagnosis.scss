@@ -27,7 +27,7 @@
         padding-bottom: 1rem;
       }
         h2{
-      @include font-size(28px);
+//      @include font-size(28px);
     }
     ul{
       padding: 1rem 0;
@@ -36,7 +36,7 @@
     ul li{
       list-style: disc;
       padding-bottom: 1rem;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
     a{
       font-weight: bold;
@@ -48,15 +48,15 @@
       background: $light-gray-background;
       background-size: cover;
       background-repeat: no-repeat;
-      h2{
-        @include font-size(22px);
-      }
+//      h2{
+////        @include font-size(22px);
+//      }
 //TABLET ONLY
       @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
-//        .hero-text{
-//          background: $white-opaque;
-//          padding: 1rem;
-//        }
+        .hero-text{
+          background: $white-opaque;
+          padding: 0 1rem 0.5rem;
+        }
         background: url(../img/diagnosis/diagnosis-hero-tablet.jpg)
       }
 //TABLET
@@ -65,10 +65,10 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: right;
-        height: 400px;
-        .hero-text{
-          padding: 0;
-        }
+//        height: 400px;
+//        .hero-text{
+//          padding: 0;
+//        }
       }
 //DESKTOP
       @media screen and (min-width: $breakpoint-large){
@@ -109,9 +109,35 @@
 }
         
   
+//ESPANOL & PORTUGUESE
 
+:lang(es), :lang(pt){
+  #diagnosis .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/es/diagnosis-header-es.jpg");
+    background-position: right;
+    }
+  }
 
+}
 
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #diagnosis .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/ar/diagnosis-header-ar.jpg");
+    background-position: right;
+//    background-size: auto;
+    }
+  }
+}
+:lang(ar){
+  #diagnosis .hero-text{
+  @media screen and (min-width: $breakpoint-medium){
+    float: left;
+    }
+  }
+}
 
   
     

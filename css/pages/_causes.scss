@@ -27,29 +27,30 @@
       @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
         .hero-text{
           background: $white-opaque;
-          padding: 1rem;
+          padding: 0 1rem 0.5rem;
+//          padding: 1rem;
         }
       }
 //TABLET
       @media screen and (min-width: $breakpoint-medium){
-        background: url(../img/causes/causes-hero.jpg);
+        background: url(../../img/causes/causes-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        padding: 5%;
+//        padding: 5%;
       }
 //DESKTOP
       @media screen and (min-width: $breakpoint-large){
-        padding: 10% 0;
+//        padding: 10% 0;
       }
 
     }
-    h2{
-      @include font-size(28px);
-    }
+//    h2{
+//      @include font-size(28px);
+//    }
     
     figcaption{
       text-align: justify;
-      @include font-size(18px);
+//      @include font-size(18px);
     }
      
 /*---------CYCLE OF PAIN SECTION---------------*/
@@ -70,7 +71,7 @@
     #non-physical-causes table, #physical-causes table{
       border: 2px solid $gray-background;
       border-collapse: collapse;
-      @include font-size(18px);
+//      @include font-size(18px);
       a{
         font-weight: 600;
       }
