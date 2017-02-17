@@ -1,0 +1,147 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the treatment page.
+// -----------------------------------------------------------------------------
+
+#treatment{
+
+  main{
+    section{
+      -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    }
+    .grad1{
+        padding-bottom: 2rem;
+      a{
+        text-decoration: underline;
+      }
+    }
+    img{
+      display: block;
+      margin: 0 auto;
+    }
+    h2{
+//      @include font-size(28px);
+    }
+    ul{
+    //MOBILE ONLY
+      @media screen and (max-width: 768px){
+        margin-left: 1rem;
+      }
+    }
+    ul li{
+      list-style: disc;
+      padding-bottom: 1rem;
+//      @include font-size(18px);
+    }
+    h4{
+        font-weight: 400;
+        padding-bottom: 1rem;
+      }
+    
+/*---------HERO---------------*/
+
+    .hero-banner-image{
+      background: $light-gray-background;
+//TABLET ONLY
+      @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+        .hero-text{
+          background: $white-opaque;
+          padding: 0 1rem 0.5rem;
+//          padding: 1rem;
+        }
+      }
+  //TABLET AND UP
+      @media screen and (min-width: $breakpoint-medium){
+        background: url(../img/treatment/treatment-hero.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 5% 0;
+        min-height: 25rem;
+      }
+    }
+    
+    
+/*---------TREATMENT OVERVIEW SECTION---------------*/
+
+    @media screen and (max-width:$breakpoint-large){
+      #treatment-overview{
+        .large-4:nth-child(3){
+          padding-top:0;
+        }
+        .large-4:nth-child(2){
+          padding-bottom:0;
+        }
+      }
+    }
+    
+    
+/*---------TREATMENT DETAILS SECTION---------------*/
+    .treatment-details{
+      background: url(../img/white-wood-bkgd.jpg);
+      .opaque-box{
+        background: $white-opaque;
+        height: 100%;
+        padding-bottom: 2rem;
+        margin-bottom:1rem;
+        &:nth-child(2){
+          margin-bottom: 0;
+        }
+        img{
+          padding-top: 2rem;
+        }
+        h2{
+          padding: 1rem 0.5rem 0.5rem;
+        }
+        p{
+          padding:0.25rem 2rem 0.5rem;
+          text-align: center;
+        }
+      }
+    }
+       
+/*---------10 STEPS SECTION---------------*/
+    #ten-steps{
+      h4{
+//        @include font-size(18px);
+        margin-bottom: 1rem;
+      }
+      .large-12{
+        border: 1px solid $light-gray-text;
+        margin-bottom: 2rem;
+      }
+      img{
+        float: left;
+        padding: 0 0.5rem 0.5rem 0;
+        margin: 0;
+      }
+      p{
+        padding-bottom: 0;
+      }
+    }
+    
+ 
+    
+//end main
+  }
+//end page
+}
+
+//ARABIC & TURKISH
+:lang(ar), :lang(tr){
+  #treatment .hero-banner-image{
+  @media screen and (min-width: $breakpoint-medium){
+    background-image: url("../../img/tr/treatment-tr.jpg");
+    background-position: left;
+    }
+  }
+}
+        
+  
+
+
+
+
+  
+    
+  
