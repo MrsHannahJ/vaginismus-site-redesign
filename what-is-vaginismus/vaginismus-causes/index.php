@@ -11,7 +11,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="../img/causes/causes-hero-mobile.jpeg" alt="vaginismus causes" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/causes/causes-hero-mobile.jpeg" alt="vaginismus causes" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text hero-text-right">
@@ -34,7 +34,7 @@
             <p>Reacting to the anticipation of pain, the body automatically tightens the vaginal muscles, bracing to protect itself from harm. Sex becomes uncomfortable or painful, and entry may be more difficult or impossible depending upon the severity of this tightened state. With attempts at sex, any resulting discomfort further reinforces the reflex response so that it intensifies more. The body experiences increased pain and reacts by bracing more on an ongoing basis, further entrenching this response and creating a vaginismus <strong> cycle of pain</strong>.</p>
           </div>
           <div class="large-8">
-            <img src="../img/causes/Cycle-of-Pain-chart-EN.png" alt="Cycle of Pain. 1) Anicipate Pain: The body anticipates; fear/anxiety may contribute; 2)Involuntary Reaction: The body automatically tightens vaginal muscles; 3) Painful Sex: Tightens makes sex painful; penetration may be impossible; 4) Pain Reinforces: Pain intensifies reflex response; 5) Bracing: Body reacts by bracing more on an on-going basis; 6) Avoidance: Avoidance of intimacy, lack of desire may develop.">
+            <img src="/img/causes/Cycle-of-Pain-chart-EN.png" alt="Cycle of Pain. 1) Anicipate Pain: The body anticipates; fear/anxiety may contribute; 2)Involuntary Reaction: The body automatically tightens vaginal muscles; 3) Painful Sex: Tightens makes sex painful; penetration may be impossible; 4) Pain Reinforces: Pain intensifies reflex response; 5) Bracing: Body reacts by bracing more on an on-going basis; 6) Avoidance: Avoidance of intimacy, lack of desire may develop.">
           </div>
         </div>
         <div class="wrapper">
@@ -45,7 +45,7 @@
             <p>The anticipation of pain, emotional anxieties, or unhealthy sexual messages can contribute to and reinforce the symptoms of vaginismus. Frequently, but not always, there are deep-seated underlying negative feelings of anxiety associated with vaginal penetration. Emotional triggers that result in vaginismus symptoms are not always readily apparent and require some exploration. It is important that effective treatment processes include addressing any emotional triggers so a full pain-free and pleasurable sexual relationship can be enjoyed upon resolution.</p>
           </div>
           <div class="large-4 max-500">
-            <img src="../img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
+            <img src="/img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
           </div>
         </div>
       </section>
@@ -126,7 +126,7 @@
         <div class="wrapper">
           <div class="large-4">
             <div class="did-you-know">
-              <img src="../img/icons/lightbulb.png" alt="" aria-hidden="true">
+              <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h4>Did you know?</h4>
               <p>Vaginismus does not have an obvious cause (see <a href="../vaginismus-diagnosis/index.html">Diagnosis</a>). Sometimes women with near perfect childhoods, great relationships, strong education, and few anxieties, have trouble finding any plausible explanation for what caused their vaginismus. Fortunately, though it is helpful to know the causes, full knowledge is not always necessary to complete successful treatment.</p>
             </div>
@@ -155,7 +155,7 @@
           <div class="large-4">
             <p>The spasms cause burning or pain upon penetration or movement and may even completely block entry. The PC muscle group is large and very powerful. It encircles the urinary opening, vagina, and anus in a figure-eight pattern with one loop of muscles surrounding the vaginal area and the other loop surrounding the anal area. On each end, the muscles are attached to the skeleton and support and hold in place the abdominal and pelvic organs like a net, forming the pelvic floor.</p>
             <figure>
-              <img src="../img/causes/causes%20pc-muscles.png" alt="PC muscle group">
+              <img src="/img/causes/causes%20pc-muscles.png" alt="PC muscle group">
               <figcaption><strong>PC Muscles:</strong> The anatomy of the female pelvic floor area highlights the internal muscles called the pubococcygeus or PC muscle group. This is the muscle group that tightens involuntarily when vaginismus is experienced. The powerful muscle group surrounds both the entire vaginal area and the anus area.</figcaption>
             </figure>
           </div>
@@ -182,7 +182,7 @@
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
             <a href="../vaginismus-stories/index.html">
-               <img src="../img/causes/causes-left-footer-button.png" alt="vaginismus.com/vaginismus-stories">
+               <img src="/img/causes/causes-left-footer-button.png" alt="vaginismus.com/vaginismus-stories">
              </a>
           </div>
           <div class="large-6 medium-6">
@@ -190,7 +190,7 @@
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
              <a href="../vaginismus-diagnosis/index.html">
-               <img src="../img/causes/causes-right-footer-button.png" alt="vaginismus.com/vaginismus-diagnosis">
+               <img src="/img/causes/causes-right-footer-button.png" alt="vaginismus.com/vaginismus-diagnosis">
              </a>
           </div>
         </div>

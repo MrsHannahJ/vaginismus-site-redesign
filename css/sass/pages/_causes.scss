@@ -4,134 +4,132 @@
 
 
 #causes{
+  section{
+    -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+    box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
+  }
 
-  main{
-    section{
-      -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
-      -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
-      box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
-    }
-    
-    .grad1 a{
-      text-decoration: underline;
-    }
+  .grad1 a{
+    text-decoration: underline;
+  }
 
-    
+
 /*---------HERO---------------*/
 
-    .hero-banner-image{
-      background: $light-gray-background;
+  .hero-banner-image{
+    background: $light-gray-background;
+    background-size: cover;
+    background-repeat: no-repeat;
+//TABLET ONLY
+    @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
+      .hero-text{
+        background: $white-opaque;
+        padding: 0 1rem 0.5rem;
+//          padding: 1rem;
+      }
+    }
+//TABLET
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/causes/causes-hero.jpg);
       background-size: cover;
       background-repeat: no-repeat;
-//TABLET ONLY
-      @media screen and (min-width: $breakpoint-medium) and (max-width: 979px){
-        .hero-text{
-          background: $white-opaque;
-          padding: 0 1rem 0.5rem;
-//          padding: 1rem;
-        }
-      }
-//TABLET
-      @media screen and (min-width: $breakpoint-medium){
-        background: url(../../img/causes/causes-hero.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
 //        padding: 5%;
-      }
-//DESKTOP
-      @media screen and (min-width: $breakpoint-large){
-//        padding: 10% 0;
-      }
-
     }
+//DESKTOP
+    @media screen and (min-width: $breakpoint-large){
+//        padding: 10% 0;
+    }
+
+  }
 //    h2{
 //      @include font-size(28px);
 //    }
-    
-    figcaption{
-      text-align: justify;
+
+  figcaption{
+    text-align: justify;
 //      @include font-size(18px);
-    }
-     
+  }
+
 /*---------CYCLE OF PAIN SECTION---------------*/
-    #cycle-pain{
-      .max-500 img{
-        display: block;
-        margin: 0 auto;
-        max-width: 100%;
-        @media screen and (min-width: $breakpoint-medium){
-          width: 100%;
-          max-width: 500px;
-        }
+  #cycle-pain{
+    .max-500 img{
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      @media screen and (min-width: $breakpoint-medium){
+        width: 100%;
+        max-width: 500px;
       }
     }
-  
+  }
+
 /*---------PHYSICAL & NON-PHYSICAL SECTION---------------*/
 
-    #non-physical-causes table, #physical-causes table{
-      border: 2px solid $gray-background;
-      border-collapse: collapse;
+  #non-physical-causes table, #physical-causes table{
+    border: 2px solid $gray-background;
+    border-collapse: collapse;
 //      @include font-size(18px);
-      a{
+    a{
+      font-weight: 600;
+    }
+    td{
+      padding: 0.75rem;
+      border: 3px solid $dark-gray-text;
+      border-collapse: collapse;
+      &:first-child{
+        padding-right: 2rem;
         font-weight: 600;
       }
-      td{
-        padding: 0.75rem;
-        border: 3px solid $dark-gray-text;
-        border-collapse: collapse;
-        &:first-child{
-          padding-right: 2rem;
-          font-weight: 600;
-        }
-        
-      }
+
     }
-    #non-physical-causes table{
-      tr:nth-child(odd){
-        background-color: $light-gray-background;
-      }
-    }
-    
-    #physical-causes table{
-      tr:nth-child(even){
-        background-color: $light-gray-background;
-      }
-    }
-  
-/*---------OTHER MEDICAL CONDITIONS SECTION-------------*/
-    #other-medical{
-      background: url(../img/white-wood-bkgd.jpg);
-      .did-you-know, .opaque-box{
-        background: $white-opaque;
-        margin-top: 0;
-        width: 100%;
-      }
-      .opaque-box{
-        padding-bottom: 2rem;
-        h2{
-          padding: 2rem 0;
-        }
-        p{
-          padding:0.25rem 2rem 0.5rem;
-          text-align: center;
-        }
-      }
-    }
-      
-/*---------PC MUSCLES SECTION-------------*/
-    @media screen and (min-width: $breakpoint-large){
-      #pc-muscles figure{
-        margin: 1rem 0;
-      }
-    }
-    
-/*---------RETRAINING BANNER-------------*/
-    .body-retraining{
-      padding-bottom: 2rem;
-    }
-    
-    
   }
+  #non-physical-causes table{
+    tr:nth-child(odd){
+      background-color: $light-gray-background;
+    }
+  }
+
+  #physical-causes table{
+    tr:nth-child(even){
+      background-color: $light-gray-background;
+    }
+  }
+
+/*---------OTHER MEDICAL CONDITIONS SECTION-------------*/
+  #other-medical{
+    background: url(/img/white-wood-bkgd.jpg);
+    .did-you-know, .opaque-box{
+      background: $white-opaque;
+      margin-top: 0;
+      width: 100%;
+    }
+    .opaque-box{
+      padding-bottom: 2rem;
+      h2{
+        padding: 2rem 0;
+      }
+      p{
+        padding:0.25rem 2rem 0.5rem;
+        text-align: center;
+      }
+    }
+  }
+
+/*---------PC MUSCLES SECTION-------------*/
+  @media screen and (min-width: $breakpoint-large){
+    #pc-muscles figure{
+      margin: 1rem 0;
+    }
+  }
+
+/*---------RETRAINING BANNER-------------*/
+  .body-retraining{
+    padding-bottom: 2rem;
+  }
+
+
+
 }
         
   

@@ -61,10 +61,10 @@
     padding-bottom: 1rem;
     }
     #general-faq{
-      background-image:url(../img/faq/faq-general.jpg);
+      background-image:url(/img/faq/faq-general.jpg);
     }
     #treatment-faq{
-      background-image: url(../img/faq/faq-treatment.jpg);
+      background-image: url(/img/faq/faq-treatment.jpg);
       .large-6:first-child{
         padding-bottom:0;
       }
@@ -73,13 +73,13 @@
       }
     }
     #dilator-faq{
-      background-image: url(../img/faq/faq-dilator.jpg);
+      background-image: url(/img/faq/faq-dilator.jpg);
     }
     #pregnancy-faq{
-      background-image: url(../img/faq/faq-pregnancy.jpg);
+      background-image: url(/img/faq/faq-pregnancy.jpg);
     }
     #customer-service-faq{
-      background-image: url(../img/faq/faq-customer.jpg);
+      background-image: url(/img/faq/faq-customer.jpg);
       .large-6:first-child{
         padding-bottom:0;
       }
@@ -91,7 +91,7 @@
       }
     }
     #brochures{
-      background-image: url(../img/faq/faq-brochures.jpg);
+      background-image: url(/img/faq/faq-brochures.jpg);
       .brochure-download{
         padding: 1rem;
         display:block;
@@ -115,13 +115,13 @@
 //        @include font-size(20px);
       }
       #general-faq{
-        background-image:url(../img/faq/faq-general.jpg);
+        background-image:url(/img/faq/faq-general.jpg);
         h2{
           text-align: left;
         }
       }
       #treatment-faq{
-        background-image: url(../img/faq/faq-treatment.jpg);
+        background-image: url(/img/faq/faq-treatment.jpg);
         .large-6:first-child{
           padding-bottom:1rem;
         }
@@ -130,24 +130,24 @@
         }
       }
       #dilator-faq{
-        background-image: url(../img/faq/faq-dilator.jpg);
+        background-image: url(/img/faq/faq-dilator.jpg);
         h2{
           text-align: left;
         }
       }
       #pregnancy-faq{
-        background-image: url(../img/faq/faq-pregnancy.jpg);
+        background-image: url(/img/faq/faq-pregnancy.jpg);
         h2{
           text-align: left;
         }
       }
       #customer-service-faq{
-        background-image: url(../img/faq/faq-customer.jpg);
+        background-image: url(/img/faq/faq-customer.jpg);
         h2{
         }
       }
       #brochures{
-        background-image: url(../img/faq/faq-brochures.jpg);
+        background-image: url(/img/faq/faq-brochures.jpg);
         .brochure-download{
           padding: 1rem;
           display:inline-block;

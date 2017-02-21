@@ -309,6 +309,11 @@
 
       }
     }
+    
+    #construction{
+      @include font-size(34px);
+      text-align: center;
+    }
 
 
 

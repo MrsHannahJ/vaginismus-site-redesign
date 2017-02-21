@@ -331,5 +331,5 @@
     </main>
 
 <?php
-include(ROOT_PATH.'/includes/footer.php');
+  include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -2248,7 +2248,7 @@ aside .sidebar-img a {
   }
 }
 
-#symptoms main {
+#symptoms {
   /*-------------------------------------*/
   /*---------SYMPTOMS PAGE---------------*/
   /*-------------------------------------*/
@@ -2258,82 +2258,82 @@ aside .sidebar-img a {
   /*---------INVOLUNTARY SECTION---------------*/
   /*---------UNCOMMATED MARRIAGES SECTION---------------*/
 }
-#symptoms main section {
+#symptoms section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#symptoms main .grad1 a {
+#symptoms .grad1 a {
   text-decoration: underline;
 }
-#symptoms main .hero-banner-image {
+#symptoms .hero-banner-image {
   background: #f2f2f2;
 }
 @media screen and (min-width: 768px) {
-  #symptoms main .hero-banner-image {
+  #symptoms .hero-banner-image {
     background: url(../img/symptoms/symptoms-header-en.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 }
-#symptoms main ul {
+#symptoms ul {
   padding: 1rem 0;
 }
 @media screen and (max-width: 768px) {
-  #symptoms main ul {
+  #symptoms ul {
     margin-left: 1rem;
   }
 }
-#symptoms main ul li {
+#symptoms ul li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#symptoms main figcaption {
+#symptoms figcaption {
   text-align: justify;
 }
-#symptoms main #examples-effects img {
+#symptoms #examples-effects img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
 }
 @media screen and (min-width: 980px) {
-  #symptoms main #examples-effects img {
+  #symptoms #examples-effects img {
     width: 100%;
     max-width: 500px;
   }
 }
-#symptoms main #variations-experience {
+#symptoms #variations-experience {
   background: url(../img/white-wood-bkgd.jpg);
 }
-#symptoms main #variations-experience .did-you-know, #symptoms main #variations-experience .opaque-box {
+#symptoms #variations-experience .did-you-know, #symptoms #variations-experience .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   margin-top: 0;
   width: 100%;
 }
-#symptoms main #variations-experience .opaque-box h2 {
+#symptoms #variations-experience .opaque-box h2 {
   padding-top: 2rem;
   padding-bottom: 0;
 }
-#symptoms main #variations-experience .opaque-box p {
+#symptoms #variations-experience .opaque-box p {
   padding: 0.25rem 2rem 0.5rem;
 }
-#symptoms main #variations-experience .opaque-box ul {
+#symptoms #variations-experience .opaque-box ul {
   padding: 0 2rem;
   margin-left: 2rem;
 }
-#symptoms main #involuntary {
+#symptoms #involuntary {
   padding: 0 1rem 2rem 1rem;
 }
-#symptoms main #unconsummated-marriages h4 {
+#symptoms #unconsummated-marriages h4 {
   font-weight: 400;
 }
-#symptoms main #unconsummated-marriages img {
+#symptoms #unconsummated-marriages img {
   display: block;
   margin: 0 auto;
   max-width: 500px;
 }
 @media screen and (min-width: 980px) {
-  #symptoms main #unconsummated-marriages img {
+  #symptoms #unconsummated-marriages img {
     width: 100%;
     max-width: 500px;
   }
@@ -2346,7 +2346,7 @@ aside .sidebar-img a {
   }
 }
 
-#causes main {
+#causes {
   /*---------HERO---------------*/
   /*---------CYCLE OF PAIN SECTION---------------*/
   /*---------PHYSICAL & NON-PHYSICAL SECTION---------------*/
@@ -2354,156 +2354,156 @@ aside .sidebar-img a {
   /*---------PC MUSCLES SECTION-------------*/
   /*---------RETRAINING BANNER-------------*/
 }
-#causes main section {
+#causes section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#causes main .grad1 a {
+#causes .grad1 a {
   text-decoration: underline;
 }
-#causes main .hero-banner-image {
+#causes .hero-banner-image {
   background: #f2f2f2;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  #causes main .hero-banner-image .hero-text, #causes main .hero-banner-image .hero-text-right {
+  #causes .hero-banner-image .hero-text, #causes .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 768px) {
-  #causes main .hero-banner-image {
-    background: url(../../img/causes/causes-hero.jpg);
+  #causes .hero-banner-image {
+    background: url(/img/causes/causes-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 }
-#causes main figcaption {
+#causes figcaption {
   text-align: justify;
 }
-#causes main #cycle-pain .max-500 img {
+#causes #cycle-pain .max-500 img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
 }
 @media screen and (min-width: 768px) {
-  #causes main #cycle-pain .max-500 img {
+  #causes #cycle-pain .max-500 img {
     width: 100%;
     max-width: 500px;
   }
 }
-#causes main #non-physical-causes table, #causes main #physical-causes table {
+#causes #non-physical-causes table, #causes #physical-causes table {
   border: 2px solid #e0e0e0;
   border-collapse: collapse;
 }
-#causes main #non-physical-causes table a, #causes main #physical-causes table a {
+#causes #non-physical-causes table a, #causes #physical-causes table a {
   font-weight: 600;
 }
-#causes main #non-physical-causes table td, #causes main #physical-causes table td {
+#causes #non-physical-causes table td, #causes #physical-causes table td {
   padding: 0.75rem;
   border: 3px solid #333333;
   border-collapse: collapse;
 }
-#causes main #non-physical-causes table td:first-child, #causes main #physical-causes table td:first-child {
+#causes #non-physical-causes table td:first-child, #causes #physical-causes table td:first-child {
   padding-right: 2rem;
   font-weight: 600;
 }
-#causes main #non-physical-causes table tr:nth-child(odd) {
+#causes #non-physical-causes table tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
-#causes main #physical-causes table tr:nth-child(even) {
+#causes #physical-causes table tr:nth-child(even) {
   background-color: #f2f2f2;
 }
-#causes main #other-medical {
-  background: url(../img/white-wood-bkgd.jpg);
+#causes #other-medical {
+  background: url(/img/white-wood-bkgd.jpg);
 }
-#causes main #other-medical .did-you-know, #causes main #other-medical .opaque-box {
+#causes #other-medical .did-you-know, #causes #other-medical .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   margin-top: 0;
   width: 100%;
 }
-#causes main #other-medical .opaque-box {
+#causes #other-medical .opaque-box {
   padding-bottom: 2rem;
 }
-#causes main #other-medical .opaque-box h2 {
+#causes #other-medical .opaque-box h2 {
   padding: 2rem 0;
 }
-#causes main #other-medical .opaque-box p {
+#causes #other-medical .opaque-box p {
   padding: 0.25rem 2rem 0.5rem;
   text-align: center;
 }
 @media screen and (min-width: 980px) {
-  #causes main #pc-muscles figure {
+  #causes #pc-muscles figure {
     margin: 1rem 0;
   }
 }
-#causes main .body-retraining {
+#causes .body-retraining {
   padding-bottom: 2rem;
 }
 
-#stories main {
+#stories {
   /*---------HERO---------------*/
 }
-#stories main section {
+#stories section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#stories main img {
+#stories img {
   display: block;
   margin: 0 auto;
   width: 100%;
 }
-#stories main h3 {
+#stories h3 {
   font-weight: bold;
   font-style: italic;
   text-align: left;
   color: #333333;
   padding-top: 0.5rem;
 }
-#stories main h4 {
+#stories h4 {
   font-style: italic;
   text-align: left;
   font-weight: normal;
   color: #333333;
   padding-bottom: 0.25rem;
 }
-#stories main .hero-banner-image {
+#stories .hero-banner-image {
   background: #f2f2f2;
 }
-#stories main .hero-banner-image h3 {
+#stories .hero-banner-image h3 {
   text-align: center;
   color: #656565;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  #stories main {
-    background: url(../img/stories/stories-hero-tablet.jpg);
+  #stories {
+    background: url(/img/stories/stories-hero-tablet.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
 }
 @media screen and (min-width: 768px) {
-  #stories main .hero-banner-image {
-    background: url(../img/stories/stories-hero.jpg);
+  #stories .hero-banner-image {
+    background: url(/img/stories/stories-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
   }
-  #stories main .hero-banner-image .hero-text, #stories main .hero-banner-image .hero-text-right {
+  #stories .hero-banner-image .hero-text, #stories .hero-banner-image .hero-text-right {
     text-align: center;
   }
 }
 @media screen and (min-width: 980px) {
-  #stories main .hero-banner-image {
+  #stories .hero-banner-image {
     background-position: right;
   }
 }
 
 @media screen and (min-width: 768px) {
   :lang(es) #stories .hero-banner-image, :lang(pt) #stories .hero-banner-image {
-    background-image: url("../../img/es/stories-header-es.jpg");
+    background-image: url("/img/es/stories-header-es.jpg");
     background-position: right;
   }
   :lang(es) #stories .hero-banner-image .hero-text, :lang(es) #stories .hero-banner-image .hero-text-right, :lang(pt) #stories .hero-banner-image .hero-text, :lang(pt) #stories .hero-banner-image .hero-text-right {
@@ -2513,7 +2513,7 @@ aside .sidebar-img a {
 
 @media screen and (min-width: 768px) {
   :lang(ar) #stories .hero-banner-image, :lang(tr) #stories .hero-banner-image {
-    background-image: url("../../img/ar/stories-header-ar.jpg");
+    background-image: url("/img/ar/stories-header-ar.jpg");
     background-position: right;
   }
   :lang(ar) #stories .hero-banner-image .hero-text, :lang(ar) #stories .hero-banner-image .hero-text-right, :lang(tr) #stories .hero-banner-image .hero-text, :lang(tr) #stories .hero-banner-image .hero-text-right {
@@ -2527,96 +2527,96 @@ aside .sidebar-img a {
   }
 }
 
-#diagnosis main {
+#diagnosis {
   /*---------HERO---------------*/
   /*---------QUICK DIAGNOSIS SECTION---------------*/
   /*---------SAMPLE SCRIPT SECTION---------------*/
 }
-#diagnosis main section {
+#diagnosis section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#diagnosis main .grad1 a {
+#diagnosis .grad1 a {
   text-decoration: underline;
 }
-#diagnosis main .grad1 p {
+#diagnosis .grad1 p {
   text-align: left;
 }
-#diagnosis main img {
+#diagnosis img {
   display: block;
   margin: 0 auto;
 }
-#diagnosis main h4 {
+#diagnosis h4 {
   font-weight: 400;
   padding-bottom: 1rem;
 }
-#diagnosis main ul {
+#diagnosis ul {
   padding: 1rem 0;
   margin-left: 2rem;
 }
-#diagnosis main ul li {
+#diagnosis ul li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#diagnosis main a {
+#diagnosis a {
   font-weight: bold;
 }
-#diagnosis main .hero-banner-image {
+#diagnosis .hero-banner-image {
   background: #f2f2f2;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  #diagnosis main .hero-banner-image {
-    background: url(../img/diagnosis/diagnosis-hero-tablet.jpg);
+  #diagnosis .hero-banner-image {
+    background: url(/img/diagnosis/diagnosis-hero-tablet.jpg);
   }
-  #diagnosis main .hero-banner-image .hero-text, #diagnosis main .hero-banner-image .hero-text-right {
+  #diagnosis .hero-banner-image .hero-text, #diagnosis .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 768px) {
-  #diagnosis main .hero-banner-image {
-    background: url(../img/diagnosis/diagnosis-hero.jpg);
+  #diagnosis .hero-banner-image {
+    background: url(/img/diagnosis/diagnosis-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
   }
 }
 @media screen and (min-width: 980px) {
-  #diagnosis main .hero-banner-image .hero-text, #diagnosis main .hero-banner-image .hero-text-right {
+  #diagnosis .hero-banner-image .hero-text, #diagnosis .hero-banner-image .hero-text-right {
     padding: 0;
   }
 }
-#diagnosis main #quick-diagnosis {
+#diagnosis #quick-diagnosis {
   text-align: center;
 }
-#diagnosis main #quick-diagnosis img {
+#diagnosis #quick-diagnosis img {
   width: 15%;
   max-width: 3rem;
   padding-top: 1rem;
   padding-bottom: 1.5rem;
 }
-#diagnosis main #quick-diagnosis .no-float {
+#diagnosis #quick-diagnosis .no-float {
   float: none;
   margin: 0 auto;
 }
-#diagnosis main #samplescript {
-  background: url(../img/diagnosis/diagnosis-sample.jpg) no-repeat;
+#diagnosis #samplescript {
+  background: url(/img/diagnosis/diagnosis-sample.jpg) no-repeat;
   background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
   :lang(es) #diagnosis .hero-banner-image, :lang(pt) #diagnosis .hero-banner-image {
-    background-image: url("../../img/es/diagnosis-header-es.jpg");
+    background-image: url("/img/es/diagnosis-header-es.jpg");
     background-position: right;
   }
 }
 
 @media screen and (min-width: 768px) {
   :lang(ar) #diagnosis .hero-banner-image, :lang(tr) #diagnosis .hero-banner-image {
-    background-image: url("../../img/ar/diagnosis-header-ar.jpg");
+    background-image: url("/img/ar/diagnosis-header-ar.jpg");
     background-position: right;
   }
 }
@@ -2627,51 +2627,51 @@ aside .sidebar-img a {
   }
 }
 
-#treatment main {
+#treatment {
   /*---------HERO---------------*/
   /*---------TREATMENT OVERVIEW SECTION---------------*/
   /*---------TREATMENT DETAILS SECTION---------------*/
   /*---------10 STEPS SECTION---------------*/
 }
-#treatment main section {
+#treatment section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#treatment main .grad1 {
+#treatment .grad1 {
   padding-bottom: 2rem;
 }
-#treatment main .grad1 a {
+#treatment .grad1 a {
   text-decoration: underline;
 }
-#treatment main img {
+#treatment img {
   display: block;
   margin: 0 auto;
 }
 @media screen and (max-width: 768px) {
-  #treatment main ul {
+  #treatment ul {
     margin-left: 1rem;
   }
 }
-#treatment main ul li {
+#treatment ul li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#treatment main h4 {
+#treatment h4 {
   font-weight: 400;
   padding-bottom: 1rem;
 }
-#treatment main .hero-banner-image {
+#treatment .hero-banner-image {
   background: #f2f2f2;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  #treatment main .hero-banner-image .hero-text, #treatment main .hero-banner-image .hero-text-right {
+  #treatment .hero-banner-image .hero-text, #treatment .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 768px) {
-  #treatment main .hero-banner-image {
+  #treatment .hero-banner-image {
     background: url(../img/treatment/treatment-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -2680,48 +2680,48 @@ aside .sidebar-img a {
   }
 }
 @media screen and (max-width: 980px) {
-  #treatment main #treatment-overview .large-4:nth-child(3) {
+  #treatment #treatment-overview .large-4:nth-child(3) {
     padding-top: 0;
   }
-  #treatment main #treatment-overview .large-4:nth-child(2) {
+  #treatment #treatment-overview .large-4:nth-child(2) {
     padding-bottom: 0;
   }
 }
-#treatment main .treatment-details {
+#treatment .treatment-details {
   background: url(../img/white-wood-bkgd.jpg);
 }
-#treatment main .treatment-details .opaque-box {
+#treatment .treatment-details .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   height: 100%;
   padding-bottom: 2rem;
   margin-bottom: 1rem;
 }
-#treatment main .treatment-details .opaque-box:nth-child(2) {
+#treatment .treatment-details .opaque-box:nth-child(2) {
   margin-bottom: 0;
 }
-#treatment main .treatment-details .opaque-box img {
+#treatment .treatment-details .opaque-box img {
   padding-top: 2rem;
 }
-#treatment main .treatment-details .opaque-box h2 {
+#treatment .treatment-details .opaque-box h2 {
   padding: 1rem 0.5rem 0.5rem;
 }
-#treatment main .treatment-details .opaque-box p {
+#treatment .treatment-details .opaque-box p {
   padding: 0.25rem 2rem 0.5rem;
   text-align: center;
 }
-#treatment main #ten-steps h4 {
+#treatment #ten-steps h4 {
   margin-bottom: 1rem;
 }
-#treatment main #ten-steps .large-12 {
+#treatment #ten-steps .large-12 {
   border: 1px solid #656565;
   margin-bottom: 2rem;
 }
-#treatment main #ten-steps img {
+#treatment #ten-steps img {
   float: left;
   padding: 0 0.5rem 0.5rem 0;
   margin: 0;
 }
-#treatment main #ten-steps p {
+#treatment #ten-steps p {
   padding-bottom: 0;
 }
 
@@ -2770,10 +2770,10 @@ aside .sidebar-img a {
   padding-bottom: 1rem;
 }
 #faq main #general-faq {
-  background-image: url(../img/faq/faq-general.jpg);
+  background-image: url(/img/faq/faq-general.jpg);
 }
 #faq main #treatment-faq {
-  background-image: url(../img/faq/faq-treatment.jpg);
+  background-image: url(/img/faq/faq-treatment.jpg);
 }
 #faq main #treatment-faq .large-6:first-child {
   padding-bottom: 0;
@@ -2782,13 +2782,13 @@ aside .sidebar-img a {
   padding-top: 0;
 }
 #faq main #dilator-faq {
-  background-image: url(../img/faq/faq-dilator.jpg);
+  background-image: url(/img/faq/faq-dilator.jpg);
 }
 #faq main #pregnancy-faq {
-  background-image: url(../img/faq/faq-pregnancy.jpg);
+  background-image: url(/img/faq/faq-pregnancy.jpg);
 }
 #faq main #customer-service-faq {
-  background-image: url(../img/faq/faq-customer.jpg);
+  background-image: url(/img/faq/faq-customer.jpg);
 }
 #faq main #customer-service-faq .large-6:first-child {
   padding-bottom: 0;
@@ -2800,7 +2800,7 @@ aside .sidebar-img a {
   margin-left: 2.5%;
 }
 #faq main #brochures {
-  background-image: url(../img/faq/faq-brochures.jpg);
+  background-image: url(/img/faq/faq-brochures.jpg);
 }
 #faq main #brochures .brochure-download {
   padding: 1rem;
@@ -2814,13 +2814,13 @@ aside .sidebar-img a {
 }
 @media screen and (min-width: 980px) {
   #faq main #general-faq {
-    background-image: url(../img/faq/faq-general.jpg);
+    background-image: url(/img/faq/faq-general.jpg);
   }
   #faq main #general-faq h2 {
     text-align: left;
   }
   #faq main #treatment-faq {
-    background-image: url(../img/faq/faq-treatment.jpg);
+    background-image: url(/img/faq/faq-treatment.jpg);
   }
   #faq main #treatment-faq .large-6:first-child {
     padding-bottom: 1rem;
@@ -2829,22 +2829,22 @@ aside .sidebar-img a {
     padding-top: 1rem;
   }
   #faq main #dilator-faq {
-    background-image: url(../img/faq/faq-dilator.jpg);
+    background-image: url(/img/faq/faq-dilator.jpg);
   }
   #faq main #dilator-faq h2 {
     text-align: left;
   }
   #faq main #pregnancy-faq {
-    background-image: url(../img/faq/faq-pregnancy.jpg);
+    background-image: url(/img/faq/faq-pregnancy.jpg);
   }
   #faq main #pregnancy-faq h2 {
     text-align: left;
   }
   #faq main #customer-service-faq {
-    background-image: url(../img/faq/faq-customer.jpg);
+    background-image: url(/img/faq/faq-customer.jpg);
   }
   #faq main #brochures {
-    background-image: url(../img/faq/faq-brochures.jpg);
+    background-image: url(/img/faq/faq-brochures.jpg);
   }
   #faq main #brochures .brochure-download {
     padding: 1rem;
@@ -2852,48 +2852,48 @@ aside .sidebar-img a {
   }
 }
 
-#reviews main {
+#reviews {
   /*---------HERO---------------*/
 }
-#reviews main .grad1 a {
+#reviews .grad1 a {
   text-decoration: underline;
 }
-#reviews main .grad1 {
+#reviews .grad1 {
   padding-bottom: 2rem;
 }
-#reviews main img {
+#reviews img {
   display: block;
   margin: 0 auto;
 }
-#reviews main ul {
+#reviews ul {
   padding: 1rem 0;
   margin-left: 2rem;
 }
-#reviews main ul li {
+#reviews ul li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#reviews main .hero-banner-image {
+#reviews .hero-banner-image {
   background: #f2f2f2;
 }
 @media screen and (min-width: 768px) {
-  #reviews main .hero-banner-image {
-    background: url(../img/feedback/feedback-hero.jpg);
+  #reviews .hero-banner-image {
+    background: url(/img/feedback/feedback-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 10% 50%;
   }
-  #reviews main .hero-banner-image .hero-text, #reviews main .hero-banner-image .hero-text-right {
+  #reviews .hero-banner-image .hero-text, #reviews .hero-banner-image .hero-text-right {
     width: 100%;
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 980px) {
-  #reviews main .hero-banner-image {
+  #reviews .hero-banner-image {
     padding: 5%;
   }
-  #reviews main .hero-banner-image .hero-text, #reviews main .hero-banner-image .hero-text-right {
+  #reviews .hero-banner-image .hero-text, #reviews .hero-banner-image .hero-text-right {
     width: 60%;
   }
 }
@@ -3138,6 +3138,11 @@ aside .sidebar-img a {
     content: "DHL Express Worldwide";
   }
 }
+.faq-question section #construction, .resource-page section #construction {
+  font-size: 34px;
+  font-size: 2.125rem;
+  text-align: center;
+}
 @media screen and (min-width: 768px) {
   .faq-question section ul, .resource-page section ul {
     margin-left: 3rem;
@@ -3308,7 +3313,7 @@ aside .sidebar-img a {
   margin-left: 1rem;
 }
 .product-page .hero-product-banner-image {
-  background-image: url(../img/products/products-header.jpg);
+  background-image: url(/img/products/products-header.jpg);
   padding: 15%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3321,7 +3326,7 @@ aside .sidebar-img a {
   font-weight: bold;
 }
 .product-page .product-description-5 {
-  background-image: url(../img/white-wood-bkgd.jpg);
+  background-image: url(/img/white-wood-bkgd.jpg);
 }
 .product-page .product-description-5 .opaque-box {
   background: rgba(255, 255, 255, 0.7);
@@ -3406,7 +3411,7 @@ p .white-btn {
 }
 @media screen and (min-width: 768px) {
   #resources .hero-banner-image {
-    background: url(../img/resources/resources-hero.jpg);
+    background: url(/img/resources/resources-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3444,113 +3449,113 @@ p .white-btn {
   }
 }
 
-#forum-intro main {
+#forum-intro {
   /*---------HERO---------------*/
   /*---            PRIVATE FORUM SECTION             ---*/
   /*---            FORUM BANNER             ---*/
   /*---            NETWORK OF SUPPORT SECTION          ---*/
   /*---            HUSBANDS ALLOWED SECTION          ---*/
 }
-#forum-intro main section {
+#forum-intro section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
   box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
 }
-#forum-intro main img {
+#forum-intro img {
   display: block;
   margin: 0 auto;
 }
-#forum-intro main h2 {
+#forum-intro h2 {
   color: #333333;
 }
-#forum-intro main h4 {
+#forum-intro h4 {
   font-weight: 500;
   font-family: "Raleway", sans-serif;
   color: #333333;
 }
-#forum-intro main a {
+#forum-intro a {
   font-weight: bold;
 }
-#forum-intro main ul {
+#forum-intro ul {
   padding: 1rem 0;
   margin-left: 2rem;
 }
-#forum-intro main ul li {
+#forum-intro ul li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#forum-intro main .hero-banner-image {
+#forum-intro .hero-banner-image {
   background: #f2f2f2;
 }
 @media screen and (min-width: 768px) {
-  #forum-intro main .hero-banner-image {
-    background: url(../img/forum-introduction/forum-introduction-hero.jpg);
+  #forum-intro .hero-banner-image {
+    background: url(/img/forum-introduction/forum-introduction-hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 2% 0;
   }
-  #forum-intro main .hero-banner-image .hero-text, #forum-intro main .hero-banner-image .hero-text-right {
+  #forum-intro .hero-banner-image .hero-text, #forum-intro .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
-  #forum-intro main .hero-banner-image .hero-text h2, #forum-intro main .hero-banner-image .hero-text-right h2 {
+  #forum-intro .hero-banner-image .hero-text h2, #forum-intro .hero-banner-image .hero-text-right h2 {
     text-align: left;
   }
 }
-#forum-intro main #private-forum h2 {
+#forum-intro #private-forum h2 {
   text-align: left;
   color: #333333;
 }
 @media screen and (min-width: 980px) {
-  #forum-intro main #private-forum img {
+  #forum-intro #private-forum img {
     margin-top: 3rem;
   }
 }
-#forum-intro main .grad1 {
+#forum-intro .grad1 {
   padding: 2rem 0;
 }
-#forum-intro main .grad1 img {
+#forum-intro .grad1 img {
   width: 30%;
   max-width: 5rem;
 }
-#forum-intro main .grad1 h2 {
+#forum-intro .grad1 h2 {
   color: #ffffff;
 }
-#forum-intro main .grad1 a {
+#forum-intro .grad1 a {
   text-decoration: underline;
 }
-#forum-intro main .forum-testimonials h2 {
+#forum-intro .forum-testimonials h2 {
   margin-bottom: 1rem;
 }
-#forum-intro main .forum-testimonials .large-4:nth-child(2) {
+#forum-intro .forum-testimonials .large-4:nth-child(2) {
   padding-bottom: 0.5rem;
 }
-#forum-intro main .forum-testimonials .testimonial {
+#forum-intro .forum-testimonials .testimonial {
   margin-bottom: 1.5rem;
   background: #f2f2f2;
   width: 100%;
   text-align: center;
 }
-#forum-intro main .forum-testimonials .testimonial:nth-child(2) {
+#forum-intro .forum-testimonials .testimonial:nth-child(2) {
   margin-bottom: 0;
 }
-#forum-intro main .forum-testimonials .testimonial-text {
+#forum-intro .forum-testimonials .testimonial-text {
   padding: 0;
 }
-#forum-intro main .forum-testimonials .testimonial-text p {
+#forum-intro .forum-testimonials .testimonial-text p {
   line-height: 1.4;
 }
-#forum-intro main .forum-testimonials .quotes {
+#forum-intro .forum-testimonials .quotes {
   left: 47%;
 }
-#forum-intro main .spouses-allowed {
+#forum-intro .spouses-allowed {
   background: url(../../img/forum-introduction/forum-introduction-husbands.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
   padding: 5%;
 }
-#forum-intro main .spouses-allowed .opaque-box {
+#forum-intro .spouses-allowed .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   float: right;
   color: #333333;
@@ -3640,55 +3645,55 @@ p .white-btn {
   font-family: "Raleway", sans-serif;
 }
 
-#contact-us {
-  /*---------HERO---------------*/
-}
-#contact-us main .grad1 a {
+#contact-us .grad1 a {
   text-decoration: underline;
 }
-#contact-us main .grad1 {
+#contact-us .grad1 {
   padding-bottom: 2rem;
 }
-#contact-us main img {
+#contact-us img {
   display: block;
   margin: 0 auto;
 }
-#contact-us .hero-banner-image {
+
+/*---------HERO---------------*/
+.hero-banner-image {
   background: #f2f2f2;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 2% 0;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  #contact-us .hero-banner-image {
-    background: url(../../img/contact-us/contact-us-hero-mobile.jpg);
+  .hero-banner-image {
+    background: url(/img/contact-us/contact-us-hero-mobile.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
+  .hero-banner-image .hero-text, .hero-banner-image .hero-text-right {
     width: 100%;
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 980px) {
-  #contact-us .hero-banner-image {
-    background: url(../../img/contact-us/contact-us.jpg);
+  .hero-banner-image {
+    background: url(/img/contact-us/contact-us.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
   }
-  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
+  .hero-banner-image .hero-text, .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
     width: 60%;
   }
 }
-#contact-us .contact-options {
+
+.contact-options {
   text-align: center;
 }
-#contact-us .contact-options img {
+.contact-options img {
   width: 5rem;
 }
 

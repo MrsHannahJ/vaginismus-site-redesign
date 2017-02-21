@@ -71,7 +71,7 @@
 //    font-weight: 400;
 //  }
   .hero-product-banner-image{
-    background-image: url(../img/products/products-header.jpg);
+    background-image: url(/img/products/products-header.jpg);
     padding: 15%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -85,7 +85,7 @@
     font-weight: bold;
   }
   .product-description-5{
-    background-image: url(../img/white-wood-bkgd.jpg);
+    background-image: url(/img/white-wood-bkgd.jpg);
     .opaque-box{
       background: $white-opaque;
       padding: 0.5rem 1rem;

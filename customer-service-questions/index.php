@@ -39,24 +39,8 @@
 
         </section>
         
-<!--   SIDEBAR   -->
-
-          <aside class="large-3">
-          <h2>Customer Service FAQs</h2>
-          <ul>
-            <li><a href="ordering-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>Ordering &amp; Returns</a></li>
-            <li><a href="shipping-faqs/index.html"><i class="icon-angle-double-right"></i>Shipping</a></li>
-            <li><a href="guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>Guarantee</a></li>
-            <li><a href="quality-faqs/index.html"><i class="icon-angle-double-right"></i>Quality &amp; Safety</a></li>
-            <li><a href="privacy-policy/index.html"><i class="icon-angle-double-right"></i>Privacy Policy</a></li>
-            <li><a href="terms-of-use/index.html"><i class="icon-angle-double-right"></i>Terms of Use</a></li>
-          </ul>
-          <a href='../../faq/index.html' class="shaded-btn">See All FAQs</a>
-        </aside>
-      </div>
-    </main>
-                    
 <?php
+  $active = 'ordering';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
   include(ROOT_PATH.'/includes/footer.php');
 ?>
               

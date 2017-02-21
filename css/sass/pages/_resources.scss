@@ -9,7 +9,7 @@
   .hero-banner-image{
     background: $light-gray-background;
 //    @media screen and (min-width: $breakpoint-medium){
-//      background-image: url(../img/resources/resources-hero.jpg);
+//      background-image: url(/img/resources/resources-hero.jpg);
 //      .hero-text{
 //        background: $white-opaque;
 //        padding: 0 1rem 0.5rem;
@@ -18,7 +18,7 @@
     
       //TABLET AND ABOVE
     @media screen and (min-width: $breakpoint-medium){
-      background: url(../img/resources/resources-hero.jpg);
+      background: url(/img/resources/resources-hero.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -40,7 +40,7 @@
       //DESKTOP ONLY
 
     @media screen and (min-width: $breakpoint-large){
-//      background: url(../img/resources/resources-hero.jpg);
+//      background: url(/img/resources/resources-hero.jpg);
 //      background-size:cover;
 //      background-repeat: no-repeat;
 //      background-position: left;
