@@ -17,15 +17,7 @@
 <!--     HERO SECTION     -->
      
       <section id="hero" class="hero-banner-image">
-        <nav class="breadcrumbs-desktop hidden-mobile hidden-tablet">
-         <ul>
-           <li><a href="">Home</a>/</li>
-           <li><a href="">Resources</a>/</li>
-           <li><a href="#">Blog</a>/</li>
-           <li><a href="#">10 Myths about Vaginismus</a></li>
-         </ul>
-   
-        </nav>
+
         <img src="/img/home/home-header-mobile.jpeg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="home">
         
         <div class="wrapper">

@@ -8,7 +8,9 @@
 
 // 2. Vendors
 @import
-  'vendor/normalize';
+  'vendor/normalize',
+  'vendor/jquery-ui.min',
+  'vendor/jquery.mobile-1.4.5.min';
 
 // 3. Base stuff
 @import

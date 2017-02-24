@@ -22,7 +22,7 @@ $navOverlay.click(function() {
 
 
 
-// Sub Menu Accordion
+// Sub Menu Accordion Header
 
 
 
@@ -32,7 +32,7 @@ $navOverlay.click(function() {
     var checkElement = $(this).next();
     
     $('#cssmenu li').removeClass('active');
-    $(this).closest('li').addClass('active');	
+    $(this).closest('li').addClass('active');
     
     
     if((checkElement.is('ul')) && (checkElement.is(':visible'))) {
@@ -48,10 +48,28 @@ $navOverlay.click(function() {
     if (checkElement.is('ul')) {
       return false;
     } else {
-      return true;	
-    }		
+      return true;
+    }
   });
-
+  
+  
+// Footer Accordion
+//	$("#accordian h5").click(function(){
+//		//slide up all the link lists
+//		$("#accordian ul ul").slideUp();
+//        $("#accordian h5").removeClass("selected");
+//		//slide down the link list below the h3 clicked - only if its closed
+//		if(!$(this).next().is(":visible"))
+//		{
+//		  $(this).next().slideDown();
+//          $(this).addClass("selected");
+//		}
+//	})
+    
+    
+    
+ 
+    
 });
 
 

@@ -4,19 +4,34 @@
 
 
 /*-------------FOOTER---------------*/
-
 footer{
   text-align: center;
 
-  .social-container{
+//footer nav
+  label {
+    @include font-size(16px);
+    color: $dark-gray-text;
+    font-weight: 600;
+    img{
+      vertical-align: text-bottom;
+      padding-right: 0.5rem;
+    }
+  }
+  .footer-label-content > ul > li > a{
+    color: $light-gray-text;
+    @include font-size(16px);
+  }
+
+//footer badges
+    #footer-badges{
+
     li{
       display:inline;
-      margin: 0 auto;
     }
     img{
-      width:16%;
-      padding: 1%;
-      max-width: 50px;
+      width:15%;
+      padding: 1% 0.5%;
+      max-width: 40px;
       }
     a{
       opacity: 0.8;
@@ -25,67 +40,116 @@ footer{
         -webkit-transition: all 0.2s ease-in-out;
         -moz-transition: all 0.2s ease-in-out;
         transition: all 0.2s ease-in-out;
-    }
-    }
-  }
-  .secure-badges{
-    img{
-      max-width: 250px;
+      }
     }
   }
-  #footer-menu{
-    background-color: $gray-background;
-    li{
-      line-height: 1.8;
-    }
-    a{
-      text-decoration: none;
-      color: $dark-gray-text;
-    }
+
+  #copyright p{
+    @include font-size(12px);
   }
-  #copyright{
-    img{
-      width: 20%;
-      max-width: 250px;
+  
+/*----------MOBILE ONLY------------*/
+  @media screen and (max-width: $breakpoint-medium){
+//    .footer-nav{
+//      margin-bottom: 1rem;
+//    }
+  /* Accordion styles */
+  .tab {
+    position: relative;
+    padding-bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 1.8;
+  }
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  label {
+    position: relative;
+    display: block;
+    padding: 0 0 0 1em;
+    cursor: pointer;
+  }
+    
+  .footer-label-content {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height .35s;
+    -o-transition: max-height .35s;
+    transition: max-height .35s;
+  }
+
+  .footer-label-content > ul > li > a{
+    line-height: 1.8;
+  }
+
+
+  /* :checked */
+  input:checked ~ .footer-label-content {
+    max-height: 10em;
+  }
+  input:checked ~ label,
+  input:checked ~ label::after {
+    color: $brand;
+  }
+
+
+  input[type=radio] + label::after {
+    margin-left: 0.5rem;
+    border-style: solid;
+    border-width: 0.1em 0.1em 0 0;
+    content: '';
+    display: inline-block;
+    height: .75em;
+    left: 0.15em;
+    position: relative;
+    top: 0.15em;
+    vertical-align:text-top;
+    width: .75em;
+    color: $dark-gray-text;
+    left: 0;
+    transform: rotate(45deg);
+    transition: transform 0.25s linear;
+  }
+
+  input[type=radio]:checked + label::after {
+    transform: rotate(135deg);
+    color: $brand;
+  }
+  #footer-badges{
+    padding-top: 1rem;
+  }
+
+  }
+  
+/*--------------TABLET AND UP----------------*/
+  @media screen and (min-width: $breakpoint-medium){
+    text-align: left;
+    input{
+      display: none;
     }
-    p{
-      margin: 1rem;
-      font-size:12px;
-      font-size: 0.75rem;
+    label{
+      @include font-size(14px);
+    }
+    .footer-label-content > ul > li > a{
+      @include font-size(14px);
+      &:hover{
+        color: $brand;
+        transition: 0.1s linear;
+      }
+    }
+    #footer-badges{
+      text-align: center;
     }
   }
   
-/*-------------FOOTER (TABLET)---------------*/
-  @media screen and (min-width:$breakpoint-medium) {
-    .social-container{
-      text-align:left;
-      img{
-        width:15%;
-      }
-    }
-    .secure-badges{
-      img{
-        max-width: 60%;
-      }
-    }
-  }
-/*-------------FOOTER (DESKTOP)---------------*/
-  @media screen and (min-width:$breakpoint-large) {
-    .secure-badges{
-      text-align: right;
-    }
-    #footer-menu{
-      li{
-        display: inline-block;
-        margin: 0.5% 0;
-        padding: 0 1%;
-//        border-left: 1px solid $light-gray-text;
-        
-      }
-      a{
-        font-size:14px;
-        font-size: 0.875rem;
-      }
-    }
-  }
+
+
+
+  
+  
+  
+  
 }
