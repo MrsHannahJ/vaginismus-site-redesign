@@ -40,7 +40,7 @@
   <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
   
 <script src="/js/vendor/jquery-3.1.1.min.js" async></script>
-<script src="/js/vendor/jquery.mobile-1.4.5.min.js" async></script>
+<!--<script src="/js/vendor/jquery.mobile-1.4.5.min.js" async></script>-->
 <script src="/js/main.js"></script>
 <!--where javascript is disabled, use this stylesheet-->
   <noscript>
@@ -57,75 +57,74 @@
   
   <header>
 
-<div class="mobile-menu">
-  <nav class="nav">
-    <a class="nav-toggle" href="#">
+  <div class="desktop-navbar">
+    <div class="logo">
+      <a href="index.html" title="return to homepage"><img src="/img/logo.png" alt="Vaginismus.com (English)" /></a>
+    </div>
+    
+  <nav class="nav-js">
+    <a class="nav-toggle hidden-desktop" href="#">
       <div id="button">
         <img src="/img/icons/hamburger.png" alt="" />
 
       </div>
     </a>
-    <div class="nav-menu" id="cssmenu">
-       <div class="close-hamburger">
-        <img src="/img/icons/hamburger.png" alt="" />
-      </div>
-      <ul class="main-menu">
-      
+    <div class="nav-menu">
+        <ul id="nav">
+         
+          <li class="primary-nav-item"><a href="#">What is Vaginismus?</a>
+            <ul>
+              <div class="wrapper">
+              <li><a href="#">Understanding Vaginismus</a></li>
+              <li><a href="#">Symptoms</a></li>
+              <li><a href="#">Causes</a></li>
+              <li><a href="#">Diagnosis</a></li>
+              </div>
+            </ul>
+          </li>
 
+          <li class="primary-nav-item"><a href="#">Treatment</a>
+            <ul>
+              <div class="wrapper">
+              <li><a href="#">Self-Help Program</a></li>
+              <li><a href="#">Products</a></li>
+              </div>
+            </ul>
+          </li>
+<!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
+          <li class="primary-nav-item"><a href="#">Further Support</a>
+            <ul>
+              <div class="wrapper">
+              <li><a href="#">Contact Us</a></li>
+              <li><a href="#">Private Forum</a></li>
+              <li><a href="#">Common Questions</a></li>
+              <li><a href="#">Related Conditions</a></li>
+              <li><a href="#">Professional Assistance</a></li>
+              </div>
+            </ul>
+        </ul>
 
-        <li><a href='#'>What is Vaginismus?<span><img src="/img/icons/arrow.png" alt="" /></span></a>
-          <ul>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Understanding Vaginismus</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Symptoms</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Diagnosis</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Causes of Vaginismus</a></li>
-          </ul>
-        </li>
-
-        <li><a href='#'>Treatment<span><img src="/img/icons/arrow.png" alt="" /></span></a>
-          <ul>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Treating Vaginismus Overview</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Self-Help Program</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Treatment Products</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href='#'>Further Support<span><img src="/img/icons/arrow.png" alt="" /></span></a>
-          <ul>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Private Support Forum</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Contact Us</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Common Questions</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Related Sexual Pain Conditions</a></li>
-            <li><a href='#'><i class="icon-arrow_carrot-right"></i>Professional Assistance</a></li>
-          </ul>
-        </li>
-        <li><a href='#'><img src="/img/icons/forum.png" alt="" class="hamburger-icon">Private Support Forum<span><img src="/img/icons/arrow.png" alt="" /></span></a></li>
-        <li><a href='#'><img src="/img/icons/contact.png" alt="" class="hamburger-icon">Contact<span><img src="/img/icons/arrow.png" alt="" /></span></a></li>
-        <li><a href='#'><img src="/img/icons/search.png" alt="" class="hamburger-icon">Search Site Map<span><img src="/img/icons/arrow.png" alt="" /></span></a></li>
-        
-      </ul>
-
-      
     </div>
   </nav>
-  
-    <div class="cart">
+  <div class="cart">
       <a href="cart/index.html"><img src="/img/icons/cart.png" alt="" /></a>
     </div>
-    
+  </div>
+   
 
-    <div class="logo">
-      <a href="index.html" title="return to homepage"><img src="/img/logo.png" alt="Vaginismus.com (English)" /></a>
-    </div>
+   
+  
+   
     
     
 
 
 
   <div class="nav-overlay"></div>
-</div>
+
 
 <!--DESKTOP-->
+<!--
 <nav class="desktop-nav">
 
     <div class="logo">
@@ -165,6 +164,7 @@
         </ul>
       </li>
     </ul>
+-->
     
 
 

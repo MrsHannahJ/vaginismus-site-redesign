@@ -63,7 +63,7 @@ $breakpoints: (
  */
 /* Document
    ========================================================================== */
-@import "https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Open+Sans:300,400,400i|Raleway:300,400,500,600,600i|Source+Sans+Pro:400,600";
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,400i,500, 600, 700|Open+Sans:300,400,400i|Raleway:300,400,500,600,600i|Source+Sans+Pro:400,600";
 @import url("//hello.myfonts.net/count/2fd6f8");
 html {
   font-family: sans-serif;
@@ -6835,7 +6835,7 @@ strong {
   visibility: hidden;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .hidden-mobile {
     position: absolute !important;
     clip: rect(1px 1px 1px 1px);
@@ -6848,7 +6848,7 @@ strong {
     overflow: hidden;
   }
 }
-@media screen and (min-width: 768px) and (max-width: 979px) {
+@media screen and (min-width: 768px) and (max-width: 980px) {
   .hidden-tablet {
     position: absolute !important;
     clip: rect(1px 1px 1px 1px);
@@ -6995,327 +6995,294 @@ header {
   color: #656565;
   font-size: 1rem;
   font-family: "Raleway", sans-serif;
-  /* --------- */
-  /* Slide Out */
-  /* --------- */
-  /* -------- */
-  /* Sub Menu */
-  /* -------- */
 }
 header .logo {
   max-width: 175px;
-  margin: 1rem auto 0;
 }
 header .cart {
   float: right;
-  max-width: 2em;
-  margin-right: 1em;
-}
-header .nav {
-  position: fixed;
-  display: block;
+  width: 2rem;
   top: 0;
-  bottom: 0;
-  left: -250px;
-  z-index: 1000;
-  -moz-transition: left 0.2s ease-in-out 0s;
-  -o-transition: left 0.2s ease-in-out 0s;
-  -webkit-transition: left 0.2s ease-in-out;
-  -webkit-transition-delay: 0s;
-  transition: left 0.2s ease-in-out 0s;
 }
-@media screen and (min-width: 375px) {
-  header .nav {
+@media screen and (max-width: 980px) {
+  header {
+    /* --------- */
+    /* Slide Out */
+    /* --------- */
+    /* --------- */
+    /* Scrollbar */
+    /* --------- */
+  }
+  header .desktop-navbar {
+    display: flex;
+    height: 100%;
+    margin: 0.5rem 0.5rem 0;
+  }
+  header .logo {
+    display: block;
+    margin: 0 auto;
+    padding-left: 2rem;
+  }
+  header nav {
+    position: fixed;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: -250px;
+    z-index: 1000;
+    -moz-transition: left 0.2s ease-in-out 0s;
+    -o-transition: left 0.2s ease-in-out 0s;
+    -webkit-transition: left 0.2s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: left 0.2s ease-in-out 0s;
+  }
+}
+@media screen and (max-width: 980px) and (min-width: 375px) {
+  header nav {
     left: -340px;
   }
 }
-header .nav.open {
-  left: 0;
-  -moz-transition: left 0.3s ease-in-out 0s;
-  -o-transition: left 0.3s ease-in-out 0s;
-  -webkit-transition: left 0.3s ease-in-out;
-  -webkit-transition-delay: 0s;
-  transition: left 0.3s ease-in-out 0s;
+@media screen and (max-width: 980px) {
+  header nav.open {
+    left: 0;
+    -moz-transition: left 0.3s ease-in-out 0s;
+    -o-transition: left 0.3s ease-in-out 0s;
+    -webkit-transition: left 0.3s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: left 0.3s ease-in-out 0s;
+  }
+  header .nav-toggle {
+    display: block;
+    position: absolute;
+    left: 100%;
+    z-index: 20;
+    margin: 0.5rem 0 0 0.5rem;
+  }
+  header .open .nav-toggle {
+    left: 0%;
+    transition: left 0s;
+  }
+  header .open .nav-toggle:before {
+    width: 100%;
+    left: auto;
+    left: 6px;
+    bottom: -4px;
+  }
+  header #button {
+    width: 2rem;
+    height: 2rem;
+    float: right;
+  }
+  header .close-hamburger {
+    max-width: 2rem;
+    margin: 1rem 0 0 1rem;
+  }
+  header .nav-menu {
+    position: relative;
+    top: 0;
+    padding-top: 20px;
+    padding-top: 1rem;
+    height: 100%;
+    width: 250px;
+    background: #ffffff;
+    overflow: auto;
+    z-index: 10;
+  }
 }
-header .nav-toggle {
-  display: block;
-  position: absolute;
-  left: 100%;
-  margin: 0.75rem;
-  z-index: 20;
-}
-header .open .nav-toggle {
-  visibility: hidden;
-  transition: left 0.05s ease-in-out 0s;
-}
-header .open .nav-toggle:before {
-  width: 100%;
-  left: auto;
-  left: 6px;
-  bottom: -4px;
-}
-header #button {
-  width: 2rem;
-  height: 2rem;
-  float: right;
-}
-header .close-hamburger {
-  max-width: 2rem;
-  margin: 1rem 0 0 1rem;
-}
-header .nav-menu {
-  position: relative;
-  padding-top: 20px;
-  padding-top: 1rem;
-  height: 100%;
-  width: 250px;
-  background: #ffffff;
-  overflow: auto;
-  z-index: 10;
-}
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 980px) and (min-width: 375px) {
   header .nav-menu {
     width: 340px;
   }
 }
-header .nav-menu ul {
-  list-style-type: none;
-}
-header .nav-menu li {
-  margin: 0;
-}
-header .nav-menu a {
-  display: block;
-  padding: 0.4em 1.4em;
-  font-size: 20px;
-  font-size: 1rem;
-  color: #656565;
-  text-align: left;
-  text-decoration: none;
-  -moz-transition: color 0.3s ease-in-out 0s;
-  -o-transition: color 0.3s ease-in-out 0s;
-  -webkit-transition: color 0.3s ease-in-out;
-  -webkit-transition-delay: 0s;
-  transition: color 0.3s ease-in-out 0s;
-}
-header ::-webkit-scrollbar {
-  width: 6px;
-}
-header ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  border-radius: 10px;
-}
-header ::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
-}
-header .nav-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background: #646566;
-  z-index: -1;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
-  opacity: 0;
-  -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
-  -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
-  -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
-  -webkit-transition-delay: 0s, 0.6s;
-  transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
-}
-header .nav-overlay.open {
-  z-index: 999;
-  opacity: 0.8;
-  -moz-transition: opacity 0.5s ease-in-out 0s;
-  -o-transition: opacity 0.5s ease-in-out 0s;
-  -webkit-transition: opacity 0.5s ease-in-out;
-  -webkit-transition-delay: 0s;
-  transition: opacity 0.5s ease-in-out 0s;
-}
-header #cssmenu,
-header #cssmenu ul,
-header #cssmenu li,
-header #cssmenu a {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  list-style: none;
-  font-weight: normal;
-  text-decoration: none;
-  line-height: 1;
-  font-size: 1em;
-  position: relative;
-}
-header #cssmenu a {
-  line-height: 1.3;
-}
-header #cssmenu > ul > li {
-  background: #ffffff;
-}
-header #cssmenu > ul > li > a {
-  display: block;
-  color: #656565;
-}
-header #cssmenu > ul > li > a {
-  display: block;
-  padding: 10px;
-  font-weight: 600;
-  line-height: 1.1;
-}
-header .hamburger-icon {
-  width: 23px;
-  vertical-align: text-bottom;
-  margin-right: 10px;
-}
-header #cssmenu > ul > li.has-sub.active {
-  border-top: 1px solid rgba(101, 101, 101, 0.4);
-  border-bottom: 1px solid rgba(101, 101, 101, 0.4);
-}
-header #cssmenu > ul > li.has-sub > a span, header #cssmenu > ul > li > a span {
-  font-size: 13px;
-  font-weight: 400;
-  padding-left: 1rem;
-}
-header #cssmenu > ul > li.has-sub > a span img, header #cssmenu > ul > li > a span img {
-  float: right;
-  width: 25px;
-  padding-right: 5px;
-  transform: rotate(-90deg);
-  transition: transform 0.25s linear;
-}
-header #cssmenu > ul > li.has-sub.active > a span img {
-  transform: rotate(0deg);
-  transition: transform 0.25s linear;
-}
-header #cssmenu ul ul {
-  display: none;
-  background: #ffffff;
-  left: 15px;
-}
-header #cssmenu ul ul li a {
-  line-height: 1.1;
-}
-header #cssmenu ul ul li:first-child a {
-  padding-top: 0;
-}
-header #cssmenu ul ul a {
-  padding: 8px;
-  display: block;
-  font-weight: normal;
-  padding-left: 15px;
-  text-indent: -15px;
-}
-header #cssmenu ul ul a i {
-  padding: 0;
-  margin: 0;
-  color: #4eb3b3;
-  margin-left: 10px;
-}
-header #cssmenu ul ul a i:after, header #cssmenu ul ul a i:before {
-  padding: 0;
-  margin: 0;
-}
-header #cssmenu ul ul a img {
-  width: 20px;
-  vertical-align: text-bottom;
-  margin-left: 10px;
-}
-header .desktop-nav, header .breadcrumbs-desktop {
-  display: none;
+@media screen and (max-width: 980px) {
+  header .nav-menu ul {
+    list-style-type: none;
+  }
+  header .nav-menu li {
+    margin: 0;
+  }
+  header .nav-menu a {
+    display: block;
+    padding: 0.4em 1.4em;
+    font-size: 20px;
+    font-size: 1rem;
+    color: #656565;
+    text-align: left;
+    text-decoration: none;
+    -moz-transition: color 0.3s ease-in-out 0s;
+    -o-transition: color 0.3s ease-in-out 0s;
+    -webkit-transition: color 0.3s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: color 0.3s ease-in-out 0s;
+  }
+  header ::-webkit-scrollbar {
+    width: 6px;
+  }
+  header ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  }
+  header ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  }
+  header .nav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #646566;
+    z-index: -1;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+    -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+    -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+    -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
+    -webkit-transition-delay: 0s, 0.6s;
+    transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  }
+  header .nav-overlay.open {
+    z-index: 999;
+    opacity: 0.8;
+    -moz-transition: opacity 0.5s ease-in-out 0s;
+    -o-transition: opacity 0.5s ease-in-out 0s;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: opacity 0.5s ease-in-out 0s;
+  }
+  header #nav {
+    padding-top: 3rem;
+  }
+  header ul#nav > li > a {
+    color: #4eb3b3;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  header ul#nav > li > ul > li > a {
+    font-style: italic;
+    font-weight: 400;
+  }
 }
 @media screen and (min-width: 980px) {
-  header .mobile-menu {
-    position: absolute !important;
-    clip: rect(1px 1px 1px 1px);
-    /* IE6, IE7 */
-    clip: rect(1px, 1px, 1px, 1px);
-    padding: 0 !important;
-    border: 0 !important;
-    height: 1px !important;
-    width: 1px !important;
-    overflow: hidden;
+  header {
+    /* APPLIES THE ACTIVE STATE */
+    /* THE SUBMENU LIST HIDDEN BY DEFAULT */
+    /* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
   }
-  header .desktop-nav {
-    display: inherit;
+  header .desktop-navbar {
+    display: flex;
+    height: 100%;
   }
-  header .desktop-nav .logo {
-    margin-left: 1rem;
-    margin-top: 0.5rem;
+  header .logo {
+    margin: 0.5rem 0 0 0.5rem;
   }
-  header .desktop-nav ul {
-    position: relative;
+  header .cart {
+    margin: 0.5rem 0.5rem 0 0;
+  }
+  header #menu {
+    /*   width: 960px;
+    height: 40px; */
+    clear: both;
+  }
+  header nav {
+    flex-grow: 2;
+    margin: 0 auto;
+  }
+  header ul#nav {
+    float: left;
+    width: 100%;
     margin: 0;
     padding: 0;
-    padding-left: 23%;
-    padding-top: 0.5rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
   }
-  header .desktop-nav li {
-    display: inline-block;
-    text-align: center;
-    line-height: 1.2;
-    position: relative;
-    margin: 0;
-    padding: 0;
+  header ul#nav li {
+    display: inline;
   }
-  header .desktop-nav li a {
-    padding: 0 1rem;
-    text-transform: uppercase;
-    display: block;
-    color: #333333;
+  header ul#nav li a {
+    float: left;
+    font: bold 1.1em;
+    line-height: 3rem;
+    color: #656565;
     font-weight: 500;
-    text-align: center;
+    text-decoration: none;
+    /*   text-shadow: 1px 1px 1px #880000; */
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0 30px;
+    /*   background: white; */
   }
-  header .desktop-nav li a:hover {
+  header ul#nav li:hover > a,
+  header ul#nav li:active > a {
     color: #4eb3b3;
     opacity: 1;
     transition: none;
+    /*   text-decoration: none; */
+    /*   text-shadow: 1px 1px 1px #330000; */
   }
-  header .desktop-nav li ul {
+  header ul#nav ul {
     display: none;
+  }
+  header ul#nav li:hover > ul {
     position: absolute;
-    z-index: 999;
-    background: #ffffff;
-    padding: 0;
-    -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
-    -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
-    box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
-  }
-  header .desktop-nav li ul li {
-    float: none;
-    width: 200px;
-    z-index: 999;
-    padding-left: 15px;
-  }
-  header .desktop-nav li ul li:hover {
-    background: #f2f2f2;
-  }
-  header .desktop-nav li ul a {
-    font-size: 0.9rem;
-    line-height: 1.1;
-    padding: 8px 0;
-    text-align: left;
-    padding: 8px;
-    padding-left: 15px;
-    text-indent: -15px;
-  }
-  header .desktop-nav li ul a img {
-    width: 20px;
-    vertical-align: text-bottom;
-    margin-left: 10px;
-  }
-  header .desktop-nav li ul a i {
-    margin: 0;
-    color: #4eb3b3;
-  }
-  header .desktop-nav .cart {
-    float: right;
-    margin-top: 0.5rem;
-    margin-right: 0.75rem;
-  }
-  header .desktop-nav ul li:hover > ul {
     display: block;
+    width: 100%;
+    height: 2.25rem;
+    left: 0;
+    position: absolute;
+    margin: 3rem 0 0 0;
+    background: #656565;
+    z-index: -5;
+  }
+  header ul#nav li:hover > ul li a {
+    line-height: 45px;
+    color: #ffffff;
+    text-decoration: none;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 0;
+    line-height: 2.25rem;
+    font-size: 16px;
+    font-size: 1rem;
+  }
+  header ul#nav li:hover > ul li a:hover {
+    opacity: 0.8;
+  }
+  header ul#nav li:hover > ul li a:hover {
+    text-decoration: none;
+    text-shadow: none;
+  }
+  header .primary-nav-item > a {
+    position: relative;
+  }
+  header .primary-nav-item:hover > a:after {
+    content: '';
+    position: absolute;
+    left: 45%;
+    top: 100%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 8px solid white;
+    z-index: 3;
+  }
+  header ul#nav li:hover > ul:hover .primary-nav-item:after {
+    display: inline;
+  }
+  header .wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  header .wrapper li {
+    flex-grow: 1;
+  }
+  header .cart {
+    float: right;
   }
 }
 
