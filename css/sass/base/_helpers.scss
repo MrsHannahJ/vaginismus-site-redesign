@@ -78,7 +78,7 @@
 
 
 //HIDING ELEMENTS
-@media screen and (max-width: $breakpoint-medium){
+@media screen and (max-width: 979.99px){
   .hidden-mobile {
     position: absolute !important;
     clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
@@ -91,7 +91,7 @@
   }
 }
 
-@media screen and (min-width: $breakpoint-medium) and (max-width: $breakpoint-large){
+@media screen and (min-width: $breakpoint-medium) and (max-width: 979.99px){
   .hidden-tablet {
     position: absolute !important;
     clip: rect(1px 1px 1px 1px); /* IE6, IE7 */

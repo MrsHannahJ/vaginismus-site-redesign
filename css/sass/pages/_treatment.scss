@@ -23,7 +23,7 @@
   }
   ul{
   //MOBILE ONLY
-    @media screen and (max-width: 768px){
+    @media screen and (max-width: 767.99px){
       margin-left: 1rem;
     }
   }
@@ -62,7 +62,7 @@
 
 /*---------TREATMENT OVERVIEW SECTION---------------*/
 
-  @media screen and (max-width:$breakpoint-large){
+  @media screen and (max-width: 979.99px){
     #treatment-overview{
       .large-4:nth-child(3){
         padding-top:0;

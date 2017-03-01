@@ -8,7 +8,7 @@
 
   #site-map{
     
-    @media screen and (max-width: $breakpoint-medium){
+    @media screen and (max-width: 767.99px){
       [class*='large-'], [class*='medium-'] {
         padding-bottom: 0;
         padding-top: 0;

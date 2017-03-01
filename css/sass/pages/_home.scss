@@ -19,7 +19,7 @@
   }
 
 //MOBILE ONLY
-  @media screen and (max-width: 767px){
+  @media screen and (max-width: 767.99px){
     img{
       margin-bottom: 0
     }
@@ -72,7 +72,7 @@
     padding: 0.25rem 1rem;
   }
   //MOBILE ONLY
-  @media screen and (max-width: 767px){
+  @media screen and (max-width: 767.99px){
     margin-top: -0.5rem;
   }
 }
@@ -188,7 +188,7 @@
   }
 }
   //MOBILE & TABLET ONLY
-  @media screen and (max-width: 979px){
+  @media screen and (max-width: 979.99px){
       .highlighted-content-1, .highlighted-content-2, .highlighted-content-3{
       -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
       -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
