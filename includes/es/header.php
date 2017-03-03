@@ -1,11 +1,11 @@
-<!--English only-->
+<!--Spanish only-->
 
 <!DOCTYPE html>
-<!--[if IE 6]><html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
-<!--[if IE 7]><html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
-<!--[if IE 8]><html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 6]><html id="ie6" lang="es_MX" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]><html id="ie7" lang="es_MX" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]><html id="ie8" lang="es_MX" prefix="og: http://ogp.me/ns#"> <![endif]-->
 <!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
-<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<html lang="es" prefix="og: http://ogp.me/ns#">
 <!--<![endif]-->
 
 <head>
@@ -22,12 +22,12 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="robots" content="index, follow" />
   
-  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale" content="es_MX" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Vaginismus.com | <?php echo $pagetitle; ?>" />
   <meta property="og:description" content="<?php echo $pagedescription; ?>" />
   <meta property="og:url" content="<?php echo $pagecanonical; ?>" />
-  <meta property="og:site_name" content="Vaginismus.com (English)" />
+  <meta property="og:site_name" content="Vaginismus.com (Español)" />
   <meta property="og:image" content="<?php echo $pageimagepath; ?>" />
   <meta property="og:image:width" content="1236" />
   <meta property="og:image:height" content="892" />
