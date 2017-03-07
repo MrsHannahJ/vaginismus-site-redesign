@@ -6997,7 +6997,7 @@ header {
   font-family: "Raleway", sans-serif;
 }
 header .logo {
-  max-width: 175px;
+  max-width: 150px;
 }
 header .cart {
   float: right;
@@ -7044,8 +7044,15 @@ header .cart-count:after {
   header .logo {
     display: block;
     margin: 0 auto;
-    padding-left: 2rem;
+    text-indent: 1rem;
   }
+}
+@media screen and (max-width: 979.99px) and (min-width: 375px) {
+  header .logo {
+    text-indent: 1.5rem;
+  }
+}
+@media screen and (max-width: 979.99px) {
   header nav {
     position: fixed;
     display: block;
@@ -7076,7 +7083,7 @@ header .cart-count:after {
   }
   header .nav-toggle {
     z-index: 2000000;
-    margin: 0.5rem 0 0 0.5rem;
+    margin: 0.775rem 0 0 0.5rem;
     float: right;
     right: -2.5rem;
     width: 32px;
@@ -7097,7 +7104,7 @@ header .cart-count:after {
   header .nav-toggle span {
     display: block;
     position: absolute;
-    height: 3px;
+    height: 2px;
     width: 100%;
     background: #656565;
     border-radius: 9px;
@@ -7185,7 +7192,7 @@ header .cart-count:after {
   }
   header .nav-menu a {
     display: block;
-    padding: 0.4em 1.4em;
+    padding: 0.4rem 2rem;
     font-size: 20px;
     font-size: 1rem;
     color: #656565;
@@ -7246,6 +7253,11 @@ header .cart-count:after {
     font-weight: 400;
   }
 }
+@media screen and (min-width: 768px) {
+  header .logo {
+    max-width: 175px;
+  }
+}
 @media screen and (min-width: 980px) {
   header {
     /* APPLIES THE ACTIVE STATE */
@@ -7257,10 +7269,10 @@ header .cart-count:after {
     height: 100%;
   }
   header .logo {
-    margin: 0.5rem 0 0 0.5rem;
+    margin: 0.5rem 0 0 1rem;
   }
   header .cart {
-    margin: 0.5rem 0.5rem 0 0;
+    margin: 0.5rem 1rem 0 0;
   }
   header #menu {
     clear: both;
@@ -7309,18 +7321,18 @@ header .cart-count:after {
     left: 0;
     position: absolute;
     margin: 3rem 0 0 0;
+    text-align: center;
     background: #656565;
     z-index: -5;
   }
   header ul#nav li:hover > ul li a {
+    float: none;
     line-height: 45px;
     color: #ffffff;
     text-decoration: none;
-    width: 100%;
-    margin: 0 auto;
-    text-align: center;
+    margin: 0;
     text-transform: capitalize;
-    padding: 0;
+    padding: 0 15px;
     line-height: 2.25rem;
     font-size: 16px;
     font-size: 1rem;
@@ -7351,11 +7363,7 @@ header .cart-count:after {
     display: inline;
   }
   header .wrapper {
-    display: flex;
-    justify-content: center;
-  }
-  header .wrapper li {
-    flex-grow: 1;
+    width: 90%;
   }
   header .cart {
     float: right;
@@ -7367,6 +7375,9 @@ footer {
   text-align: center;
   /*----------MOBILE ONLY------------*/
   /*--------------TABLET AND UP----------------*/
+}
+footer hr {
+  margin-bottom: 0.5rem;
 }
 footer label {
   font-size: 16px;
@@ -7412,6 +7423,7 @@ footer #copyright p {
   footer .tab {
     position: relative;
     padding-bottom: 0;
+    padding-top: 0;
     width: 100%;
     overflow: hidden;
     line-height: 1.8;
@@ -7472,6 +7484,9 @@ footer #copyright p {
 @media screen and (min-width: 768px) {
   footer {
     text-align: left;
+  }
+  footer .tab {
+    padding-top: 0;
   }
   footer input {
     display: none;

@@ -7,6 +7,9 @@
 footer{
   text-align: center;
 
+  hr{
+    margin-bottom: 0.5rem;
+  }
 //footer nav
   label {
     @include font-size(16px);
@@ -57,6 +60,7 @@ footer{
   .tab {
     position: relative;
     padding-bottom: 0;
+    padding-top: 0;
     width: 100%;
     overflow: hidden;
     line-height: 1.8;
@@ -127,6 +131,9 @@ footer{
 /*--------------TABLET AND UP----------------*/
   @media screen and (min-width: $breakpoint-medium){
     text-align: left;
+    .tab {
+      padding-top: 0;
+    }
     input{
       display: none;
     }
