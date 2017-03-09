@@ -117,10 +117,17 @@ html[dir="rtl"] .product-page{
 /*--------------FAQ-------------*/
 /*------------------------------*/
 html[dir="rtl"] #faq{
+  .brochure-download{
+    display: block;
+  }
   @media screen and (min-width: 768px){
     #brochures{
       [class*='large-'], [class*='medium-']{
         float: left;
+      }
+      .brochure-download{
+        margin-left: 3rem;
+        display: inline-block;
       }
     }
   }

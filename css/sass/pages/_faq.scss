@@ -43,7 +43,7 @@
   }
   
 /*---------MAIN---------------*/
-  main{
+
     
     #general-faq .large-8, #dilator-faq .large-8, #customer-service-faq .large-8{
       float: right;
@@ -151,10 +151,11 @@
         .brochure-download{
           padding: 1rem;
           display:inline-block;
+          margin-right: 2rem;
         }
       }
     }
-  }
+  
   
   
 }

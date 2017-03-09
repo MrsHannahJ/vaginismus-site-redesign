@@ -73,7 +73,7 @@
                 <div class="wrapper">
                   <li><a href="/por/faq/general-questions/what-is-vaginismus/index.php">O Que é Vaginismo?</a></li>
                   <li><a href="/por/vaginismus-symptoms/index.php">Sintomas</a></li>
-                  <li><a href="/por/vaginismus-causpor/index.php">Causas</a></li>
+                  <li><a href="/por/vaginismus-causes/index.php">Causas</a></li>
                   <li><a href="/por/vaginismus-diagnosis/index.php">Diagnóstico</a></li>
                 </div>
               </ul>

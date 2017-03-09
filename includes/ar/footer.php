@@ -25,9 +25,9 @@
     <label for="footer-label-2">خدمة الزبائن</label>
     <div class="footer-label-content">
       <ul>
-        <li><a href="/ar/faq/customer-service-questions/ordering/index.php">مشتريات والعوائد</a></li>
-        <li><a href="/ar/faq/customer-service-questions/shipping/index.php">الشحن</a></li>
-        <li><a href="/ar/faq/customer-service-questions/quality/index.php">الجودة و السلامة</a></li>
+        <li><a href="/ar/faq/customer-service-questions/ordering-faqs/index.php">مشتريات والعوائد</a></li>
+        <li><a href="/ar/faq/customer-service-questions/shipping-faqs/index.php">الشحن</a></li>
+        <li><a href="/ar/faq/customer-service-questions/quality-faqs/index.php">الجودة و السلامة</a></li>
         <li><a href="/ar/faq/customer-service-questions/privacy-policy/index.php">سياسة الخصوصية</a></li>
         <li><a href="/ar/faq/customer-service-questions/terms-of-use/index.php">شروط الاستخدام</a></li>
       </ul>

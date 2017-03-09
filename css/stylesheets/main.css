@@ -8603,99 +8603,100 @@ aside .sidebar-img a {
     padding-bottom: 1rem;
   }
 }
-#faq main #general-faq .large-8, #faq main #dilator-faq .large-8, #faq main #customer-service-faq .large-8 {
+#faq #general-faq .large-8, #faq #dilator-faq .large-8, #faq #customer-service-faq .large-8 {
   float: right;
 }
-#faq main #general-faq h2, #faq main #dilator-faq h2, #faq main #pregnancy-faq h2 {
+#faq #general-faq h2, #faq #dilator-faq h2, #faq #pregnancy-faq h2 {
   padding-bottom: 1rem;
 }
-#faq main ul {
+#faq ul {
   margin-left: 5%;
 }
-#faq main li {
+#faq li {
   list-style: disc;
   padding-bottom: 1rem;
 }
-#faq main #general-faq {
+#faq #general-faq {
   background-image: url(/img/faq/faq-general.jpg);
 }
-#faq main #treatment-faq {
+#faq #treatment-faq {
   background-image: url(/img/faq/faq-treatment.jpg);
 }
-#faq main #treatment-faq .large-6:first-child {
+#faq #treatment-faq .large-6:first-child {
   padding-bottom: 0;
 }
-#faq main #treatment-faq .large-6:last-child {
+#faq #treatment-faq .large-6:last-child {
   padding-top: 0;
 }
-#faq main #dilator-faq {
+#faq #dilator-faq {
   background-image: url(/img/faq/faq-dilator.jpg);
 }
-#faq main #pregnancy-faq {
+#faq #pregnancy-faq {
   background-image: url(/img/faq/faq-pregnancy.jpg);
 }
-#faq main #customer-service-faq {
+#faq #customer-service-faq {
   background-image: url(/img/faq/faq-customer.jpg);
 }
-#faq main #customer-service-faq .large-6:first-child {
+#faq #customer-service-faq .large-6:first-child {
   padding-bottom: 0;
 }
-#faq main #customer-service-faq .large-6:last-child {
+#faq #customer-service-faq .large-6:last-child {
   padding-top: 0;
 }
-#faq main #customer-service-faq ul {
+#faq #customer-service-faq ul {
   margin-left: 2.5%;
 }
-#faq main #brochures {
+#faq #brochures {
   background-image: url(/img/faq/faq-brochures.jpg);
 }
-#faq main #brochures .brochure-download {
+#faq #brochures .brochure-download {
   padding: 1rem;
   display: block;
 }
 @media screen and (min-width: 768px) {
-  #faq main #customer-service-faq .large-6:first-child {
+  #faq #customer-service-faq .large-6:first-child {
     padding-bottom: 1rem;
     padding-top: 0;
   }
 }
 @media screen and (min-width: 980px) {
-  #faq main #general-faq {
+  #faq #general-faq {
     background-image: url(/img/faq/faq-general.jpg);
   }
-  #faq main #general-faq h2 {
+  #faq #general-faq h2 {
     text-align: left;
   }
-  #faq main #treatment-faq {
+  #faq #treatment-faq {
     background-image: url(/img/faq/faq-treatment.jpg);
   }
-  #faq main #treatment-faq .large-6:first-child {
+  #faq #treatment-faq .large-6:first-child {
     padding-bottom: 1rem;
   }
-  #faq main #treatment-faq .large-6:last-child {
+  #faq #treatment-faq .large-6:last-child {
     padding-top: 1rem;
   }
-  #faq main #dilator-faq {
+  #faq #dilator-faq {
     background-image: url(/img/faq/faq-dilator.jpg);
   }
-  #faq main #dilator-faq h2 {
+  #faq #dilator-faq h2 {
     text-align: left;
   }
-  #faq main #pregnancy-faq {
+  #faq #pregnancy-faq {
     background-image: url(/img/faq/faq-pregnancy.jpg);
   }
-  #faq main #pregnancy-faq h2 {
+  #faq #pregnancy-faq h2 {
     text-align: left;
   }
-  #faq main #customer-service-faq {
+  #faq #customer-service-faq {
     background-image: url(/img/faq/faq-customer.jpg);
   }
-  #faq main #brochures {
+  #faq #brochures {
     background-image: url(/img/faq/faq-brochures.jpg);
   }
-  #faq main #brochures .brochure-download {
+  #faq #brochures .brochure-download {
     padding: 1rem;
     display: inline-block;
+    margin-right: 2rem;
   }
 }
 
@@ -9636,9 +9637,16 @@ html[dir="rtl"] .product-page .badge-box ul {
 /*------------------------------*/
 /*--------------FAQ-------------*/
 /*------------------------------*/
+html[dir="rtl"] #faq .brochure-download {
+  display: block;
+}
 @media screen and (min-width: 768px) {
   html[dir="rtl"] #faq #brochures [class*='large-'], html[dir="rtl"] #faq #brochures [class*='medium-'] {
     float: left;
+  }
+  html[dir="rtl"] #faq #brochures .brochure-download {
+    margin-left: 3rem;
+    display: inline-block;
   }
 }
 
