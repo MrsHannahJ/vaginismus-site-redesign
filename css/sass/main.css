@@ -6792,6 +6792,7 @@ strong {
 /*--------------HEADER---------------*/
 /* line 7, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
 header {
+  z-index: 90000;
   background: #ffffff;
   -webkit-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
   -moz-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
@@ -6801,15 +6802,15 @@ header {
   color: #656565;
   font-size: 1rem;
   font-family: "Raleway", sans-serif; }
-  /* line 23, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+  /* line 24, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
   header .logo {
     max-width: 150px; }
-  /* line 27, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+  /* line 28, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
   header .cart {
     float: right;
     width: 2rem;
     position: relative; }
-  /* line 33, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+  /* line 34, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
   header .cart-count {
     position: absolute;
     top: -0.25rem;
@@ -6819,17 +6820,17 @@ header {
     background: #4eb3b3;
     color: #ffffff;
     font-size: 12px; }
-    /* line 42, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+    /* line 43, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
     header .cart-count:before, header .cart-count:after {
       content: '\200B';
       display: inline-block;
       line-height: 0px;
       padding-top: 25%;
       padding-bottom: 25%; }
-    /* line 49, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+    /* line 50, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
     header .cart-count:before {
       padding-left: 4px; }
-    /* line 52, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+    /* line 53, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
     header .cart-count:after {
       padding-right: 4px; }
   @media screen and (max-width: 979.99px) {
@@ -6841,22 +6842,22 @@ header {
       /* --------- */
       /* Scrollbar */
       /* --------- */ }
-      /* line 60, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 61, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .desktop-navbar {
         display: flex;
         height: 100%;
         margin: 0.5rem 0.5rem 0; }
-      /* line 66, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 67, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .logo {
         display: block;
         margin: 0 auto;
         text-indent: 1rem; } }
     @media screen and (max-width: 979.99px) and (min-width: 375px) {
-      /* line 66, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 67, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .logo {
         text-indent: 1.5rem; } }
   @media screen and (max-width: 979.99px) {
-      /* line 79, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 80, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header nav {
         position: fixed;
         display: block;
@@ -6870,11 +6871,11 @@ header {
         -webkit-transition-delay: 0s;
         transition: left 0.2s ease-in-out 0s; } }
     @media screen and (max-width: 979.99px) and (min-width: 375px) {
-      /* line 79, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 80, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header nav {
         left: -310px; } }
   @media screen and (max-width: 979.99px) {
-      /* line 96, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 97, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header nav.open {
         left: 0;
         -moz-transition: left 0.3s ease-in-out 0s;
@@ -6882,7 +6883,7 @@ header {
         -webkit-transition: left 0.3s ease-in-out;
         -webkit-transition-delay: 0s;
         transition: left 0.3s ease-in-out 0s; }
-      /* line 106, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 107, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-toggle {
         z-index: 2000000;
         margin: 0.775rem 0 0 0.5rem;
@@ -6902,7 +6903,7 @@ header {
         -o-transition: all 0.5s ease-in-out;
         transition: all 0.5s ease-in-out;
         cursor: pointer; }
-        /* line 125, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+        /* line 126, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
         header .nav-toggle span {
           display: block;
           position: absolute;
@@ -6920,31 +6921,31 @@ header {
           -moz-transition: all 0.5s ease-in-out;
           -o-transition: all 0.5s ease-in-out;
           transition: all 0.5s ease-in-out; }
-      /* line 144, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 145, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-toggle span:nth-child(1) {
         top: 0px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
         transform-origin: left center; }
-      /* line 152, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 153, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-toggle span:nth-child(2) {
         top: 9px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
         transform-origin: left center; }
-      /* line 160, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 161, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-toggle span:nth-child(3) {
         top: 18px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
         transform-origin: left center; }
-      /* line 170, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 171, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .open .nav-toggle span {
         background: #4eb3b3; }
-      /* line 174, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 175, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .open .nav-toggle span:nth-child(1) {
         -webkit-transform: rotate(45deg);
         -moz-transform: rotate(45deg);
@@ -6952,11 +6953,11 @@ header {
         transform: rotate(45deg);
         top: 0;
         left: 0; }
-      /* line 183, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 184, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .open .nav-toggle span:nth-child(2) {
         width: 0%;
         opacity: 0; }
-      /* line 188, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 189, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .open .nav-toggle span:nth-child(3) {
         -webkit-transform: rotate(-45deg);
         -moz-transform: rotate(-45deg);
@@ -6964,11 +6965,11 @@ header {
         transform: rotate(-45deg);
         top: 22px;
         left: 0; }
-      /* line 197, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 198, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .close-hamburger {
         max-width: 2rem;
         margin: 1rem 0 0 1rem; }
-      /* line 202, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 203, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-menu {
         position: relative;
         padding-top: 20px;
@@ -6979,17 +6980,17 @@ header {
         overflow: auto;
         z-index: 10; } }
     @media screen and (max-width: 979.99px) and (min-width: 375px) {
-      /* line 202, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 203, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-menu {
         width: 310px; } }
   @media screen and (max-width: 979.99px) {
-      /* line 217, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 218, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-menu ul {
         list-style-type: none; }
-      /* line 221, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 222, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-menu li {
         margin: 0; }
-      /* line 225, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 226, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-menu a {
         display: block;
         padding: 0.4rem 2rem;
@@ -7003,18 +7004,18 @@ header {
         -webkit-transition: color 0.3s ease-in-out;
         -webkit-transition-delay: 0s;
         transition: color 0.3s ease-in-out 0s; }
-      /* line 242, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 243, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ::-webkit-scrollbar {
         width: 6px; }
-      /* line 246, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 247, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ::-webkit-scrollbar-track {
         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
         border-radius: 10px; }
-      /* line 251, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 252, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ::-webkit-scrollbar-thumb {
         border-radius: 10px;
         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5); }
-      /* line 257, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 258, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-overlay {
         position: fixed;
         top: 0;
@@ -7030,7 +7031,7 @@ header {
         -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
         -webkit-transition-delay: 0s, 0.6s;
         transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s; }
-      /* line 274, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 275, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .nav-overlay.open {
         z-index: 999;
         opacity: 0.8;
@@ -7039,20 +7040,20 @@ header {
         -webkit-transition: opacity 0.5s ease-in-out;
         -webkit-transition-delay: 0s;
         transition: opacity 0.5s ease-in-out 0s; }
-      /* line 285, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 286, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header #nav {
         padding-top: 2rem; }
-      /* line 288, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 289, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav > li > a {
         color: #4eb3b3;
         text-transform: uppercase;
         font-weight: 600; }
-      /* line 293, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 294, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav > li > ul > li > a {
         font-style: italic;
         font-weight: 400; } }
   @media screen and (min-width: 768px) {
-    /* line 302, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+    /* line 303, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
     header .logo {
       max-width: 175px; } }
   @media screen and (min-width: 980px) {
@@ -7061,24 +7062,24 @@ header {
       /* APPLIES THE ACTIVE STATE */
       /* THE SUBMENU LIST HIDDEN BY DEFAULT */
       /* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */ }
-      /* line 311, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 312, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .desktop-navbar {
         display: flex;
         height: 100%; }
-      /* line 315, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 316, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .logo {
         margin: 0.5rem 0 0 1rem; }
-      /* line 318, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 319, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .cart {
         margin: 0.5rem 1rem 0 0; }
-      /* line 322, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 323, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header #menu {
         clear: both; }
-      /* line 325, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 326, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header nav {
         flex-grow: 2;
         margin: 0 auto; }
-      /* line 330, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 331, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav {
         float: left;
         width: 100%;
@@ -7087,10 +7088,10 @@ header {
         list-style: none;
         display: flex;
         justify-content: center; }
-      /* line 340, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 341, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li {
         display: inline; }
-      /* line 344, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 345, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li a {
         float: left;
         font: bold 1.1em;
@@ -7101,16 +7102,16 @@ header {
         text-transform: uppercase;
         margin: 0;
         padding: 0 30px; }
-      /* line 360, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 361, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li:hover > a,
       header ul#nav li:active > a {
         color: #4eb3b3;
         opacity: 1;
         transition: none; }
-      /* line 368, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 369, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav ul {
         display: none; }
-      /* line 375, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 376, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li:hover > ul {
         position: absolute;
         display: block;
@@ -7122,7 +7123,7 @@ header {
         text-align: center;
         background: #656565;
         z-index: -5; }
-      /* line 388, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 389, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li:hover > ul li a {
         float: none;
         line-height: 45px;
@@ -7134,17 +7135,17 @@ header {
         line-height: 2.25rem;
         font-size: 16px;
         font-size: 1rem; }
-        /* line 398, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+        /* line 399, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
         header ul#nav li:hover > ul li a:hover {
           opacity: .8; }
-      /* line 403, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 404, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li:hover > ul li a:hover {
         text-decoration: none;
         text-shadow: none; }
-      /* line 408, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 409, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .primary-nav-item > a {
         position: relative; }
-      /* line 412, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 413, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .primary-nav-item:hover > a:after {
         content: '';
         position: absolute;
@@ -7156,13 +7157,13 @@ header {
         border-right: 10px solid transparent;
         border-top: 8px solid white;
         z-index: 3; }
-      /* line 426, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 427, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header ul#nav li:hover > ul:hover .primary-nav-item:after {
         display: inline; }
-      /* line 430, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 431, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .wrapper {
         width: 90%; }
-      /* line 435, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
+      /* line 436, C:/xampp/htdocs/vaginismus/css/sass/layout/_header.scss */
       header .cart {
         float: right; } }
 
@@ -7174,7 +7175,7 @@ footer {
   /*--------------TABLET AND UP----------------*/ }
   /* line 10, C:/xampp/htdocs/vaginismus/css/sass/layout/_footer.scss */
   footer hr {
-    margin-bottom: 0.5rem; }
+    margin: 0.5rem 0; }
   /* line 14, C:/xampp/htdocs/vaginismus/css/sass/layout/_footer.scss */
   footer label {
     font-size: 16px;
@@ -9161,15 +9162,14 @@ p .white-btn {
       float: right;
       color: #333333; }
 
-@media screen and (max-width: 767.99px) {
-  /* line 12, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-  .search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
-    padding-bottom: 0;
-    padding-top: 0; } }
+/* line 12, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+.search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
+  padding-bottom: 0;
+  padding-top: 0; }
 
 /* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h1, .page-404 #site-map h1 {
-  padding-top: 1.5rem; }
+  padding-top: 4.5rem; }
 
 /* line 21, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map p, .page-404 #site-map p {
@@ -9179,82 +9179,83 @@ p .white-btn {
 .search-page #site-map a, .page-404 #site-map a {
   font-weight: 400;
   color: #656565;
-  padding-bottom: 1rem; }
+  padding-bottom: 0.75rem; }
+  @media screen and (min-width: 980px) {
+    /* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    .search-page #site-map a, .page-404 #site-map a {
+      padding-bottom: 0.5rem; } }
 
-/* line 30, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 33, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h2, .search-page #site-map h3, .search-page #site-map h4, .page-404 #site-map h2, .page-404 #site-map h3, .page-404 #site-map h4 {
   text-align: left;
   text-decoration: none;
   font-family: "Raleway", sans-serif; }
 
-/* line 36, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 39, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h2, .page-404 #site-map h2 {
   font-size: 1.5rem;
   font-weight: 400; }
-  /* line 39, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 42, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 a, .page-404 #site-map h2 a {
     font-size: inherit; }
-  /* line 42, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 45, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 span, .page-404 #site-map h2 span {
     font-size: 16px;
     font-size: 1rem;
     vertical-align: middle;
     color: #4eb3b3; }
-  /* line 47, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 50, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 img, .page-404 #site-map h2 img {
     transform: rotate(-90deg);
     max-width: 2rem;
     vertical-align: bottom; }
 
-/* line 54, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+.search-page #site-map hr, .page-404 #site-map hr {
+  margin-bottom: 0.5rem; }
+
+/* line 62, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h3, .page-404 #site-map h3 {
-  padding-bottom: 0.5rem; }
-  /* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  padding-bottom: 0.75rem; }
+  @media screen and (min-width: 980px) {
+    /* line 62, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    .search-page #site-map h3, .page-404 #site-map h3 {
+      padding-bottom: 0.5rem; } }
+  /* line 67, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h3 a, .page-404 #site-map h3 a {
     font-weight: 600; }
 
-/* line 61, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 73, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map ul, .page-404 #site-map ul {
   padding-left: 15px; }
-  /* line 63, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 75, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map ul li, .page-404 #site-map ul li {
     margin-left: 15px;
     text-indent: -15px;
-    padding-bottom: 1rem; }
+    padding-bottom: 0.75rem; }
+    /* line 79, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    .search-page #site-map ul li.site-map-stories, .page-404 #site-map ul li.site-map-stories {
+      padding-bottom: 0.5rem; }
+    @media screen and (min-width: 980px) {
+      /* line 75, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+      .search-page #site-map ul li, .page-404 #site-map ul li {
+        padding-bottom: 0.5rem; } }
+    /* line 87, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    .search-page #site-map ul li a, .page-404 #site-map ul li a {
+      font-size: 16px;
+      font-size: 1rem; }
+  /* line 96, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  .search-page #site-map ul ul li a, .page-404 #site-map ul ul li a {
+    font-size: 14px;
+    font-size: 0.875rem; }
 
-/* line 70, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 102, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map i, .page-404 #site-map i {
   font-size: 14px;
   color: #4eb3b3; }
-  /* line 73, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 105, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map i:before, .page-404 #site-map i:before {
     margin-right: 0; }
-
-/* line 79, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-.search-page #site-map #site-map-uv .large-4, .page-404 #site-map #site-map-uv .large-4 {
-  padding-bottom: 0; }
-
-/* line 82, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-.search-page #site-map #site-map-uv .large-6, .page-404 #site-map #site-map-uv .large-6 {
-  padding-top: 0; }
-
-/* line 87, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-.search-page #site-map .wrapper.site-map-faq, .page-404 #site-map .wrapper.site-map-faq {
-  padding-top: 0; }
-  /* line 89, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-  .search-page #site-map .wrapper.site-map-faq h3, .page-404 #site-map .wrapper.site-map-faq h3 {
-    padding-left: 1rem; }
-  /* line 92, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-  .search-page #site-map .wrapper.site-map-faq h4, .page-404 #site-map .wrapper.site-map-faq h4 {
-    text-indent: 10px;
-    padding: 1rem 0; }
-    /* line 95, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-    .search-page #site-map .wrapper.site-map-faq h4 a, .page-404 #site-map .wrapper.site-map-faq h4 a {
-      font-weight: 600; }
-
-/* line 102, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
-.search-page #site-map #site-map-uv, .search-page #site-map #site-map-home, .page-404 #site-map #site-map-uv, .page-404 #site-map #site-map-home {
-  font-family: "Raleway", sans-serif; }
 
 /* line 8, C:/xampp/htdocs/vaginismus/css/sass/pages/_contact.scss */
 #contact-us .grad1 a {
@@ -9416,84 +9417,84 @@ html[dir="rtl"] #forum-intro #private-forum h2 {
 /*------------------------------*/
 /*----------SIDEBAR PAGES-------*/
 /*------------------------------*/
-/* line 149, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 150, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section h3, html[dir="rtl"] .faq-question section h4, html[dir="rtl"] .resource-page section h3, html[dir="rtl"] .resource-page section h4 {
   text-align: right; }
 
-/* line 154, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 155, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section ul, html[dir="rtl"] .resource-page section ul {
   margin-right: 1rem; }
 
-/* line 158, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 159, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section ol, html[dir="rtl"] .resource-page section ol {
   margin-right: 1rem; }
 
-/* line 164, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 165, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section th, html[dir="rtl"] .resource-page section th {
   font-weight: bold;
   padding: 1rem;
   border-bottom: 2px solid #e0e0e0;
   border-collapse: collapse; }
 
-/* line 170, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 171, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section thead tr:nth-child(2) th, html[dir="rtl"] .resource-page section thead tr:nth-child(2) th {
   padding: 0.5rem;
   text-align: right; }
 
-/* line 174, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 175, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section td, html[dir="rtl"] .resource-page section td {
   padding: 0.75rem;
   border-bottom: 2px solid #e0e0e0;
   border-collapse: collapse; }
-  /* line 178, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  /* line 179, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
   html[dir="rtl"] .faq-question section td:first-child, html[dir="rtl"] .resource-page section td:first-child {
     width: 30%;
     padding-right: 1rem; }
 
-/* line 186, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 187, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .shipping-rates thead, html[dir="rtl"] .resource-page section .shipping-rates thead {
   background-color: #e0e0e0;
   color: #333333; }
 
-/* line 190, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 191, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .faq-question section .shipping-rates th, html[dir="rtl"] .resource-page section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates th {
   border: 1px solid #e0e0e0;
   border-collapse: collapse;
   font-size: 14px;
   font-size: 0.875rem; }
 
-/* line 196, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 197, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .shipping-rates .country-name, html[dir="rtl"] .resource-page section .shipping-rates .country-name {
   font-weight: bold; }
 
-/* line 200, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 201, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .indent, html[dir="rtl"] .resource-page section .indent {
   padding-left: 30px; }
 
-/* line 206, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 207, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .article-title, html[dir="rtl"] .resource-page section .article-title {
   text-align: left; }
 
-/* line 209, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 210, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .article-preview, html[dir="rtl"] .resource-page section .article-preview {
   padding-top: 0; }
 
-/* line 212, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 213, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section h2 a, html[dir="rtl"] .resource-page section h2 a {
   font-size: 24px;
   font-size: 1.5rem;
   color: #333333; }
 
-/* line 219, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 220, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section #comments ul, html[dir="rtl"] .resource-page section #comments ul {
   margin-left: 0; }
 
-/* line 222, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 223, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section #comments p, html[dir="rtl"] .resource-page section #comments p {
   padding-top: 0;
   padding-bottom: 0.25rem; }
 
-/* line 229, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 230, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .comment-list li, html[dir="rtl"] .resource-page section .comment-list li {
   list-style-type: none;
   background: #ffffff;
@@ -9504,102 +9505,177 @@ html[dir="rtl"] .faq-question section .comment-list li, html[dir="rtl"] .resourc
   -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
   box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2); }
 
-/* line 239, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 240, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .comment-list p, html[dir="rtl"] .resource-page section .comment-list p {
   font-size: 16px;
   font-size: 1rem; }
 
-/* line 242, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 243, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .comment-list .comment-name, html[dir="rtl"] .resource-page section .comment-list .comment-name {
   font-weight: bold; }
 
-/* line 248, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 249, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .blog-article, html[dir="rtl"] .resource-page section .blog-article {
   margin-top: 1rem; }
-  /* line 250, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  /* line 251, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
   html[dir="rtl"] .faq-question section .blog-article ol li, html[dir="rtl"] .resource-page section .blog-article ol li {
     list-style: decimal;
     text-indent: 0;
     font-size: 19px;
     font-size: 1.1875rem; }
 
-/* line 257, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 258, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section p.blog-meta, html[dir="rtl"] .faq-question section .blog-meta a, html[dir="rtl"] .resource-page section p.blog-meta, html[dir="rtl"] .resource-page section .blog-meta a {
   font-size: 16px;
   font-size: 1rem;
   padding: 0; }
 
-/* line 263, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 264, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .review, html[dir="rtl"] .resource-page section .review {
   margin-bottom: 1rem;
   border-bottom: 1px solid #f2f2f2;
   padding: 0.5rem;
   margin-bottom: 2rem; }
-  /* line 268, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  /* line 269, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
   html[dir="rtl"] .faq-question section .review:last-child, html[dir="rtl"] .resource-page section .review:last-child {
     border: none; }
 
-/* line 273, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 274, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .review-body p, html[dir="rtl"] .resource-page section .review-body p {
   font-size: 18px;
   font-size: 1.125rem; }
 
-/* line 276, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 277, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .review-body p:last-child, html[dir="rtl"] .resource-page section .review-body p:last-child {
   padding-bottom: 0.5rem; }
 
-/* line 279, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 280, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question section .review-body h2, html[dir="rtl"] .resource-page section .review-body h2 {
   text-align: right; }
 
 @media screen and (max-width: 768px -0.01px) {
-  /* line 291, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  /* line 292, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
   html[dir="rtl"] .faq-question section .shipping-rates, html[dir="rtl"] .resource-page section .shipping-rates {
     /*
 Label the data
 */ }
-    /* line 292, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 293, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates td {
       word-wrap: normal; }
-    /* line 295, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 296, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-child(1), html[dir="rtl"] .resource-page section .shipping-rates td:nth-child(1) {
       text-indent: 0;
       width: 100%;
       text-align: center; }
-    /* line 304, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 305, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(1):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(1):before {
       content: ""; }
-    /* line 307, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 308, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(2):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(2):before {
       content: "	بريد ذو اولوية"; }
-    /* line 309, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 310, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(3):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(3):before {
       content: "الأولوية البريد الممتاز"; }
-    /* line 311, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 312, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(4):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(4):before {
       content: "بريد دولي سريع"; }
-    /* line 313, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 314, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(5):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(5):before {
       content: "الأولوية البريد السريع الدولي"; }
-    /* line 315, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 316, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(6):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(6):before {
       content: "دي إتش إل إكسبرس في جميع أنحاء العالم"; } }
 
 @media screen and (min-width: 980px) {
-  /* line 146, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  /* line 147, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
   html[dir="rtl"] .faq-question section, html[dir="rtl"] .resource-page section {
     border-left: 2px solid #f2f2f2;
     border-right: none; }
-    /* line 326, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 327, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .long-side section, html[dir="rtl"] .resource-page section .long-side section {
       border-left: none; }
-    /* line 329, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    /* line 330, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
     html[dir="rtl"] .faq-question section .long-side aside, html[dir="rtl"] .resource-page section .long-side aside {
       border-right: 2px solid #f2f2f2;
       border-left: none; } }
 
-/* line 338, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+/* line 339, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
 html[dir="rtl"] .faq-question aside h2, html[dir="rtl"] .resource-page aside h2 {
   text-align: right; }
+
+/*-------------------------------------*/
+/*------------SEARCH & 404-------------*/
+/*-------------------------------------*/
+/* line 349, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+html[dir="rtl"] #site-map h2, html[dir="rtl"] #site-map h3, html[dir="rtl"] #site-map h4 {
+  text-align: right; }
+
+/* line 352, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+html[dir="rtl"] #site-map h2 img {
+  transform: rotate(90deg); }
+
+/* line 355, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+html[dir="rtl"] #site-map ul {
+  padding-right: 15px; }
+  /* line 357, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] #site-map ul li {
+    margin-right: 15px;
+    text-indent: -15px; }
+
+/*-------------------------------*/
+/*------------FOOTER-------------*/
+/*-------------------------------*/
+@media screen and (min-width: 768px) {
+  /* line 367, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] footer {
+    text-align: right; } }
+
+@media screen and (max-width: 767.99px) {
+  /* line 372, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] footer input[type=radio] + label::after {
+    transform: rotate(225deg); } }
+
+/*-------------------------------*/
+/*------------HEADER-------------*/
+/*-------------------------------*/
+@media screen and (max-width: 979.99px) {
+  /* line 383, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header nav {
+    right: -250px;
+    -moz-transition: right 0.2s ease-in-out 0s;
+    -o-transition: right 0.2s ease-in-out 0s;
+    -webkit-transition: right 0.2s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: right 0.2s ease-in-out 0s; } }
+  @media screen and (max-width: 979.99px) and (min-width: 375px) {
+    /* line 383, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+    html[dir="rtl"] header nav {
+      right: -310px; } }
+
+@media screen and (max-width: 979.99px) {
+  /* line 394, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header nav.open {
+    right: 0;
+    -moz-transition: right 0.3s ease-in-out 0s;
+    -o-transition: right 0.3s ease-in-out 0s;
+    -webkit-transition: right 0.3s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: right 0.3s ease-in-out 0s; }
+  /* line 403, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header .nav-toggle {
+    margin: 0.775rem 0.5rem 0 0;
+    right: 0; }
+  /* line 407, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header .nav-menu a {
+    text-align: right;
+    padding: 0.4rem 2.5rem 0; } }
+
+@media screen and (min-width: 980px) {
+  /* line 413, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header .cart {
+    margin: 0.5rem 0 0 1rem; }
+  /* line 416, C:/xampp/htdocs/vaginismus/css/sass/pages/_arabic.scss */
+  html[dir="rtl"] header .logo {
+    margin: 0.5rem 1rem 0 0; } }
 
 /*# sourceMappingURL=main.css.map */

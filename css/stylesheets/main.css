@@ -6986,6 +6986,7 @@ strong {
 }
 /*--------------HEADER---------------*/
 header {
+  z-index: 90000;
   background: #ffffff;
   -webkit-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
   -moz-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
@@ -7377,7 +7378,7 @@ footer {
   /*--------------TABLET AND UP----------------*/
 }
 footer hr {
-  margin-bottom: 0.5rem;
+  margin: 0.5rem 0;
 }
 footer label {
   font-size: 16px;
@@ -9407,14 +9408,12 @@ p .white-btn {
   color: #333333;
 }
 
-@media screen and (max-width: 767.99px) {
-  .search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
-    padding-bottom: 0;
-    padding-top: 0;
-  }
+.search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
+  padding-bottom: 0;
+  padding-top: 0;
 }
 .search-page #site-map h1, .page-404 #site-map h1 {
-  padding-top: 1.5rem;
+  padding-top: 4.5rem;
 }
 .search-page #site-map p, .page-404 #site-map p {
   text-align: center;
@@ -9422,7 +9421,12 @@ p .white-btn {
 .search-page #site-map a, .page-404 #site-map a {
   font-weight: 400;
   color: #656565;
-  padding-bottom: 1rem;
+  padding-bottom: 0.75rem;
+}
+@media screen and (min-width: 980px) {
+  .search-page #site-map a, .page-404 #site-map a {
+    padding-bottom: 0.5rem;
+  }
 }
 .search-page #site-map h2, .search-page #site-map h3, .search-page #site-map h4, .page-404 #site-map h2, .page-404 #site-map h3, .page-404 #site-map h4 {
   text-align: left;
@@ -9447,8 +9451,16 @@ p .white-btn {
   max-width: 2rem;
   vertical-align: bottom;
 }
+.search-page #site-map hr, .page-404 #site-map hr {
+  margin-bottom: 0.5rem;
+}
 .search-page #site-map h3, .page-404 #site-map h3 {
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.75rem;
+}
+@media screen and (min-width: 980px) {
+  .search-page #site-map h3, .page-404 #site-map h3 {
+    padding-bottom: 0.5rem;
+  }
 }
 .search-page #site-map h3 a, .page-404 #site-map h3 a {
   font-weight: 600;
@@ -9459,7 +9471,23 @@ p .white-btn {
 .search-page #site-map ul li, .page-404 #site-map ul li {
   margin-left: 15px;
   text-indent: -15px;
-  padding-bottom: 1rem;
+  padding-bottom: 0.75rem;
+}
+.search-page #site-map ul li.site-map-stories, .page-404 #site-map ul li.site-map-stories {
+  padding-bottom: 0.5rem;
+}
+@media screen and (min-width: 980px) {
+  .search-page #site-map ul li, .page-404 #site-map ul li {
+    padding-bottom: 0.5rem;
+  }
+}
+.search-page #site-map ul li a, .page-404 #site-map ul li a {
+  font-size: 16px;
+  font-size: 1rem;
+}
+.search-page #site-map ul ul li a, .page-404 #site-map ul ul li a {
+  font-size: 14px;
+  font-size: 0.875rem;
 }
 .search-page #site-map i, .page-404 #site-map i {
   font-size: 14px;
@@ -9467,28 +9495,6 @@ p .white-btn {
 }
 .search-page #site-map i:before, .page-404 #site-map i:before {
   margin-right: 0;
-}
-.search-page #site-map #site-map-uv .large-4, .page-404 #site-map #site-map-uv .large-4 {
-  padding-bottom: 0;
-}
-.search-page #site-map #site-map-uv .large-6, .page-404 #site-map #site-map-uv .large-6 {
-  padding-top: 0;
-}
-.search-page #site-map .wrapper.site-map-faq, .page-404 #site-map .wrapper.site-map-faq {
-  padding-top: 0;
-}
-.search-page #site-map .wrapper.site-map-faq h3, .page-404 #site-map .wrapper.site-map-faq h3 {
-  padding-left: 1rem;
-}
-.search-page #site-map .wrapper.site-map-faq h4, .page-404 #site-map .wrapper.site-map-faq h4 {
-  text-indent: 10px;
-  padding: 1rem 0;
-}
-.search-page #site-map .wrapper.site-map-faq h4 a, .page-404 #site-map .wrapper.site-map-faq h4 a {
-  font-weight: 600;
-}
-.search-page #site-map #site-map-uv, .search-page #site-map #site-map-home, .page-404 #site-map #site-map-uv, .page-404 #site-map #site-map-home {
-  font-family: "Raleway", sans-serif;
 }
 
 #contact-us .grad1 a {
@@ -9809,4 +9815,80 @@ html[dir="rtl"] .faq-question section .review-body h2, html[dir="rtl"] .resource
 }
 html[dir="rtl"] .faq-question aside h2, html[dir="rtl"] .resource-page aside h2 {
   text-align: right;
+}
+
+/*-------------------------------------*/
+/*------------SEARCH & 404-------------*/
+/*-------------------------------------*/
+html[dir="rtl"] #site-map h2, html[dir="rtl"] #site-map h3, html[dir="rtl"] #site-map h4 {
+  text-align: right;
+}
+html[dir="rtl"] #site-map h2 img {
+  transform: rotate(90deg);
+}
+html[dir="rtl"] #site-map ul {
+  padding-right: 15px;
+}
+html[dir="rtl"] #site-map ul li {
+  margin-right: 15px;
+  text-indent: -15px;
+}
+
+/*-------------------------------*/
+/*------------FOOTER-------------*/
+/*-------------------------------*/
+@media screen and (min-width: 768px) {
+  html[dir="rtl"] footer {
+    text-align: right;
+  }
+}
+@media screen and (max-width: 767.99px) {
+  html[dir="rtl"] footer input[type=radio] + label::after {
+    transform: rotate(225deg);
+  }
+}
+
+/*-------------------------------*/
+/*------------HEADER-------------*/
+/*-------------------------------*/
+@media screen and (max-width: 979.99px) {
+  html[dir="rtl"] header nav {
+    right: -250px;
+    -moz-transition: right 0.2s ease-in-out 0s;
+    -o-transition: right 0.2s ease-in-out 0s;
+    -webkit-transition: right 0.2s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: right 0.2s ease-in-out 0s;
+  }
+}
+@media screen and (max-width: 979.99px) and (min-width: 375px) {
+  html[dir="rtl"] header nav {
+    right: -310px;
+  }
+}
+@media screen and (max-width: 979.99px) {
+  html[dir="rtl"] header nav.open {
+    right: 0;
+    -moz-transition: right 0.3s ease-in-out 0s;
+    -o-transition: right 0.3s ease-in-out 0s;
+    -webkit-transition: right 0.3s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: right 0.3s ease-in-out 0s;
+  }
+  html[dir="rtl"] header .nav-toggle {
+    margin: 0.775rem 0.5rem 0 0;
+    right: 0;
+  }
+  html[dir="rtl"] header .nav-menu a {
+    text-align: right;
+    padding: 0.4rem 2.5rem 0;
+  }
+}
+@media screen and (min-width: 980px) {
+  html[dir="rtl"] header .cart {
+    margin: 0.5rem 0 0 1rem;
+  }
+  html[dir="rtl"] header .logo {
+    margin: 0.5rem 1rem 0 0;
+  }
 }

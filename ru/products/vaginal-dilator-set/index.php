@@ -4,7 +4,7 @@
   $pagecanonical = 'https://www.vaginismus.com/ru/products/vaginal-dilator-set/';
   $pageimagepath ="https://www.vaginismus.com/img/twitter-card.png";
   include('../../../config.php');
-  include(ROOT_PATH.'/includes/header.php');
+  include(ROOT_PATH.'/includes/ru/header.php');
 ?>
 
 

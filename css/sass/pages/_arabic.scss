@@ -138,6 +138,7 @@ html[dir="rtl"] #forum-intro{
   }
 }
 
+
 /*------------------------------*/
 /*----------SIDEBAR PAGES-------*/
 /*------------------------------*/
@@ -341,8 +342,81 @@ Label the data
 }
   
 
+/*-------------------------------------*/
+/*------------SEARCH & 404-------------*/
+/*-------------------------------------*/
+html[dir="rtl"] #site-map{
+    h2, h3, h4{
+      text-align: right;
+    }
+    h2 img{
+      transform: rotate(90deg);
+    }
+    ul{
+      padding-right: 15px;
+      li{
+        margin-right: 15px;
+        text-indent: -15px;
+      }
+    }
+}
 
+/*-------------------------------*/
+/*------------FOOTER-------------*/
+/*-------------------------------*/
+html[dir="rtl"] footer{
+    @media screen and (min-width: $breakpoint-medium){
+      text-align: right;
+    }
+    @media screen and (max-width: 767.99px){
+      input[type=radio] + label::after {
+      transform: rotate(225deg);
+    }
+  }
+}
 
-    
+/*-------------------------------*/
+/*------------HEADER-------------*/
+/*-------------------------------*/
+html[dir="rtl"] header{
+  @media screen and (max-width: 979.99px){
+    nav{
+      right: -250px;
+      -moz-transition: right 0.2s ease-in-out 0s;
+      -o-transition: right 0.2s ease-in-out 0s;
+      -webkit-transition: right 0.2s ease-in-out;
+      -webkit-transition-delay: 0s;
+      transition: right 0.2s ease-in-out 0s;
+      @media screen and (min-width: 375px){
+        right: -310px;
+      }
+  }
+    nav.open {
+      right: 0;
+      -moz-transition: right 0.3s ease-in-out 0s;
+      -o-transition: right 0.3s ease-in-out 0s;
+      -webkit-transition: right 0.3s ease-in-out;
+      -webkit-transition-delay: 0s;
+      transition: right 0.3s ease-in-out 0s;
+    }
+        //hamburger menu
+    .nav-toggle {
+      margin: 0.775rem 0.5rem 0 0;
+      right: 0;
+    }
+    .nav-menu a {
+      text-align: right;
+      padding: 0.4rem 2.5rem 0;
+    }
+  }
+    @media screen and (min-width: $breakpoint-large){
+      .cart{
+        margin: 0.5rem 0 0 1rem;
+      }
+      .logo{
+        margin: 0.5rem 1rem 0 0;
+      }
+    }
+}
 
 

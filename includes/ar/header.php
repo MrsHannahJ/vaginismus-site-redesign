@@ -58,7 +58,7 @@
 
     <div class="desktop-navbar">
       <div class="logo">
-        <a href="/index.php" title="return to homepage"><img src="/img/logo.png" alt="Vaginismus.com (English)" /></a>
+        <a href="/ar/index.php" title="العوده للصفحة الرئيسية"><img src="/img/logo.png" alt="Vaginismus.com (العربية)" /></a>
       </div>
       <nav class="nav-js">
         <a class="nav-toggle hidden-desktop" href="#">
@@ -68,40 +68,38 @@
         </a>
         <div class="nav-menu">
           <ul id="nav">
-            <li class="primary-nav-item"><a href="/what-is-vaginismus/index.php">What is Vaginismus?</a>
+            <li class="primary-nav-item"><a href="#">ما هو التشنّج المهبليّ؟</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/what-is-vaginismus/understanding-vaginismus/index.php">Understanding Vaginismus</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-symptoms/index.php">Symptoms</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-causes/index.php">Causes</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">Diagnosis</a></li>
+                  <li><a href="/ar/faq/general-questions/what-is-vaginismus/index.php">ما هو التشنّج المهبليّ؟</a></li>
+                  <li><a href="/ar/vaginismus-symptoms/index.php">أعراض</a></li>
+                  <li><a href="/ar/vaginismus-causes/index.php">الأسباب</a></li>
+                  <li><a href="/ar/vaginismus-diagnosis/index.php">التشخيص</a></li>
                 </div>
               </ul>
             </li>
-            <li class="primary-nav-item"><a href="/treatment/index.php">Treatment</a>
+            <li class="primary-nav-item"><a href="#">علاج</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/treatment/self-help-program/index.php">Self-Help Program</a></li>
-                  <li><a href="/treatment/products/index.php">Products</a></li>
+                  <li><a href="/ar/vaginismus-treatment/index.php">علاج</a></li>
+                  <li><a href="/ar/products/index.php">المنتجات</a></li>
                 </div>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
-            <li class="primary-nav-item"><a href="/further-support/index.php">Further Support</a>
+            <li class="primary-nav-item"><a href="#">المزيد من الدعم</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/contact-us/index.php">Contact Us</a></li>
-                  <li><a href="/forum-introduction/index.php">Private Forum</a></li>
-                  <li><a href="/further-support/general-questions/index.php">Common Questions</a></li>
-                  <li><a href="/further-support/related-conditions/index.php">Related Conditions</a></li>
-                  <li><a href="/further-support/professional-assistance/index.php/">Professional Assistance</a></li>
+                  <li><a href="/ar/contact-us/index.php">اتصل بنا</a></li>
+                  <li><a href="/ar/forum-introduction/index.php">المنتدى</a></li>
+                  <li><a href="/ar/faq/index.php">أسئلة</a></li>
                 </div>
               </ul>
           </ul>
         </div>
       </nav>
       <div class="cart">
-        <a href="cart/index.html"><img src="/img/icons/cart.png" alt="" /></a>
+        <a href="#"><img src="/img/icons/cart.png" alt="عربة التسوق" /></a>
         <!--  needs to be connected to cart  -->
         <span class="cart-count">0</span>
       </div>

@@ -8,14 +8,14 @@
 
   #site-map{
     
-    @media screen and (max-width: 767.99px){
+//    @media screen and (max-width: 767.99px){
       [class*='large-'], [class*='medium-'] {
         padding-bottom: 0;
         padding-top: 0;
       }
-    }
+//    }
     h1{
-      padding-top: 1.5rem;
+      padding-top: 4.5rem;
     }
     
     p{
@@ -24,7 +24,10 @@
     a{
       font-weight: 400;
       color: $light-gray-text;
-      padding-bottom: 1rem;
+      padding-bottom: 0.75rem;
+      @media screen and (min-width: $breakpoint-large){
+        padding-bottom: 0.5rem;
+      }
     }
     
     h2, h3, h4{
@@ -50,11 +53,20 @@
         vertical-align: bottom;
       }
     }
+    hr{
+     
+        margin-bottom: 0.5rem;
+      
+    }
     
     h3{
-      padding-bottom: 0.5rem;
+              padding-bottom: 0.75rem;
+        @media screen and (min-width: $breakpoint-large){
+          padding-bottom: 0.5rem;
+        }
       a{
         font-weight: 600;
+
       }
     }
     
@@ -63,7 +75,27 @@
       li{
         margin-left: 15px;
         text-indent: -15px;
-        padding-bottom: 1rem;
+        padding-bottom: 0.75rem;
+        &.site-map-stories{
+          padding-bottom: 0.5rem;
+        }
+        @media screen and (min-width: $breakpoint-large){
+          padding-bottom: 0.5rem;
+
+        }
+        
+        a{
+          @include font-size(16px);
+        }
+      }
+      ul li{
+//        list-style:circle;
+//        text-indent: 5px;
+//          padding-bottom: 0.5rem;
+          
+        a{
+          @include font-size(14px);
+        }
       }
     }
     
@@ -74,36 +106,6 @@
         margin-right: 0;
       }
     }
-
-    #site-map-uv{
-      .large-4{
-        padding-bottom: 0;
-      }
-      .large-6{
-        padding-top:0;
-      }
-    }
-    
-    .wrapper.site-map-faq{
-      padding-top: 0;
-      h3{
-        padding-left: 1rem;
-      }
-      h4{
-        text-indent: 10px;
-        padding: 1rem 0;
-        a{
-          font-weight: 600;
-        }
-        
-      }
-    }
-
-    #site-map-uv, , #site-map-home{
-      font-family: $accent-font-common;
-    }
-
-
 
   }
 }

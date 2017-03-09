@@ -101,7 +101,7 @@
         </div>
       </nav>
       <div class="cart">
-        <a href="cart/index.html"><img src="/img/icons/cart.png" alt="" /></a>
+        <a href="#"><img src="/img/icons/cart.png" alt="cart" /></a>
         <!--  needs to be connected to cart  -->
         <span class="cart-count">0</span>
       </div>

@@ -58,7 +58,7 @@
 
     <div class="desktop-navbar">
       <div class="logo">
-        <a href="/index.php" title="return to homepage"><img src="/img/logo.png" alt="Vaginismus.com (English)" /></a>
+        <a href="/tr/index.php" title="Anasayfa dön"><img src="/img/logo.png" alt="Vaginismus.com (Türk)" /></a>
       </div>
       <nav class="nav-js">
         <a class="nav-toggle hidden-desktop" href="#">
@@ -68,40 +68,38 @@
         </a>
         <div class="nav-menu">
           <ul id="nav">
-            <li class="primary-nav-item"><a href="/what-is-vaginismus/index.php">What is Vaginismus?</a>
+            <li class="primary-nav-item"><a href="#">Vajinismus Nedir?</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/what-is-vaginismus/understanding-vaginismus/index.php">Understanding Vaginismus</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-symptoms/index.php">Symptoms</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-causes/index.php">Causes</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">Diagnosis</a></li>
+                  <li><a href="/tr/faq/general-questions/what-is-vaginismus/index.php">Vajinismus Nedir?</a></li>
+                  <li><a href="/tr/vaginismus-symptoms/index.php">Belirtileri</a></li>
+                  <li><a href="/tr/vaginismus-causes/index.php">Nedenler</a></li>
+                  <li><a href="/tr/vaginismus-diagnosis/index.php">Teşhis</a></li>
                 </div>
               </ul>
             </li>
-            <li class="primary-nav-item"><a href="/treatment/index.php">Treatment</a>
+            <li class="primary-nav-item"><a href="#">Tedavi</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/treatment/self-help-program/index.php">Self-Help Program</a></li>
-                  <li><a href="/treatment/products/index.php">Products</a></li>
+                  <li><a href="/tr/vaginismus-treatment/index.php">Tedavi</a></li>
+                  <li><a href="/tr/products/index.php">Ürünleri</a></li>
                 </div>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
-            <li class="primary-nav-item"><a href="/further-support/index.php">Further Support</a>
+            <li class="primary-nav-item"><a href="#">Daha fazla destek</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/contact-us/index.php">Contact Us</a></li>
-                  <li><a href="/forum-introduction/index.php">Private Forum</a></li>
-                  <li><a href="/further-support/general-questions/index.php">Common Questions</a></li>
-                  <li><a href="/further-support/related-conditions/index.php">Related Conditions</a></li>
-                  <li><a href="/further-support/professional-assistance/index.php/">Professional Assistance</a></li>
+                  <li><a href="/tr/contact-us/index.php">Bizimle Iletisime Geçin</a></li>
+                  <li><a href="/tr/forum-introduction/index.php">Forum</a></li>
+                  <li><a href="/tr/faq/index.php">SSS</a></li>
                 </div>
               </ul>
           </ul>
         </div>
       </nav>
       <div class="cart">
-        <a href="cart/index.html"><img src="/img/icons/cart.png" alt="" /></a>
+        <a href="#"><img src="/img/icons/cart.png" alt="alışveriş kartı" /></a>
         <!--  needs to be connected to cart  -->
         <span class="cart-count">0</span>
       </div>

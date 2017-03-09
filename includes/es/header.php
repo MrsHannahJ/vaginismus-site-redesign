@@ -58,7 +58,7 @@
 
     <div class="desktop-navbar">
       <div class="logo">
-        <a href="/index.php" title="return to homepage"><img src="/img/logo.png" alt="Vaginismus.com (English)" /></a>
+        <a href="/es/index.php" title="regresar a la página principal"><img src="/img/logo.png" alt="Vaginismus.com (Español)" /></a>
       </div>
       <nav class="nav-js">
         <a class="nav-toggle hidden-desktop" href="#">
@@ -68,40 +68,38 @@
         </a>
         <div class="nav-menu">
           <ul id="nav">
-            <li class="primary-nav-item"><a href="/what-is-vaginismus/index.php">What is Vaginismus?</a>
+            <li class="primary-nav-item"><a href="#">¿Qué Es El Vaginismo?</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/what-is-vaginismus/understanding-vaginismus/index.php">Understanding Vaginismus</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-symptoms/index.php">Symptoms</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-causes/index.php">Causes</a></li>
-                  <li><a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">Diagnosis</a></li>
+                  <li><a href="/es/faq/general-questions/what-is-vaginismus/index.php">¿Qué Es El Vaginismo?</a></li>
+                  <li><a href="/es/vaginismus-symptoms/index.php">Sintomas</a></li>
+                  <li><a href="/es/vaginismus-causes/index.php">Causas</a></li>
+                  <li><a href="/es/vaginismus-diagnosis/index.php">Diagnóstico</a></li>
                 </div>
               </ul>
             </li>
-            <li class="primary-nav-item"><a href="/treatment/index.php">Treatment</a>
+            <li class="primary-nav-item"><a href="#">Tratamiento</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/treatment/self-help-program/index.php">Self-Help Program</a></li>
-                  <li><a href="/treatment/products/index.php">Products</a></li>
+                  <li><a href="/es/vaginismus-treatment/index.php">Tratamiento</a></li>
+                  <li><a href="/es/products/index.php">Productos</a></li>
                 </div>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
-            <li class="primary-nav-item"><a href="/further-support/index.php">Further Support</a>
+            <li class="primary-nav-item"><a href="#">Apoyo Adicional</a>
               <ul>
                 <div class="wrapper">
-                  <li><a href="/contact-us/index.php">Contact Us</a></li>
-                  <li><a href="/forum-introduction/index.php">Private Forum</a></li>
-                  <li><a href="/further-support/general-questions/index.php">Common Questions</a></li>
-                  <li><a href="/further-support/related-conditions/index.php">Related Conditions</a></li>
-                  <li><a href="/further-support/professional-assistance/index.php/">Professional Assistance</a></li>
+                  <li><a href="/es/contact-us/index.php">Contáctenos</a></li>
+                  <li><a href="/es/forum-introduction/index.php">Foro</a></li>
+                  <li><a href="/es/faq/index.php">PMFs</a></li>
                 </div>
               </ul>
           </ul>
         </div>
       </nav>
       <div class="cart">
-        <a href="cart/index.html"><img src="/img/icons/cart.png" alt="" /></a>
+        <a href="#"><img src="/img/icons/cart.png" alt="carrito" /></a>
         <!--  needs to be connected to cart  -->
         <span class="cart-count">0</span>
       </div>

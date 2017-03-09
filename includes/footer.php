@@ -13,11 +13,11 @@
     <label for="footer-label-1">About</label>
     <div class="footer-label-content">
       <ul>
-        <li><a href="">About Us</a></li>
-        <li><a href="">Press</a></li>
-        <li><a href="">Private Forum</a></li>
-        <li><a href="">Contact Us</a></li>
-        <li><a href="">Site Map</a></li>
+        <li><a href="/about-us/index.php">About Us</a></li>
+        <li><a href="/press/index.php">Press</a></li>
+        <li><a href="/forum-introduction/index.php">Private Forum</a></li>
+        <li><a href="/contact-us/index.php">Contact Us</a></li>
+        <li><a href="/search/index.php">Site Map</a></li>
       </ul>
     </div>
   </div>
@@ -39,10 +39,10 @@
     <label for="footer-label-3">Downloads</label>
     <div class="footer-label-content">
       <ul>
-        <li><a href="">Vaginismus Brochure</a></li>
-        <li><a href="">Dilator Brochure</a></li>
-        <li><a href="">Diagnosis Script</a></li>
-        <li><a href="">Fax Order Form</a></li>
+        <li><a href="/downloads/vaginismus_brochure.pdf">Vaginismus Brochure</a></li>
+        <li><a href="/downloads/dilator_brochure.pdf">Dilator Brochure</a></li>
+        <li><a href="/downloads/sample-script-a-self-guided-history-of-sexual-pain.pdf">Diagnosis Script</a></li>
+        <li><a href="/downloads/fax-mail-order-form.pdf">Fax Order Form</a></li>
       </ul>
     </div>
   </div>
@@ -51,11 +51,11 @@
     <label for="footer-label-4"><img src="/img/us.png" alt="Language Options" aria-hidden="true">Languages</label>
     <div class="footer-label-content">
       <ul>
-        <li><a href="">Arabic</a></li>
-        <li><a href="">Spanish</a></li>
-        <li><a href="">Portuguese</a></li>
-        <li><a href="">Turkish</a></li>
-        <li><a href="">Russian</a></li>
+        <li><a href="/ar/index.php">العربية</a></li>
+        <li><a href="/es/index.php">Español</a></li>
+        <li><a href="/por/index.php">Português</a></li>
+        <li><a href="/tr/index.php">Türk</a></li>
+        <li><a href="/ru/index.php">Pусский</a></li>
       </ul>
     </div>
   </div>

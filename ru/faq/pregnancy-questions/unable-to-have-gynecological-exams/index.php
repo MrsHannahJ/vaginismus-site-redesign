@@ -4,7 +4,7 @@
   $pagecanonical = 'https://www.vaginismus.com/ru/faq/pregnancy-questions/unable-to-have-gynecological-exams/';
   $pageimagepath ="https://www.vaginismus.com/img/twitter-card.png";
   include('../../../../config.php');
-  include(ROOT_PATH.'/includes/header.php');
+  include(ROOT_PATH.'/includes/ru/header.php');
 ?>
 
     
