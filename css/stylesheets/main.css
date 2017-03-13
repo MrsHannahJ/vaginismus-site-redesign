@@ -6718,6 +6718,7 @@ body {
 }
 
 h1 {
+  margin-top: 4rem;
   font-size: 32px;
   font-size: 2rem;
   color: #4eb3b3;
@@ -6759,14 +6760,14 @@ h4 {
 }
 
 p, li {
-  font-size: 18px;
-  font-size: 1.125rem;
+  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.3;
 }
 
 a, figcaption, table, th, td {
-  font-size: 18px;
-  font-size: 1.125rem;
+  font-size: 16px;
+  font-size: 1rem;
 }
 
 em {
@@ -9250,6 +9251,90 @@ p .white-btn {
     flex-direction: row-reverse;
   }
 }
+.press h1 {
+  margin-bottom: 1rem;
+}
+.press #press-menu div {
+  border: 1px solid #656565;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  padding: 0.5rem;
+  clear: both;
+  margin: 1rem auto;
+}
+@media screen and (min-width: 980px) {
+  .press #press-menu div {
+    padding: 1rem;
+    width: 98%;
+    transition: width 0.2s;
+  }
+  .press #press-menu div:hover {
+    width: 100%;
+  }
+}
+.press #press-menu div h2 {
+  color: #333333;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0;
+}
+.press #press-menu div p {
+  color: #656565;
+  font-weight: 400;
+}
+.press #press-menu div p:last-child {
+  color: #4eb3b3;
+  font-weight: 600;
+  padding: 0;
+}
+@media screen and (min-width: 980px) {
+  .press #press-menu div p:last-child {
+    text-align: right;
+  }
+}
+.press h3 {
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.press h4 {
+  text-align: left;
+  font-weight: 600;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.press p {
+  padding-bottom: 1rem;
+  text-align: justify;
+}
+.press a {
+  font-weight: 600;
+}
+.press hr {
+  color: #656565;
+  opacity: .5;
+  margin: 1rem 0;
+}
+.press ul {
+  margin-left: 1rem;
+}
+.press ul li {
+  list-style: disc;
+  padding-bottom: 1.5rem;
+}
+.press ul li:first-child {
+  padding-top: 1rem;
+}
+.press ol {
+  margin-left: 1rem;
+  padding: 0.5rem 0;
+}
+.press ol li {
+  list-style: upper-roman;
+  text-indent: 0.5rem;
+  padding-bottom: 1rem;
+}
+
 #resources {
   /*---------HERO---------------*/
   /*---------MAIN---------------*/

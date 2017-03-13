@@ -1,0 +1,133 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to all the pages with sidebars.
+// -----------------------------------------------------------------------------
+
+.press{
+    h1{
+     margin-bottom: 1rem;
+    }
+
+  #press-menu div{
+    border: 1px solid $light-gray-text;
+    border-radius: 10px;
+    background-color: $light-gray-background;
+    padding: 0.5rem;
+    clear: both;
+    margin: 1rem auto;
+    @media screen and (min-width: $breakpoint-large){
+      padding: 1rem;
+      width: 98%;
+      transition: width 0.2s;
+      &:hover{
+        width: 100%;
+      }
+    }
+    h2{
+      color: $dark-gray-text;
+      text-align: left;
+      font-size: 16px;
+      font-weight: 600;
+      padding: 0;
+    }
+    p{
+      color: $light-gray-text;
+      font-weight: 400;
+//      display: inline;
+      &:last-child{
+        color: $brand;
+        font-weight: 600;
+        padding: 0;
+        @media screen and (min-width: $breakpoint-large){
+          text-align: right;
+        }
+      }
+    }
+  }
+
+  
+//  section{
+
+
+//    h2 a{
+//      color: $dark-gray-text;
+//    }
+  
+    h3{
+      text-align: left;
+      font-family: $accent-font-common;
+      padding: 1.5rem 0 0.25rem 0;
+    }
+    
+    h4{
+      text-align: left;
+      font-weight: 600;
+      padding: 1.5rem 0 0.25rem 0;
+    }
+    p{
+      padding-bottom: 1rem;
+      text-align: justify;
+    }
+    a{
+      font-weight: 600;
+    }
+
+    hr{
+      color: $light-gray-text;
+      opacity: .5;
+      margin: 1rem 0;
+    }
+//list styles
+    ul{
+      margin-left: 1rem;
+      li{
+        list-style: disc;
+        padding-bottom: 1.5rem;
+        &:first-child{
+          padding-top:1rem;
+        }
+      }
+    }
+    ol{
+      margin-left: 1rem;
+      padding: 0.5rem 0;
+      li{
+        list-style: upper-roman;
+        text-indent: 0.5rem;
+        padding-bottom: 1rem;
+      }
+    }
+
+//    .article-title{
+//      text-align: left;
+//      line-height: 1;
+//
+//    }
+//    .article-preview{
+//      padding-top: 0;
+//    }
+
+
+    
+    
+//MOBILE ONLY
+
+
+
+    
+//TABLET
+    @media screen and (min-width:$breakpoint-medium){
+
+    }
+
+//DESKTOP
+    @media screen and (min-width:$breakpoint-large){
+
+    }
+  
+//}
+  
+}
+
+
+
+    

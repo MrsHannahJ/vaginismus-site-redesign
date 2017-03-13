@@ -1,4 +1,4 @@
-<!--English only-->
+
 
 <!DOCTYPE html>
 <!--[if IE 6]><html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
@@ -108,7 +108,7 @@
     </div>
 
 
-    <div class="nav-overlay"></div>
+<!--    <div class="nav-overlay"></div>-->
 
 
 </header>
