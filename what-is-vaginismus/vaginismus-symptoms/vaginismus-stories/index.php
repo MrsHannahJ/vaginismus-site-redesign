@@ -131,25 +131,13 @@
 
 <!--      PRE-FOOTER-NAV SECTION      -->
   
-      <div class="pre-footer-nav">
-        <div class="wrapper">
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-symptoms/index.html">
-              <img src="../img/stories/stories-left-footer-button.png" alt="vaginismus.com/vaginismus-symptoms">
-            </a>
-          </div>
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-
-             <a href="../vaginismus-causes/index.html">
-               <img src="../img/stories/stories-right-footer-button.png" alt="vaginismus.com/vaginismus-causes">
-             </a>
-          </div>
-        </div>
-      </div>
+<?php
+  $pagebacklink = '/what-is-vaginismus/vaginismus-symptoms/index.php';
+  $pageback = 'Symptoms';
+  $pageforwardlink = '/what-is-vaginismus/vaginismus-causes/index.php';
+  $pageforward = 'Causes';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
    
     </main>
 <?php

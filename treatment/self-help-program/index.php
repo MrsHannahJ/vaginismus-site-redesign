@@ -160,25 +160,13 @@
 
 <!--      PRE-FOOTER-NAV SECTION      -->
   
-      <div class="pre-footer-nav">
-        <div class="wrapper">
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-diagnosis/index.html">
-              <img src="/img/treatment/treatment-left-footer-button.png" alt="vaginismus.com/vaginismus-diagnosis">
-            </a>
-          </div>
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-
-             <a href="../vaginismus-stories/index.html">
-               <img src="/img/treatment/treatment-right-footer-button.png" alt="vaginismus.com/vaginismus-stories">
-             </a>
-          </div>
-        </div>
-      </div>
+<?php
+  $pagebacklink = '/treatment/index.php';
+  $pageback = 'Treatment';
+  $pageforwardlink = '/treatment/products/index.php';
+  $pageforward = 'Products';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
    
    
      

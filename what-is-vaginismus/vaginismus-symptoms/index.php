@@ -194,25 +194,13 @@
             
 <!--      PRE-FOOTER-NAV SECTION      -->
   
-      <div class="pre-footer-nav">
-        <div class="wrapper">
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../faq/index.html">
-              <img src="/img/symptoms/symptoms-left-footer-button-en.png" alt="vaginismus.com/faq">
-            </a>
-          </div>
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-
-             <a href="../vaginismus-stories/index.html">
-               <img src="/img/symptoms/symptoms-right-footer-button-en.png" alt="vaginismus.com/vaginismus-stories">
-             </a>
-          </div>
-        </div>
-      </div>
+<?php
+  $pagebacklink = '/what-is-vaginismus/understanding-vaginismus/index.php';
+  $pageback = 'Understanding Vaginismus';
+  $pageforwardlink = '/what-is-vaginismus/vaginismus-causes/index.php';
+  $pageforward = 'Causes';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
 
     </main>
 

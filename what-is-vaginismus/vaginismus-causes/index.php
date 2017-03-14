@@ -8,6 +8,7 @@
 ?>
     
     <main id="causes">
+    
 <!--      HERO      -->
   
       <section class="hero-banner-image">
@@ -175,26 +176,14 @@
        </section>
 
     <!--      PRE-FOOTER-NAV SECTION      -->
-  
-      <div class="pre-footer-nav">
-        <div class="wrapper">
-          <div class="large-6 medium-6">
+<?php
+  $pagebacklink = '/what-is-vaginismus/vaginismus-symptoms/index.php';
+  $pageback = 'Symptoms';
+  $pageforwardlink = '/what-is-vaginismus/vaginismus-diagnosis/index.php';
+  $pageforward = 'Diagnosis &amp; Tests';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
 
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-stories/index.html">
-               <img src="/img/causes/causes-left-footer-button.png" alt="vaginismus.com/vaginismus-stories">
-             </a>
-          </div>
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-
-             <a href="../vaginismus-diagnosis/index.html">
-               <img src="/img/causes/causes-right-footer-button.png" alt="vaginismus.com/vaginismus-diagnosis">
-             </a>
-          </div>
-        </div>
-      </div>
     </main>
     
 <?php

@@ -170,25 +170,13 @@
    
 <!--      PRE-FOOTER-NAV SECTION      -->
   
-      <div class="pre-footer-nav">
-        <div class="wrapper">
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-causes/index.html">
-              <img src="/img/diagnosis/diagnosis-left-footer-button.png" alt="vaginismus.com/vaginismus-causes">
-            </a>
-          </div>
-          <div class="large-6 medium-6">
-
-  <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-
-            <a href="../vaginismus-treatment/index.html">
-              <img src="/img/diagnosis/diagnosis-right-footer-button.png" alt="vaginismus.com/vaginismus-treatment">
-            </a>
-          </div>
-        </div>
-      </div>
+<?php
+  $pagebacklink = '/what-is-vaginismus/vaginismus-causes/index.php';
+  $pageback = 'Causes';
+  $pageforwardlink = '/treatment/index.php';
+  $pageforward = 'Treatment';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
 
     </main>
 <?php

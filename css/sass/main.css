@@ -7520,6 +7520,95 @@ aside .sidebar-img {
   .pre-footer-nav .large-6 {
     text-align: center; }
 
+/* line 13, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+.pre-footer-nav-english {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 17rem; }
+  /* line 17, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+  .pre-footer-nav-english .pre-footer-parallax-logo {
+    background-image: url(/img/parallax-logo-gray.jpg);
+    height: 15rem;
+    width: 90%;
+    margin-left: 5%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute; }
+    /* line 27, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+    .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward, .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back {
+      background: #ffffff;
+      width: 110%;
+      position: absolute;
+      margin-left: -5%;
+      text-align: center;
+      font-size: 18px;
+      font-size: 1.125rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      padding: 1rem 0 0.9rem;
+      background: #ffffff;
+      border: 1px solid #f2f2f2; }
+      /* line 39, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+      .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward img, .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back img {
+        width: 1.25rem;
+        display: inline;
+        vertical-align: middle; }
+    /* line 45, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+    .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back {
+      top: 2.5rem; }
+      /* line 47, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+      .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back img {
+        transform: rotate(180deg);
+        margin-right: 1rem; }
+    /* line 52, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+    .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward {
+      top: 8.75rem; }
+      /* line 54, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+      .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward img {
+        margin-left: 1rem; }
+  @media screen and (min-width: 980px) {
+    /* line 13, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+    .pre-footer-nav-english {
+      margin-bottom: 8rem; }
+      /* line 62, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+      .pre-footer-nav-english .pre-footer-parallax-logo {
+        background-image: url(/img/parallax-logo-gray.jpg);
+        height: 6rem;
+        width: 70%;
+        margin-left: 15%; }
+        /* line 67, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+        .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward, .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back {
+          width: 60%;
+          display: inline-block;
+          vertical-align: middle;
+          -webkit-transform: perspective(1px) translateZ(0);
+          transform: perspective(1px) translateZ(0);
+          -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+          -webkit-transition-property: transform;
+          transition-property: transform; }
+          /* line 77, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+          .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward:hover, .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back:hover {
+            opacity: 1; }
+        /* line 81, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+        .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back {
+          left: -20%;
+          top: 1rem; }
+          /* line 84, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+          .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-back:hover {
+            -webkit-transform: translateX(-3%);
+            transform: translateX(-3%); }
+        /* line 89, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+        .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward {
+          right: -20%;
+          top: 1rem; }
+          /* line 92, C:/xampp/htdocs/vaginismus/css/sass/components/_pre-footer-nav.scss */
+          .pre-footer-nav-english .pre-footer-parallax-logo .pre-footer-forward:hover {
+            -webkit-transform: translateX(3%);
+            transform: translateX(3%); } }
+
 /* line 1, C:/xampp/htdocs/vaginismus/css/sass/components/_banner-solid.scss */
 .grad1 {
   color: #ffffff;
@@ -8072,29 +8161,29 @@ aside .sidebar-img {
     -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07); }
-  /* line 12, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
-  #stories img {
-    display: block;
-    margin: 0 auto;
-    width: 100%; }
-  /* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 10, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    #stories section img {
+      display: block;
+      margin: 0 auto;
+      width: 100%; }
+  /* line 18, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   #stories h3 {
     font-weight: bold;
     font-style: italic;
     text-align: left;
     color: #333333;
     padding-top: 0.5rem; }
-  /* line 25, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+  /* line 26, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   #stories h4 {
     font-style: italic;
     text-align: left;
     font-weight: normal;
     color: #333333;
     padding-bottom: 0.25rem; }
-  /* line 36, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+  /* line 37, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   #stories .hero-banner-image {
     background: #f2f2f2; }
-    /* line 38, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 39, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
     #stories .hero-banner-image h3 {
       text-align: center;
       color: #656565; }
@@ -8105,40 +8194,40 @@ aside .sidebar-img {
       background-size: cover;
       background-repeat: no-repeat; } }
   @media screen and (min-width: 768px) {
-    /* line 55, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
     #stories .hero-banner-image {
       background: url(/img/stories/stories-hero.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: top; }
-      /* line 61, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+      /* line 62, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
       #stories .hero-banner-image .hero-text, #stories .hero-banner-image .hero-text-right {
         text-align: center; } }
   @media screen and (min-width: 980px) {
-    /* line 55, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
     #stories .hero-banner-image {
       background-position: right; } }
 
 @media screen and (min-width: 768px) {
-  /* line 81, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+  /* line 82, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   :lang(es) #stories .hero-banner-image, :lang(pt) #stories .hero-banner-image {
     background-image: url("/img/es/stories-header-es.jpg");
     background-position: right; }
-    /* line 85, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 86, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
     :lang(es) #stories .hero-banner-image .hero-text, :lang(es) #stories .hero-banner-image .hero-text-right, :lang(pt) #stories .hero-banner-image .hero-text, :lang(pt) #stories .hero-banner-image .hero-text-right {
       background: rgba(255, 255, 255, 0.7); } }
 
 @media screen and (min-width: 768px) {
-  /* line 95, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+  /* line 96, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   :lang(ar) #stories .hero-banner-image, :lang(tr) #stories .hero-banner-image {
     background-image: url("/img/ar/stories-header-ar.jpg");
     background-position: right; }
-    /* line 99, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+    /* line 100, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
     :lang(ar) #stories .hero-banner-image .hero-text, :lang(ar) #stories .hero-banner-image .hero-text-right, :lang(tr) #stories .hero-banner-image .hero-text, :lang(tr) #stories .hero-banner-image .hero-text-right {
       background: rgba(255, 255, 255, 0.7); } }
 
 @media screen and (min-width: 768px) {
-  /* line 106, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
+  /* line 107, C:/xampp/htdocs/vaginismus/css/sass/pages/_stories.scss */
   :lang(ar) #stories .hero-text, :lang(ar) #stories .hero-text-right {
     float: left; } }
 
@@ -8152,87 +8241,87 @@ aside .sidebar-img {
     -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07); }
-  /* line 13, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+    /* line 11, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+    #diagnosis section img {
+      display: block;
+      margin: 0 auto; }
+  /* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis .grad1 a {
     text-decoration: underline; }
-  /* line 16, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 20, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis .grad1 p {
     text-align: left; }
-  /* line 20, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
-  #diagnosis img {
-    display: block;
-    margin: 0 auto; }
-  /* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 25, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis h4 {
     font-weight: 400;
     padding-bottom: 1rem; }
-  /* line 31, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 32, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis ul {
     padding: 1rem 0;
     margin-left: 2rem; }
-  /* line 35, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 36, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis ul li {
     list-style: disc;
     padding-bottom: 1rem; }
-  /* line 40, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 41, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis a {
     font-weight: bold; }
-  /* line 46, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 47, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis .hero-banner-image {
     background: #f2f2f2;
     background-size: cover;
     background-repeat: no-repeat; }
     @media screen and (min-width: 768px) and (max-width: 979px) {
-      /* line 46, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+      /* line 47, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
       #diagnosis .hero-banner-image {
         background: url(/img/diagnosis/diagnosis-hero-tablet.jpg); }
-        /* line 55, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+        /* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
         #diagnosis .hero-banner-image .hero-text, #diagnosis .hero-banner-image .hero-text-right {
           background: rgba(255, 255, 255, 0.7);
           padding: 0 1rem 0.5rem; } }
     @media screen and (min-width: 768px) {
-      /* line 46, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+      /* line 47, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
       #diagnosis .hero-banner-image {
         background: url(/img/diagnosis/diagnosis-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: right; } }
     @media screen and (min-width: 980px) {
-      /* line 74, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+      /* line 75, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
       #diagnosis .hero-banner-image .hero-text, #diagnosis .hero-banner-image .hero-text-right {
         padding: 0; } }
-  /* line 82, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 83, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis #quick-diagnosis {
     text-align: center; }
-    /* line 84, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+    /* line 85, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
     #diagnosis #quick-diagnosis img {
       width: 15%;
       max-width: 3rem;
       padding-top: 1rem;
       padding-bottom: 1.5rem; }
-    /* line 90, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+    /* line 91, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
     #diagnosis #quick-diagnosis .no-float {
       float: none;
       margin: 0 auto; }
-  /* line 97, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 98, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   #diagnosis #samplescript {
     background: url(/img/diagnosis/diagnosis-sample.jpg) no-repeat;
     background-size: cover; }
 
 @media screen and (min-width: 768px) {
-  /* line 111, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 112, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   :lang(es) #diagnosis .hero-banner-image, :lang(pt) #diagnosis .hero-banner-image {
     background-image: url("/img/es/diagnosis-header-es.jpg");
     background-position: right; } }
 
 @media screen and (min-width: 768px) {
-  /* line 122, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 123, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   :lang(ar) #diagnosis .hero-banner-image, :lang(tr) #diagnosis .hero-banner-image {
     background-image: url("/img/ar/diagnosis-header-ar.jpg");
     background-position: right; } }
 
 @media screen and (min-width: 768px) {
-  /* line 131, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
+  /* line 132, C:/xampp/htdocs/vaginismus/css/sass/pages/_diagnosis.scss */
   :lang(ar) #diagnosis .hero-text, :lang(ar) #diagnosis .hero-text-right {
     float: left; } }
 
@@ -8247,38 +8336,38 @@ aside .sidebar-img {
     -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07); }
-  /* line 11, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 10, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    #treatment section img {
+      display: block;
+      margin: 0 auto; }
+  /* line 15, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment .grad1 {
     padding-bottom: 2rem; }
-    /* line 13, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
     #treatment .grad1 a {
       text-decoration: underline; }
-  /* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
-  #treatment img {
-    display: block;
-    margin: 0 auto; }
   @media screen and (max-width: 767.99px) {
-    /* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 25, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
     #treatment ul {
       margin-left: 1rem; } }
-  /* line 30, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 31, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment ul li {
     list-style: disc;
     padding-bottom: 1rem; }
-  /* line 35, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 36, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment h4 {
     font-weight: 400;
     padding-bottom: 1rem; }
-  /* line 42, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 43, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment .hero-banner-image {
     background: #f2f2f2; }
     @media screen and (min-width: 768px) and (max-width: 979px) {
-      /* line 46, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 47, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .hero-banner-image .hero-text, #treatment .hero-banner-image .hero-text-right {
         background: rgba(255, 255, 255, 0.7);
         padding: 0 1rem 0.5rem; } }
     @media screen and (min-width: 768px) {
-      /* line 42, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 43, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .hero-banner-image {
         background: url(../img/treatment/treatment-hero.jpg);
         background-size: cover;
@@ -8286,52 +8375,52 @@ aside .sidebar-img {
         padding: 5% 0;
         min-height: 25rem; } }
   @media screen and (max-width: 979.99px) {
-    /* line 67, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 68, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
     #treatment #treatment-overview .large-4:nth-child(3) {
       padding-top: 0; }
-    /* line 70, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 71, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
     #treatment #treatment-overview .large-4:nth-child(2) {
       padding-bottom: 0; } }
-  /* line 78, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 79, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment .treatment-details {
     background: url(../img/white-wood-bkgd.jpg); }
-    /* line 80, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+    /* line 81, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
     #treatment .treatment-details .opaque-box {
       background: rgba(255, 255, 255, 0.7);
       height: 100%;
       padding-bottom: 2rem;
       margin-bottom: 1rem; }
-      /* line 85, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 86, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .treatment-details .opaque-box:nth-child(2) {
         margin-bottom: 0; }
-      /* line 88, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 89, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .treatment-details .opaque-box img {
         padding-top: 2rem; }
-      /* line 91, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 92, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .treatment-details .opaque-box h2 {
         padding: 1rem 0.5rem 0.5rem; }
-      /* line 94, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+      /* line 95, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
       #treatment .treatment-details .opaque-box p {
         padding: 0.25rem 2rem 0.5rem;
         text-align: center; }
-  /* line 103, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 104, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment #ten-steps h4 {
     margin-bottom: 1rem; }
-  /* line 107, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 108, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment #ten-steps .large-12 {
     border: 1px solid #656565;
     margin-bottom: 2rem; }
-  /* line 111, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 112, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment #ten-steps img {
     float: left;
     padding: 0 0.5rem 0.5rem 0;
     margin: 0; }
-  /* line 116, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 117, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   #treatment #ten-steps p {
     padding-bottom: 0; }
 
 @media screen and (min-width: 768px) {
-  /* line 129, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
+  /* line 130, C:/xampp/htdocs/vaginismus/css/sass/pages/_treatment.scss */
   :lang(ar) #treatment .hero-banner-image, :lang(tr) #treatment .hero-banner-image {
     background-image: url("../../img/tr/treatment-tr.jpg");
     background-position: left; } }

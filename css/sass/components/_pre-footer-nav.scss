@@ -9,3 +9,91 @@
       text-align: center;
     }
 }
+
+.pre-footer-nav-english{
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 17rem;
+  .pre-footer-parallax-logo{
+    background-image: url(/img/parallax-logo-gray.jpg);
+    height: 15rem;
+    width: 90%;
+    margin-left: 5%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  .pre-footer-forward, .pre-footer-back{
+    background: $white;
+    width: 110%;
+    position: absolute;
+    margin-left: -5%;
+    text-align: center;
+    @include font-size(18px);
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1rem 0 0.9rem;
+    background: $white;
+    border: 1px solid $light-gray-background;
+    img{
+      width: 1.25rem;
+      display: inline;
+      vertical-align:middle;
+    }
+  }
+  .pre-footer-back{
+    top:2.5rem;
+    img{
+      transform: rotate(180deg);
+      margin-right: 1rem;
+    }
+  }
+  .pre-footer-forward{
+    top: 8.75rem;
+    img{
+      margin-left: 1rem;
+    }
+  }
+    }
+
+  @media screen and (min-width: $breakpoint-large){
+    margin-bottom: 8rem;
+    .pre-footer-parallax-logo{
+      background-image: url(/img/parallax-logo-gray.jpg);
+      height: 6rem;
+      width: 70%;
+      margin-left: 15%;
+      .pre-footer-forward, .pre-footer-back{
+        width: 60%;
+        display: inline-block;
+        vertical-align: middle;
+        -webkit-transform: perspective(1px) translateZ(0);
+        transform: perspective(1px) translateZ(0);
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: transform;
+        transition-property: transform;
+        &:hover{
+          opacity: 1;
+        }
+      }
+      .pre-footer-back{
+        left: -20%;
+        top: 1rem;
+        &:hover{
+          -webkit-transform: translateX(-3%);
+          transform: translateX(-3%);
+        }
+      }
+      .pre-footer-forward{
+        right: -20%;
+        top: 1rem;
+            &:hover{
+      -webkit-transform: translateX(3%);
+      transform: translateX(3%);
+    }
+      }
+    }
+  }
+}

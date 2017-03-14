@@ -9,10 +9,10 @@
 
 
     
-    <main class="faq-question">
+    <main class="understanding">
       <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+        <section>
           <h1>What is Vaginismus?</h1>
           <p>Vaginismus is vaginal tightness causing discomfort, burning, pain, penetration problems, or complete inability to have intercourse. Vaginismus is also known as genito-pelvic pain/penetration disorder &#40;DSM&#8208;V&#41;.</p>
           <h3>Vaginismus &#91;vaj&#8208;<em>uh</em>&#8208;niz&#8208;m<em>uh</em> s&#93;<sup>1</sup></h3>
@@ -60,32 +60,18 @@
               <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
               <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
+           
         </section>
-        
-<!--   SIDEBAR   -->
-
-          <aside class="large-3">
-          <h2>General FAQs</h2>
-          <ul>
-            <li><a href="../what-is-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>What is vaginismus?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>How do I know if I have vaginismus?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>What is the difference between primary and secondary vaginismus?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Are there varying degrees of symptoms with vaginismus?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Will vaginismus go away on its own?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>How many women have vaginismus?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Could vaginismus just be in my head?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Is it possible that my vagina is just too small? </a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>Could my hymen be causing my problem?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Can my problem still be vaginismus if I’ve had pleasurable intercourse before and now it hurts?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>How does vaginismus affect husbands/partners of women with vaginismus? </a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>What is dyspareunia and it’s connection to vaginismus?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>I can’t seem to have orgasms. Could this be related to vaginismus?</a></li>
-          </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">See All FAQs</a>
-        </aside>
       </div>
+<?php
+  $pagebacklink = '/what-is-vaginismus/index.php';
+  $pageback = 'What is Vaginismus?';
+  $pageforwardlink = '/what-is-vaginismus/vaginismus-symptoms/index.php';
+  $pageforward = 'Symptoms';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+        
+
     </main>
                     
 <?php
