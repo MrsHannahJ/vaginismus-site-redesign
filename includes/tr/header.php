@@ -69,31 +69,25 @@
         <div class="nav-menu">
           <ul id="nav">
             <li class="primary-nav-item"><a href="#">Vajinismus Nedir?</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/tr/faq/general-questions/what-is-vaginismus/index.php">Vajinismus Nedir?</a></li>
-                  <li><a href="/tr/vaginismus-symptoms/index.php">Belirtileri</a></li>
-                  <li><a href="/tr/vaginismus-causes/index.php">Nedenler</a></li>
-                  <li><a href="/tr/vaginismus-diagnosis/index.php">Teşhis</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/tr/faq/general-questions/what-is-vaginismus/index.php">Vajinismus Nedir?</a></li>
+                <li><a href="/tr/vaginismus-symptoms/index.php">Belirtileri</a></li>
+                <li><a href="/tr/vaginismus-causes/index.php">Nedenler</a></li>
+                <li><a href="/tr/vaginismus-diagnosis/index.php">Teşhis</a></li>
               </ul>
             </li>
             <li class="primary-nav-item"><a href="#">Tedavi</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/tr/vaginismus-treatment/index.php">Tedavi</a></li>
-                  <li><a href="/tr/products/index.php">Ürünleri</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/tr/vaginismus-treatment/index.php">Tedavi</a></li>
+                <li><a href="/tr/products/index.php">Ürünleri</a></li>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
             <li class="primary-nav-item"><a href="#">Daha fazla destek</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/tr/contact-us/index.php">Bizimle Iletisime Geçin</a></li>
-                  <li><a href="/tr/forum-introduction/index.php">Forum</a></li>
-                  <li><a href="/tr/faq/index.php">SSS</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/tr/faq/index.php">SSS</a></li>
+                <li><a href="/tr/contact-us/index.php">Bizimle Iletisime Geçin</a></li>
+                <li><a href="/tr/forum-introduction/index.php">Forum</a></li>
               </ul>
           </ul>
         </div>
@@ -106,7 +100,7 @@
     </div>
 
 
-    <div class="nav-overlay"></div>
+<!--    <div class="nav-overlay"></div>-->
 
 
 </header>

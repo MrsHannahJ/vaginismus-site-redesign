@@ -69,31 +69,25 @@
         <div class="nav-menu">
           <ul id="nav">
             <li class="primary-nav-item"><a href="#">ما هو التشنّج المهبليّ؟</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/ar/faq/general-questions/what-is-vaginismus/index.php">ما هو التشنّج المهبليّ؟</a></li>
-                  <li><a href="/ar/vaginismus-symptoms/index.php">أعراض</a></li>
-                  <li><a href="/ar/vaginismus-causes/index.php">الأسباب</a></li>
-                  <li><a href="/ar/vaginismus-diagnosis/index.php">التشخيص</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/ar/faq/general-questions/what-is-vaginismus/index.php">ما هو التشنّج المهبليّ؟</a></li>
+                <li><a href="/ar/vaginismus-symptoms/index.php">أعراض</a></li>
+                <li><a href="/ar/vaginismus-causes/index.php">الأسباب</a></li>
+                <li><a href="/ar/vaginismus-diagnosis/index.php">التشخيص</a></li>
               </ul>
             </li>
             <li class="primary-nav-item"><a href="#">علاج</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/ar/vaginismus-treatment/index.php">علاج</a></li>
-                  <li><a href="/ar/products/index.php">المنتجات</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/ar/vaginismus-treatment/index.php">علاج</a></li>
+                <li><a href="/ar/products/index.php">المنتجات</a></li>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
             <li class="primary-nav-item"><a href="#">المزيد من الدعم</a>
-              <ul>
-                <div class="wrapper">
-                  <li><a href="/ar/contact-us/index.php">اتصل بنا</a></li>
-                  <li><a href="/ar/forum-introduction/index.php">المنتدى</a></li>
-                  <li><a href="/ar/faq/index.php">أسئلة</a></li>
-                </div>
+              <ul class="wrapper">
+                <li><a href="/ar/faq/index.php">أسئلة</a></li>
+                <li><a href="/ar/contact-us/index.php">اتصل بنا</a></li>
+                <li><a href="/ar/forum-introduction/index.php">المنتدى</a></li>
               </ul>
           </ul>
         </div>
@@ -106,7 +100,7 @@
     </div>
 
 
-    <div class="nav-overlay"></div>
+<!--    <div class="nav-overlay"></div>-->
 
 
 </header>
