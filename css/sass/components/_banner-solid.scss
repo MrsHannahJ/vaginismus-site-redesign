@@ -1,9 +1,28 @@
+//English only
+.banner-solid{
+  background: $brand;
+  color: $white;
+  text-align: center;
+  height: 5.5rem;
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  h3{
+    padding: 0.5rem 0;
+  }
+  @media screen and (min-width: $breakpoint-medium){
+    height: 6.5rem;
+  }
+}
+
+//all pages
+
 .grad1 {
   
   color: $white;
   text-align: center;
   
-  background: #4eb3b3;
+  background: $brand;
   /* For browsers that do not support gradients */
   
   background: -webkit-linear-gradient(45deg, $brand-light, $brand);

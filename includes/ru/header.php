@@ -69,7 +69,7 @@
         <div class="nav-menu">
           <ul id="nav">
             <li class="primary-nav-item"><a href="#">Что такое вагинизм?</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php">Что такое вагинизм?</a></li>
                 <li><a href="/ru/vaginismus-symptoms/index.php">Симптомы</a></li>
                 <li><a href="/ru/vaginismus-causes/index.php">Причины</a></li>
@@ -77,14 +77,14 @@
               </ul>
             </li>
             <li class="primary-nav-item"><a href="#">Лечение</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/ru/vaginismus-treatment/index.php">Лечение</a></li>
                 <li><a href="/ru/products/index.php">Продукты</a></li>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
             <li class="primary-nav-item"><a href="#">Дальнейшая поддержка</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/ru/faq/index.php">ЧЗВ</a></li>
                 <li><a href="/ru/contact-us/index.php">Связаться с нами</a></li>
                 <li><a href="/ru/forum-introduction/index.php">Форум</a></li>

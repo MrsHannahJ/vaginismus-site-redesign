@@ -69,7 +69,7 @@
         <div class="nav-menu">
           <ul id="nav">
             <li class="primary-nav-item"><a href="#">O Que é Vaginismo?</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/por/faq/general-questions/what-is-vaginismus/index.php">O Que é Vaginismo?</a></li>
                 <li><a href="/por/vaginismus-symptoms/index.php">Sintomas</a></li>
                 <li><a href="/por/vaginismus-causes/index.php">Causas</a></li>
@@ -77,14 +77,14 @@
               </ul>
             </li>
             <li class="primary-nav-item"><a href="#">Tratamento</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/por/vaginismus-treatment/index.php">Tratamento</a></li>
                 <li><a href="/por/products/index.php">Produtos</a></li>
               </ul>
             </li>
   <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
             <li class="primary-nav-item"><a href="#">Apoyo Adicional</a>
-              <ul class="wrapper">
+              <ul>
                 <li><a href="/por/faq/index.php">PFs</a></li>
                 <li><a href="/por/contact-us/index.php">Contate Nós</a></li>
                 <li><a href="/por/forum-introduction/index.php">Fórum</a></li>

@@ -9,7 +9,7 @@
 <div class="wrapper">
 <nav class="footer-nav">
   <div class="tab large-3 medium-3">
-    <input id="footer-label-1" type="radio" name="tabs2">
+    <input id="footer-label-1" type="checkbox" name="tabs2">
     <label for="footer-label-1">About</label>
     <div class="footer-label-content">
       <ul>
@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="tab large-3 medium-3">
-    <input id="footer-label-2" type="radio" name="tabs2">
+    <input id="footer-label-2" type="checkbox" name="tabs2">
     <label for="footer-label-2">Customer Service</label>
     <div class="footer-label-content">
       <ul>
@@ -35,7 +35,7 @@
     </div>
   </div>
   <div class="tab large-3 medium-3">
-    <input id="footer-label-3" type="radio" name="tabs2">
+    <input id="footer-label-3" type="checkbox" name="tabs2">
     <label for="footer-label-3">Downloads</label>
     <div class="footer-label-content">
       <ul>
@@ -47,7 +47,7 @@
     </div>
   </div>
   <div class="tab large-3 medium-3">
-    <input id="footer-label-4" type="radio" name="tabs2">
+    <input id="footer-label-4" type="checkbox" name="tabs2">
     <label for="footer-label-4"><img src="/img/us.png" alt="Language Options" aria-hidden="true">Languages</label>
     <div class="footer-label-content">
       <ul>

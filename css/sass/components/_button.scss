@@ -4,14 +4,25 @@
 
 %button {
 //  display: inline-block;
-  padding: 0.5rem 1rem;
 //    font-size: $button-font-size;
 //    font-weight: bold;
 //    text-transform: uppercase;
-  border-width: 1px;
-  border-style: solid;
+//  border-width: 1px;
+//  border-radius: 5px;
+//  border-style: solid;
+  font-family: $accent-font-common;
   text-decoration: none;
-  border-radius: 5px;
+  padding: 0.25rem 1rem;
+  -webkit-box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+  border-radius: 3px;
+  &:hover{
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  }
 }
 
 .white-btn {
@@ -24,15 +35,21 @@
   @include button-theme($dark-gray-text);
 }
 
+
+
 .shaded-btn {
   @extend %button;
-  @include button-theme($dark-gray-text, $light-gray-background);
+  @include button-theme($dark-gray-text, $dark-gray-text, $light-gray-background);
   border:none;
-  font-family: $accent-font-common;
 }
 
 .brand-btn{
   @extend %button;
   @include button-theme($brand);
-  font-family: $accent-font-common;
+}
+
+//English Redesign Only
+.gray-btn {
+  @extend %button;
+  @include button-theme($dark-gray-text, #c9c9c9);
 }

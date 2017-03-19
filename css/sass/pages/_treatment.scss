@@ -52,7 +52,7 @@
     }
 //TABLET AND UP
     @media screen and (min-width: $breakpoint-medium){
-      background: url(../img/treatment/treatment-hero.jpg);
+      background: url(/img/treatment/treatment-hero.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       padding: 5% 0;
@@ -77,7 +77,7 @@
 
 /*---------TREATMENT DETAILS SECTION---------------*/
   .treatment-details{
-    background: url(../img/white-wood-bkgd.jpg);
+    background: url(/img/white-wood-bkgd.jpg);
     .opaque-box{
       background: $white-opaque;
       height: 100%;
@@ -129,7 +129,7 @@
 :lang(ar), :lang(tr){
   #treatment .hero-banner-image{
   @media screen and (min-width: $breakpoint-medium){
-    background-image: url("../../img/tr/treatment-tr.jpg");
+    background-image: url("/img/tr/treatment-tr.jpg");
     background-position: left;
     }
   }

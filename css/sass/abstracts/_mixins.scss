@@ -42,17 +42,9 @@
 }
 
 //button themes
-@mixin button-theme($color, $background:transparent) {
+@mixin button-theme($color, $border-color:$color, $background:transparent) {
   color: $color;
-  border-color: $color;
-  background-color: $background;
-
-  &:hover{
-  opacity: 0.7;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  }
+  border: 1px solid $border-color;
 }
 
 //text-box themes

@@ -9,7 +9,7 @@
               ?>> <i class="icon-angle-double-right"></i>How do I know if I have vaginismus?</a>
             </li>
             <li>
-              <a href='/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php' <?php if($active == 'primary') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>What is the difference between primary and secondary vaginismus</a>
+              <a href='/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php' <?php if($active == 'primary') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>What is the difference between primary and secondary vaginismus?</a>
             </li>
             <li>
               <a href='/further-support/general-questions/10-common-myths-about-vaginismus/index.php' <?php

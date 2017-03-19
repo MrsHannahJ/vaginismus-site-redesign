@@ -77,7 +77,7 @@
 
           <h3>Reference</h3>
           <ol>
-            <li>Shelly, B., Edwards, D. (Editor) (Winter 2005). Product News &amp; Reviews &#8211; Complete Vaginismus Treatment Kit. APTA J of Women&#8217;s Health Physical Therapy, 29(3), 74.</li>
+            <li>Shelly, B., Edwards, D. (Editor) (Winter 2005). <a href="http://journals.lww.com/jwhpt/Citation/2005/29030/Complete_Vaginismus_Treatment_Kit.28.aspx" target="_blank">Product News &amp; Reviews &#8211; Complete Vaginismus Treatment Kit. APTA J of Women&#8217;s Health Physical Therapy, 29(3), 74.</a></li>
           </ol>
           <a href="#press-menu">Back to Top<i class="icon-angle-double-right"></i></a>
           

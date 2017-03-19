@@ -11,6 +11,8 @@
     <main class="faq-question">
       <div class="wrapper">
 <!--   MAIN SECTION   -->
+
+
         <section class="large-9">
           <h1>How do I know if I have vaginismus?</h1>
           <h3>Women often suspect they have vaginismus simply from their symptoms.</h3>

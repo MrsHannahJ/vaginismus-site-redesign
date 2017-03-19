@@ -100,7 +100,7 @@ footer{
   }
 
 
-  input[type=radio] + label::after {
+  input[type=checkbox] + label::after {
     margin-left: 0.5rem;
     border-style: solid;
     border-width: 0.1em 0.1em 0 0;
@@ -118,7 +118,7 @@ footer{
     transition: transform 0.25s linear;
   }
 
-  input[type=radio]:checked + label::after {
+  input[type=checkbox]:checked + label::after {
     transform: rotate(135deg);
     color: $brand;
   }

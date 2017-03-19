@@ -25,7 +25,7 @@
 
 //TABLET
     @media screen and (min-width: 768px){
-      background: url(../img/symptoms/symptoms-header-en.jpg);
+      background: url(/img/symptoms/symptoms-header-en.jpg);
 //        padding: 5%;
       background-size: cover;
       background-repeat: no-repeat;
@@ -80,7 +80,7 @@
 
 /*---------VARIATIONS IN EXPERIENCE SECTION--------------*/
   #variations-experience{
-    background: url(../img/white-wood-bkgd.jpg);
+    background: url(/img/white-wood-bkgd.jpg);
     .did-you-know, .opaque-box{
       background: $white-opaque;
       margin-top: 0;
@@ -131,7 +131,7 @@
 :lang(ar), :lang(tr){
   #symptoms .hero-banner-image{
   @media screen and (min-width: $breakpoint-medium){
-    background-image: url("../../img/ar/symptoms-ar.jpg");
+    background-image: url("/img/ar/symptoms-ar.jpg");
     background-position: right;
     }
   }
