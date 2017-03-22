@@ -17,7 +17,7 @@
           <h1>Menopause</h1>
                 
           <p>With age and hormonal changes, the sexual experience changes. Studies show a vibrant and loving relationship extended throughout life is beneficial to one’s overall health and happiness. It is helpful to be aware of the changes aging brings so adjustments can be made. The resources below help explain what to expect and contain suggestions on how to make the most of sex during this life phase. </p>
-          <p>Temporary age-related sexual pain can cause ongoing vaginismus, which should be treated separately. For more information on how menopause can trigger sexual pain see our section on vaginal atrophy (Make this a link to the vaginal atrophy page). </p>
+          <p>Temporary age-related sexual pain can cause ongoing vaginismus, which should be treated separately. For more information on how menopause can trigger sexual pain see our section on <a href="/further-support/related-conditions/vaginal-atrophy-resources/index.php">vaginal atrophy</a>.</p>
           
           <h3>Links of Interest</h3>
           <ol>

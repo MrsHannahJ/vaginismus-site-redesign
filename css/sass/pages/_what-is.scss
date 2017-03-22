@@ -1,0 +1,64 @@
+// -----------------------------------------------------------------------
+// This file contains styles that are specific to the what is vaginismus page.
+// -----------------------------------------------------------------------
+  
+/*---------HERO---------------*/
+.what-is{
+  #hero-english{
+    a{
+      display: block;
+      margin: 2rem auto 1rem;
+      max-width: 280px;
+
+    }
+//TABLET
+
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/what-is/hero.jpg);
+      background-position: center;
+      background-size: cover;
+    }
+  }
+  
+  
+/*---------BUTTONS SECTION-------------*/
+  .what-is-buttons{
+    .wrapper{
+      border: 1px solid $light-gray-border;
+      margin-bottom: 1rem;
+      -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+      max-width: 500px;
+      h2{
+        padding-top:0;
+        &:after{
+          @include dash($dark-gray-text);
+        }
+      }
+      .large-6{
+        &:first-child{
+        padding: 0;
+        margin-bottom:-0.3rem
+        }
+        &:last-child{
+        background: $light-gray-background;
+        }
+      }
+    }
+    @media screen and (min-width: $breakpoint-medium){
+      .wrapper{
+        display: flex;
+        &:nth-child(2){
+          .large-6{
+            flex-flow: row-reverse;
+          }
+          
+        }
+    }
+  }
+  }
+
+}
+
+

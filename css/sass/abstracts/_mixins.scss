@@ -72,3 +72,12 @@
   font-size: calculateRem($size);
 }
 
+//dash after headings
+@mixin dash($color: $dark-gray-text, $margin:1rem auto){
+  content:"";
+  display:block;
+  width: 3.5rem;
+  border-bottom:0.1875rem solid $color;
+  margin:$margin;
+}
+

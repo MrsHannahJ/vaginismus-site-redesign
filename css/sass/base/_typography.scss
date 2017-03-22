@@ -71,3 +71,35 @@ strong{
 .center{
   text-align: center;
 }
+
+
+//ENGLISH REDESIGN ONLY
+//:lang(en){
+//  h1{
+//      @include font-size(32px);
+//      @media screen and (min-width: $breakpoint-medium){
+//        @include font-size(36px);
+//      }
+//    }
+//    h2{
+//      @include font-size(22px);
+//      @media screen and (min-width: $breakpoint-medium){
+//        @include font-size(30px);
+//      }
+//    }
+//    h3{
+//      @include font-size(20px);
+//      @media screen and (min-width: $breakpoint-medium){
+//        @include font-size(28px);
+//      }
+//    }
+//    h4{
+//      @include font-size(20px);
+//    }
+//    p, li{
+//      @include font-size(16px);
+//    }
+//    a, figcaption, table, th, td{
+//      @include font-size(16px);
+//    }
+// }

@@ -62,9 +62,9 @@
   .tester-1 a, .tester-2 a, .tester-3 a{
     display: block;
     position: relative;
-    border: 1px solid #cacaca;
+    border: 1px solid $light-gray-border;
     margin: 0 auto;
-    h3{
+    h2{
        position:absolute;
        top: 35%;
        left: 35%;
@@ -93,7 +93,7 @@
    a{
       background: url(/img/home/button-causes-mobile.jpg) no-repeat center;
       background-size: auto 100%;
-    h3{
+    h2{
       left: 39%;
     }
   }
@@ -115,7 +115,7 @@
     #what-is-links .wrapper{
         max-width: 720px;
       }
-    h3{
+    h2{
       font-size: 30px;
       font-weight: 400;
     }
@@ -124,7 +124,7 @@
         background: url(/img/home/button-symptoms.jpg) no-repeat center;
         background-size: auto 100%;
         height: 450px;
-        h3{
+        h2{
           top: 13%;
           left: 33%;
         }
@@ -140,7 +140,7 @@
         background: url(/img/home/button-causes.jpg) no-repeat center;
         background-size: auto 100%;
         margin-bottom: 20px;
-      h3{
+      h2{
         left: 35%;
       }
     }
@@ -200,7 +200,7 @@
       -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-      border: 1px solid #cacaca;
+      border: 1px solid $light-gray-border;
       .text-box{
         padding: 1rem 1rem 2rem;
       }
@@ -210,7 +210,7 @@
         }
     }
 
-    h3{
+    h2{
       margin-bottom: 0.5rem;
       line-height: 1.2;
       text-align: left;
@@ -285,9 +285,9 @@
   .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
     display: block;
     position: relative;
-    border: 1px solid #cacaca;
+    border: 1px solid $light-gray-border;
     margin: 0 auto;
-    h3, p{
+    h2, p{
        position:absolute;
        color: $light-gray-text;
      }
@@ -319,11 +319,11 @@
       background-size: auto 100%;
   }
     }
-    h3{
+    h2{
       padding: 1rem 0;
       max-width: 50%;
     }
-    .highlighted-content-3 h3, .highlighted-content-1 h3{
+    .highlighted-content-3 h2, .highlighted-content-1 h2{
       right: 0.5rem;
     }
   }
@@ -369,7 +369,7 @@
     .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
       height: 478px;
       padding: 0 1rem;
-      h3{
+      h2{
         left: 0;
       }
     }

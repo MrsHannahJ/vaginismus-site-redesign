@@ -7,6 +7,22 @@
   -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
   -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
   box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  h3,h2{
+    padding: 0.5rem 0;
+  }
+  @media screen and (min-width: $breakpoint-medium){
+    height: 6.5rem;
+  }
+}
+
+.banner-solid-gray{
+  background: $light-gray-background;
+  color: $dark-gray-text;
+  text-align: center;
+  height: 5.5rem;
+  -webkit-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
+  box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.1);
   h3{
     padding: 0.5rem 0;
   }

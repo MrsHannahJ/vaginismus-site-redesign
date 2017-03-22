@@ -1,98 +1,87 @@
+// -----------------------------------------------------------------------
+// This file contains styles that are specific to the understanding vaginismus page.
+// -----------------------------------------------------------------------
+  
+/*---------HERO---------------*/
 .understanding{
-//    margin-top: 2rem;
-//    line-height: 1.4;
-
-    h1{
-//     @include font-size(28px);
-     padding-bottom: 1rem;
-     font-weight: 500;
+  
+  #hero-english{
+    a>p{
+      display: inline-block;
+      font-size: 20px;
+      font-weight: 400;
     }
-    h3{
-      text-align: left;
-      font-family: $accent-font-common;
-//      @include font-size(24px);
-      padding: 1.5rem 0 0.25rem 0;
-    }
-    
-    h4{
-      text-align: left;
-      font-weight: 600;
-//      @include font-size(20px);
-      padding: 1.5rem 0 0.25rem 0;
-    }
-    p{
-//      @include font-size(19px);
-      padding-bottom: 1rem;
-      font-weight:400;
-      text-align: justify;
-    }
-    a{
-      font-weight: 600;
-    }
-
-    hr{
-      color: $light-gray-text;
-      opacity: .5;
-      margin: 1rem 0;
-    }
-//list styles
-    ul{
-      margin-left: 1rem;
-      li{
-//        @include font-size(19px);
-        list-style: disc;
-        padding-bottom: 1.5rem;
-        &:first-child{
-          padding-top:1rem;
-        }
-      }
-    }
-    ol{
-      margin-left: 1rem;
-      padding: 0.5rem 0;
-      li{
-        list-style: upper-roman;
-        text-indent: 0.5rem;
-        padding-bottom: 1rem;
-      }
-    }
-//multimedia styles
-    figure{
-      text-align: center;
-      margin: 1rem 0;
-      figcaption p, figcaption h3{
-        text-align: center;
-      }
-    }
-    
-    audio{
-      width: 100%;
-      margin: 0.25rem 0 1rem 0;
-    }
-
-
-    
-
-    
-
-    
-
 
 //MOBILE ONLY
     @media screen and (max-width: 767.99px){
-      
-
+      a>p{
+        display: inline-block;
+        font-size: 20px;
+        padding: 0;
+        font-weight: 400;
+      }
+      img{
+        display: block;
+        margin: 0 auto;
+        width: 4rem;
+      }
     }
 
-    
+
 //TABLET
-    @media screen and (min-width:$breakpoint-medium){
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/understanding/hero.jpg);
+      background-position: center;
+      background-size: cover;
+      .large-8{
+        margin-top: 1rem;
+      }
+      img{
+        display: inline;
+        width: 2rem;
+        vertical-align:middle;
+      }
+    }
 
-
-  }
 //DESKTOP
-    @media screen and (min-width:$breakpoint-large){
+    @media screen and (min-width: $breakpoint-large){
+      .large-8{
+        margin-top: 3rem;
+      }
+      a{
+        font-size: 20px;
+      }
+      img{
+        vertical-align:top;
+      }
+    }
+  }
 
+  
+/*------------------------*/
+//TABLET
+    @media screen and (max-width: 979.99px){
+      .img-500{
+        width:100%;
+        max-width: 500px;
+        margin: 0 auto;
+        display: block;
+      }
+    }
+    figure{
+      margin: 0;
     }
   
+    .did-you-know{
+  //    width: 30%;
+      margin: 0;
+      @media screen and (min-width: $breakpoint-medium){
+        margin: 0 auto;
+      }
+    }
+    .treatable{
+      padding-top: 1rem;
+    }
+  
+
 }
