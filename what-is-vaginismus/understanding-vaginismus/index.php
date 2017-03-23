@@ -76,15 +76,15 @@
             <div class="large-5 medium-5">
            <div class="did-you-know">
               <img src="/img/icons/Lightbulb.png" alt="">
-              <h3>Did You Know?</h3>
+              <h2>Did You Know?</h2>
               <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="../../../vaginismus-diagnosis/index.html">diagnosed</a> and treated.</p>
             </div>
             </div>
             <div class="large-7 medium-7">
-              <h3>Types of Vaginismus</h3>
+              <h2>Types of Vaginismus</h2>
               <p><em>Primary Vaginismus</em> &#8211; When a woman has never at any time been able to have pain-free intercourse due to the involuntary contractions of the pelvic floor muscles her condition is known as primary vaginismus. Some women with primary vaginismus are unable to wear tampons and/or complete pelvic exams. Many couples are unable to consummate their relationship due to primary vaginismus. (see <a href="../../../vaginismus-symptoms/index.html">Symptoms</a>)</p>
               <p><em>Secondary Vaginismus</em> &#8211; Vaginismus can also develop later in life, even after many years of pleasurable intercourse. This type of condition, known as secondary vaginismus, is usually precipitated by a medical condition, traumatic event, childbirth, surgery, or life-change (menopause). (see <a href="../../../vaginismus-causes/index.html">Causes</a>)</p>
-              <h3 class="treatable">Vaginismus is Treatable</h3>
+              <h2 class="treatable">Vaginismus is Treatable</h2>
               <p>Vaginismus is <a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">highly treatable</a> and a full recovery from vaginismus is the normal outcome of <a href="../../../vaginismus-treatment/index.html">treatment</a>. Successful vaginismus treatment does not require drugs, surgery, hypnosis, nor any other complex invasive technique. Following a straightforward <a href="../../../products/vaginismus-treatment-kit/index.html">program</a>, pain-free and pleasurable intercourse is attainable for most couples.</p>
             </div>
           </div>
@@ -94,7 +94,7 @@
 <!--
 <section>
   <div class="wrapper">
-      <h3>References</h3>
+      <h2>References</h2>
           <ol>
             <li>vaginismus. (n.d.). <em>Dictionary.com Unabridged (v 1.1).</em> Retrieved February 19, 2007, from Dictionary.com website: <a href="http://dictionary.reference.com/browse/Vaginismus" target="_blank">http://dictionary.reference.com/browse/Vaginismus</a></li>
           </ol>

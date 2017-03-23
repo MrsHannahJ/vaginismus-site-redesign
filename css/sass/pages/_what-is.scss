@@ -1,7 +1,9 @@
 // -----------------------------------------------------------------------
 // This file contains styles that are specific to the what is vaginismus page.
 // -----------------------------------------------------------------------
-  
+  @import
+  '../abstracts/variables',
+  '../abstracts/mixins';
 /*---------HERO---------------*/
 .what-is{
   #hero-english{
@@ -24,40 +26,86 @@
 /*---------BUTTONS SECTION-------------*/
   .what-is-buttons{
     .wrapper{
+      h2{
+        padding-top:0;
+        line-height:1;
+        &:after{
+          @include dash($light-gray-text);
+          margin: 1rem auto 0.5rem;
+        }
+      }
+      p{
+        margin: 0.5rem auto;
+      }
+      .large-6{
+        text-align: center;
+        &:first-child{
+          padding: 0;
+          margin-bottom:-0.3rem
+        }
+      }
+    }
+    @media screen and (max-width: 767.99px){
+      .wrapper{
       border: 1px solid $light-gray-border;
       margin-bottom: 1rem;
       -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
       -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
       box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-      max-width: 500px;
-      h2{
-        padding-top:0;
-        &:after{
-          @include dash($dark-gray-text);
-        }
+      max-width: 450px;
+//        h2:after{
+//          margin: 0.5rem auto;
+//        }
       }
       .large-6{
-        &:first-child{
-        padding: 0;
-        margin-bottom:-0.3rem
-        }
+//        &:first-child{
+//        padding: 0;
+//        margin-bottom:-0.3rem
+//        }
         &:last-child{
-        background: $light-gray-background;
+          background: $light-gray-background;
+          padding-bottom: 1.25rem;
         }
       }
     }
+    
     @media screen and (min-width: $breakpoint-medium){
       .wrapper{
         display: flex;
-        &:nth-child(2){
-          .large-6{
-            flex-flow: row-reverse;
-          }
-          
+        &:nth-child(even){
+          flex-flow: row-reverse;
         }
+        .large-6:first-child{
+          margin: auto;
+        }
+        .large-6, .large-6 h2{
+          text-align: left;
+        }
+        h2:after{
+          margin:1rem 0 0.5rem;
+        }
+      }
     }
+    
+    @media screen and (min-width: $breakpoint-large){
+      .wrapper{
+        max-width: 900px;
+      }
+      .large-6{
+          padding: 0 1rem;
+        }
+      h2{
+        margin-top:1.5rem;
+      }
+      
+    }
+    
+    
+                    
   }
-  }
+  .banner-solid-gray{
+        margin-bottom: 2rem;
+      }
 
 }
 

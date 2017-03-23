@@ -24,7 +24,9 @@
   <section class="what-is-buttons">
     <div class="wrapper">
       <div class="large-6 medium-6">
-        <img src="/img/what-is/button-symptoms.jpg" alt="Symptoms">
+       <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">
+         <img src="/img/what-is/button-symptoms.jpg" alt="Symptoms">
+       </a>
       </div>
       <div class="large-6 medium-6">
         <h2>Symptoms</h2>
@@ -54,8 +56,8 @@
     </div>
   </section>
   <section class="banner-solid-gray">
-    <h3></h3>
-    <a href="" class="gray-btn"></a>
+    <h2>Can Vaginismus be Treated?</h2>
+    <a href="/treatment/index.php" class="gray-btn">Treatment</a>
   </section>
 </main>
 

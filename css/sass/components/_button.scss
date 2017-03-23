@@ -51,5 +51,5 @@
 //English Redesign Only
 .gray-btn {
   @extend %button;
-  @include button-theme($dark-gray-text, #c9c9c9);
+  @include button-theme($dark-gray-text, $light-gray-border);
 }

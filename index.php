@@ -43,18 +43,18 @@
        <div class="wrapper">
          <div class="tester-1 large-6 medium-6">
               <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">
-                <h2>Symptoms</h2>
+                <h3>Symptoms</h3>
               </a>
           </div>
           <div class="tester-2-3 large-6 medium-6">
             <div class="tester-2 large-12 medium-12">
               <a href="/what-is-vaginismus/vaginismus-causes/index.php">
-                <h2>Causes</h2>
+                <h3>Causes</h3>
               </a>
           </div>
           <div class="tester-3 large-12 medium-12">
               <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">
-                <h2>Diagnosis</h2>
+                <h3>Diagnosis</h3>
               </a>
           </div>
           </div>
@@ -77,7 +77,7 @@
         <div class="wrapper">
           <div class="white-box-float">
             <div class="text-box">
-              <h2>Treatment Products</h2>
+              <h3>Treatment Products</h3>
               <p class="hidden-mobile">Our self-treatment products are everything you need to overcome vaginismus in the privacy of your own home &#8211; the most effective resources available.</p>
               <a href="" class="gray-btn hidden-mobile">View All Products</a>
             </div>
@@ -91,7 +91,7 @@
     
       <section id="home-forum">
         <div class="wrapper text-box">
-          <h2>Get Emotional Support in our Private Forum</h2>
+          <h3>Get Emotional Support in our Private Forum</h3>
           <p class="hidden-mobile">A network of support for women who are actively working to overcome vaginismus.</p>
         </div>
         <a href="/forum-introduction/index.php">
@@ -118,19 +118,19 @@
       <div class="wrapper">
         <div class="highlighted-content-1 large-4 medium-4">
           <a href="/further-support/general-questions/vaginismus-affect-husbands/index.php">
-            <h2>Sexless Relationships</h2>
+            <h3>Sexless Relationships</h3>
 <!--            <p>"We can't have sex and its affecting our marriage"</p>-->
           </a>
         </div>
         <div class="highlighted-content-2 large-4 medium-4">
           <a href="/further-support/pregnancy-questions/index.php">
-            <h2>Pregnancy &amp; Conception</h2>
+            <h3>Pregnancy &amp; Conception</h3>
 <!--            <p>"My biological clock is ticking!"</p>-->
           </a>
         </div>
         <div class="highlighted-content-3 large-4 medium-4">
           <a href="/further-support/related-conditions/vaginal-atrophy-resources/index.php">
-            <h2>Menopause &amp; Vaginal Atrophy</h2>
+            <h3>Menopause &amp; Vaginal Atrophy</h3>
 <!--            <p>"I used to enjoy comfortable sex, but now it just hurts!"</p>-->
           </a>
         </div>
