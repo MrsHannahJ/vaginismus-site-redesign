@@ -74,7 +74,7 @@ strong{
 
 
 //ENGLISH REDESIGN ONLY
-.what-is, .understanding, #home-english{
+#home-english, .what-is, .understanding,  .further-support{
   h1{
       @include font-size(30px);
       @media screen and (min-width: $breakpoint-large){

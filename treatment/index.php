@@ -12,19 +12,26 @@
 
 
 <!--      MAIN      -->
-<main>
-  <section class="hero">
-    <h1>Treating Vaginismus</h1>
-    <p></p>
-  </section>
-  <section>
-    <img src="" alt="" class="hidden-tablet hidden-desktop">
+<main class="treatment-english">
+  <section id="hero-english">
     <div class="wrapper">
-      <h2></h2>
-      <p></p>
-      <a href="" class="gray-btn"></a>
+      <div class="large-8 medium-8">
+        <h1>Treating Vaginismus</h1>
+        <p>Vaginismus is considered one of the most successfully treatable female sexual disorders.  Many studies have shown treatment success rates approaching nearly 100%.  Treatment resolution follows a manageable step-by-step process.</p>
+      </div>
     </div>
   </section>
+  <section class="self-help">
+    <img src="/img/treatment/hero-mobile.jpg" alt="Self-Help Treatment" class="hidden-tablet hidden-desktop">
+    <div class="wrapper">
+      <a href="/treatment/self-help-program/index.php" class="hidden-mobile">
+        <h2>Treatment Overview &amp; 10 Steps to Home Treatment</h2>
+        <p></p>
+        <a href="/treatment/self-help-program/index.php" class="gray-btn">Learn about Self-Treatment</a>
+      </a>
+    </div>
+  </section>
+  
   <section>
     <div class="wrapper">
       <h2></h2>

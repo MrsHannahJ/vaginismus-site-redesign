@@ -59,7 +59,7 @@
 
 /*-----------WHAT IS LINKS SECTION-------------*/
 
-  .tester-1 a, .tester-2 a, .tester-3 a{
+  .what-is-symptoms a, .what-is-causes a, .what-is-diagnosis a{
     display: block;
     position: relative;
     border: 1px solid $light-gray-border;
@@ -67,38 +67,36 @@
     h3{
        position:absolute;
        top: 35%;
-       left: 35%;
        color: $light-gray-text;
+      width: 100%;
+      text-align: center;
      }
   }
 
 //MOBILE ONLY
   @media screen and (max-width: 767.99px){
-    .tester-1 a, .tester-2 a, .tester-3 a{
+    .what-is-symptoms a, .what-is-causes a, .what-is-diagnosis a{
       max-width: 331px;
       height: 110px;
     }
-    .tester-1{
+    .what-is-symptoms{
     padding: 1rem 0 0;
     a{
       background: url(/img/home/button-symptoms-mobile.jpg) no-repeat center;
       background-size: auto 100%;
     }
   }
-  .tester-2-3{
+  .what-is-causes-diagnosis{
     padding: 1rem 0;
   }
-    .tester-2{
+    .what-is-causes{
     padding: 0;
    a{
       background: url(/img/home/button-causes-mobile.jpg) no-repeat center;
       background-size: auto 100%;
-    h3{
-      left: 39%;
-    }
   }
     }
-      .tester-3{
+      .what-is-diagnosis{
     padding: 1rem 0;
    a{
       background: url(/img/home/button-diagnosis-mobile.jpg) no-repeat center;
@@ -116,35 +114,31 @@
         max-width: 720px;
       }
     h3{
-//      font-size: 30px;
       font-weight: 400;
+      
     }
-    .tester-1{
+    .what-is-symptoms{
       a{
         background: url(/img/home/button-symptoms.jpg) no-repeat center;
         background-size: auto 100%;
         height: 450px;
         h3{
           top: 13%;
-          left: 33%;
         }
       }
     }
-    .tester-2, .tester-3{
+    .what-is-causes, .what-is-diagnosis{
       padding: 0;
       a{
         height: 215px;
       }
     }
-    .tester-2 a{
+    .what-is-causes a{
         background: url(/img/home/button-causes.jpg) no-repeat center;
         background-size: auto 100%;
         margin-bottom: 20px;
-      h3{
-        left: 35%;
-      }
     }
-    .tester-3 a{
+    .what-is-diagnosis a{
         background: url(/img/home/button-diagnosis.jpg) no-repeat center;
         background-size: auto 100%;
     }
@@ -155,13 +149,13 @@
       #what-is-links .wrapper{
         max-width: 800px;
       }
-    .tester-1{
+    .what-is-symptoms{
       a{
         height: 478px;
 //        padding: 1rem 0;
       }
     }
-    .tester-2, .tester-3{
+    .what-is-causes, .what-is-diagnosis{
       a{
 //        padding: 1rem 0;
         height: 229px;
@@ -196,7 +190,7 @@
     .white-box-float{
       width: 300px;
       background: $white;
-      top: 1rem;
+      top: 2.5rem;
       -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
@@ -226,12 +220,10 @@
   
 //DESKTOP ONLY
   @media screen and (min-width: $breakpoint-large){
-    
     .white-box-float{
-      top: 3rem;
+      top: 4.5rem;
     }
-    
-    
+
     img{
       width: 750px;
     }
@@ -241,7 +233,7 @@
         margin: 1.5rem;
       }
       .white-box-float{
-        top: 4rem;
+        top: 5rem;
         width: 350px;
       }
       img{
@@ -282,6 +274,7 @@
 
 /*-----------HIGHLIGHTED CONTENT SECTION-------------*/
 #highlighted-content-english{
+  margin-bottom: 2rem;
   .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
     display: block;
     position: relative;
@@ -299,32 +292,25 @@
       max-width: 331px;
       height: 110px;
     }
-    .highlighted-content-1{
-    a{
+    .highlighted-content-1 a{
       background: url(/img/home/sexless-mobile.jpg) no-repeat center;
       background-size: auto 100%;
     }
-  }
 
-    .highlighted-content-2{
-   a{
+    .highlighted-content-2 a{
       background: url(/img/home/pregnancy-mobile.jpg) no-repeat center;
       background-size: auto 100%;
-
-  }
     }
-      .highlighted-content-3{
-   a{
+      .highlighted-content-3 a{
       background: url(/img/home/menopause-mobile.jpg) no-repeat center;
       background-size: auto 100%;
-  }
     }
     h3{
       padding: 1rem 0;
-      max-width: 50%;
+      width: 58%;
     }
     .highlighted-content-3 h3, .highlighted-content-1 h3{
-      right: 0.5rem;
+      right: 0.25rem;
     }
   }
   
@@ -340,24 +326,21 @@
     .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
       height: 450px;
     }
-    .highlighted-content-1{
-      a{
+    .highlighted-content-1 a{
         background: url(/img/home/sexless.jpg) no-repeat center;
         background-size: auto 100%;
-        
-
-      }
     }
-
     .highlighted-content-2 a{
         background: url(/img/home/pregnancy.jpg) no-repeat center;
         background-size: auto 100%;
-        margin-bottom: 20px;
-
     }
     .highlighted-content-3 a{
         background: url(/img/home/menopause.jpg) no-repeat center;
         background-size: auto 100%;
+    }
+    h3{
+      width: 100%;
+      text-align: center;
     }
   }
   
@@ -368,10 +351,6 @@
       }
     .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
       height: 478px;
-      padding: 0 1rem;
-      h3{
-        left: 0;
-      }
     }
 
   }

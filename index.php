@@ -41,18 +41,18 @@
       <section id="what-is-links">
        
        <div class="wrapper">
-         <div class="tester-1 large-6 medium-6">
+         <div class="what-is-symptoms large-6 medium-6">
               <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">
                 <h3>Symptoms</h3>
               </a>
           </div>
-          <div class="tester-2-3 large-6 medium-6">
-            <div class="tester-2 large-12 medium-12">
+          <div class="what-is-causes-diagnosis large-6 medium-6">
+            <div class="what-is-causes large-12 medium-12">
               <a href="/what-is-vaginismus/vaginismus-causes/index.php">
                 <h3>Causes</h3>
               </a>
           </div>
-          <div class="tester-3 large-12 medium-12">
+          <div class="what-is-diagnosis large-12 medium-12">
               <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">
                 <h3>Diagnosis</h3>
               </a>

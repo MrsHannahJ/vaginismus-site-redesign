@@ -6785,47 +6785,47 @@ strong {
   text-align: center;
 }
 
-.what-is h1, .understanding h1, #home-english h1 {
+#home-english h1, .what-is h1, .understanding h1, .further-support h1 {
   font-size: 30px;
   font-size: 1.875rem;
 }
 @media screen and (min-width: 980px) {
-  .what-is h1, .understanding h1, #home-english h1 {
+  #home-english h1, .what-is h1, .understanding h1, .further-support h1 {
     font-size: 36px;
     font-size: 2.25rem;
   }
 }
-.what-is h2, .understanding h2, #home-english h2 {
+#home-english h2, .what-is h2, .understanding h2, .further-support h2 {
   font-size: 24px;
   font-size: 1.5rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  .what-is h2, .understanding h2, #home-english h2 {
+  #home-english h2, .what-is h2, .understanding h2, .further-support h2 {
     font-size: 28px;
     font-size: 1.75rem;
   }
 }
-.what-is h3, .understanding h3, #home-english h3 {
+#home-english h3, .what-is h3, .understanding h3, .further-support h3 {
   font-size: 21px;
   font-size: 1.3125rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  .what-is h3, .understanding h3, #home-english h3 {
+  #home-english h3, .what-is h3, .understanding h3, .further-support h3 {
     font-size: 24px;
     font-size: 1.5rem;
   }
 }
-.what-is h4, .understanding h4, #home-english h4 {
+#home-english h4, .what-is h4, .understanding h4, .further-support h4 {
   font-size: 20px;
   font-size: 1.25rem;
 }
-.what-is p, .what-is li, .understanding p, .understanding li, #home-english p, #home-english li {
+#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li {
   font-size: 16px;
   font-size: 1rem;
 }
-.what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, #home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td {
+#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -10254,47 +10254,45 @@ html[dir="rtl"] #site-map ul li {
     font-size: 20px;
   }
 }
-#home-english .tester-1 a, #home-english .tester-2 a, #home-english .tester-3 a {
+#home-english .what-is-symptoms a, #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
   display: block;
   position: relative;
   border: 1px solid #cacaca;
   margin: 0 auto;
 }
-#home-english .tester-1 a h3, #home-english .tester-2 a h3, #home-english .tester-3 a h3 {
+#home-english .what-is-symptoms a h3, #home-english .what-is-causes a h3, #home-english .what-is-diagnosis a h3 {
   position: absolute;
   top: 35%;
-  left: 35%;
   color: #656565;
+  width: 100%;
+  text-align: center;
 }
 @media screen and (max-width: 767.99px) {
-  #home-english .tester-1 a, #home-english .tester-2 a, #home-english .tester-3 a {
+  #home-english .what-is-symptoms a, #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
     max-width: 331px;
     height: 110px;
   }
-  #home-english .tester-1 {
+  #home-english .what-is-symptoms {
     padding: 1rem 0 0;
   }
-  #home-english .tester-1 a {
+  #home-english .what-is-symptoms a {
     background: url(/img/home/button-symptoms-mobile.jpg) no-repeat center;
     background-size: auto 100%;
   }
-  #home-english .tester-2-3 {
+  #home-english .what-is-causes-diagnosis {
     padding: 1rem 0;
   }
-  #home-english .tester-2 {
+  #home-english .what-is-causes {
     padding: 0;
   }
-  #home-english .tester-2 a {
+  #home-english .what-is-causes a {
     background: url(/img/home/button-causes-mobile.jpg) no-repeat center;
     background-size: auto 100%;
   }
-  #home-english .tester-2 a h3 {
-    left: 39%;
-  }
-  #home-english .tester-3 {
+  #home-english .what-is-diagnosis {
     padding: 1rem 0;
   }
-  #home-english .tester-3 a {
+  #home-english .what-is-diagnosis a {
     background: url(/img/home/button-diagnosis-mobile.jpg) no-repeat center;
     background-size: auto 100%;
   }
@@ -10306,30 +10304,26 @@ html[dir="rtl"] #site-map ul li {
   #home-english h3 {
     font-weight: 400;
   }
-  #home-english .tester-1 a {
+  #home-english .what-is-symptoms a {
     background: url(/img/home/button-symptoms.jpg) no-repeat center;
     background-size: auto 100%;
     height: 450px;
   }
-  #home-english .tester-1 a h3 {
+  #home-english .what-is-symptoms a h3 {
     top: 13%;
-    left: 33%;
   }
-  #home-english .tester-2, #home-english .tester-3 {
+  #home-english .what-is-causes, #home-english .what-is-diagnosis {
     padding: 0;
   }
-  #home-english .tester-2 a, #home-english .tester-3 a {
+  #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
     height: 215px;
   }
-  #home-english .tester-2 a {
+  #home-english .what-is-causes a {
     background: url(/img/home/button-causes.jpg) no-repeat center;
     background-size: auto 100%;
     margin-bottom: 20px;
   }
-  #home-english .tester-2 a h3 {
-    left: 35%;
-  }
-  #home-english .tester-3 a {
+  #home-english .what-is-diagnosis a {
     background: url(/img/home/button-diagnosis.jpg) no-repeat center;
     background-size: auto 100%;
   }
@@ -10338,10 +10332,10 @@ html[dir="rtl"] #site-map ul li {
   #home-english #what-is-links .wrapper {
     max-width: 800px;
   }
-  #home-english .tester-1 a {
+  #home-english .what-is-symptoms a {
     height: 478px;
   }
-  #home-english .tester-2 a, #home-english .tester-3 a {
+  #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
     height: 229px;
   }
 }
@@ -10364,7 +10358,7 @@ html[dir="rtl"] #site-map ul li {
   #home-english #products .white-box-float {
     width: 300px;
     background: #ffffff;
-    top: 1rem;
+    top: 2.5rem;
     -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
@@ -10392,7 +10386,7 @@ html[dir="rtl"] #site-map ul li {
 }
 @media screen and (min-width: 980px) {
   #home-english #products .white-box-float {
-    top: 3rem;
+    top: 4.5rem;
   }
   #home-english #products img {
     width: 750px;
@@ -10403,7 +10397,7 @@ html[dir="rtl"] #site-map ul li {
     margin: 1.5rem;
   }
   #home-english #products .white-box-float {
-    top: 4rem;
+    top: 5rem;
     width: 350px;
   }
   #home-english #products img {
@@ -10434,6 +10428,9 @@ html[dir="rtl"] #site-map ul li {
   height: 100%;
   top: 0;
 }
+#home-english #highlighted-content-english {
+  margin-bottom: 2rem;
+}
 #home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
   display: block;
   position: relative;
@@ -10463,10 +10460,10 @@ html[dir="rtl"] #site-map ul li {
   }
   #home-english #highlighted-content-english h3 {
     padding: 1rem 0;
-    max-width: 50%;
+    width: 58%;
   }
   #home-english #highlighted-content-english .highlighted-content-3 h3, #home-english #highlighted-content-english .highlighted-content-1 h3 {
-    right: 0.5rem;
+    right: 0.25rem;
   }
 }
 @media screen and (min-width: 768px) {
@@ -10483,11 +10480,14 @@ html[dir="rtl"] #site-map ul li {
   #home-english #highlighted-content-english .highlighted-content-2 a {
     background: url(/img/home/pregnancy.jpg) no-repeat center;
     background-size: auto 100%;
-    margin-bottom: 20px;
   }
   #home-english #highlighted-content-english .highlighted-content-3 a {
     background: url(/img/home/menopause.jpg) no-repeat center;
     background-size: auto 100%;
+  }
+  #home-english #highlighted-content-english h3 {
+    width: 100%;
+    text-align: center;
   }
 }
 @media screen and (min-width: 980px) {
@@ -10496,10 +10496,6 @@ html[dir="rtl"] #site-map ul li {
   }
   #home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
     height: 478px;
-    padding: 0 1rem;
-  }
-  #home-english #highlighted-content-english .highlighted-content-1 a h3, #home-english #highlighted-content-english .highlighted-content-2 a h3, #home-english #highlighted-content-english .highlighted-content-3 a h3 {
-    left: 0;
   }
 }
 
@@ -10659,5 +10655,534 @@ html[dir="rtl"] #site-map ul li {
   }
 }
 .what-is .banner-solid-gray {
+  margin-bottom: 2rem;
+}
+
+.further-support {
+  /*---------HERO---------------*/
+  /*---------FAQ SECTION-------------*/
+  /*------RELATED CONDITIONS SECTION-----*/
+  /*-----------PROF ASSISTANCE SECTION-------------*/
+  /*-----------FORUM SECTION-------------*/
+  /*-----------CONTACT BANNER------------*/
+}
+@media screen and (min-width: 768px) {
+  .further-support #hero-english {
+    background: url(/img/further-support/hero.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  .further-support #hero-english .large-8 {
+    margin-top: 2rem;
+  }
+}
+.further-support .support-faq .support-faq-general a, .further-support .support-faq .support-faq-pregnancy a, .further-support .support-faq .support-faq-treatment a, .further-support .support-faq .support-faq-dilator a {
+  display: block;
+  position: relative;
+  border: 1px solid #cacaca;
+  margin: 0 auto;
+}
+.further-support .support-faq .support-faq-general a h3, .further-support .support-faq .support-faq-pregnancy a h3, .further-support .support-faq .support-faq-treatment a h3, .further-support .support-faq .support-faq-dilator a h3 {
+  position: absolute;
+  color: #656565;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+}
+@media screen and (max-width: 767.99px) {
+  .further-support .support-faq .support-faq-general a, .further-support .support-faq .support-faq-pregnancy a, .further-support .support-faq .support-faq-treatment a,
+  .further-support .support-faq .support-faq-dilator a {
+    max-width: 331px;
+    height: 110px;
+  }
+  .further-support .support-faq .support-faq-general a {
+    background: url(/img/further-support/button-general-mobile.jpg) no-repeat left;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-pregnancy a {
+    background: url(/img/further-support/button-pregnancy-mobile.jpg) no-repeat right;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-treatment a {
+    background: url(/img/further-support/button-treatment-mobile.jpg) no-repeat left;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-dilator a {
+    background: url(/img/further-support/button-dilator-mobile.jpg) no-repeat right;
+    background-size: auto 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .further-support .support-faq .wrapper {
+    max-width: 720px;
+  }
+  .further-support .support-faq .support-faq-general a, .further-support .support-faq .support-faq-pregnancy a, .further-support .support-faq .support-faq-treatment a,
+  .further-support .support-faq .support-faq-dilator a {
+    height: 150px;
+  }
+  .further-support .support-faq .support-faq-general a h3, .further-support .support-faq .support-faq-pregnancy a h3, .further-support .support-faq .support-faq-treatment a h3,
+  .further-support .support-faq .support-faq-dilator a h3 {
+    top: 39%;
+  }
+  .further-support .support-faq .support-faq-general a {
+    background: url(/img/further-support/button-general.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-pregnancy a {
+    background: url(/img/further-support/button-pregnancy.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-treatment a {
+    background: url(/img/further-support/button-treatment.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .further-support .support-faq .support-faq-dilator a {
+    background: url(/img/further-support/button-dilator.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+}
+@media screen and (min-width: 980px) {
+  .further-support .support-faq .wrapper {
+    max-width: 996px;
+  }
+  .further-support .support-faq .support-faq-general a, .further-support .support-faq .support-faq-pregnancy a, .further-support .support-faq .support-faq-treatment a,
+  .further-support .support-faq .support-faq-dilator a {
+    height: 208px;
+  }
+  .further-support .support-faq .support-faq-general a h3, .further-support .support-faq .support-faq-pregnancy a h3, .further-support .support-faq .support-faq-treatment a h3,
+  .further-support .support-faq .support-faq-dilator a h3 {
+    top: 44%;
+  }
+}
+.further-support .further-related {
+  background-image: url(/img/further-support/parallax-logo-green.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.further-support .further-related .wrapper {
+  max-width: 700px;
+}
+.further-support .further-related h2, .further-support .further-related a {
+  color: #ffffff;
+}
+.further-support .further-related a {
+  font-size: 18px;
+  line-height: 1.5;
+}
+@media screen and (max-width: 767.99px) {
+  .further-support .further-related a {
+    line-height: 1.8;
+  }
+  .further-support .further-related .column-1 {
+    padding-bottom: 0;
+  }
+  .further-support .further-related .column-2 {
+    padding-top: 0;
+  }
+}
+.further-support #prof-assist {
+  text-align: center;
+  padding-top: 0;
+}
+.further-support #prof-assist li {
+  padding-bottom: 0.75rem;
+}
+@media screen and (min-width: 768px) {
+  .further-support #prof-assist .wrapper {
+    position: relative;
+    text-align: left;
+  }
+  .further-support #prof-assist .white-box-float {
+    position: absolute;
+    width: 375px;
+    background: #ffffff;
+    top: 4rem;
+    right: 0;
+    -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    border: 1px solid #cacaca;
+  }
+  .further-support #prof-assist .white-box-float .text-box {
+    padding: 1rem 2rem 2rem;
+  }
+  .further-support #prof-assist h2 {
+    text-align: left;
+  }
+  .further-support #prof-assist p {
+    margin-bottom: 0.5rem;
+  }
+  .further-support #prof-assist img {
+    width: 600px;
+    float: left;
+    max-width: none;
+    max-height: none;
+    margin: 2rem auto;
+  }
+}
+@media screen and (min-width: 980px) {
+  .further-support #prof-assist .white-box-float {
+    top: 6rem;
+  }
+  .further-support #prof-assist p {
+    margin-bottom: 2rem;
+  }
+  .further-support #prof-assist img {
+    width: 750px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .further-support #prof-assist .wrapper {
+    max-width: 1100px;
+  }
+  .further-support #prof-assist .white-box-float {
+    top: 6.5rem;
+    width: 350px;
+  }
+  .further-support #prof-assist img {
+    width: 900px;
+  }
+}
+.further-support #further-forum {
+  text-align: center;
+  padding-top: 0;
+}
+.further-support #further-forum .wrapper {
+  position: relative;
+}
+.further-support #further-forum .white-box-float {
+  -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  border: 1px solid #cacaca;
+  margin: -3rem auto 0;
+  background: #ffffff;
+  z-index: 2;
+  padding: 0 0.5rem 1rem;
+  max-width: 450px;
+}
+@media screen and (max-width: 767.99px) {
+  .further-support #further-forum .white-box-float {
+    margin-bottom: 1rem;
+  }
+}
+.further-support #further-forum p {
+  margin-bottom: 0.5rem;
+}
+@media screen and (min-width: 768px) {
+  .further-support #further-forum .wrapper {
+    text-align: left;
+  }
+  .further-support #further-forum .white-box-float {
+    position: absolute;
+    width: 375px;
+    top: 6.75rem;
+    left: 0;
+  }
+  .further-support #further-forum .white-box-float .text-box {
+    padding: 1rem 2rem 2rem;
+  }
+  .further-support #further-forum h2 {
+    text-align: left;
+  }
+  .further-support #further-forum img {
+    width: 600px;
+    float: right;
+    max-width: none;
+    max-height: none;
+    margin: 2rem auto;
+  }
+}
+@media screen and (min-width: 980px) {
+  .further-support #further-forum .wrapper {
+    max-width: 1100px;
+  }
+  .further-support #further-forum .white-box-float {
+    top: 9rem;
+  }
+  .further-support #further-forum p {
+    margin: 0.5rem 0 1.5rem;
+  }
+  .further-support #further-forum img {
+    width: 750px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .further-support #further-forum .white-box-float {
+    top: 10rem;
+  }
+  .further-support #further-forum img {
+    width: 800px;
+  }
+}
+.further-support .banner-solid-gray {
+  margin-bottom: 2rem;
+}
+
+.treatment-english {
+  /*---------HERO---------------*/
+  /*---------FAQ SECTION-------------*/
+  /*------RELATED CONDITIONS SECTION-----*/
+  /*-----------PROF ASSISTANCE SECTION-------------*/
+  /*-----------FORUM SECTION-------------*/
+  /*-----------CONTACT BANNER------------*/
+}
+@media screen and (min-width: 768px) {
+  .treatment-english #hero-english {
+    background: url(/img/treatment/hero.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  .treatment-english #hero-english .large-8 {
+    margin-top: 2rem;
+  }
+}
+.treatment-english .self-help {
+  padding-top: 0;
+}
+.treatment-english .self-help .support-faq-general a, .treatment-english .self-help .support-faq-pregnancy a, .treatment-english .self-help .support-faq-treatment a, .treatment-english .self-help .support-faq-dilator a {
+  display: block;
+  position: relative;
+  border: 1px solid #cacaca;
+  margin: 0 auto;
+}
+.treatment-english .self-help .support-faq-general a h3, .treatment-english .self-help .support-faq-pregnancy a h3, .treatment-english .self-help .support-faq-treatment a h3, .treatment-english .self-help .support-faq-dilator a h3 {
+  position: absolute;
+  color: #656565;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+}
+@media screen and (max-width: 767.99px) {
+  .treatment-english .self-help .support-faq-general a, .treatment-english .self-help .support-faq-pregnancy a, .treatment-english .self-help .support-faq-treatment a,
+  .treatment-english .self-help .support-faq-dilator a {
+    max-width: 331px;
+    height: 110px;
+  }
+  .treatment-english .self-help .support-faq-general a {
+    background: url(/img/further-support/button-general-mobile.jpg) no-repeat left;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-pregnancy a {
+    background: url(/img/further-support/button-pregnancy-mobile.jpg) no-repeat right;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-treatment a {
+    background: url(/img/further-support/button-treatment-mobile.jpg) no-repeat left;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-dilator a {
+    background: url(/img/further-support/button-dilator-mobile.jpg) no-repeat right;
+    background-size: auto 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .treatment-english .self-help .wrapper {
+    max-width: 720px;
+  }
+  .treatment-english .self-help .support-faq-general a, .treatment-english .self-help .support-faq-pregnancy a, .treatment-english .self-help .support-faq-treatment a,
+  .treatment-english .self-help .support-faq-dilator a {
+    height: 150px;
+  }
+  .treatment-english .self-help .support-faq-general a h3, .treatment-english .self-help .support-faq-pregnancy a h3, .treatment-english .self-help .support-faq-treatment a h3,
+  .treatment-english .self-help .support-faq-dilator a h3 {
+    top: 39%;
+  }
+  .treatment-english .self-help .support-faq-general a {
+    background: url(/img/further-support/button-general.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-pregnancy a {
+    background: url(/img/further-support/button-pregnancy.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-treatment a {
+    background: url(/img/further-support/button-treatment.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+  .treatment-english .self-help .support-faq-dilator a {
+    background: url(/img/further-support/button-dilator.jpg) no-repeat center;
+    background-size: auto 100%;
+  }
+}
+@media screen and (min-width: 980px) {
+  .treatment-english .self-help .wrapper {
+    max-width: 996px;
+  }
+  .treatment-english .self-help .support-faq-general a, .treatment-english .self-help .support-faq-pregnancy a, .treatment-english .self-help .support-faq-treatment a,
+  .treatment-english .self-help .support-faq-dilator a {
+    height: 208px;
+  }
+  .treatment-english .self-help .support-faq-general a h3, .treatment-english .self-help .support-faq-pregnancy a h3, .treatment-english .self-help .support-faq-treatment a h3,
+  .treatment-english .self-help .support-faq-dilator a h3 {
+    top: 44%;
+  }
+}
+.treatment-english .further-related {
+  background-image: url(/img/further-support/parallax-logo-green.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.treatment-english .further-related .wrapper {
+  max-width: 700px;
+}
+.treatment-english .further-related h2, .treatment-english .further-related a {
+  color: #ffffff;
+}
+.treatment-english .further-related a {
+  font-size: 18px;
+  line-height: 1.5;
+}
+@media screen and (max-width: 767.99px) {
+  .treatment-english .further-related a {
+    line-height: 1.8;
+  }
+  .treatment-english .further-related .column-1 {
+    padding-bottom: 0;
+  }
+  .treatment-english .further-related .column-2 {
+    padding-top: 0;
+  }
+}
+.treatment-english #prof-assist {
+  text-align: center;
+  padding-top: 0;
+}
+.treatment-english #prof-assist li {
+  padding-bottom: 0.75rem;
+}
+@media screen and (min-width: 768px) {
+  .treatment-english #prof-assist .wrapper {
+    position: relative;
+    text-align: left;
+  }
+  .treatment-english #prof-assist .white-box-float {
+    position: absolute;
+    width: 375px;
+    background: #ffffff;
+    top: 4rem;
+    right: 0;
+    -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    border: 1px solid #cacaca;
+  }
+  .treatment-english #prof-assist .white-box-float .text-box {
+    padding: 1rem 2rem 2rem;
+  }
+  .treatment-english #prof-assist h2 {
+    text-align: left;
+  }
+  .treatment-english #prof-assist p {
+    margin-bottom: 0.5rem;
+  }
+  .treatment-english #prof-assist img {
+    width: 600px;
+    float: left;
+    max-width: none;
+    max-height: none;
+    margin: 2rem auto;
+  }
+}
+@media screen and (min-width: 980px) {
+  .treatment-english #prof-assist .white-box-float {
+    top: 6rem;
+  }
+  .treatment-english #prof-assist p {
+    margin-bottom: 2rem;
+  }
+  .treatment-english #prof-assist img {
+    width: 750px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .treatment-english #prof-assist .wrapper {
+    max-width: 1100px;
+  }
+  .treatment-english #prof-assist .white-box-float {
+    top: 6.5rem;
+    width: 350px;
+  }
+  .treatment-english #prof-assist img {
+    width: 900px;
+  }
+}
+.treatment-english #further-forum {
+  text-align: center;
+  padding-top: 0;
+}
+.treatment-english #further-forum .wrapper {
+  position: relative;
+}
+.treatment-english #further-forum .white-box-float {
+  -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  border: 1px solid #cacaca;
+  margin: -3rem auto 0;
+  background: #ffffff;
+  z-index: 2;
+  padding: 0 0.5rem 1rem;
+  max-width: 450px;
+}
+@media screen and (max-width: 767.99px) {
+  .treatment-english #further-forum .white-box-float {
+    margin-bottom: 1rem;
+  }
+}
+.treatment-english #further-forum p {
+  margin-bottom: 0.5rem;
+}
+@media screen and (min-width: 768px) {
+  .treatment-english #further-forum .wrapper {
+    text-align: left;
+  }
+  .treatment-english #further-forum .white-box-float {
+    position: absolute;
+    width: 375px;
+    top: 6.75rem;
+    left: 0;
+  }
+  .treatment-english #further-forum .white-box-float .text-box {
+    padding: 1rem 2rem 2rem;
+  }
+  .treatment-english #further-forum h2 {
+    text-align: left;
+  }
+  .treatment-english #further-forum img {
+    width: 600px;
+    float: right;
+    max-width: none;
+    max-height: none;
+    margin: 2rem auto;
+  }
+}
+@media screen and (min-width: 980px) {
+  .treatment-english #further-forum .wrapper {
+    max-width: 1100px;
+  }
+  .treatment-english #further-forum .white-box-float {
+    top: 9rem;
+  }
+  .treatment-english #further-forum p {
+    margin: 0.5rem 0 1.5rem;
+  }
+  .treatment-english #further-forum img {
+    width: 750px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .treatment-english #further-forum .white-box-float {
+    top: 10rem;
+  }
+  .treatment-english #further-forum img {
+    width: 800px;
+  }
+}
+.treatment-english .banner-solid-gray {
   margin-bottom: 2rem;
 }
