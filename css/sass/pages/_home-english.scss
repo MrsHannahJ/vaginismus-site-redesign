@@ -169,38 +169,37 @@
 
 #products{
   text-align: center;
-
   img{
     width: 100%;
     height: auto;
     margin: 5% 0;
   }
-
+  p{
+    margin-bottom:0.5rem;
+  }
   
 //TABLET AND UP
   @media screen and (min-width: $breakpoint-medium){
+    text-align: left;
     .wrapper{
       position: relative;
     }
-  .white-box-float{
-    position: absolute;
-    width: 100%;
-  }
-    
     .white-box-float{
-      width: 300px;
+      position: absolute;
+      width: 330px;
       background: $white;
       top: 2.5rem;
+      padding: 0.5rem;
       -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       border: 1px solid $light-gray-border;
       .text-box{
-        padding: 1rem 1rem 2rem;
+        padding: 1rem 1rem 1.5rem 1.5rem ;
       }
         p{
           text-align: left;
-          margin-bottom: 2rem;
+          margin-bottom: 1rem;
         }
     }
 
@@ -226,6 +225,9 @@
 
     img{
       width: 750px;
+    }
+    p{
+      margin:0.5rem 0 1.5rem;
     }
   }
       @media screen and (min-width: 1200px){
@@ -256,7 +258,7 @@
   
   #home-forum{
     position: relative;
-    margin:2rem 0 1rem;
+    margin:1rem 0;
     text-align: center;
   }
   

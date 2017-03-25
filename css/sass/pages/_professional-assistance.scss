@@ -1,0 +1,73 @@
+// -----------------------------------------------------------------------
+// This file contains styles that are specific to the what is professional assistance page.
+// -----------------------------------------------------------------------
+
+.professional-assist{
+  
+  
+/*---------HERO---------------*/
+#hero-english{
+
+//TABLET
+  @media screen and (min-width: $breakpoint-medium){
+    background: url(/img/understanding/hero-mobile.jpg);
+    background-size: cover;
+    background-position: top;
+    h1, a, p{
+      color: $white;
+    }
+//    margin-top: 1rem;
+    .large-8{
+      float:none;
+      margin: 2rem auto 0;
+      background:transparent;
+    }
+    h1{
+      &:after{
+        border-bottom-color: $white;
+      }
+    }
+  }
+}
+  
+  
+/*-----------REVIEWS SECTION-------------*/
+
+#reviews{
+  padding-bottom: 0;
+  background: url(/img/white-wood-bkgd.jpg);
+  background-size: cover;
+  text-align: center;
+  h2{
+    padding-bottom: 1rem;
+  }
+
+//DESKTOP
+@media screen and (min-width: $breakpoint-large){
+    h2{
+      @include font-size(32px);
+    }
+  }
+}
+
+/*-----------REVIEWS BANNER-------------*/
+
+.reviews-banner{
+  text-align: center;
+  color: $white;
+  line-height: 80px;
+  height: 5rem;
+  a{
+  line-height: 80px;
+  line-height: 5rem;
+  }
+//TABLET
+  @media screen and (min-width: $breakpoint-medium){
+    margin-top: 1rem;
+  }
+}
+  
+  
+  
+}
+
