@@ -3,10 +3,12 @@
 // -----------------------------------------------------------------------
 
 .professional-assist{
-  
-  
+
 /*---------HERO---------------*/
 #hero-english{
+  .large-8{
+    margin-top: 2rem;
+  }
 
 //TABLET
   @media screen and (min-width: $breakpoint-medium){
@@ -29,6 +31,32 @@
     }
   }
 }
+  
+ /*----------- SECTIONS-------------*/
+  .organizations, .articles{
+    h2, h3{
+      text-align: left;
+    }
+    p{
+      font-size: 18px;
+      padding-bottom: 1rem;
+    }
+    hr{
+      margin-top:2rem;
+    }
+  }
+  ul, ol{
+    padding-left: 1rem;
+    li{
+      padding-bottom:0.75rem;
+    }
+  }
+  ul li{
+    list-style: disc;
+  }
+  ol li{
+    list-style: upper-roman;
+  }
   
   
 /*-----------REVIEWS SECTION-------------*/

@@ -11162,8 +11162,12 @@ html[dir="rtl"] #site-map ul li {
 
 .professional-assist {
   /*---------HERO---------------*/
+  /*----------- SECTIONS-------------*/
   /*-----------REVIEWS SECTION-------------*/
   /*-----------REVIEWS BANNER-------------*/
+}
+.professional-assist #hero-english .large-8 {
+  margin-top: 2rem;
 }
 @media screen and (min-width: 768px) {
   .professional-assist #hero-english {
@@ -11182,6 +11186,28 @@ html[dir="rtl"] #site-map ul li {
   .professional-assist #hero-english h1:after {
     border-bottom-color: #ffffff;
   }
+}
+.professional-assist .organizations h2, .professional-assist .organizations h3, .professional-assist .articles h2, .professional-assist .articles h3 {
+  text-align: left;
+}
+.professional-assist .organizations p, .professional-assist .articles p {
+  font-size: 18px;
+  padding-bottom: 1rem;
+}
+.professional-assist .organizations hr, .professional-assist .articles hr {
+  margin-top: 2rem;
+}
+.professional-assist ul, .professional-assist ol {
+  padding-left: 1rem;
+}
+.professional-assist ul li, .professional-assist ol li {
+  padding-bottom: 0.75rem;
+}
+.professional-assist ul li {
+  list-style: disc;
+}
+.professional-assist ol li {
+  list-style: upper-roman;
 }
 .professional-assist #reviews {
   padding-bottom: 0;

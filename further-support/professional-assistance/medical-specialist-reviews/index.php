@@ -88,9 +88,7 @@
           <div class="review">
             <div class="review-body">
               <h2>Most Helpful Work</h2>
-              <p>I have treated women with vaginismus for over 20 years. Your products, and especially your books, are very helpful. They take the woman through a series of steps from education about vaginismus, exercises to prepare them for fixing the problem, and
-                beyond. I use your materials, along with coaching women through difficult times and helping their partners understand what is happening, all with an excellent success rate. As you say, vaginismus is highly treatable. Congratulations on your most
-                helpful work.</p>
+              <p>I have treated women with vaginismus for over 20 years. Your products, and especially your books, are very helpful. They take the woman through a series of steps from education about vaginismus, exercises to prepare them for fixing the problem, and beyond. I use your materials, along with coaching women through difficult times and helping their partners understand what is happening, all with an excellent success rate. As you say, vaginismus is highly treatable. Congratulations on your most helpful work.</p>
             </div>
             <div class="review-author">
               <p>S. Ann Hartlage, Ph.D.</p>
