@@ -20,11 +20,11 @@
           <p>عند استثارته، فإن التشنج المهبلي يجعل الجسم يقبض قاع الحوض عند محاولة الإيلاج، مما يجعل محاولات الجماع صعبة بشكل لا يمكن تجنبه. عندما تؤدي محاولات الجماع إلى الألم والفشل، فإن رد فعل الجسم يكون أكثر قوة، مما يزيد من أثر التشنج المهبلي. ويشار إلى هذا أحياناً باسم دائرة الألم، حيث تشكل تجربة مستمرة تزداد سوءاً. وكلما تم تشخيص أعراض التشنج المهبلي بسرعة ومعالجته، أصبح من الأسهل الوصول إلى حل له.</p>
 
           <h3>الجنس مؤلمة بعد الولادة</h3>
-          <p>سوف التشنج المهبلي عادة لا تزال تسبب الألم الجنسي المستمر و <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">صعوبات اختراق</a>، حتى أشهر أو سنوات بعد الولادة كان من ذوي الخبرة، حتى يتم التعامل معها. مرة واحدة اثار، التشنج المهبلي يدفع الجسم الى تشديد قاع الحوض عند محاولة الاختراق، مما يجعل محاولات-الشروع في إعادة الجماع صعبا لا يمكن تجنبه.</p>
-          <p>عندما محاولات نتيجة الجماع في الألم والفشل، ويتفاعل الجسم بقوة أكبر، مزيد من ترسيخ تأثير التشنج المهبلي. ويشار إلى هذا أحيانا باسم التشنج المهبلي <a href="../../../vaginismus-causes/index.html#cycle-pain">دورة الألم</a>، لأنها تتطور إلى والخبرة الجارية المتفاقمة.</p>
+          <p>سوف التشنج المهبلي عادة لا تزال تسبب الألم الجنسي المستمر و <a href="/ar/vaginismus-symptoms/index.php#unconsummated-marriages">صعوبات اختراق</a>، حتى أشهر أو سنوات بعد الولادة كان من ذوي الخبرة، حتى يتم التعامل معها. مرة واحدة اثار، التشنج المهبلي يدفع الجسم الى تشديد قاع الحوض عند محاولة الاختراق، مما يجعل محاولات-الشروع في إعادة الجماع صعبا لا يمكن تجنبه.</p>
+          <p>عندما محاولات نتيجة الجماع في الألم والفشل، ويتفاعل الجسم بقوة أكبر، مزيد من ترسيخ تأثير التشنج المهبلي. ويشار إلى هذا أحيانا باسم التشنج المهبلي <a href="/ar/vaginismus-causes/index.php#cycle-pain">دورة الألم</a>، لأنها تتطور إلى والخبرة الجارية المتفاقمة.</p>
 
           <h3>اكتشاف ومعالجة</h3>
-          <p>ويعد استمرت استجابة الألم التشنج المهبلي، وأكثر كثافة وضيق تميل إلى أن تصبح. في نهاية المطاف، قد تصبح اختراق بسيط<a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">غير ممكن</a> (لاحظ أيضا أن الصعوبات اختراق يمكن أن تتطور على الفور). لهذا السبب، وكلما تم تشخيص أعراض التشنج المهبلي وعلاجه، وأسهل أنها قد تكون لحلها.</p>
+          <p>ويعد استمرت استجابة الألم التشنج المهبلي، وأكثر كثافة وضيق تميل إلى أن تصبح. في نهاية المطاف، قد تصبح اختراق بسيط<a href="/ar/vaginismus-symptoms/index.php#unconsummated-marriages">غير ممكن</a> (لاحظ أيضا أن الصعوبات اختراق يمكن أن تتطور على الفور). لهذا السبب، وكلما تم تشخيص أعراض التشنج المهبلي وعلاجه، وأسهل أنها قد تكون لحلها.</p>
 
           <h3>تقليل احتمال حدوث التشنج المهبلي ما بعد الولادة</h3>
           <p>هناك عدد من الأشياء يمكن القيام بها للمساعدة في تقليل فرص الإصابة بالتشنج المهبلي بعد الولادة، وللمساعدة في جعل استئناف الجماع تجربة إيجابية قد الإمكان:</p>
@@ -41,18 +41,18 @@
           </ul>
 
           <h3>المخاوف عن التشنج المهبلي العودة بعد الولادة</h3>
-          <p>وعادة ما تشعر المرأة التي تغلبت على التشنج المهبلي في وقت سابق للحمل بقلق من أنها قد تصاب بالتشنج المهبلي ثانية بعد الولادة. ولحسن الحظ، يمكن بسهولة نسبية وبواسطة المهارات المكتسبة خلال <a href="../../../vaginismus-treatment/index.html">العلاج</a> الناجج للتشنج المهبلي أن تحل مشكلة أية صدمة في الحوض تختبر خلال المخاض قد تسبب <a href="../../general-questions/primary-and-secondary-vaginismus-differences/index.html">التشنج المهبلي الثانوي</a> . ورغم اختلاف كل امرأة وتجربتها عن غيرها من النساء، فإن عملية التغلب على التشنج المهبلي تصبح عادة مهارة تدوم طيلة الحياة حيث توفر حلا للمشكلة طويل الأمد وخاليا من الألم.</p>
+          <p>وعادة ما تشعر المرأة التي تغلبت على التشنج المهبلي في وقت سابق للحمل بقلق من أنها قد تصاب بالتشنج المهبلي ثانية بعد الولادة. ولحسن الحظ، يمكن بسهولة نسبية وبواسطة المهارات المكتسبة خلال <a href="/ar/vaginismus-treatment/index.php">العلاج</a> الناجج للتشنج المهبلي أن تحل مشكلة أية صدمة في الحوض تختبر خلال المخاض قد تسبب <a href="/ar/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">التشنج المهبلي الثانوي</a> . ورغم اختلاف كل امرأة وتجربتها عن غيرها من النساء، فإن عملية التغلب على التشنج المهبلي تصبح عادة مهارة تدوم طيلة الحياة حيث توفر حلا للمشكلة طويل الأمد وخاليا من الألم.</p>
                       
           <hr>
           
           <h3>راجعي أيضا</h3>
             <ul>
-              <li><a href="../../../vaginismus-causes/index.html">ما الذي يسبب التشنج المهبلي؟</a></li>
-              <li><a href="../../../vaginismus-treatment/index.html">علاج التشنج المهبلي</a></li>
-              <li><a href="../vaginismus-complications-delivery/index.html">هل سيسبب التشنج المهبلي مضاعفات أو يعيق الولادة المهبلية للطفل؟ هل ستتشنج عضلات الحوض أو تسبب مشاكل؟</a></li>
-              <li><a href="../can-childbirth-help-vaginismus/index.html">هل يمكن للولادة الطبيعية أن تساعد في تخفيف التشنج المهبلي الموجود مسبقا عن طريق توسيع فتحة المهبل؟</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">ما هو dyspareunia أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
-              <li><a href="../../general-questions/had-pleasurable-intercourse-before/index.html">هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
+              <li><a href="/ar/vaginismus-causes/index.php">ما الذي يسبب التشنج المهبلي؟</a></li>
+              <li><a href="/ar/vaginismus-treatment/index.php">علاج التشنج المهبلي</a></li>
+              <li><a href="/ar/faq/pregnancy-questions/vaginismus-complications-delivery/index.php">هل سيسبب التشنج المهبلي مضاعفات أو يعيق الولادة المهبلية للطفل؟ هل ستتشنج عضلات الحوض أو تسبب مشاكل؟</a></li>
+              <li><a href="/ar/faq/pregnancy-questions/can-childbirth-help-vaginismus/index.php">هل يمكن للولادة الطبيعية أن تساعد في تخفيف التشنج المهبلي الموجود مسبقا عن طريق توسيع فتحة المهبل؟</a></li>
+              <li><a href="/ar/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">ما هو dyspareunia أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
+              <li><a href="/ar/faq/general-questions/had-pleasurable-intercourse-before/index.php">هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
             </ul>
           
           <hr class="hidden-desktop"/>
@@ -63,14 +63,14 @@
           <aside class="large-3">
           <h2>أسئلة متكررة عن الحمل</h2>
           <ul>
-            <li><a href="../biological-clock-ticking/index.html"><i class="icon-angle-double-right"></i>ا أستطيع الجماع وساعتي البيولوجية تدق لي. هل من نصيحة؟</a></li>
-            <li><a href="../adopting/index.html"><i class="icon-angle-double-right"></i>هل ينبغي لنا أن نفكر في التبني إذا كان الوفت ينفد منا؟ أم ينبغي لنا أن نكف عن المحاولة ونمضي إلى الأمام؟</a></li>
-            <li><a href="../vaginismus-complications-delivery/index.html"><i class="icon-angle-double-right"></i>هل سيسبب التشنج المهبلي مضاعفات أو يعيق الولادة المهبلية للطفل؟ هل ستتشنج عضلات الحوض أو تسبب مشاكل؟</a></li>
-            <li><a href="../can-childbirth-cause-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>هل يمكن للولادة أن تسبب التشنج المهبلي؟ وهل يمكن تجنبه؟</a></li>
-            <li><a href="../can-childbirth-help-vaginismus/index.html"><i class="icon-angle-double-right"></i>هل يمكن للولادة الطبيعية أن تساعد في تخفيف التشنج المهبلي الموجود مسبقا عن طريق توسيع فتحة المهبل؟</a></li>
-            <li><a href="../unable-to-have-gynecological-exams/index.html"><i class="icon-angle-double-right"></i>إن لم أكن قادرة على الخضوع للفحوص النسائية بسبب التشنج المهبلي، فكيف يمكنني اجتياز جميع زيارات الطبيب والفحوصات المهبلية بالموجات فوق الصوتية خلال حملي؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/biological-clock-ticking/index.php"><i class="icon-angle-double-right"></i>ا أستطيع الجماع وساعتي البيولوجية تدق لي. هل من نصيحة؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/adopting/index.php"><i class="icon-angle-double-right"></i>هل ينبغي لنا أن نفكر في التبني إذا كان الوفت ينفد منا؟ أم ينبغي لنا أن نكف عن المحاولة ونمضي إلى الأمام؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/vaginismus-complications-delivery/index.php"><i class="icon-angle-double-right"></i>هل سيسبب التشنج المهبلي مضاعفات أو يعيق الولادة المهبلية للطفل؟ هل ستتشنج عضلات الحوض أو تسبب مشاكل؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/can-childbirth-cause-vaginismus/index.php" class="active"><i class="icon-angle-double-right"></i>هل يمكن للولادة أن تسبب التشنج المهبلي؟ وهل يمكن تجنبه؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/can-childbirth-help-vaginismus/index.php"><i class="icon-angle-double-right"></i>هل يمكن للولادة الطبيعية أن تساعد في تخفيف التشنج المهبلي الموجود مسبقا عن طريق توسيع فتحة المهبل؟</a></li>
+            <li><a href="/ar/faq/pregnancy-questions/unable-to-have-gynecological-exams/index.php"><i class="icon-angle-double-right"></i>إن لم أكن قادرة على الخضوع للفحوص النسائية بسبب التشنج المهبلي، فكيف يمكنني اجتياز جميع زيارات الطبيب والفحوصات المهبلية بالموجات فوق الصوتية خلال حملي؟</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">عرض كل الأسئلة</a>
+          <a href='/ar/faq/index.php' class="shaded-btn">عرض كل الأسئلة</a>
         </aside>
       </div>
     </main>

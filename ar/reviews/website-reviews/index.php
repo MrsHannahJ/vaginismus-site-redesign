@@ -158,16 +158,16 @@
           <br><br>
           <ul>
             <li class="sidebar-img">
-              <a href="../../products/completely-overcome-vaginismus-book-set/index.html" title="برنامج العلاج المنزلي للتشنج المهبلي"> <img src="../../../img/myths/myths-product-3.jpg" alt="برنامج العلاج المنزلي للتشنج المهبلي" />برنامج العلاج المنزلي للتشنج المهبلي</a>
+              <a href="/ar/products/completely-overcome-vaginismus-book-set/index.php" title="برنامج العلاج المنزلي للتشنج المهبلي"> <img src="/img/myths/myths-product-3.jpg" alt="برنامج العلاج المنزلي للتشنج المهبلي" />برنامج العلاج المنزلي للتشنج المهبلي</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginal-dilator-set/index.html" title="مجموعة الموسَعات المهبلية"> <img src="../../../img/myths/myths-product-2.jpg" alt="مجموعة الموسَعات المهبلية" />مجموعة الموسَعات المهبلية</a>
+              <a href="/ar/products/vaginal-dilator-set/index.php" title="مجموعة الموسَعات المهبلية"> <img src="/img/myths/myths-product-2.jpg" alt="مجموعة الموسَعات المهبلية" />مجموعة الموسَعات المهبلية</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginismus-treatment-kit/index.html" title="عدة علاج التشنج المهبلي"> <img src="../../../img/myths/myths-product-1.jpg" alt="عدة علاج التشنج المهبلي" />عدة علاج التشنج المهبلي</a>
+              <a href="/ar/products/vaginismus-treatment-kit/index.php" title="عدة علاج التشنج المهبلي"> <img src="/img/myths/myths-product-1.jpg" alt="عدة علاج التشنج المهبلي" />عدة علاج التشنج المهبلي</a>
             </li>
           </ul>
-          <a href='../../reviews/index.html' class="shaded-btn">رؤية جميع المشاركات</a>
+          <a href='../../reviews/index.php' class="shaded-btn">رؤية جميع المشاركات</a>
 
         </aside>
       </div>

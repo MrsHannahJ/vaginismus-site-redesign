@@ -6609,49 +6609,49 @@ strong {
   text-align: center; }
 
 /* line 78, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1 {
+#home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1 {
   font-size: 30px;
   font-size: 1.875rem; }
   @media screen and (min-width: 980px) {
     /* line 78, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-    #home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1 {
+    #home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1 {
       font-size: 36px;
       font-size: 2.25rem; } }
 
 /* line 84, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2 {
+#home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2 {
   font-size: 24px;
   font-size: 1.5rem;
   font-weight: 400; }
   @media screen and (min-width: 768px) {
     /* line 84, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-    #home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2 {
+    #home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2 {
       font-size: 28px;
       font-size: 1.75rem; } }
 
 /* line 91, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3 {
+#home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3 {
   font-size: 21px;
   font-size: 1.3125rem;
   font-weight: 400; }
   @media screen and (min-width: 768px) {
     /* line 91, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-    #home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3 {
+    #home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3 {
       font-size: 24px;
       font-size: 1.5rem; } }
 
 /* line 98, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english h4, .what-is h4, .understanding h4, .further-support h4, .treatment-english h4, .professional-assist h4 {
+#home-english h4, .what-is h4, .understanding h4, .further-support h4, .treatment-english h4, .professional-assist h4, .product-page-english h4 {
   font-size: 20px;
   font-size: 1.25rem; }
 
 /* line 101, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li, .treatment-english p, .treatment-english li, .professional-assist p, .professional-assist li {
+#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li, .treatment-english p, .treatment-english li, .professional-assist p, .professional-assist li, .product-page-english p, .product-page-english li {
   font-size: 16px;
   font-size: 1rem; }
 
 /* line 104, C:/xampp/htdocs/vaginismus/css/sass/base/_typography.scss */
-#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td, .treatment-english a, .treatment-english figcaption, .treatment-english table, .treatment-english th, .treatment-english td, .professional-assist a, .professional-assist figcaption, .professional-assist table, .professional-assist th, .professional-assist td {
+#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td, .treatment-english a, .treatment-english figcaption, .treatment-english table, .treatment-english th, .treatment-english td, .professional-assist a, .professional-assist figcaption, .professional-assist table, .professional-assist th, .professional-assist td, .product-page-english a, .product-page-english figcaption, .product-page-english table, .product-page-english th, .product-page-english td {
   font-size: 16px;
   font-size: 1rem; }
 
@@ -7819,6 +7819,103 @@ aside .sidebar-img {
   /* line 140, C:/xampp/htdocs/vaginismus/css/sass/components/_banner-image.scss */
   .hero-text-right {
     float: right; } }
+
+/* line 6, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .purchase h3 {
+  color: #4eb3b3; }
+
+/* line 9, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .purchase h4 {
+  font-weight: 500; }
+
+/* line 12, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .purchase .product-price {
+  font-size: 40px;
+  font-size: 2.5rem;
+  color: #4eb3b3;
+  padding-bottom: 0; }
+  /* line 16, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .purchase .product-price span {
+    font-size: 16px;
+    font-size: 1rem; }
+
+/* line 20, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .purchase .product-price-caption {
+  color: #656565;
+  opacity: 0.7;
+  padding: 0 0 1.5rem 0; }
+
+/* line 25, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .purchase .max-75 {
+  max-width: 75%;
+  margin: 0 auto;
+  display: block; }
+
+@media screen and (min-width: 768px) {
+  /* line 31, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .purchase h3, .buy-product .purchase h4 {
+    text-align: left; } }
+
+@media screen and (max-width: 767.99px) {
+  /* line 5, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .purchase {
+    text-align: center; } }
+
+@media screen and (min-width: 1100px) {
+  /* line 39, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .purchase .max-75-text {
+    margin-top: 2rem; } }
+
+/* line 46, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .product-pre-footer .large-8, .buy-product .product-pre-footer .large-4 {
+  padding: 1rem 0.5rem; }
+
+/* line 49, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .product-pre-footer .badge-box {
+  background: #f2f2f2;
+  padding: 1rem;
+  text-align: center;
+  min-height: 16rem;
+  -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2); }
+  /* line 57, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .badge-box ul {
+    padding: 0.75rem 0 0; }
+  /* line 60, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .badge-box li {
+    padding: 0 0 0.75rem; }
+
+/* line 64, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .product-pre-footer .ordering li {
+  list-style: none; }
+
+/* line 67, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .product-pre-footer .service ul {
+  padding-bottom: 1.25rem; }
+
+/* line 70, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+.buy-product .product-pre-footer .service ul li {
+  list-style-position: inside; }
+
+@media screen and (min-width: 768px) {
+  /* line 74, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .badge-box {
+    min-height: 19rem; }
+    /* line 76, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+    .buy-product .product-pre-footer .badge-box h3 {
+      font-size: 21px; }
+  /* line 80, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .service ul {
+    text-align: left; }
+  /* line 83, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .service a {
+    padding: 0.25rem 0.5rem; } }
+
+@media screen and (min-width: 980px) {
+  /* line 88, C:/xampp/htdocs/vaginismus/css/sass/components/_product-pre-footer.scss */
+  .buy-product .product-pre-footer .badge-box h3 {
+    font-size: 22px; } }
 
 /* line 4, C:/xampp/htdocs/vaginismus/css/sass/pages/_home.scss */
 #home {
@@ -9371,98 +9468,98 @@ p .white-btn {
       float: right;
       color: #333333; }
 
-/* line 12, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 11, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
   padding-bottom: 0;
   padding-top: 0; }
 
-/* line 17, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 16, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h1, .page-404 #site-map h1 {
   padding-top: 4.5rem; }
 
-/* line 21, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 20, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map p, .page-404 #site-map p {
   text-align: center; }
 
-/* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 23, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map a, .page-404 #site-map a {
   font-weight: 400;
   color: #656565;
   padding-bottom: 0.75rem; }
   @media screen and (min-width: 980px) {
-    /* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    /* line 23, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
     .search-page #site-map a, .page-404 #site-map a {
       padding-bottom: 0.5rem; } }
 
-/* line 33, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 32, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h2, .search-page #site-map h3, .search-page #site-map h4, .page-404 #site-map h2, .page-404 #site-map h3, .page-404 #site-map h4 {
   text-align: left;
   text-decoration: none;
   font-family: "Raleway", sans-serif; }
 
-/* line 39, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 38, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h2, .page-404 #site-map h2 {
   font-size: 1.5rem;
   font-weight: 400; }
-  /* line 42, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 41, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 a, .page-404 #site-map h2 a {
     font-size: inherit; }
-  /* line 45, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 44, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 span, .page-404 #site-map h2 span {
     font-size: 16px;
     font-size: 1rem;
     vertical-align: middle;
     color: #4eb3b3; }
-  /* line 50, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 49, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h2 img, .page-404 #site-map h2 img {
     transform: rotate(-90deg);
     max-width: 2rem;
     vertical-align: bottom; }
 
-/* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 55, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map hr, .page-404 #site-map hr {
   margin-bottom: 0.5rem; }
 
-/* line 62, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 61, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map h3, .page-404 #site-map h3 {
   padding-bottom: 0.75rem; }
   @media screen and (min-width: 980px) {
-    /* line 62, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    /* line 61, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
     .search-page #site-map h3, .page-404 #site-map h3 {
       padding-bottom: 0.5rem; } }
-  /* line 67, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 66, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map h3 a, .page-404 #site-map h3 a {
     font-weight: 600; }
 
-/* line 73, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 72, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map ul, .page-404 #site-map ul {
   padding-left: 15px; }
-  /* line 75, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 74, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map ul li, .page-404 #site-map ul li {
     margin-left: 15px;
     text-indent: -15px;
     padding-bottom: 0.75rem; }
-    /* line 79, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    /* line 78, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
     .search-page #site-map ul li.site-map-stories, .page-404 #site-map ul li.site-map-stories {
       padding-bottom: 0.5rem; }
     @media screen and (min-width: 980px) {
-      /* line 75, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+      /* line 74, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
       .search-page #site-map ul li, .page-404 #site-map ul li {
         padding-bottom: 0.5rem; } }
-    /* line 87, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+    /* line 86, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
     .search-page #site-map ul li a, .page-404 #site-map ul li a {
       font-size: 16px;
       font-size: 1rem; }
-  /* line 96, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 95, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map ul ul li a, .page-404 #site-map ul ul li a {
     font-size: 14px;
     font-size: 0.875rem; }
 
-/* line 102, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+/* line 101, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
 .search-page #site-map i, .page-404 #site-map i {
   font-size: 14px;
   color: #4eb3b3; }
-  /* line 105, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
+  /* line 104, C:/xampp/htdocs/vaginismus/css/sass/pages/_search.scss */
   .search-page #site-map i:before, .page-404 #site-map i:before {
     margin-right: 0; }
 
@@ -11033,5 +11130,117 @@ $breakpoints: (
       /* line 83, C:/xampp/htdocs/vaginismus/css/sass/pages/_professional-assistance.scss */
       .professional-assist .reviews-banner {
         margin-top: 1rem; } }
+
+/* line 5, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+.product-page-english {
+  /*-----------HERO-------------*/
+  /*-----------PRODCUT DESCRIPTION-----------*/
+  /*---------BONUS BANNER--------*/
+  /*---------REVIEWS SECTION--------*/
+  /*---------FAQ BANNER--------*/ }
+  /* line 6, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english section:first-child {
+    padding-top: 2rem; }
+  /* line 11, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .hero {
+    text-align: center; }
+    /* line 13, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .hero a {
+      display: inline-block;
+      margin: 0 2rem 1rem;
+      font-family: "Raleway", sans-serif; }
+  /* line 21, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .product-description h3 {
+    color: #4eb3b3; }
+  /* line 24, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .product-description h4 {
+    font-weight: 500; }
+  /* line 27, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .product-description .books, .product-page-english .product-description .dilators, .product-page-english .product-description .dvd, .product-page-english .product-description .handle, .product-page-english .product-description .graduated {
+    max-width: 1000px; }
+    /* line 29, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .books div:nth-child(2), .product-page-english .product-description .dilators div:nth-child(2), .product-page-english .product-description .dvd div:nth-child(2), .product-page-english .product-description .handle div:nth-child(2), .product-page-english .product-description .graduated div:nth-child(2) {
+      padding: 1rem 0; }
+    /* line 32, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .books img, .product-page-english .product-description .dilators img, .product-page-english .product-description .dvd img, .product-page-english .product-description .handle img, .product-page-english .product-description .graduated img {
+      max-width: 500px;
+      display: block;
+      margin: 0 auto; }
+  /* line 39, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .product-description .handle img, .product-page-english .product-description .graduated img {
+    max-width: 250px; }
+  /* line 43, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .product-description .books .brand-btn, .product-page-english .product-description .complement .brand-btn {
+    display: block;
+    max-width: 225px;
+    margin: 0 auto;
+    text-align: center; }
+  @media screen and (min-width: 768px) {
+    /* line 52, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .video h3, .product-page-english .product-description .video h4, .product-page-english .product-description .forum h3, .product-page-english .product-description .forum h4, .product-page-english .product-description .handle h3, .product-page-english .product-description .handle h4, .product-page-english .product-description .graduated h3, .product-page-english .product-description .graduated h4 {
+      text-align: left; }
+    /* line 56, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .video, .product-page-english .product-description .handle {
+      display: flex;
+      flex-direction: row-reverse; }
+    /* line 61, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .handle div:first-child, .product-page-english .product-description .graduated div:first-child {
+      padding-top: 3rem; } }
+  @media screen and (min-width: 980px) {
+    /* line 69, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .books {
+      display: flex;
+      flex-direction: row-reverse; }
+    /* line 73, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .books img, .product-page-english .product-description .dilators img {
+      width: 100%;
+      max-width: 450px; }
+    /* line 77, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description h3, .product-page-english .product-description h4 {
+      text-align: left; }
+    /* line 80, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .product-description .video h3, .product-page-english .product-description .forum h3 {
+      margin-top: 1rem; } }
+  /* line 87, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .bonus-banner {
+    background: #f2f2f2; }
+    /* line 89, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .bonus-banner p {
+      font-size: 14px; }
+    /* line 92, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .bonus-banner h4 {
+      font-weight: 600;
+      font-size: 16px;
+      margin-top: 1rem; }
+  /* line 101, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english #reviews {
+    background: url(/img/white-wood-bkgd.jpg); }
+  /* line 105, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .banner-solid-gray {
+    min-height: 5.5rem;
+    padding-top: 1.9rem; }
+    /* line 108, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+    .product-page-english .banner-solid-gray a {
+      font-size: 20px; }
+  /* line 115, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+  .product-page-english .banner-solid {
+    margin-bottom: 2rem; }
+    @media screen and (max-width: 767.99px) {
+      /* line 117, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+      .product-page-english .banner-solid a {
+        margin: 0.75rem auto;
+        display: block;
+        max-width: 250px; }
+        /* line 122, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+        .product-page-english .banner-solid a:nth-child(3) {
+          margin-top: 1.5rem; } }
+    @media screen and (min-width: 768px) {
+      /* line 117, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+      .product-page-english .banner-solid a {
+        display: inline;
+        margin-bottom: 0.5rem; }
+        /* line 129, C:/xampp/htdocs/vaginismus/css/sass/pages/_product-pages-english.scss */
+        .product-page-english .banner-solid a:nth-child(2) {
+          margin-right: 1.5rem; } }
 
 /*# sourceMappingURL=main.css.map */

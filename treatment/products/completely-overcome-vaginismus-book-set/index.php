@@ -8,168 +8,135 @@
 ?>
 
 
-
 <!--   MAIN SECTION   -->
-    <main class="product-page">
+    <main class="product-page-english">
  
 <!--   HERO SECTION   -->
-      <section class="hero grad1">
+      <section class="hero">
         <div class="wrapper">
           <h1>Vaginismus Home Treatment Program</h1>
-          <h3>This well-illustrated book set comes with over 300 pages detailing the professional self-treatment of vaginismus, covering all aspects of successful home treatment in a simple, step-by-step format.</h3>
+          <p>This well-illustrated book set comes with over 300 pages detailing the professional self-treatment of vaginismus, covering all aspects of successful home treatment in a simple, step-by-step format.</p>
+          <a href="#">Buy Now</a>
         </div>
+        <img src="/img/products/hero-books.jpg" alt="Home Treatment Program">
       </section>
+    
       
-<!--   FEATURED PRODUCT SECTION   -->
-      <section class="product-description-0">
-        <div class="wrapper">
-          <div class="large-8 medium-8">
-            <img src="/img/products/products-books.jpg" alt="Vaginismus Home Treatment Program - 2 Book Set">
-          </div>
-          <div class="large-4 medium-4">
-            <h2>Includes:</h2>
-            <ul>
-              <li>Easy to Follow Steps</li>
-              <li>Fully Illustrated</li>
-              <li>Personal Workbook</li>
-              <li>Exercises &amp; Questions</li>
-              <li>Includes Forum Pass</li>
-            </ul>
-            <p class="product-sku">#B5404</p>
-            <p class="product-price">$32.95<sup><span>USD</span></sup></p>
-            <p class="product-price-caption">*Plus Shipping &amp; Handling</p>
-            <p><a class="shaded-btn" href="#">Add to Cart</a></p>
-            <p><a href="../../reviews/index.html">Customer Reviews<i class="icon-angle-double-right"></i></a></p>
-          </div>
-        </div>
-      </section>
-                    
 <!--   PRODUCT DESCRIPTION SECTION   -->
-      <section class="product-description-1">
+      <section class="product-description">
+<!-- books         -->
         <div class="wrapper">
-          <div class="large-5">
-            <img src="/img/products/open-books.jpg" alt="Two Book Set">
-          </div>
-          <div class="large-7">
+          <div class="large-12">
             <h2>Completely Overcome Vaginismus Book Set</h2>
-             <p><strong>1. Book One: </strong><em>Completely Overcome Vaginismus—The Practical Approach to Pain-Free Intercourse.</em> Clarifying the mystery of PC muscle tightness causing pain at the onset of intercourse, the 10 steps detail easy-to-follow exercises to overcome vaginismus in the privacy of a woman&#8217;s own home. All the information needed; pelvic floor control, eliminating pain, resolving emotional components, dilator exercises, sensate focus, transitioning to intercourse, and much more. Successful intercourse is the result. (<a href="../../reviews/index.html">See reader feedback</a>)</p>
-             <p><strong>2. Book Two: </strong><em>Completely Overcome Vaginismus—Personal Journal and Workbook.</em> Book Two provides in-depth questions and exercises to challenge, motivate, and support women as they work through the process of overcoming vaginismus (complementing Book One). Other helpful components include anatomy diagrams, PC muscle control charts, and sections designed to enable women to identify, express and resolve any contributing emotional components.</p>
+            <h3>Two Book Home Treatment Program</h3>
+            <p><strong>1. Book One: </strong><em>Completely Overcome Vaginismus—The Practical Approach to Pain-Free Intercourse.</em> Clarifying the mystery of PC muscle tightness causing pain at the onset of intercourse, the 10 steps detail easy-to-follow exercises to overcome vaginismus in the privacy of a woman&#8217;s own home. All the information needed; pelvic floor control, eliminating pain, resolving emotional components, dilator exercises, sensate focus, transitioning to intercourse, and much more. Successful intercourse is the result. (<a href="../../reviews/index.html">See reader feedback</a>)</p>
+            <p><strong>2. Book Two: </strong><em>Completely Overcome Vaginismus—Personal Journal and Workbook.</em> Book Two provides in-depth questions and exercises to challenge, motivate, and support women as they work through the process of overcoming vaginismus (complementing Book One). Other helpful components include anatomy diagrams, PC muscle control charts, and sections designed to enable women to identify, express and resolve any contributing emotional components.</p>
+            <a href="#" class="brand-btn">See Reader Feedback</a>
           </div>
         </div>
+      </section>
+      <section>
+        <img src="/img/products/open-book.jpg" alt="">
+      </section>
+
+      <section class="product-description">
+       <div class="wrapper">
+        <h2>Bringing Vaginismus Resources to People Around the World</h2>
+        <p>With our primary mission being to help women in any way we can, any where we can, we have translated our well illustrated books and informational materials in multiple languages.</p>
+        <img src="/img/products/book-languages.jpg" alt="">
+       </div>
       </section>
       
-<!--   PRODUCT DESCRIPTION SECTION   -->
-      <section class="product-description-6">
+<!--     REVIEWS SECTION----->
+      <section id="reviews">
         <div class="wrapper">
-          <div class="large-6 medium-6">
-            <img src="/img/products/products-forum-pass.jpg" alt="Forum Pass Included with Purchase">
+          <div class="medium-6 large-6">
+             <div class="testimonial outer-shadow-dark">
+               <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+               <div class="testimonial-text">
+                 <p>The 2-book series is <strong>an excellent guide for patients</strong> and has many helpful hints for therapists as well.  I can recommend use of this resource by all patients with vaginismus.</p><br>
+                 <p><strong>Beth Shelly</strong><br>PT BCIA-PMDB, APTA Journal of Women's Health Physical Therapy</p>
+              </div>
+            </div>
           </div>
-          <div class="large-6 medium-6">
-            <h2>Vaginismus Private Forum Pass</h2>
-            <p>Don&#8217;t go through vaginismus alone! <a href="../../forum-introduction/index.html"> Vaginismus Private Forum</a> (including moderator accessibility) &#8211; included with every book set purchase.</p>
-            <p><a class="brand-btn" href="../../forum-introduction/index.html">Learn More</i></a></p>
+
+          <div class="medium-6 large-6">
+             <div class="testimonial outer-shadow-dark">
+              <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+                <div class="testimonial-text">
+                  <p>Like many, many women, I had been to my gynecologist several times and she said that there was nothing wrong with me.  When I received the books and read about vaginismus I finally realized that I was not alone.</p>
+                  <p><strong>Anonymous</strong><br>Treatment Kit Customer</p>
+                </div>
+            </div>
           </div>
         </div>
       </section>
-      
-<!--   MULTI-LANGUAGE SECTION   -->
-      <section class="multi-language">
-        <div class="wrapper">
-          <h2>Bringing Vaginismus Resources to People Around the World</h2>
-          <p>With our primary mission being to help women in any way we can, any where we can, we have translated our well illustrated books and informational materials in multiple languages.</p>
-          <div class="large-5 medium-5">
-            <img src="/img/products/word-cloud.png" alt="Available Languages: Español, Português, العربية, Pусский, Türk, English">
-            
+<!--     REVIEWS BANNER-->
+      <div class="banner-solid-gray">
+        <a href="/treatment/products/vaginismus-treatment-kit/kit-reviews/index.php" class="gray-btn">Read More Customer Reviews</a>
+      </div>
+
+<!--   FEATURED PRODUCT SECTION   -->
+      <section class="buy-product">
+        <div class="wrapper purchase">
+          <div class="large-8 medium-6">
+            <img src="/img/products/books-standing.jpg" alt="Two Book Home Treatment Program" class="max-75">
           </div>
-          <div class="large-7 medium-7">
-            <img src="/img/products/pile-books.jpg" alt="Books in several languages stacked">
-          </div>
-        </div>
-      </section>
-       
-<!--   ORDER TODAY SECTION   -->
-      <section class="order-today">
-        <div class="wrapper">
-          <div class="large-4 medium-4">
-            <h2>Order Your Book Set Today!</h2>
+          <div class="large-4 medium-6">
+            <h3 class="max-75-text">Order Your Book Set Today!</h3>
+            <h4>Start Treatment Tomorrow</h4>
             <p>This comprehensive book set covers all aspects of successful home treatment in a simple step-by-step format.</p>
-          </div>
-          <div class="large-4 medium-4">
-            <img src="/img/products/products-books.jpg" alt="Vaginismus Home Treatment Program - 2 Book Set.">
-          </div>
-          <div class="large-4 medium-4">
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus Shipping &amp; Handling</p>
-            <p><a class="shaded-btn" href="#">Add to cart</a></p>
-            <p><a href="../../reviews/index.html">Customer Reviews<i class="icon-angle-double-right"></i></a></p>
+            <img src="#" alt="">
+            <a class="shaded-btn" href="#">Add to Cart</a>
+            <img src="#" alt="">
           </div>
         </div>
-      </section>
-       
-<!--   TREATMENT BANNER   -->
-      <section class="treatment-banner grad1">
-        <h2>Visit Our Vaginismus FAQs Page</h2>
-        <p><a class="white-btn" href="../../faq/index.html">Learn More</a></p>
-      </section>
-                 
 <!--      PRE-FOOTER-BADGES SECTION      -->
      
-      <div class="pre-footer-badges">
+        <div class="product-pre-footer">
+          <div class="wrapper">
+            <div class="large-8 medium-6">
+              <div class="badge-box ordering">
+               <h3>Don't Want to Order Online?</h3>
+                <hr>
+                <ul>
+                  <li>Call Toll Free in the USA: <a href="tel:+1-888-426-9900">1.888.426.9900</a></li>
+                  <li>International, Outside the USA: <a href="tel:+1-619-449-1200">1.619.449.1200</a></li>
+                  <li>Email Us: <a href="mailto:care@vaginismus.com" target="_blank">care@vaginismus.com</a></li>
+                  <li>Fax/Mail Order Form: <a href="/downloads/fax-mail-order-form.pdf" target="_blank">Download PDF</a></li>
+                </ul>
+                <p>If you would like to ship using Fedex or UPS please <a href="/contact-us/index.php">contact us</a> directly for accomodations.</p>
+              </div>
+            </div>
+            <div class="large-4 medium-6">
+              <div class="badge-box service">
+                <h3>Common Questions</h3>
+                <hr>
+                <ul>
+                  <li>Guaranteed Lowest Prices</li>
+                  <li>Ships World-Wide</li>
+                  <li>Safe &amp; Secure</li>
+                  <li>Private &amp; Confidential</li>
+                </ul>
+                <a href="/customer-service-questions/index.php" class="gray-btn">Customer Service FAQs</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+<!--   TREATMENT BANNER   -->
+      <div class="banner-solid">
         <div class="wrapper">
-          <div class="large-6">
-            <div class="badge-box">
-              <img src="/img/products/products-contact-icon.png" alt="contact icon"/>
-              <hr>
-              <p>Call Toll Free in the USA: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
-
-              <p>International, Outside the USA: <a href="tel:+1-619-449-1200">1.619.449.1200</a></p>
-
-              <p>Email Us: <a href="mailto:care@vaginismus.com" target="_blank">care@vaginismus.com</a></p>
-
-              <p>Fax/Mail Order Form: <a href="../../media/fax-mail-order-form.pdf" target="_blank">Download PDF</a></p>
-            </div>
-          </div>
-          <div class="large-3 medium-6">
-            <div class="badge-box">
-              <img src="/img/products/products-guarantee-icon.png" alt="guarantee icon">
-              <hr>
-              <ul>
-                <li><span><a href="../../faq/customer-service-questions/guarantee-faqs/index.html">Guaranteed Lowest Prices</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Guaranteed Delivery</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Easy Returns</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Ships World-Wide</a></span></li>
-              </ul>
-            </div>
-          </div>
-          <div class="large-3 medium-6">
-            <div class="badge-box">
-              <img src="/img/products/products-shield-icon.png" alt="shield icon">
-              <hr>
-              <ul>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Safe &amp; Secure</a></span></li>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Fast, Efficient Payments</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/privacy-policy/index.html">Private &amp; Confidential</a></span></li>
-              </ul>
-            </div>
-          </div>
+          <h2>Have Questions About Treatment?</h2>
+          <a href="/further-support/treatment-questions/index.php" class="white-btn">Treatment FAQs</a>
         </div>
       </div>
       
-<!--      CREDIT CARDS AND SHIPPING SECTION      -->
-      <div class="credit-and-shipping">
-       <div class="wrapper">
-         <div class="large-6 medium-6">
-           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover and American Express accepted" />
-         </div>
-         <div class="large-6 medium-6">
-           <img src="/img/products/products-shipping-icon.jpg" alt="DHL and United States Postal Service shipping" />
-         </div>
-           
-         </div>
-         <p><strong> If you would like to ship using FedEx or UPS, please contact us directly for accommodations. </strong></p>
-       </div>
-
     </main>
+
                     
 <?php
   include(ROOT_PATH.'/includes/footer.php');

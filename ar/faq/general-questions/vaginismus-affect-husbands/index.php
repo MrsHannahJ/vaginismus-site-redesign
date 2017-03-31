@@ -27,11 +27,11 @@
             <li><strong>الابتعاد</strong> &#8211; &#8220;تسود الفوضى حياتي المنزلية وأنا لا أريد حتى أن أرى زوجتي الآن. ربما من الأفضل أن أقضي الوقت في العمل أو مع الرفاق، فأصدقائي يقدرونني على الأقل، وعندما أكون مشغولا فلن أضطر للتفكير في الأمر&#8221;</li>
           </ul>
           <h3>فهم تجنب</h3>
-          <p>من المهم أن يفهم الأزواج أن التشنج المهبلي ليس شيئا تسببه المرأة عمدا لتتجنب ممارسة الجنس. فانقباض <a href="../../../vaginismus-causes/index.html#pc-muscles">عضلات ع ع</a> الذي يسبب “إغلاق” المهبل هو ردة فعل غير واعية وغير طوعية تحدث خارجا عن سيطرة المرأة أو نيتها.</p>
+          <p>من المهم أن يفهم الأزواج أن التشنج المهبلي ليس شيئا تسببه المرأة عمدا لتتجنب ممارسة الجنس. فانقباض <a href="/ar/vaginismus-causes/index.php#pc-muscles">عضلات ع ع</a> الذي يسبب “إغلاق” المهبل هو ردة فعل غير واعية وغير طوعية تحدث خارجا عن سيطرة المرأة أو نيتها.</p>
           <h3>فهم مخاوفها</h3>
-          <p>وعلى الرغم من أن المرأة قد ترغب جدا في الجماع، إلا أنه يوجد “انفصال” بين عقلها وجسدها يحرض عضلات ع ع على التشنج. وهناك العديد من العوامل <a href="../../../vaginismus-causes/index.html#non-physical-causes">النفسية</a> و <a href="../../../vaginismus-causes/index.html#physical-causes">الجسدية</a> التي يمكن أن تسهم في نشوء التشنج المهبلي. وتؤثر العوامل النفسية على بعض النساء اللواتي أصبن بتشنج مهبلي، ومن هذه العوامل الخوف من الإيلاج (الذي لا تشترك فيه جميع أنواع التشنج المهبلي). وفي مثل هذه الحالات من المهم للمرأة أن تتفهم مخاوفها وأفكارها السلبية عن الجنس وتتغلب عليها. إن قائمة التاريخ النفسي المرفقة مع برنامج <a href="../../../products/vaginismus-treatment-kit/index.html">المساعدة الذاتية</a> تساعد المرأة في الوصول إلى أصل هذه العوامل وإبدالها بمشاعر جنسية إيجابية.</p>
+          <p>وعلى الرغم من أن المرأة قد ترغب جدا في الجماع، إلا أنه يوجد “انفصال” بين عقلها وجسدها يحرض عضلات ع ع على التشنج. وهناك العديد من العوامل <a href="/ar/vaginismus-causes/index.php#non-physical-causes">النفسية</a> و <a href="/ar/vaginismus-causes/index.php#physical-causes">الجسدية</a> التي يمكن أن تسهم في نشوء التشنج المهبلي. وتؤثر العوامل النفسية على بعض النساء اللواتي أصبن بتشنج مهبلي، ومن هذه العوامل الخوف من الإيلاج (الذي لا تشترك فيه جميع أنواع التشنج المهبلي). وفي مثل هذه الحالات من المهم للمرأة أن تتفهم مخاوفها وأفكارها السلبية عن الجنس وتتغلب عليها. إن قائمة التاريخ النفسي المرفقة مع برنامج <a href="/ar/products/vaginismus-treatment-kit/index.php">المساعدة الذاتية</a> تساعد المرأة في الوصول إلى أصل هذه العوامل وإبدالها بمشاعر جنسية إيجابية.</p>
           <h3>الآثار المترتبة على العلاقة والألفة</h3>
-          <p>ليس من غير المألوف أن ‘يخزن’ الرجال عواطفهم وينكروا مشاعر الغضب والإحباط والضغط المرتبطة بالعيش في <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">علاقة غير مكتملة</a>. وكثيرا ما يشعر الرجال أنهم لا يستطيعون أن يخبروا أحدا عن وضعهم. وقد يخشون أيضا من جرح مشاعر زوجاتهم إن أخبروا أحدا عن “سرهم الصغير” وهكذا يعيشون مع مشاعر الاستياء والحزن المكبوتة- سواء بالنسبة لهم أو لزوجاتهم.</p>
+          <p>ليس من غير المألوف أن ‘يخزن’ الرجال عواطفهم وينكروا مشاعر الغضب والإحباط والضغط المرتبطة بالعيش في <a href="/ar/vaginismus-symptoms/index.php#unconsummated-marriages">علاقة غير مكتملة</a>. وكثيرا ما يشعر الرجال أنهم لا يستطيعون أن يخبروا أحدا عن وضعهم. وقد يخشون أيضا من جرح مشاعر زوجاتهم إن أخبروا أحدا عن “سرهم الصغير” وهكذا يعيشون مع مشاعر الاستياء والحزن المكبوتة- سواء بالنسبة لهم أو لزوجاتهم.</p>
           <p>وللأسف يتوقف كثير من الأزواج عن العلاقة الحميمة بسبب الألم والإحباط بسبب الفشل في محاولات الجماع. وتشيع النزاعات وقد تستمر المشاكل في العلاقات في تصاعدها طالما بقي التشنج المهبلي بلا علاج. وقد ينهار التواصل ما بين الزوجين بينما ينزوي كل منهما في أحد جانبي السرير أو ينام كل منهما على سرير منفصل.</p>
           <p>وقد يحتاج الزوجان لمعالجة الحالة الطبية أو الجراحية أو الاعتداء الذي تسبب في المشكلة بالإضافة إلى معالجة التشنج المهبلي، الأمر الذي يحتمل أن يسبب المزيد من الضغوطات على علاقتهما.</p>
           <h3>هنالك حل</h3>
@@ -39,10 +39,10 @@
           <hr/>
           <h3>راجعي أيضا</h3>
           <ul>
-            <li><a href="../../treatment-questions/men-help-wives/index.html">ما الذي يستطيع الرجال أن يفعلوه لمساعدة زوجاتهم في أمر التشنج المهبلي</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">كيف يمكنني أن أبقى متحمسة وإيجابية خلال العلاج؟ أقاوم التهرب.</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">هل تنصحون بالتعاون مع الاختصاصيين في العلاج مثل الأطباء أو أطباء الأمراض النسائية أو المعالجين الطبيعيين أو علماء النفس أو المعالجين النفسيين أو المرشدين أو المعالجين الجنسيين أو غيرهم؟</a></li>
-            <li><a href="../../../vaginismus-stories/">قصص التشنج المهبلي</a></li>
+            <li><a href="/ar/faq/treatment-questions/men-help-wives/index.php">ما الذي يستطيع الرجال أن يفعلوه لمساعدة زوجاتهم في أمر التشنج المهبلي</a></li>
+            <li><a href="/ar/faq/treatment-questions/how-can-i-stay-motivated/index.php">كيف يمكنني أن أبقى متحمسة وإيجابية خلال العلاج؟ أقاوم التهرب.</a></li>
+            <li><a href="/ar/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">هل تنصحون بالتعاون مع الاختصاصيين في العلاج مثل الأطباء أو أطباء الأمراض النسائية أو المعالجين الطبيعيين أو علماء النفس أو المعالجين النفسيين أو المرشدين أو المعالجين الجنسيين أو غيرهم؟</a></li>
+            <li><a href="/ar/vaginismus-stories/index.php">قصص التشنج المهبلي</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -52,21 +52,21 @@
           <aside class="large-3">
           <h2>أسئلة عامة</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>ما هو التشنج المهبلي؟</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>كيف أعلم إن كان لديّ تشنّج مهبليّ؟</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>ما هو الفرق بين التشنّج المهبليّ الأوليّ والتشنّج المهبليّ الثانويّ؟</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>هل هناك درجات متفاوتة من أعراض التشنّج المهبليّ؟</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>هل يمكن للتشنّج المهبليّ أن يختفي من ذاته؟</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>كم عدد النساء اللواتي يعانين من التشنّج المهبليّ؟</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>هل يمكن أن يكون التشنّج المهبليّ مجرّد فكرة في ذهني؟</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>هل يحتمل أن يكون مهبلي ضيقا جدا؟ هل يمكن أن يكون أصغر من الحجم المطلوب بسبب قلة ممارسة الجنس؟</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>هل يحتمل أن تكون مشكلتي بسبب غشاء بكارتي؟</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html" class="active"><i class="icon-angle-double-right"></i>كيف يؤثر التشنج المهبلي على أزواج النساء اللواتي لديهن تشنج مهبلي؟ </a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>ما هو عسر الجماع أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>يبدو أنني غير قادرة على الوصول إلى رعشة الجماع. هل يحتمل أن لهذا علاقة بالتشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>ما هو التشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>كيف أعلم إن كان لديّ تشنّج مهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>ما هو الفرق بين التشنّج المهبليّ الأوليّ والتشنّج المهبليّ الثانويّ؟</a></li>
+            <li><a href="/ar/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>هل هناك درجات متفاوتة من أعراض التشنّج المهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>هل يمكن للتشنّج المهبليّ أن يختفي من ذاته؟</a></li>
+            <li><a href="/ar/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>كم عدد النساء اللواتي يعانين من التشنّج المهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>هل يمكن أن يكون التشنّج المهبليّ مجرّد فكرة في ذهني؟</a></li>
+            <li><a href="/ar/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>هل يحتمل أن يكون مهبلي ضيقا جدا؟ هل يمكن أن يكون أصغر من الحجم المطلوب بسبب قلة ممارسة الجنس؟</a></li>
+            <li><a href="/ar/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>هل يحتمل أن تكون مشكلتي بسبب غشاء بكارتي؟</a></li>
+            <li><a href="/ar/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
+            <li><a href="/ar/faq/general-questions/vaginismus-affect-husbands/index.php" class="active"><i class="icon-angle-double-right"></i>كيف يؤثر التشنج المهبلي على أزواج النساء اللواتي لديهن تشنج مهبلي؟ </a></li>
+            <li><a href="/ar/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>ما هو عسر الجماع أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>يبدو أنني غير قادرة على الوصول إلى رعشة الجماع. هل يحتمل أن لهذا علاقة بالتشنج المهبلي؟</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">عرض كل الأسئلة</a>
+          <a href='/ar/faq/index.php' class="shaded-btn">عرض كل الأسئلة</a>
         </aside>
       </div>
     </main>

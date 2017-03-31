@@ -21,11 +21,11 @@
           
           <h3>راجعي أيضا</h3>
             <ul>
-              <li><a href="../../../products/vaginal-dilator-set/index.html">الموسعات المهبلية</a></li>
-              <li><a href="../what-are-the-dilators-made-of/index.html">مم تصنع الموسعات؟</a></li>
-              <li><a href="../health-insurance-cover-dilators/index.html">هل سيغطي تأميني الصحي كلفة شراء هذه الموسعات؟</a></li>
-              <li><a href="../../customer-service-questions/ordering-faqs/index.html">هل يمكنني رد الموسعات واسترجاع ما دفعته إذا لم أستخدمها؟</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">ما هو dyspareunia أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
+              <li><a href="/ar/products/vaginal-dilator-set/index.php">الموسعات المهبلية</a></li>
+              <li><a href="/ar/faq/dilator-questions/what-are-the-dilators-made-of/index.php">مم تصنع الموسعات؟</a></li>
+              <li><a href="/ar/faq/dilator-questions/health-insurance-cover-dilators/index.php">هل سيغطي تأميني الصحي كلفة شراء هذه الموسعات؟</a></li>
+              <li><a href="/ar/faq/customer-service-questions/ordering-faqs/index.php">هل يمكنني رد الموسعات واسترجاع ما دفعته إذا لم أستخدمها؟</a></li>
+              <li><a href="/ar/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">ما هو dyspareunia أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
             </ul>
           
           <hr class="hidden-desktop"/>
@@ -36,15 +36,15 @@
           <aside class="large-3">
           <h2>أسئلة متكررة عن الموسعات</h2>
           <ul>
-            <li><a href="../what-are-the-dilators-made-of/index.html"><i class="icon-angle-double-right"></i>مم تصنع الموسعات؟</a></li>
-            <li><a href="../health-insurance-cover-dilators/index.html"><i class="icon-angle-double-right"></i>هل سيغطي تأميني الصحي كلفة شراء هذه الموسعات؟</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>لماذا تستخدم الموسعات المهبلية في علاج التشنج المهبلي؟</a></li>
-            <li><a href="../can-i-just-get-dilators/index.html"><i class="icon-angle-double-right"></i>هل يمكن استخدام الموسعات دون برنامج محدد؟</a></li>
-            <li><a href="../dilators-treat-other-conditions/index.html" class="active"><i class="icon-angle-double-right"></i>هل يمكن استخدام الموسعات لعلاج حالات أخرى بالإضافة إلى التشنج المهبلي؟</a></li>
-            <li><a href="../will-dilators-break-hymen/index.html"><i class="icon-angle-double-right"></i>إذا كانت بكارتي لم تمس بعد، فهل ستفضها الموسعات وهل ستؤلمني؟</a></li>
-            <li><a href="../vaginal-dilators-for-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>ما هي أفضل أنواع الموسعات في علاج التشنج المهبلي والحالات الأخرى المشابهة له؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/what-are-the-dilators-made-of/index.php"><i class="icon-angle-double-right"></i>مم تصنع الموسعات؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/health-insurance-cover-dilators/index.php"><i class="icon-angle-double-right"></i>هل سيغطي تأميني الصحي كلفة شراء هذه الموسعات؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>لماذا تستخدم الموسعات المهبلية في علاج التشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/can-i-just-get-dilators/index.php"><i class="icon-angle-double-right"></i>هل يمكن استخدام الموسعات دون برنامج محدد؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/dilators-treat-other-conditions/index.php" class="active"><i class="icon-angle-double-right"></i>هل يمكن استخدام الموسعات لعلاج حالات أخرى بالإضافة إلى التشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/will-dilators-break-hymen/index.php"><i class="icon-angle-double-right"></i>إذا كانت بكارتي لم تمس بعد، فهل ستفضها الموسعات وهل ستؤلمني؟</a></li>
+            <li><a href="/ar/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>ما هي أفضل أنواع الموسعات في علاج التشنج المهبلي والحالات الأخرى المشابهة له؟</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">عرض كل الأسئلة</a>
+          <a href='/ar/faq/index.php' class="shaded-btn">عرض كل الأسئلة</a>
         </aside>
       </div>
     </main>

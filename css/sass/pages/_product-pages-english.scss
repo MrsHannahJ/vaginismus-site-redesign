@@ -1,0 +1,137 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to all the product pages.
+// -----------------------------------------------------------------------------
+
+.product-page-english{
+  section:first-child{
+    padding-top:2rem;
+  }
+  
+/*-----------HERO-------------*/
+  .hero{
+    text-align: center;
+    a{
+      display:inline-block;
+      margin:0 2rem 1rem;
+      font-family: $accent-font-common;
+    }
+  }
+/*-----------PRODCUT DESCRIPTION-----------*/
+  .product-description{
+    h3{
+      color: $brand;
+    }
+    h4{
+      font-weight: 500;
+    }
+    .books, .dilators, .dvd, .handle, .graduated{
+      max-width: 1000px;
+      div:nth-child(2){
+        padding: 1rem 0;
+      }
+      img{
+        max-width: 500px;
+        display: block;
+        margin: 0 auto;
+      }
+    }
+    .handle, .graduated{
+      img{
+        max-width: 250px;
+      }
+    }
+    .books .brand-btn, .complement .brand-btn{
+      display: block;
+      max-width: 225px;
+      margin: 0 auto;
+      text-align: center;
+    }
+//TABLET
+    @media screen and (min-width: $breakpoint-medium){
+      .video, .forum, .handle, .graduated{
+        h3,h4{
+          text-align: left;
+        }
+      }
+      .video, .handle{
+        display: flex;
+        flex-direction: row-reverse;
+      }
+      .handle, .graduated{
+        div:first-child{
+        padding-top: 3rem;
+      }
+
+      }
+  }
+//DESKTOP
+    @media screen and (min-width: $breakpoint-large){
+      .books{
+        display: flex;
+        flex-direction: row-reverse;
+      }
+      .books img, .dilators img{
+          width: 100%;
+          max-width:450px;
+      }
+      h3,h4{
+        text-align: left;
+      }
+      .video h3, .forum h3{
+        margin-top: 1rem;
+      }
+    }
+  }
+/*---------BONUS BANNER--------*/
+  
+  .bonus-banner{
+    background: $light-gray-background;
+    p{
+      font-size: 14px;
+    }
+    h4{
+      font-weight: 600;
+      font-size: 16px;
+      margin-top:1rem;
+    }
+  }
+
+  
+/*---------REVIEWS SECTION--------*/
+  #reviews{
+    background: url(/img/white-wood-bkgd.jpg);
+  }
+  
+  .banner-solid-gray{
+    min-height:5.5rem;
+    padding-top:1.9rem;
+    a{
+      font-size: 20px;
+    }
+  }
+  
+  
+  /*---------FAQ BANNER--------*/
+  .banner-solid{
+    margin-bottom: 2rem;
+    a{
+      @media screen and (max-width: 767.99px){
+        margin: 0.75rem auto;
+        display: block;
+        max-width: 250px;
+        &:nth-child(3){
+          margin-top:1.5rem;
+        }
+      }
+      @media screen and (min-width: $breakpoint-medium){
+        display: inline;
+        margin-bottom: 0.5rem;
+        &:nth-child(2){
+          margin-right: 1.5rem;
+        }
+      }
+    }
+  }
+  
+
+}

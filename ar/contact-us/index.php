@@ -13,7 +13,7 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
-      <img src="../../img/contact-us/contact-us-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="اتصل بنا">
+      <img src="/img/contact-us/contact-us-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="اتصل بنا">
       <div class="wrapper">
          <div class="large-12 medium-12">
            <div class="hero-text hero-text-right">
@@ -28,17 +28,17 @@
       <h1>اتصال</h1>
       <div class="wrapper">
         <div class="large-4 medium-6">
-          <a href="tel:+1-888-426-9900"><img src="../../img/icons/call.png" alt=""></a>
+          <a href="tel:+1-888-426-9900"><img src="/img/icons/call.png" alt=""></a>
           <h2>الرقم المجاني (الولايات المتحدة):</h2>
           <p><a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
         </div>
         <div class="large-4 medium-6">
-          <a href="tel:+1-619-449-1200"><img src="../../img/icons/call-international.png" alt=""></a>
+          <a href="tel:+1-619-449-1200"><img src="/img/icons/call-international.png" alt=""></a>
           <h2>دولياً:</h2>
           <p><a href="tel:+1-619-449-1200">1.619.449.1200</a></p>
         </div>
         <div class="large-4 medium-12">
-          <a href="mailto:care@vaginismus.com"><img src="../../img/icons/email.png" alt=""></a>
+          <a href="mailto:care@vaginismus.com"><img src="/img/icons/email.png" alt=""></a>
           <h2>البريد الإلكتروني:</h2>
           <p><a href="mailto:care@vaginismus.com">care@vaginismus.com</a></p>
         </div>
@@ -50,7 +50,7 @@
     <section class="grad1">
       <div class="wrapper">
        <h2>زيارة لدينا أسئلة وأجوبة خدمة العملاء</h2>
-       <a href="../faq/index.html#customer">أعرف أكثر
+       <a href="/ar/faq/index.php#customer">أعرف أكثر
 </a>
      </div>
     </section>

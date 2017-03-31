@@ -60,9 +60,9 @@
           <hr />
           <h3>راجعي أيضاً</h3>
           <ul>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">ما هو مدى نجاح علاج التشنّج المهبليّ؟</a></li>
-            <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html">ماهي المدة التي يستغرقها العلاج؟</a></li>
-            <li><a href="../what-is-vaginismus/index.html">ما هو التشنّج المهبليّ ؟</a></li>
+            <li><a href="/ar/faq/treatment-questions/vaginismus-treatment-success-rates/index.php">ما هو مدى نجاح علاج التشنّج المهبليّ؟</a></li>
+            <li><a href="/ar/faq/treatment-questions/how-long-does-treatment-take/index.php">ماهي المدة التي يستغرقها العلاج؟</a></li>
+            <li><a href="/ar/faq/general-questionswhat-is-vaginismus/index.php">ما هو التشنّج المهبليّ ؟</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -72,21 +72,21 @@
           <aside class="large-3">
           <h2>أسئلة عامة</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>ما هو التشنج المهبلي؟</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>كيف أعلم إن كان لديّ تشنّج مهبليّ؟</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>ما هو الفرق بين التشنّج المهبليّ الأوليّ والتشنّج المهبليّ الثانويّ؟</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>هل هناك درجات متفاوتة من أعراض التشنّج المهبليّ؟</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>هل يمكن للتشنّج المهبليّ أن يختفي من ذاته؟</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>كم عدد النساء اللواتي يعانين من التشنّج المهبليّ؟</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>هل يمكن أن يكون التشنّج المهبليّ مجرّد فكرة في ذهني؟</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>هل يحتمل أن يكون مهبلي ضيقا جدا؟ هل يمكن أن يكون أصغر من الحجم المطلوب بسبب قلة ممارسة الجنس؟</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>هل يحتمل أن تكون مشكلتي بسبب غشاء بكارتي؟</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>كيف يؤثر التشنج المهبلي على أزواج النساء اللواتي لديهن تشنج مهبلي؟ </a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>ما هو عسر الجماع أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>يبدو أنني غير قادرة على الوصول إلى رعشة الجماع. هل يحتمل أن لهذا علاقة بالتشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questionswhat-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>ما هو التشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questionsdo-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>كيف أعلم إن كان لديّ تشنّج مهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questionsprimary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>ما هو الفرق بين التشنّج المهبليّ الأوليّ والتشنّج المهبليّ الثانويّ؟</a></li>
+            <li><a href="/ar/faq/general-questionsvarying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>هل هناك درجات متفاوتة من أعراض التشنّج المهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questionswill-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>هل يمكن للتشنّج المهبليّ أن يختفي من ذاته؟</a></li>
+            <li><a href="/ar/faq/general-questionshow-many-women-have-vaginismus/index.php" class="active"><i class="icon-angle-double-right"></i>كم عدد النساء اللواتي يعانين من التشنّج المهبليّ؟</a></li>
+            <li><a href="/ar/faq/general-questionsvaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>هل يمكن أن يكون التشنّج المهبليّ مجرّد فكرة في ذهني؟</a></li>
+            <li><a href="/ar/faq/general-questionsvagina-too-small/index.php"><i class="icon-angle-double-right"></i>هل يحتمل أن يكون مهبلي ضيقا جدا؟ هل يمكن أن يكون أصغر من الحجم المطلوب بسبب قلة ممارسة الجنس؟</a></li>
+            <li><a href="/ar/faq/general-questionshymen-problems/index.php"><i class="icon-angle-double-right"></i>هل يحتمل أن تكون مشكلتي بسبب غشاء بكارتي؟</a></li>
+            <li><a href="/ar/faq/general-questionshad-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>هل من الممكن أن تكون مشكلتي هي التشنج المهبلي حتى لو سبق لي واستمتعت بالجماع من قبل ولكنه صار الآن مؤلما؟</a></li>
+            <li><a href="/ar/faq/general-questionsvaginismus-affect-husbands/index.php"><i class="icon-angle-double-right"></i>كيف يؤثر التشنج المهبلي على أزواج النساء اللواتي لديهن تشنج مهبلي؟ </a></li>
+            <li><a href="/ar/faq/general-questionsdyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>ما هو عسر الجماع أو ألم الجماع؟ ما هي العلاقة بين ألم الجماع والتشنج المهبلي؟</a></li>
+            <li><a href="/ar/faq/general-questionsorgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>يبدو أنني غير قادرة على الوصول إلى رعشة الجماع. هل يحتمل أن لهذا علاقة بالتشنج المهبلي؟</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">عرض كل الأسئلة</a>
+          <a href='/ar/faq/index.php' class="shaded-btn">عرض كل الأسئلة</a>
         </aside>
       </div>
     </main>

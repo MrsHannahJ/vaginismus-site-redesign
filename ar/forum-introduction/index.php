@@ -11,7 +11,7 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
-      <img src="../../img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum introduction">
+      <img src="/img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum introduction">
       <div class="wrapper">
         <div class="large-12 medium-12">
           <div class="hero-text-right">
@@ -43,11 +43,11 @@
       <div class="wrapper">
         <div class="large-4">
           <h2>منتدى التشنج المهبلي الخاص</h2>
-          <p> ويعتبر المنتدى مكان آمن للسيدات للحصول على المعلومات العملية، والنصائح المفيدة، والتحفيز من مراقبي الحوار والسيدات الأخريات الذين يتولون برامج  <strong><a href="../products/vaginismus-treatment-kit/index.html">المساعدة</a></strong>.</p>
+          <p> ويعتبر المنتدى مكان آمن للسيدات للحصول على المعلومات العملية، والنصائح المفيدة، والتحفيز من مراقبي الحوار والسيدات الأخريات الذين يتولون برامج  <strong><a href="/ar/products/vaginismus-treatment-kit/index.php">المساعدة</a></strong>.</p>
           <p>للمزيد من المعلومات عن المنتديات وكيفية الحصول على جواز مرور، زر ما يلي أسفله.</p>
         </div>
         <div class="large-8">
-          <img src="../../img/ar/forum-features-bar-ar.png" alt="الحرة المنتدى خاص، 24/7 الوصول إليها عبر الإنترنت، أكثر من 10،000 الأعضاء، الآلاف من الوظائف، ومراقبتها وآمنة، مجهول يحدد">
+          <img src="/img/ar/forum-features-bar-ar.png" alt="الحرة المنتدى خاص، 24/7 الوصول إليها عبر الإنترنت، أكثر من 10،000 الأعضاء، الآلاف من الوظائف، ومراقبتها وآمنة، مجهول يحدد">
           <h4>احصلي على بطاقة المرور للمنتدى الخاص – تأتي كجزء من أي عدة من عدد علاج التشنج المهبلي مجاناً!</h4>
         </div>
       </div>
@@ -58,19 +58,19 @@
     <section class="grad1">
       <div class="wrapper">
         <div class="large-4">
-          <img src="../../img/icons/forum-community.png" alt="مرحباً بالمستجدات" aria-hidden="true">
+          <img src="/img/icons/forum-community.png" alt="مرحباً بالمستجدات" aria-hidden="true">
           <h2>مرحباً بالمستجدات</h2>
           <p>يمكن لأي سيدة تنضم إلى المنتدى أن تنشر أسئلتها ومشكلاتها دون الكشف عن هويتها باستخدام اسم شاشة من اختيارها. تختار بعض السيدات أن تقرأن ما تنشره الأخريات من أجل التحفيز بينما تشاركن بعض السيدات بنشاط في موضوعات التحفيز العديدة.</p>
         </div>
         <div class="large-4">
-          <img src="../../img/icons/forum-chat.png" alt="الدردشة المباشرة" aria-hidden="true">
+          <img src="/img/icons/forum-chat.png" alt="الدردشة المباشرة" aria-hidden="true">
           <h2>الدردشة المباشرة</h2>
           <p>كما يشتمل المنتدى على غرفة دردشة للسيدات للتواصل على مستوى شخصي. يمكن للسيدات من أرجاء العالم اللاتي يعانين من التشنج المهبلي أن يتحادثن عن حياتهن أو يسألن أسئلة عن العلاج. ونجد أنه حتى برغم عدم الافصاح عن الهوية، فإنه عندما تبدأ السيدات في الإفصاح عن مشكلتهن، فإنهن يصبحن أكثر إيجابية بشأن حالة التشنج المهبلي حيث يتخلصن من الشعور بالعزلة.</p>
         </div>
         <div class="large-4">
-          <img src="../../img/icons/treatment.png" alt="لست بمفردك" aria-hidden="true">
+          <img src="/img/icons/treatment.png" alt="لست بمفردك" aria-hidden="true">
           <h2>لست بمفردك</h2>
-          <p>يرتكز نشاط المنتدى على مساعدة السيدات بعضهن لبعض، ويتواجد المراقبون للحوار لتوفير الدعم الفني والنفسي بخصوص علاج التشنج المهبلي. ونرغب في أن يكون المنتدى مكاناً آمناً للأمل، والتحفيز، والمعرفة، والإلهام، والصداقة، والشفاء حيث تعمل السيدات معاً في إطار برنامج <strong> <a href="../products/vaginismus-treatment-kit/index.html">المساعدة الذاتية</a></strong> في نفس الوقت.</p>
+          <p>يرتكز نشاط المنتدى على مساعدة السيدات بعضهن لبعض، ويتواجد المراقبون للحوار لتوفير الدعم الفني والنفسي بخصوص علاج التشنج المهبلي. ونرغب في أن يكون المنتدى مكاناً آمناً للأمل، والتحفيز، والمعرفة، والإلهام، والصداقة، والشفاء حيث تعمل السيدات معاً في إطار برنامج <strong> <a href="/ar/products/vaginismus-treatment-kit/index.php">المساعدة الذاتية</a></strong> في نفس الوقت.</p>
         </div>
       </div>
     </section>
@@ -83,7 +83,7 @@
         <div class="large-4">
           <p>الهدف الرئيسي من المنتدى هو تقديم شبكة دعم للسيدات اللاتي يحاولن التغلب على التشنج المهبلي. ويتوافر المنتدى على مدار الساعة. ويمكن للسيدات أن تسألن أسئلة عن المشكلات البدنية أو النفسية كما يمكن لهن أن تحصلن على التحفيز الإيجابي اللازم بينما يمررن بخطوات البرنامج. ومن ضمن أمثلة الموضوعات التي بالمنتدى:</p>
           <ul>
-            <li>أسئلة متعلقة بكل خطوة من خطوات برنامج <a href="../products/vaginismus-treatment-kit/index.html">المساعدة الذاتية</a></li>
+            <li>أسئلة متعلقة بكل خطوة من خطوات برنامج <a href="/ar/products/vaginismus-treatment-kit/index.php">المساعدة الذاتية</a></li>
             <li>التشنج المهبلي والعلاقات</li>
             <li>مشكلات الضغوط النفسية والبدنية</li>
             <li>الحمل والتشنج المهبلي</li>
@@ -95,14 +95,14 @@
         </div>
         <div class="large-4">
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>أنا مسرورة جدا بهذا المنتدى…” “شكرا لكم جميعا على اقتراحاتكم وأفكاركم وشكرا خاصا لدعمكم، وأنا سعيدة للغاية بهذا المنتدى الذي يجعلني أعرف أنني لست وحيدة.</p>
               <p><strong>مجهول الخاص المنتدى العضو</strong></p>
             </div>
           </div>
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>لا أستطيع أن أصدق أنني وجدت هذا…إنني أتطلع بعين الأمل إلى ما ألقاه من النساء الرائعات في هذا المنتدى من تشجيع وصلوات ودعم وأعلم أنني سأتغلب قريبا على التشنج المهبلي بمساعدتكن. شعرت وكأنني حصلت على هبة من الله عندما اكتشفت هذا الموقع وعلمت عن العدة وقرأت في هذا المنتدى. لا أستطيع أن أصدق أنني وجدت ذلك</p>
               <p><strong>مجهول الخاص المنتدى العضو</strong></p>
@@ -111,14 +111,14 @@
         </div>
         <div class="large-4">
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>يمكن للقراءة والكتابة في هذا المنتدى أن تقللا من الشعور بالعزلة بشكل كبير…إن عبارة ‘سر يدعو للشعور بالذنب’ تعني حرفيا التشنج المهبلي حسبما كنت أراه إلى أن انضممت إلى هذا المنتدى. لقد لاحظت فيما بعد أنني لم أعد أفكر بهذه الطريقة، ورغم أن التشنج المهبلي كان عبئا ضخما على كاهلي ومدعاة للخجل يوميا، إلا أنني الآن أصبحت أفكر حتى في إمكانية مشاركة قصتي مع الآخرين في المستقبل. يمكن للمشاركة في هذا المنتدى سواء بالقراءة أو الكتابة فيه أن تقلل بشكل كبير من الشعور بالعزلة واليأس الذي كان معظمنا يعاني منه في البداية</p>
               <p><strong>مجهول الخاص المنتدى العضو</strong></p>
             </div>
           </div>
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>دعم رائع…كان التغلب على التشنج المهبلي أمرا صعبا قبل أن أعثر على هذا المنتدى ولكنني الآن أحرز تقدما … فهو دعم رائع ويحفزني بشكل ليس له مثيل!</p>
               <p><strong>مجهول الخاص المنتدى العضو</strong></p>
@@ -133,13 +133,13 @@
      <section>
        <div class="wrapper">
          <div class="large-6">
-           <img src="../../img/forum-introduction/forum-introduction-pass.jpg" alt="منتدى النجاح">
+           <img src="/img/forum-introduction/forum-introduction-pass.jpg" alt="منتدى النجاح">
          </div>
          <div class="large-6">
            <h2>كيف يمكنني الحصول على جواز مرور؟</h2>
            <p>مجموعات الكتب أو عدد التشنج المهبلي. والمنتدى حصري لهؤلاء الذين يمرون بالبرنامج وحصلوا على الكتب (لا تضمن جوازات المرور عند طلب عدة الموسعات فقط). وحيث توجد الآن على الإنترنت منتديات عامة لهؤلاء اللاتي تعانين من التشنج المهبلي، فإن منتدانا موجه للسيدات اللاتي على معرفة ببرنامجنا ويمارسنه.</p>
            <p>يساعد جواز المرور على اختيار كلمة سر واسم مستخدم. وبمجرد أن يصبح لك كلمة سر واسم مستخدم، يمكنك الحصول على دخول المنتدى الخاص ومركز المجتمع، مما يمكنك من الوصول إلى دعم المئات من السيدات في أرجاء العالم.</p>
-           <p>ملاحظة: إذا كنت قد طلبت هذه المنتجات في السابق وليس لديك جواز مرور، برجاء <strong><a href="../contact-us/index.html">الاتصال بنا</a></strong> للحصول عليها (دون أي تكلفة).</p>
+           <p>ملاحظة: إذا كنت قد طلبت هذه المنتجات في السابق وليس لديك جواز مرور، برجاء <strong><a href="/ar/contact-us/index.php">الاتصال بنا</a></strong> للحصول عليها (دون أي تكلفة).</p>
          </div>
        </div>
      </section>

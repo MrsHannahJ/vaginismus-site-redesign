@@ -79,7 +79,7 @@
             <div class="text-box">
               <h3>Treatment Products</h3>
               <p class="hidden-mobile">Our self-treatment products are everything you need to overcome vaginismus in the privacy of your own home &#8211; the most effective resources available.</p>
-              <a href="" class="gray-btn hidden-mobile">View All Products</a>
+              <a href="/treatment/products/index.php" class="gray-btn hidden-mobile">View All Products</a>
             </div>
           </div>
           <img src="/img/home/products.jpg" alt="Self-Help Vaginismus Treatment Products">

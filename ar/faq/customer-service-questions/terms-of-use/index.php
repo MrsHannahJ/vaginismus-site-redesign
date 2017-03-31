@@ -26,14 +26,14 @@
           <aside class="large-3">
           <h2>خدمة العملاء</h2>
           <ul>
-            <li><a href="../ordering-faqs/index.html"><i class="icon-angle-double-right"></i>بطلب الشراء والعودة</a></li>
-            <li><a href="../shipping-faqs/index.html"><i class="icon-angle-double-right"></i>الأسئلة الشائعة المتعلقة بالشحن</a></li>
-            <li><a href="../guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>ضمان</a></li>
-            <li><a href="../quality-faqs/index.html"><i class="icon-angle-double-right"></i>الجودة و السلامة أسئلة</a></li>
-            <li><a href="../privacy-policy/index.html"><i class="icon-angle-double-right"></i>سياسة الخصوصية</a></li>
-            <li><a href="../terms-of-use/index.html" class="active"><i class="icon-angle-double-right"></i>شروط الاستخدام</a></li>
+            <li><a href="/ar/faq/customer-service-questions/ordering-faqs/index.php"><i class="icon-angle-double-right"></i>بطلب الشراء والعودة</a></li>
+            <li><a href="/ar/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>الأسئلة الشائعة المتعلقة بالشحن</a></li>
+            <li><a href="/ar/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>ضمان</a></li>
+            <li><a href="/ar/faq/customer-service-questions/quality-faqs/index.php"><i class="icon-angle-double-right"></i>الجودة و السلامة أسئلة</a></li>
+            <li><a href="/ar/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>سياسة الخصوصية</a></li>
+            <li><a href="/ar/faq/customer-service-questions/terms-of-use/index.php" class="active"><i class="icon-angle-double-right"></i>شروط الاستخدام</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">عرض كل الأسئلة</a>
+          <a href='/ar/faq/index.php' class="shaded-btn">عرض كل الأسئلة</a>
         </aside>
       </div>
     </main>
