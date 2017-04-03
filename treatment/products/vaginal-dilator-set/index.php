@@ -20,10 +20,14 @@
         <div class="wrapper">
           <h1>Vaginal Dilator Set</h1>
           <p>Simply a better product: These dilators are smooth and comfortable, easy to control, light-weight, latex-free, washable and safe.</p>
-          <a href="#">Watch the Animation</a>
-          <a href="#">Buy Now</a>
+<!--          <a href="#">Watch the Animation</a>-->
+          <a href="#buy-product">Buy Now<i class="icon-angle-double-right"></i></a>
         </div>
-        <img src="/img/products/hero-dilators.jpg" alt="">
+        <video id="my_video_1" class="video-js vjs-default-skin"
+      controls preload="none" poster='/img/products/hero-dilators.jpg'
+      data-setup='{ "aspectRatio":"16:9", "playbackRates": [1, 1.5, 2] }'>
+          <source src="/media/animation.mp4" type='video/mp4' />
+        </video>
       </section>
             
             
@@ -37,7 +41,7 @@
             <h4>Medically Safe &amp; Convenient</h4>
              <p>Each set includes six graduated dilators, universal easy-grip handle, lubricant, and soft cotton carrying pouch with care instructions. A silky-smooth finish ensures maximum comfort while the gently curved shape eases entry and transition up in size.</p>
             <p>Our new, smallest dilator is narrower than a tampon. This size is particularly suited for women who have difficulty with tampon insertion and also helps to assist with a smooth transition to larger sizes.</p>
-            <a href="#">See Set Sizes</a>
+            <a href="#sizing">See Set Sizes<i class="icon-angle-double-right"></i></a>
           </div>
           <div class="large-6 medium-6">
             <img src="/img/products/dilators.jpg" alt="Dilators">
@@ -56,7 +60,7 @@
           <img src="/img/products/handle.jpg" alt="Universal Dilator Handle">
           </div>
         </div>
-        <div class="wrapper sizing">
+        <div class="wrapper" id="sizing">
           <div class="large-12">
             <img src="/img/products/dilator-sizes-with-measurements.jpg" alt="6 dilator set. Dilator A: diameter up to 0.6 inches (15mm) and length of 3.48 inches (88mm). Dilator B: diameter up to .88 inches (22mm) and length of 3.97 inches (101mm). Dilator C: diameter up to 1.04 inches (26mm) and length of 4.46 inches (113mm). Dilator D: diameter up to 1.19 inches (30mm) and length of 4.95 inches (126mm). Dilator E: diameter up to 1.35 inches (34mm) and length of 5.45 inches (138mm). Dilator F: diameter up to 1.5 inches (38mm) and length of 5.96 inches (151mm). Universal handle fits all sizes.">
           </div>
@@ -83,6 +87,7 @@
 <!--     REVIEWS SECTION----->
       <section id="reviews">
         <div class="wrapper">
+          <h2>Product Reviews</h2>
           <div class="medium-6 large-6">
              <div class="testimonial outer-shadow-dark">
                <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
@@ -110,19 +115,19 @@
       </div>
 
 <!--   FEATURED PRODUCT SECTION   -->
-      <section class="buy-product">
+      <section id="buy-product">
         <div class="wrapper purchase">
-          <div class="large-8 medium-6">
+          <div class="large-7 medium-6">
             <img src="/img/products/dilators-display.jpg" alt="Vaginal Dilator Set: 6 dilators, universal handle and carrying pouch.">
           </div>
-          <div class="large-4 medium-6">
+          <div class="large-5 medium-6">
             <h3>Order Your Set Today!</h3>
             <h4>Start Treatment Tomorrow</h4>
             <p>Simply a better product: These dilators are smooth and comfortable, easy to control, light-weight, latex-free, washable and safe.</p>
             <p class="product-price">$44.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus Shipping &amp; Handling</p>
             <img src="#" alt="">
-            <a class="shaded-btn" href="#">Add to Cart</a>
+            <a class="buy-btn" href="#">Add to Cart</a>
             <img src="#" alt="">
           </div>
         </div>
@@ -140,7 +145,7 @@
                   <li>Email Us: <a href="mailto:care@vaginismus.com" target="_blank">care@vaginismus.com</a></li>
                   <li>Fax/Mail Order Form: <a href="/downloads/fax-mail-order-form.pdf" target="_blank">Download PDF</a></li>
                 </ul>
-                <p>If you would like to ship using Fedex or UPS please <a href="/contact-us/index.php">contact us</a> directly for accomodations.</p>
+                <p>*If you would like to ship using Fedex or UPS please <a href="/contact-us/index.php">contact us</a> directly for accomodations.</p>
               </div>
             </div>
             <div class="large-4 medium-6">

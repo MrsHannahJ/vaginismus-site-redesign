@@ -53,3 +53,9 @@
   @extend %button;
   @include button-theme($dark-gray-text, $light-gray-border);
 }
+
+.buy-btn{
+  @extend %button;
+  @include button-theme($white, $brand, $brand);
+  padding: 0.75rem 2.25rem;
+}

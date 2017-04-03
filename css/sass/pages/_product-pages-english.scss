@@ -10,14 +10,23 @@
 /*-----------HERO-------------*/
   .hero{
     text-align: center;
+    h1{
+//      line-height: 1.2;
+      &:after{
+        @include dash($dark-gray-text);
+      }
+    }
     a{
-      display:inline-block;
-      margin:0 2rem 1rem;
+//      display:inline-block;
+//      margin:0 2rem 1rem;
+      display: block;
+      margin-bottom:1rem;
       font-family: $accent-font-common;
     }
   }
 /*-----------PRODCUT DESCRIPTION-----------*/
   .product-description{
+    padding-top:0;
     h3{
       color: $brand;
     }
@@ -30,10 +39,17 @@
         padding: 1rem 0;
       }
       img{
+        width: 100%;
         max-width: 500px;
         display: block;
         margin: 0 auto;
       }
+    }
+    .dilators ul{
+      margin-left: 1rem;
+      li{
+      list-style: disc;
+    }
     }
     .handle, .graduated{
       img{
@@ -45,6 +61,19 @@
       max-width: 225px;
       margin: 0 auto;
       text-align: center;
+    }
+    .included{
+      h3{
+        text-align: center;
+        padding-bottom:1rem;
+        color: $dark-gray-text;
+      }
+      a{
+        display:block;
+        max-width:250px;
+        margin: 0 auto;
+        text-align: center;
+      }
     }
 //TABLET
     @media screen and (min-width: $breakpoint-medium){
@@ -100,13 +129,16 @@
 /*---------REVIEWS SECTION--------*/
   #reviews{
     background: url(/img/white-wood-bkgd.jpg);
+    h2{
+      padding: 0 0 0.75rem;
+    }
   }
   
   .banner-solid-gray{
-    min-height:5.5rem;
+    min-height:5.25rem;
     padding-top:1.9rem;
     a{
-      font-size: 20px;
+//      font-size: 20px;
     }
   }
   
@@ -132,6 +164,83 @@
       }
     }
   }
+
+//carousel
+  .slick-dots{
+    bottom: -35px;
+  }
+  @media screen and (min-width: $breakpoint-medium){
+    .img-carousel img{
+      transform: scale(0.65);
+      transition:all .6s ease-in-out;
+    }
+    .slick-center img{
+      -moz-transform: scale(1.15);
+      -ms-transform: scale(1.15);
+      -o-transform: scale(1.15);
+      -webkit-transform: scale(1.15);
+      transform: scale(1.15);
+    }
+  }
+  
+//Psuedo Carousel on Books Page
+//  @media screen and (max-width:767.99px){
+//
+//  }
+//  @media screen and (min-width:$breakpoint-medium){
+//    .img-wrap-section{
+//      height:20rem;
+//    }
+//    .img-wrap{
+//      width: 100%;
+//      display: flex;
+//      justify-content: space-between;
+//    }
+//  //  img{
+//  //    width: 100%;
+//  //    height: auto;
+//  //  }
+//    .img-1, .img-2, .img-3{
+//      flex-basis: 33%;
+//      height: auto;
+//      align-self: center;
+//      img{
+//        width: 75%;
+//        display: block;
+//        margin: 0 auto;
+//        transition: width 0.25s ease-in-out;
+//      }
+//      &:hover, &:target{
+////        flex-basis: 35%;
+//      }
+//    }
+//    .img-2 img{
+////      flex-grow: 2;
+//      width: 100%;
+//    }
+//    .img-1, .img-2, .img-3{
+//      &:hover, &:target{
+//        img{
+//          width: 100%;
+//        }
+////        flex-basis: 35%;
+////        flex-grow: 2;
+//      }
+//    }
+//  }
+//  @media screen and (min-width:$breakpoint-large){
+//    .img-wrap-section{
+//      height:24rem;
+//      .wrapper{
+//        max-width:1000px;
+//      }
+//    }
+//  }
+//  @media screen and (min-width:1100px){
+//    .img-wrap-section{
+//      height:29rem;
+//    }
+//  }
   
 
 }

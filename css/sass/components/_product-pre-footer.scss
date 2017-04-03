@@ -1,8 +1,11 @@
 //// -----------------------------------------------------------------------------
 //// This file contains all styles related to the product pre-footer component.
 //// -----------------------------------------------------------------------------
-.buy-product{
+#buy-product{
   .purchase{
+    .large-7{
+      padding: 0;
+    }
     h3{
       color: $brand;
     }
@@ -10,7 +13,7 @@
       font-weight: 500;
     }
     .product-price{
-      @include font-size(40px);
+      @include font-size(34px);
       color: $brand;
       padding-bottom: 0;
       span{
@@ -61,15 +64,26 @@
         padding: 0 0 0.75rem;
       }
     }
-    .ordering li{
-      list-style: none;
+    .ordering{
+      p{
+        font-size: 14px;
+      }
+      li{
+        list-style: none;
+      }
     }
-    .service ul{
-      padding-bottom: 1.25rem;
+    .service{
+      ul{
+        padding-bottom: 1.25rem;
+      }
+      li{
+        list-style-position: inside;
+      }
+      a{
+        color: $light-gray-text;
+      }
     }
-    .service ul li{
-      list-style-position: inside;
-    }
+    
     @media screen and (min-width: $breakpoint-medium){
       .badge-box{
         min-height:19rem;

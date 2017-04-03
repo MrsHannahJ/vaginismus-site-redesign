@@ -45,6 +45,7 @@
 @mixin button-theme($color, $border-color:$color, $background:transparent) {
   color: $color;
   border: 1px solid $border-color;
+  background: $background;
 }
 
 //text-box themes

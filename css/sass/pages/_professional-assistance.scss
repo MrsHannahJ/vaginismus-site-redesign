@@ -57,7 +57,13 @@
   ol li{
     list-style: upper-roman;
   }
+  .organizations h3{
+    padding: 0.5rem 0 1rem 1rem;
+  }
   
+  .organizations ol{
+    margin-left: 1rem;
+  }
   
 /*-----------REVIEWS SECTION-------------*/
 
@@ -68,6 +74,10 @@
   text-align: center;
   h2{
     padding-bottom: 1rem;
+    color: $brand;
+  }
+  h3{
+    
   }
 
 //DESKTOP

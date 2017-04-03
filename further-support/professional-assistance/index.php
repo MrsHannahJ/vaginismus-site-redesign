@@ -72,6 +72,7 @@
 <!--     REVIEWS SECTION-->
       <section id="reviews">
         <div class="wrapper">
+          <h2>Medical Specialist Reviews</h2>
           <div class="medium-6 large-6">
              <div class="testimonial outer-shadow-dark">
                <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">

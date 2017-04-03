@@ -9,8 +9,13 @@
 // 2. Vendors
 @import
   'vendor/normalize',
-  'vendor/jquery-ui.min',
-  'vendor/jquery.mobile-1.4.5.min';
+  'vendor/slick',
+  'vendor/slick-theme',
+  'vendor/video-js';
+
+// 2b. Vendors
+@import
+  'vendor-extensions/video-js';
 
 // 3. Base stuff
 @import
@@ -63,5 +68,8 @@
   'pages/product-pages-english';
 
 // 7. Themes
-@import
-  'themes/default';
+//@import
+//  'themes/default';
+//can delete, not using
+
+//delete read me file in each subfolder (pages, vendors, etc.)

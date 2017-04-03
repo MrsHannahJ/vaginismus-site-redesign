@@ -39,7 +39,12 @@
           <div class="large-12">
             <h3>A Valuable Complement to the Vaginismus Kit</h3>
             <p>The video has been upgraded into a DVD format (only available through vaginismus.com) with convenient thumbnails to jump immediately to particular topic segments. Athough somewhat dated (originally produced in 1984), it still provides the best available audio-visual resource available for the practical use of vaginal dilators. This adult video does not fully address aspects of the mind, muscle memories, PC muscle control and other crucial elements to resolving vaginismus, so we do not recommend the video separately but only as a valuable reference that complements the <a href="/treatment/self-help-program/index.php">self-help</a> program.</p>
-            <a href="/treatment/products/vaginismus-treatment-kit/index.php" class="brand-btn">View Treatment Kit</a>
+          </div>
+        </div>
+        <div class="wrapper included">
+          <div class="large-12">
+            <h3>Included in the Vaginismus Treatment Kit</h3>
+            <a href="/treatment/products/vaginismus-treatment-kit/index.php" class="gray-btn">View Treatment Kit</a>
             <img src="/img/products/kit-english.jpg" alt="Treatment Kit">
           </div>
         </div>

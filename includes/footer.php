@@ -50,7 +50,7 @@
     <input id="footer-label-4" type="checkbox" name="tabs2">
     <label for="footer-label-4"><img src="/img/us.png" alt="Language Options" aria-hidden="true">Languages</label>
     <div class="footer-label-content">
-      <ul>
+      <ul id="languages">
         <li><a href="/ar/index.php">العربية</a></li>
         <li><a href="/es/index.php">Español</a></li>
         <li><a href="/por/index.php">Português</a></li>
@@ -144,8 +144,18 @@
     
   </div>
 
-
-
+  
+<script src="/js/vendor/jquery-3.1.1.min.js" async></script>
+<script type="text/javascript" src="/js/vendor/slick.min.js"></script>
+<script src="/js/vendor/video.min.js"></script>
+<script src="/js/main.js"></script>
+<!--where javascript is disabled, use this stylesheet-->
+<!--
+  <noscript>
+    <link rel="stylesheet" href="/css/stylesheets/no-js.css" />
+  </noscript>
+-->
+ 
 </body>
 
 </html>
