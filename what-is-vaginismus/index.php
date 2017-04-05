@@ -16,12 +16,22 @@
       <div class="large-8 medium-8">
         <h1>What is Vaginismus?</h1>
         <p>Vaginismus is involuntary vaginal tightness causing discomfort, burning, pain, penetration problems, or complete inability to have intercourse.</p>
-        <a href="/what-is-vaginismus/understanding-vaginismus/"class="gray-btn">Learn More About Vaginismus</a>
+<!--        <a href="/what-is-vaginismus/understanding-vaginismus/"class="gray-btn">Learn More About Vaginismus</a>-->
         <a href="/downloads/vaginismus_brochure.pdf" target="_blank" class="gray-btn">Download Vaginismus Brochure</a>
       </div>
     </div>
   </section>
   <section class="what-is-buttons">
+    <div class="wrapper">
+      <div class="large-6 medium-6">
+        <img src="/img/what-is/button-understanding.jpg" alt="Understanding Vaginismus">
+      </div>
+      <div class="large-6 medium-6">
+        <h2>Understanding Vaginismus</h2>
+        <p>Vaginismus is a condition where there is involuntary tightness of the vagina during attempted intercourse. The tightness is actually caused by involuntary contractions of the pelvic floor muscles surrounding the vagina.</p>
+        <a href="/what-is-vaginismus/understanding-vaginismus/index.php" class="gray-btn">Learn More</a>
+      </div>
+    </div>
     <div class="wrapper">
       <div class="large-6 medium-6">
        <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">

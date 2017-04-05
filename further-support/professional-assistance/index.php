@@ -18,7 +18,7 @@
            </div>
           </div>
         </section>
-        <section class="organizations">
+        <section id="organizations">
           <div class="wrapper">
               <h2>Related Professional Organizations</h2>
               <p>The following organizations can be helpful in seeking professional assistance for the diagnosis and treatment of vaginismus. In particular, there are a growing number of women’s health physical therapists who specialize in pelvic floor issues (including vaginismus).</p>
@@ -43,7 +43,7 @@
           </div>
         </section>
 
-        <section class="articles">
+        <section id="articles">
           <div class="wrapper">
             <h2>Medical Studies &#038; Articles</h2>
             <p>The following list includes a variety of medical studies and articles of special interest to those researching or studying about vaginismus.</p>

@@ -21,83 +21,83 @@
   
   
 /*---------SELF HELP SECTION-------------*/
-.self-help{
-  text-align: center;
-  .treatment-button{
-    color: $light-gray-text;
-  }
-
-//MOBILE ONLY
-  @media screen and (max-width: 767.99px){
-    padding-top:0;
-    p{
-      padding-bottom:1.5rem;
-    }
-  }
+//.self-help{
+//  text-align: center;
+//  .treatment-button{
+//    color: $light-gray-text;
+//  }
+//
+////MOBILE ONLY
+//  @media screen and (max-width: 767.99px){
+//    padding-top:0;
+//    p{
+//      padding-bottom:1.5rem;
+//    }
+//  }
+//  
+//  
+//  
+////TABLET AND UP
+//  
+//  @media screen and (min-width: $breakpoint-medium){
+//    margin-top: 1rem;
+//    
+//    .wrapper{
+//      max-width: 720px;
+//    }
+//    .treatment-button{
+//      display: block;
+//      margin: 0 auto;
+//      height: 250px;
+//      background: url(/img/treatment/further-support.jpg) no-repeat center;
+//      background-size: auto 100%;
+//      position: relative;
+//      border: 1px solid $light-gray-border;
+//      -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+//      -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+//      box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+//      .text-box{
+//        position:absolute;
+//        width: 70%;
+//        right: 1rem;
+//        top: 0;
+//        text-align: right;
+//      }
+//      h2{
+//        text-align: right;
+//      }
+//      p{
+//          margin-bottom:1rem;
+//      }
+//      .gray-btn{
+//        display: inline;
+//      }
+//    }
+//  }
+//  
+//// DESKTOP ONLY
+//  @media screen and (min-width: $breakpoint-large){
+//    .wrapper{
+//      max-width: 875px;
+//    }
+//    .treatment-button{
+//      height: 328px;
+//      background-position: left;
+//      .text-box{
+//        width: 60%;
+//      }
+//    }
+//  }
+// }
   
-  
-  
-//TABLET AND UP
-  
-  @media screen and (min-width: $breakpoint-medium){
-    margin-top: 1rem;
-    
-    .wrapper{
-      max-width: 720px;
-    }
-    .treatment-button{
-      display: block;
-      margin: 0 auto;
-      height: 250px;
-      background: url(/img/treatment/further-support.jpg) no-repeat center;
-      background-size: auto 100%;
-      position: relative;
-      border: 1px solid $light-gray-border;
-      -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-      -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-      box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-      .text-box{
-        position:absolute;
-        width: 70%;
-        right: 1rem;
-        top: 0;
-        text-align: right;
-      }
-      h2{
-        text-align: right;
-      }
-      p{
-          margin-bottom:1rem;
-      }
-      .gray-btn{
-        display: inline;
-      }
-    }
-  }
-  
-// DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-    .wrapper{
-      max-width: 875px;
-    }
-    .treatment-button{
-      height: 328px;
-      background-position: left;
-      .text-box{
-        width: 60%;
-      }
-    }
-  }
- }
-  
-  /*-----------PROF ASSISTANCE SECTION-------------*/
+  /*-----------PRODUCTS SECTION-------------*/
 
 #treatment-products{
   text-align: center;
-  padding-top:2rem;
-  li{
-    padding-bottom: 0.75rem;
-  }
+//  padding-top:2rem;
+//  li{
+//    padding-bottom: 0.75rem;
+//  }
   p{
       margin-bottom:1rem;
     }
@@ -107,14 +107,14 @@
   @media screen and (min-width: $breakpoint-medium){
     .wrapper{
       position: relative;
-      text-align: left;
+      text-align: right;
     }
     .white-box-float{
       position: absolute;
       width: 375px;
 //      background: $white;
 //      top: 4rem;
-      left: 0;
+      right: 0;
 //      -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
 //      -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
 //      box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
@@ -124,14 +124,15 @@
 //      }
     }
     h2{
-      text-align: left;
+      text-align: right;
+      padding-top: 0;
     }
     p{
       margin-bottom:0.5rem;
     }
     img{
       width: 600px;
-      float: right;
+      float: left;
       max-width: none;
       max-height: none;
       margin: 2rem auto;
@@ -188,8 +189,8 @@
     }
   }
   
-/*-----------FORUM SECTION-------------*/
-#treatment-forum{
+/*---------SELF-HELP & FORUM SECTIONS-----------*/
+#treatment-forum, .self-help{
   text-align: center;
   padding-top:0;
   .wrapper{

@@ -11,14 +11,11 @@
     
 <!--      HERO      -->
   
-      <section class="hero-banner-image">
-        <img src="/img/causes/causes-hero-mobile.jpeg" alt="vaginismus causes" class="hidden-desktop hidden-tablet" aria-hidden="true">
+      <section id="hero-english">
         <div class="wrapper">
-           <div class="large-12 medium-12">
-             <div class="hero-text hero-text-right">
-               <h1>What Causes Vaginismus?</h1>
-               <h3>Vaginismus is unique because it may result from a combination of physical or non-physical causes—or seem to have none at all.</h3>
-             </div>
+           <div class="large-8 medium-8">
+             <h1>What Causes Vaginismus?</h1>
+             <p>Vaginismus is unique because it may result from a combination of physical or non-physical causes—or seem to have none at all.</p>
           </div>
         </div>
       </section>
@@ -143,6 +140,10 @@
           </div>
         </div>
       </section>
+      <div class="banner-solid-gray">
+        <h3>Related Conditions</h3>
+        <a href="/further-support/related-conditions/index.php" class="gray-btn">Learn More about Conditions Related to Vaginal Pain</a>
+      </div>
       <section id="pc-muscles">
         <h2>The Role of the PC Muscle Group</h2>
         <h4>How it contributes to sexual pain or penetration problems</h4>

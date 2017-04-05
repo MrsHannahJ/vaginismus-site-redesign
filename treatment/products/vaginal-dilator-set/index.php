@@ -66,23 +66,9 @@
           </div>
         </div>
       </section>
-<!--bonus items-->
-        <div class="bonus-banner">
-          <div class="wrapper">
-
-<!--  Replace these images with coded text-->
-            <div class="large-6 medium-6">
-              <img src="/img/products/products-included-bonus.jpg" alt="Included Bonus Items: Dilator information brochure, vaginismus informational brochure, 2 sample personal lubricant packs.">
-              <h4>Are Dilators Returnable? </h4>
-              <p>We are not able to accept returns on the vaginal dilator product. For health and safety reasons, and also to comply with FDA regulations for vaginal inserts, vaginal dilators that have been sold to a consumer cannot be restocked and are prohibited from resale.</p>
-            </div>
-            <div class="large-6 medium-6">
-              <img src="/img/products/products-quality-rings.jpg" alt="Our Products Are: Toxic Free, USA Made, Medical Grade.">
-              <h4>Note to Physicians</h4>
-              <p>These dilators are medically graded (FDA INT), non-toxic and latex-free. Highly effective for post-surgical recovery programs as well as for treating vaginismus, dyspareunia, vaginal narrowing and other similar gynecological conditions. [CPT Code: Procedure 57400 or 58999, HCPCS Code: E1399, Supplies: 99070]</p>
-            </div>
-          </div>
-        </div>
+<?php
+  include(ROOT_PATH.'/includes/products-bonus-banner.php');
+?>
       
 <!--     REVIEWS SECTION----->
       <section id="reviews">
@@ -115,6 +101,17 @@
       </div>
 
 <!--   FEATURED PRODUCT SECTION   -->
+<?php
+  $productimgpath = '/img/products/dilators-display.jpg';
+  $productimgalt = 'Vaginal Dilator Set: 6 dilators, universal handle and carrying pouch.';
+  $productimgclass = 'max-400';
+  $producth3 = 'Order Your Set Today!';
+  $producth4 ="Start Treatment Tomorrow";
+  $productp ="Simply a better product: These dilators are smooth and comfortable, easy to control, light-weight, latex-free, washable and safe.";
+  $productprice ="$44.95";
+  include(ROOT_PATH.'/includes/products-buy-section.php');
+?>
+<!--
       <section id="buy-product">
         <div class="wrapper purchase">
           <div class="large-7 medium-6">
@@ -131,7 +128,7 @@
             <img src="#" alt="">
           </div>
         </div>
-<!--      PRE-FOOTER-BADGES SECTION      -->
+      PRE-FOOTER-BADGES SECTION      
      
         <div class="product-pre-footer">
           <div class="wrapper">
@@ -164,6 +161,7 @@
           </div>
         </div>
       </section>
+-->
       
 <!--   TREATMENT BANNER   -->
       <div class="banner-solid">

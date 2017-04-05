@@ -117,7 +117,7 @@
     <section id="highlighted-content-english">
       <div class="wrapper">
         <div class="highlighted-content-1 large-4 medium-4">
-          <a href="/further-support/general-questions/vaginismus-affect-husbands/index.php">
+          <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">
             <h3>Sexless Relationships</h3>
 <!--            <p>"We can't have sex and its affecting our marriage"</p>-->
           </a>

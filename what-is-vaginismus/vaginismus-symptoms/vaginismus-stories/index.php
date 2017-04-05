@@ -11,15 +11,12 @@
     <main id="stories">
 <!--      HERO      -->
   
-      <section class="hero-banner-image">
-        <img src="/img/stories/stories-hero-mobile.jpg" alt="vaginismus stories" class="hidden-desktop hidden-tablet" aria-hidden="true">
+      <section id="hero-english">
         <div class="wrapper">
-           <div class="large-12 medium-12">
-             <div class="hero-text">
-               <h1>Vaginismus Stories</h1>
-               <h3>Fictionalized representations of real experiences to assist women in determining if they have the condition.</h3>
-               <p>(For real-life accounts see <a href="../reviews/index.html">Reviews</a>.)</p>
-             </div>
+           <div class="large-8 medium-8">
+             <h1>Vaginismus Stories</h1>
+             <p>Fictionalized representations of real experiences to assist women in determining if they have the condition.</p>
+             <p>(For real-life accounts see <a href="../reviews/index.html">Reviews</a>.)</p>
           </div>
         </div>
       </section>

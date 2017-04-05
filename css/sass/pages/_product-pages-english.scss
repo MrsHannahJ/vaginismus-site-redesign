@@ -8,6 +8,14 @@
   }
   
 /*-----------HERO-------------*/
+//just products page
+  #hero-english{
+    background: url(/img/products/products-header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
   .hero{
     text-align: center;
     h1{
@@ -45,6 +53,7 @@
         margin: 0 auto;
       }
     }
+
     .dilators ul{
       margin-left: 1rem;
       li{
@@ -77,6 +86,7 @@
     }
 //TABLET
     @media screen and (min-width: $breakpoint-medium){
+
       .video, .forum, .handle, .graduated{
         h3,h4{
           text-align: left;
@@ -98,6 +108,7 @@
       .books{
         display: flex;
         flex-direction: row-reverse;
+        
       }
       .books img, .dilators img{
           width: 100%;
@@ -109,12 +120,22 @@
       .video h3, .forum h3{
         margin-top: 1rem;
       }
+      #sizing img{
+        display: block;
+        margin: 0 auto;
+        max-width: 700px;
+      }
+      .books a, .graduated a{
+          display: block;
+          text-align: center;
+        }
     }
   }
 /*---------BONUS BANNER--------*/
   
   .bonus-banner{
     background: $light-gray-background;
+    padding-top:1rem;
     p{
       font-size: 14px;
     }
@@ -123,6 +144,14 @@
       font-size: 16px;
       margin-top:1rem;
     }
+    @media screen and (max-width:767.99px){
+      img{
+        max-width: 400px;
+        display: block;
+        margin: 0 auto;
+      }
+    }
+    
   }
 
   
@@ -138,7 +167,7 @@
     min-height:5.25rem;
     padding-top:1.9rem;
     a{
-//      font-size: 20px;
+      font-size: 18px;
     }
   }
   

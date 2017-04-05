@@ -18,7 +18,17 @@
       background: url(/img/what-is/hero.jpg);
       background-position: center;
       background-size: cover;
+      .large-8{
+        margin-top:0.6rem
+      }
     }
+//DESKTOP
+    @media screen and (min-width: $breakpoint-large){
+      .large-8{
+        margin-top:2rem
+      }
+    }
+    margin-bottom:1rem;
   }
   
   

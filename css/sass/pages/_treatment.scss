@@ -2,6 +2,7 @@
 // This file contains styles that are specific to the treatment page.
 // -----------------------------------------------------------------------------
 
+
 #treatment{
   section{
     -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
@@ -40,6 +41,17 @@
 
 /*---------HERO---------------*/
 
+  #hero-english{
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/treatment/treatment-hero.jpg);
+      background-position: top center;
+      background-size: cover;
+    }
+    .large-8{
+      margin-top: 2rem;
+    }
+  }
+//other languages
   .hero-banner-image{
     background: $light-gray-background;
 //TABLET ONLY
@@ -75,6 +87,33 @@
   }
 
 
+
+
+/*---------10 STEPS SECTION---------------*/
+  #ten-steps{
+    h4{
+//        @include font-size(18px);
+      margin-bottom: 1rem;
+    }
+    p{
+      padding-bottom:1rem;
+    }
+    .large-12{
+      border: 1px solid $light-gray-text;
+      margin-bottom: 2rem;
+      img{
+        float: left;
+        padding: 0 0.5rem 0.5rem 0;
+        margin: 0;
+      }
+      p{
+        padding-bottom: 0;
+      }
+    }
+    
+  }
+
+
 /*---------TREATMENT DETAILS SECTION---------------*/
   .treatment-details{
     background: url(/img/white-wood-bkgd.jpg);
@@ -98,28 +137,6 @@
       }
     }
   }
-
-/*---------10 STEPS SECTION---------------*/
-  #ten-steps{
-    h4{
-//        @include font-size(18px);
-      margin-bottom: 1rem;
-    }
-    .large-12{
-      border: 1px solid $light-gray-text;
-      margin-bottom: 2rem;
-    }
-    img{
-      float: left;
-      padding: 0 0.5rem 0.5rem 0;
-      margin: 0;
-    }
-    p{
-      padding-bottom: 0;
-    }
-  }
-
-
     
 
 //end page

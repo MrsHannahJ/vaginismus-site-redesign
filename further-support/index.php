@@ -106,10 +106,10 @@
           <p>The following resources may be helpful in further vaginismus research.</p>
           <ul>
             <li>
-              <a href="/further-support/professional-assistance/medical-studies-articles/index.php"><i class="icon-angle-double-right"></i>List of Medical Articles and Studies</a>
+              <a href="/further-support/professional-assistance/index.php#articles"><i class="icon-angle-double-right"></i>List of Medical Articles and Studies</a>
             </li>
             <li>
-              <a href="/further-support/professional-assistance/professional-organizations/index.php"><i class="icon-angle-double-right"></i>Links to Professional Organizations</a>
+              <a href="professional-assistance/index.php#organizations"><i class="icon-angle-double-right"></i>Links to Professional Organizations</a>
             </li>
             <li>
               <a href="/further-support/professional-assistance/medical-specialist-reviews/index.php"><i class="icon-angle-double-right"></i>Product Reviews by Medical Specialists</a>

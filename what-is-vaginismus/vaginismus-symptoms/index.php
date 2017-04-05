@@ -15,15 +15,12 @@
            
 <!--      HERO      -->
   
-      <section class="hero-banner-image">
-       <img src="/img/symptoms/symptoms-header-mobile-en.jpeg" alt="vaginismus symptoms" class="hidden-desktop hidden-tablet" aria-hidden="true">
+      <section id="hero-english">
         <div class="wrapper">
-           <div class="large-12 medium-12">
-            
-             <div class="hero-text-right">
-               <h1>Vaginismus Symptoms</h1>
-               <h3>Depending on the intensity, vaginismus symptoms range from minor burning sensations with tightness to total closure of the vaginal opening with impossible penetration.</h3>
-             </div>
+           <div class="large-8 medium-8">
+             <h1>Vaginismus Symptoms</h1>
+             <p>Depending on the intensity, vaginismus symptoms range from minor burning sensations with tightness to total closure of the vaginal opening with impossible penetration.</p>
+<!--             <a href="/what-is-vaginismus/vaginismus-symptoms/vaginismus-stories/index.php" class="gray-btn">Read Stories</a>-->
           </div>
         </div>
       </section>
@@ -32,13 +29,15 @@
   
       <section id="common-symptoms">
         <div class="wrapper">
+<!--
           <div class="large-4 medium-6">
             <h2>What is Vaginismus?</h2>
             <p><strong>Vaginismus is vaginal tightness causing discomfort, burning, pain, penetration problems, or complete inability to have intercourse.</strong></p>
             <p>The vaginal tightness results from the involuntary tightening of the pelvic floor, especially the <a href="../vaginismus-causes/index.html#pc-muscles">pubococcygeus</a> (PC) muscle group, although the woman may not be aware that this is the cause of her penetration or pain difficulties.</p>
             <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="../vaginismus-diagnosis/index.html">diagnosed</a> and treated.</p>
           </div>
-          <div class="large-4 medium-6">
+-->
+          <div class="large-7 medium-7">
             <h2>Common Symptoms:</h2>
             <ul>
               <li>Burning or stinging with tightness during sex</li>
@@ -51,7 +50,7 @@
               <li>Avoidance of sex due to pain and/or failure</li>
             </ul>
           </div>
-          <div class="large-4">
+          <div class="large-5 medium-5">
             <div class="did-you-know">
               <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h3>Did you know?</h3>
@@ -109,7 +108,12 @@
           </div>
         </div>
       </section>
-            
+      <div class="banner-solid-gray">
+        <h2>Vaginismus Stories</h2>
+        <p>Vaginismus can present in many different ways. Do any of these stories sound like yours?</p>
+        <a href="/what-is-vaginismus/vaginismus-symptoms/vaginismus-stories/index.php" class="gray-btn">Read Stories</a>
+      </div>
+         
 <!--      SYMPTOMS SEVERITY SECTION      -->
   
       <section id="symptoms-severity">

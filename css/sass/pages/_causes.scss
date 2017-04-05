@@ -17,6 +17,17 @@
 
 /*---------HERO---------------*/
 
+  #hero-english{
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/causes/causes-hero.jpg);
+      background-position: top center;
+      background-size: cover;
+    }
+    .large-8{
+      margin-top: 3rem;
+    }
+  }
+//other languages
   .hero-banner-image{
     background: $light-gray-background;
     background-size: cover;
@@ -127,7 +138,6 @@
   .body-retraining{
     padding-bottom: 2rem;
   }
-
 
 
 }

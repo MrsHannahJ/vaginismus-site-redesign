@@ -11,23 +11,19 @@
     <main id="treatment">
 <!--      HERO      -->
   
-    <section class="hero-banner-image">
-      <img src="/img/treatment/treatment-hero-mobile.jpeg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="vaginismus treatment">
+    <section id="hero-english">
       <div class="wrapper">
-         <div class="large-12 medium-12">
-           <div class="hero-text-right">
-             <h1>Vaginismus Treatment</h1>
-             <h3>Vaginismus is considered one of the most successfully treatable female sexual disorders. Many studies have shown treatment success rates approaching nearly 100%. Treatment resolution follows a manageable, step-by-step process.</h3>
-
-           </div>
+         <div class="large-8 medium-8">
+             <h1>Self-Help Program</h1>
+             <p>Vaginismus is considered one of the most successfully treatable female sexual disorders. Many studies have shown treatment success rates approaching nearly 100%. Treatment resolution follows a manageable, step-by-step process.</p>
         </div>
       </div>
     </section>
 
 <!--      TREATMENT OVERVIEW SECTION      -->
+<!--
         
 <section id="treatment-overview">
-  
   <div class="wrapper">
     <h2>Treatment Overview</h2>
     <h4>Successful vaginismus treatment does not require drugs, surgery, hypnosis, nor any other complex invasive technique.</h4>
@@ -46,55 +42,22 @@
       <ul>
         <li>Vaginismus treatment exercises follow a manageable, step-by-step process (see Steps below).</li>
       </ul>
-<!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
+       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG
       <img src="/img/treatment/treatment-overview-qa.png" alt="Question: Is vaginismus really treatable, and if so, how long does it take to resolve?; Answer: Vaginismus is considered one of the most successfully resolved female sexual disorders. High treatment success rates are typical within reasonable time frames.">
     </div>
   </div>
 </section>
+-->
 
-<!--      TREATMENT DETAILS SECTION      -->
-     
-<section class="treatment-details">
-  <div class="wrapper">
-    <div class="large-6">
-      <div class="opaque-box">
-        <img src="/img/treatment/treatment-program-icon.png" alt="treatment icon" aria-hidden="true">
-        <h2>A Treatment Program is Important</h2>
-        <p>Many of the steps to treat vaginismus are counter-intuitive and not immediately obvious. As failure at any point inhibits recovery (experiencing discomfort tends to intensify vaginismus—see <a href="../vaginismus-causes/index.html#cycle-pain">Cycle of Pain</a>) and can cause avoidance or abandonment of progress, it is best to approach vaginismus with an educated understanding to ensure success in dealing with it.</p>
-      </div>
-    </div>
-    <div class="large-6">
-      <div class="opaque-box">
-        <img src="/img/treatment/treatment-briefcase-icon.png" alt="highly treatable icon" aria-hidden="true">
-        <h2>Vaginismus is Highly Treatable</h2>
-        <p>The sexual pain, tightness, burning or penetration difficulties caused by vaginismus are completely treatable, with high <a href="../faq/treatment-questions/vaginismus-treatment-success-rates/index.html">success rates</a> for treatment. Couples are often amazed by the sudden life-changing effects of treatment. Those with penetration difficulties, or pain during intercourse, normally transition to pain-free and pleasurable intercourse following a step-by-step approach.</p>
-      </div>
-    </div>
-  </div>
-  <div class="wrapper">
-    <div class="large-6">
-      <div class="opaque-box">
-        <img src="/img/treatment/treatment-results-icon.png" alt="differences in treatment icon" aria-hidden="true">
-        <h2>Differences in Treatment</h2>
-        <p>Note that treatment for those who have never been able to have pain-free intercourse (primary vaginismus) usually requires all 10 steps, while those with secondary vaginismus may be able to shorten or bypass some steps (see also <a href="../faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a>).</p>
-      </div>
-    </div>
-    <div class="large-6">
-      <div class="opaque-box">
-        <img src="/img/treatment/treatment-without-icon.png" alt="dilators without program icon" aria-hidden="true">
-        <h2>Using Dilators Without a Program?</h2>
-        <p>Vaginal dilators are typically not effective when used without guidance. They should not be used without proper physical instruction, exercises, transitional steps, etc. Dilators are simply one aspect of the vaginismus treatment process, and <a href="../faq/dilator-questions/can-i-just-get-dilators/index.html">if used without pelvic control techniques they will likely be very ineffective</a>. Involuntary muscle reactions are what produce the tightness and pain of vaginismus. The main focus of proper dilator use is in retraining the pelvic floor, not on stretching the vaginal opening.</p>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!--      10 STEPS SECTION      -->
      
  <section id="ten-steps">
     <div class="wrapper">
       <h2>The 10-Step Vaginismus Resolution Process</h2>
-      <h4>To aid women in getting proper treatment direction, we have assembled a comprehensive program in book/kit form as outlined below. The self-help program is a straight-forward, step-by-step approach used by many treatment professionals to successfully guide women through the complete process of overcoming vaginismus.&nbsp;Treatment steps can usually be completed at home using a self-help approach, allowing a woman to&nbsp;work at her own pace in privacy, or in cooperation with her health care provider or specialist. Easy-to-follow instructions, supplemented with descriptive illustrations and helpful strategies, make the process a positive, successful experience.&nbsp;At the completion of the steps, pain and penetration problems due to vaginismus are typically fully resolved.</h4>
+      <p>To aid women in getting proper treatment direction, we have assembled a comprehensive program in book/kit form as outlined below. The self-help program is a straight-forward, step-by-step approach used by many treatment professionals to successfully guide women through the complete process of overcoming vaginismus.&nbsp;Treatment steps can usually be completed at home using a self-help approach, allowing a woman to&nbsp;work at her own pace in privacy, or in cooperation with her health care provider or specialist. Easy-to-follow instructions, supplemented with descriptive illustrations and helpful strategies, make the process a positive, successful experience.&nbsp;At the completion of the steps, pain and penetration problems due to vaginismus are typically fully resolved.</p>
+<!--      NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
+<!--      <img src="/img/treatment/treatment-overview-qa.png" alt="Question: Is vaginismus really treatable, and if so, how long does it take to resolve?; Answer: Vaginismus is considered one of the most successfully resolved female sexual disorders. High treatment success rates are typical within reasonable time frames.">-->
       <div class="large-12">
         <img src="/img/treatment/treatment-1-icon.png" alt="1" aria-hidden="true">
         <p><strong>Step 1 &#8211; Understanding Vaginismus</strong></p>
@@ -148,6 +111,42 @@
     </div>
   </section>
   
+  <!--      TREATMENT DETAILS SECTION      -->
+     
+<section class="treatment-details">
+  <div class="wrapper">
+    <div class="large-6">
+      <div class="opaque-box">
+        <img src="/img/treatment/treatment-program-icon.png" alt="treatment icon" aria-hidden="true">
+        <h2>A Treatment Program is Important</h2>
+        <p>Many of the steps to treat vaginismus are counter-intuitive and not immediately obvious. As failure at any point inhibits recovery (experiencing discomfort tends to intensify vaginismus—see <a href="../vaginismus-causes/index.html#cycle-pain">Cycle of Pain</a>) and can cause avoidance or abandonment of progress, it is best to approach vaginismus with an educated understanding to ensure success in dealing with it.</p>
+      </div>
+    </div>
+    <div class="large-6">
+      <div class="opaque-box">
+        <img src="/img/treatment/treatment-briefcase-icon.png" alt="highly treatable icon" aria-hidden="true">
+        <h2>Vaginismus is Highly Treatable</h2>
+        <p>The sexual pain, tightness, burning or penetration difficulties caused by vaginismus are completely treatable, with high <a href="../faq/treatment-questions/vaginismus-treatment-success-rates/index.html">success rates</a> for treatment. Couples are often amazed by the sudden life-changing effects of treatment. Those with penetration difficulties, or pain during intercourse, normally transition to pain-free and pleasurable intercourse following a step-by-step approach.</p>
+      </div>
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="large-6">
+      <div class="opaque-box">
+        <img src="/img/treatment/treatment-results-icon.png" alt="differences in treatment icon" aria-hidden="true">
+        <h2>Differences in Treatment</h2>
+        <p>Note that treatment for those who have never been able to have pain-free intercourse (primary vaginismus) usually requires all 10 steps, while those with secondary vaginismus may be able to shorten or bypass some steps (see also <a href="../faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a>).</p>
+      </div>
+    </div>
+    <div class="large-6">
+      <div class="opaque-box">
+        <img src="/img/treatment/treatment-without-icon.png" alt="dilators without program icon" aria-hidden="true">
+        <h2>Using Dilators Without a Program?</h2>
+        <p>Vaginal dilators are typically not effective when used without guidance. They should not be used without proper physical instruction, exercises, transitional steps, etc. Dilators are simply one aspect of the vaginismus treatment process, and <a href="../faq/dilator-questions/can-i-just-get-dilators/index.html">if used without pelvic control techniques they will likely be very ineffective</a>. Involuntary muscle reactions are what produce the tightness and pain of vaginismus. The main focus of proper dilator use is in retraining the pelvic floor, not on stretching the vaginal opening.</p>
+      </div>
+    </div>
+  </div>
+</section>
   
 <!--      FAQ BANNER SECTION      -->
      

@@ -52,10 +52,10 @@
 -->
      <div class="img-carousel">
   <div><img src="/img/products/books-standing.jpg" alt="" /></div>
-  <div><img src="/img/products/books-standing.jpg" alt="" /></div>
-  <div><img src="/img/products/books-standing.jpg" alt="" /></div>
-  <div><img src="/img/products/books-standing.jpg" alt="" /></div>
-  <div><img src="/img/products/books-standing.jpg" alt="" /></div>
+  <div><img src="/img/products/b1-front.png" alt="front cover of book 1" /></div>
+  <div><img src="/img/products/b1-back.png" alt="back cover of book 1" /></div>
+  <div><img src="/img/products/b2-front.png" alt="front cover of book 2" /></div>
+  <div><img src="/img/products/b2-back.png" alt="back cover of book 2" /></div>
 </div>
       </div>
       
@@ -102,23 +102,36 @@
       </div>
 
 <!--   FEATURED PRODUCT SECTION   -->
+
+     <?php
+        $productimgpath = '/img/products/books-standing.jpg';
+        $productimgalt = 'Two Book Home Treatment Program';
+        $productimgclass = 'max-400';
+        $producth3 = 'Order Your Book Set Today!';
+        $producth4 ="Start Treatment Tomorrow";
+        $productp ="This comprehensive book set covers all aspects of successful home treatment in a simple step-by-step format.";
+        $productprice ="$32.95";
+        include(ROOT_PATH.'/includes/products-buy-section.php');
+      ?>
+
+<!--
       <section id="buy-product">
         <div class="wrapper purchase">
           <div class="large-7 medium-6">
             <img src="/img/products/books-standing.jpg" alt="Two Book Home Treatment Program" class="max-75">
           </div>
           <div class="large-5 medium-6">
-            <h3 class="max-75-text">Order Your Book Set Today!</h3>
-            <h4>Start Treatment Tomorrow</h4>
-            <p>This comprehensive book set covers all aspects of successful home treatment in a simple step-by-step format.</p>
-            <p class="product-price">$32.95<sup><span>USD</span></sup></p>
+            <h3 class="max-75-text"></h3>
+            <h4></h4>
+            <p></p>
+            <p class="product-price"><sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus Shipping &amp; Handling</p>
             <img src="#" alt="">
             <a class="buy-btn" href="#">Add to Cart</a>
             <img src="#" alt="">
           </div>
         </div>
-<!--      PRE-FOOTER-BADGES SECTION      -->
+      PRE-FOOTER-BADGES SECTION      
      
         <div class="product-pre-footer">
           <div class="wrapper">
@@ -151,6 +164,7 @@
           </div>
         </div>
       </section>
+-->
       
 <!--   TREATMENT BANNER   -->
       <div class="banner-solid">

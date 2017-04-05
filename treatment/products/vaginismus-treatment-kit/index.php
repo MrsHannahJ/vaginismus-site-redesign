@@ -73,7 +73,7 @@
         
         
 <video id="my_video_1" class="video-js vjs-default-skin"
-      controls preload="none" poster='/img/products/hero.jpg'
+      controls preload="none" poster='/img/products/animation-poster.jpg'
       data-setup='{ "aspectRatio":"16:9", "playbackRates": [1, 1.5, 2] }'>
     <source src="/media/animation.mp4" type='video/mp4' />
   </video>
@@ -97,8 +97,8 @@
     <button type="button" id="full-screen">Full-Screen</button>
   </div>
 -->
-</div>
-        <div class="wrapper sizing">
+<!--</div>-->
+        <div class="wrapper" id="sizing">
           <div class="large-12">
 
             <h4>Medically Safe &amp; Convenient</h4>
@@ -107,23 +107,9 @@
             <img src="/img/products/dilator-sizes-with-measurements.jpg" alt="6 dilator set. Dilator A: diameter up to 0.6 inches (15mm) and length of 3.48 inches (88mm). Dilator B: diameter up to .88 inches (22mm) and length of 3.97 inches (101mm). Dilator C: diameter up to 1.04 inches (26mm) and length of 4.46 inches (113mm). Dilator D: diameter up to 1.19 inches (30mm) and length of 4.95 inches (126mm). Dilator E: diameter up to 1.35 inches (34mm) and length of 5.45 inches (138mm). Dilator F: diameter up to 1.5 inches (38mm) and length of 5.96 inches (151mm). Universal handle fits all sizes.">
           </div>
         </div>
-<!--bonus items-->
-        <div class="bonus-banner">
-          <div class="wrapper">
-
-<!--  Replace these images with coded text-->
-            <div class="large-6 medium-6">
-              <img src="/img/products/products-included-bonus.jpg" alt="Included Bonus Items: Dilator information brochure, vaginismus informational brochure, 2 sample personal lubricant packs.">
-              <h4>Are Dilators Returnable? </h4>
-              <p>We are not able to accept returns on the vaginal dilator product. For health and safety reasons, and also to comply with FDA regulations for vaginal inserts, vaginal dilators that have been sold to a consumer cannot be restocked and are prohibited from resale.</p>
-            </div>
-            <div class="large-6 medium-6">
-              <img src="/img/products/products-quality-rings.jpg" alt="Our Products Are: Toxic Free, USA Made, Medical Grade.">
-              <h4>Note to Physicians</h4>
-              <p>These dilators are medically graded (FDA INT), non-toxic and latex-free. Highly effective for post-surgical recovery programs as well as for treating vaginismus, dyspareunia, vaginal narrowing and other similar gynecological conditions. [CPT Code: Procedure 57400 or 58999, HCPCS Code: E1399, Supplies: 99070]</p>
-            </div>
-          </div>
-        </div>
+<?php
+  include(ROOT_PATH.'/includes/products-bonus-banner.php');
+?>
 <!--dvd      -->
         <div class="wrapper video">
           <div class="large-6 medium-6">
@@ -181,6 +167,17 @@
       </div>
 
 <!--   FEATURED PRODUCT SECTION   -->
+<?php
+  $productimgpath = '/img/products/kit-english.jpg';
+  $productimgalt = 'Vaginismus Treatment Kit: Dilator Set, Home Treatment Program, Instructional DVD.';
+  $productimgclass = '';
+  $producth3 = 'Order Your Kit Today!';
+  $producth4 ="A Great Value";
+  $productp ="An entire Vaginismus Treatment Kit for less than the cost of one typical specialist session. Join the thousands of women who have overcome Vaginismus.";
+  $productprice ="$90.95";
+  include(ROOT_PATH.'/includes/products-buy-section.php');
+?>
+<!--
       <section id="buy-product">
         <div class="wrapper purchase">
           <div class="large-7 medium-6">
@@ -192,17 +189,16 @@
             <p>An entire Vaginismus Treatment Kit for less than the cost of one typical specialist session. Join the thousands of women who have overcome Vaginismus.</p>
             <p class="product-price">$90.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus Shipping &amp; Handling</p>
-            <img src="#" alt="">
             <a class="buy-btn" href="#">Add to Cart</a>
-            <img src="#" alt="">
+            
           </div>
         </div>
-<!--      PRE-FOOTER-BADGES SECTION      -->
+      PRE-FOOTER-BADGES SECTION      
      
         <div class="product-pre-footer">
           <div class="wrapper">
             <div class="large-8 medium-6">
-              <div class="badge-box ordering">
+              <div class="ordering">
                <h3>Don't Want to Order Online?</h3>
                 <hr>
                 <ul>
@@ -211,12 +207,12 @@
                   <li>Email Us: <a href="mailto:care@vaginismus.com" target="_blank">care@vaginismus.com</a></li>
                   <li>Fax/Mail Order Form: <a href="/downloads/fax-mail-order-form.pdf" target="_blank">Download PDF</a></li>
                 </ul>
-                <p>*If you would like to ship using Fedex or UPS please <a href="/contact-us/index.php">contact us</a> directly for accomodations.</p>
+                
               </div>
             </div>
             <div class="large-4 medium-6">
-              <div class="badge-box service">
-                <h3>Common Questions</h3>
+              <div class="service">
+                <h3>Customer Service</h3>
                 <hr>
                 <ul>
                   <li>Guaranteed Lowest Prices</li>
@@ -227,9 +223,18 @@
                 <a href="/customer-service-questions/index.php" class="gray-btn">Customer Service FAQs</a>
               </div>
             </div>
+            
+          </div>
+          <div class="wrapper shipping-box">
+            <div class="shipping-box-img">
+              <img src="/img/products/english-shippers.jpg" alt="Shipped via USPS and DHL">
+              <img src="/img/products/english-cc.jpg" alt="We accept Visa, Mastercard, Discover, American Express and PayPal">
+            </div>
+            <p>*If you would like to ship using Fedex or UPS please <a href="/contact-us/index.php">contact us</a> directly for accomodations.</p>
           </div>
         </div>
       </section>
+-->
       
 <!--   TREATMENT BANNER   -->
       <div class="banner-solid">

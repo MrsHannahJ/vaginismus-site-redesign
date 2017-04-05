@@ -44,6 +44,17 @@
 
 /*---------HERO---------------*/
 
+  #hero-english{
+    @media screen and (min-width: $breakpoint-medium){
+      background: url(/img/diagnosis/diagnosis-hero.jpg);
+      background-position: center;
+      background-size: cover;
+    }
+    .large-8{
+      margin-top: 3rem;
+    }
+  }
+//other languages
   .hero-banner-image{
     background: $light-gray-background;
     background-size: cover;

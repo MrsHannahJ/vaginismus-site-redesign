@@ -12,28 +12,17 @@
 
 //TABLET
   @media screen and (min-width: $breakpoint-medium){
-    background: url(/img/understanding/hero-mobile.jpg);
+    background: url(/img/further-support/prof-assist-hero.jpg);
     background-size: cover;
     background-position: top;
-    h1, a, p{
-      color: $white;
-    }
-//    margin-top: 1rem;
     .large-8{
-      float:none;
-      margin: 2rem auto 0;
-      background:transparent;
-    }
-    h1{
-      &:after{
-        border-bottom-color: $white;
-      }
+      margin-top: 3rem;
     }
   }
 }
   
  /*----------- SECTIONS-------------*/
-  .organizations, .articles{
+  #organizations, #articles{
     h2, h3{
       text-align: left;
     }
@@ -57,11 +46,11 @@
   ol li{
     list-style: upper-roman;
   }
-  .organizations h3{
+  #organizations h3{
     padding: 0.5rem 0 1rem 1rem;
   }
   
-  .organizations ol{
+  #organizations ol{
     margin-left: 1rem;
   }
   

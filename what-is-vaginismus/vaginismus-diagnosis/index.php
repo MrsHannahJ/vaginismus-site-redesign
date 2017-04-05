@@ -12,14 +12,11 @@
     <main id="diagnosis">
 <!--      HERO      -->
   
-      <section class="hero-banner-image">
-        <img src="/img/diagnosis/diagnosis-herom.jpg" alt="vaginismus diagnosis" class="hidden-desktop hidden-tablet" aria-hidden="true">
+      <section id="hero-english">
         <div class="wrapper">
-           <div class="large-12 medium-12">
-             <div class="hero-text">
+           <div class="large-8 medium-8">
                <h1>Diagnosis &amp; Tests</h1>
-               <h3>Medical diagnosis is typically determined by gynecological exam to rule out the possibility of other conditions and patient history.</h3>
-             </div>
+               <p>Medical diagnosis is typically determined by gynecological exam to rule out the possibility of other conditions and patient history.</p>
           </div>
         </div>
       </section>

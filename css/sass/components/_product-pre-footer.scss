@@ -4,8 +4,12 @@
 #buy-product{
   .purchase{
     .large-7{
-      padding: 0;
+      padding: 1rem 0 0 0;
     }
+//    .large-5 img{
+//      width: 50%;
+//      disply: block;
+//    }
     h3{
       color: $brand;
     }
@@ -25,11 +29,14 @@
       opacity: 0.7;
       padding: 0 0 1.5rem 0;
     }
-    .max-75{
-      max-width:75%;
-      margin: 0 auto;
-      display: block;
-    }
+
+//    .buy-btn{
+//      display: block;
+//      max-width:190px;
+//      text-align: center;
+//      margin: 1rem 0;
+//    }
+    
     @media screen and (min-width: $breakpoint-medium){
       h3,h4{
         text-align: left;
@@ -43,22 +50,30 @@
         margin-top: 2rem;
       }
     }
+    @media screen and (min-width: $breakpoint-large){
+      .max-400{
+        max-width:400px;
+        margin: 0 auto;
+        display: block;
+      }
+    }
   }
   
   .product-pre-footer{
+
     .large-8, .large-4{
       padding: 1rem 0.5rem;
     }
-    .badge-box{
+    .ordering, .service{
       background: $light-gray-background;
       padding: 1rem;
       text-align: center;
-      min-height: 16rem;
+      min-height: 15.5rem;
       -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
       ul{
-        padding: 0.75rem 0 0;
+        padding: 1rem 0 0.5rem;
       }
       li{
         padding: 0 0 0.75rem;
@@ -71,12 +86,14 @@
       li{
         list-style: none;
       }
+      img{
+        width: 49%;
+        display: inline-block;
+      }
     }
     .service{
-      ul{
-        padding-bottom: 1.25rem;
-      }
       li{
+        list-style: disc;
         list-style-position: inside;
       }
       a{
@@ -85,24 +102,38 @@
     }
     
     @media screen and (min-width: $breakpoint-medium){
-      .badge-box{
-        min-height:19rem;
+      .ordering, .service{
         h3{
           font-size: 21px;
         }
       }
       .service ul{
         text-align: left;
+        margin-left: 0.25rem;
       }
       .service a{
         padding: 0.25rem 0.5rem;
       }
     }
     @media screen and (min-width: $breakpoint-large){
-      .badge-box h3{
+      .ordering h3, .service h3{
           font-size: 22px;
         }
       }
+  }
+  .shipping-box{
+    text-align: center;
+  }
+  .shipping-box-img{
+    display:flex;
+    justify-content: center;
+    img{
+      max-width:250px;
+      margin: 0 1rem;
+      @media screen and (min-width: $breakpoint-medium){
+        margin: 0 2rem;
+      }
+    }
   }
 }
 

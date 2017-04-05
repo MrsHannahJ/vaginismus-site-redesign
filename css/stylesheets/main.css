@@ -2441,64 +2441,44 @@ img {
 /**
  * @license
  * MyFonts Webfont Build ID 3135224, 2015-12-02T12:47:37-0500
- * 
+ *
  * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
+ * Agreement(s) entered into by the website owner. All other parties are
  * explicitly restricted from using the Licensed Webfonts(s).
- * 
+ *
  * You may obtain a valid license at the URLs below.
- * 
+ *
  * Webfont: CaturritaDisplayBold-Bold by Armasen
  * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/bold/
  * Copyright: Copyright (c) 2012 by Armasen Typefaces. 2011 - All rights reserved.. All rights reserved.
- * 
+ *
  * Webfont: CaturritaDisplayRegular by Armasen
  * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/regular/
  * Copyright: Copyright (c) 2015 by Armasen Typefaces. All rights reserved.
- * 
+ *
  * Webfont: CaturritaDisplayLight-Light by Armasen
  * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/light/
  * Copyright: Copyright (c) 2015 by Armasen Typefaces. 2011 - All rights reserved. . All rights reserved.
- * 
+ *
  * Webfont: CaturritaDisplayMedium-Medium by Armasen
  * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/medium/
  * Copyright: Copyright (c) 2015 by Bruno Mello. All rights reserved.
- * 
+ *
  * Webfont: CaturritaDisplayThin-Thin by Armasen
  * URL: http://www.myfonts.com/fonts/armasen/caturrita-display/thin/
  * Copyright: Copyright (c) 2010 by Armasen Typefaces&#x00AE; 2014 - All rights reserved.. All rights reserved.
- * 
- * 
+ *
+ *
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=3135224
  * Licensed pageviews: 10,000
- * 
+ *
  * ┬⌐ 2015 MyFonts Inc
 */
 /* @import must be at top of file, otherwise CSS will not work */
 @font-face {
-  font-family: 'CaturritaDisplayBold-Bold';
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_0_0.eot");
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_0_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_0_0.ttf") format("truetype");
-}
-@font-face {
-  font-family: 'CaturritaDisplayRegular';
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_1_0.eot");
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_1_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_1_0.ttf") format("truetype");
-}
-@font-face {
   font-family: 'CaturritaDisplayLight-Light';
   src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot");
   src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.ttf") format("truetype");
-}
-@font-face {
-  font-family: 'CaturritaDisplayMedium-Medium';
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_3_0.eot");
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_3_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_3_0.ttf") format("truetype");
-}
-@font-face {
-  font-family: 'CaturritaDisplayThin-Thin';
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_4_0.eot");
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_4_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_4_0.ttf") format("truetype");
 }
 @font-face {
   font-family: 'fontello';
@@ -4023,6 +4003,7 @@ aside .sidebar-img a {
   #hero-english p {
     max-width: 25rem;
     margin: 0 auto;
+    font-size: 18px;
   }
 }
 
@@ -4093,7 +4074,7 @@ aside .sidebar-img a {
 }
 
 #buy-product .purchase .large-7 {
-  padding: 0;
+  padding: 1rem 0 0 0;
 }
 #buy-product .purchase h3 {
   color: #4eb3b3;
@@ -4116,11 +4097,6 @@ aside .sidebar-img a {
   opacity: 0.7;
   padding: 0 0 1.5rem 0;
 }
-#buy-product .purchase .max-75 {
-  max-width: 75%;
-  margin: 0 auto;
-  display: block;
-}
 @media screen and (min-width: 768px) {
   #buy-product .purchase h3, #buy-product .purchase h4 {
     text-align: left;
@@ -4136,22 +4112,29 @@ aside .sidebar-img a {
     margin-top: 2rem;
   }
 }
+@media screen and (min-width: 980px) {
+  #buy-product .purchase .max-400 {
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+  }
+}
 #buy-product .product-pre-footer .large-8, #buy-product .product-pre-footer .large-4 {
   padding: 1rem 0.5rem;
 }
-#buy-product .product-pre-footer .badge-box {
+#buy-product .product-pre-footer .ordering, #buy-product .product-pre-footer .service {
   background: #f2f2f2;
   padding: 1rem;
   text-align: center;
-  min-height: 16rem;
+  min-height: 15.5rem;
   -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
 }
-#buy-product .product-pre-footer .badge-box ul {
-  padding: 0.75rem 0 0;
+#buy-product .product-pre-footer .ordering ul, #buy-product .product-pre-footer .service ul {
+  padding: 1rem 0 0.5rem;
 }
-#buy-product .product-pre-footer .badge-box li {
+#buy-product .product-pre-footer .ordering li, #buy-product .product-pre-footer .service li {
   padding: 0 0 0.75rem;
 }
 #buy-product .product-pre-footer .ordering p {
@@ -4160,32 +4143,48 @@ aside .sidebar-img a {
 #buy-product .product-pre-footer .ordering li {
   list-style: none;
 }
-#buy-product .product-pre-footer .service ul {
-  padding-bottom: 1.25rem;
+#buy-product .product-pre-footer .ordering img {
+  width: 49%;
+  display: inline-block;
 }
 #buy-product .product-pre-footer .service li {
+  list-style: disc;
   list-style-position: inside;
 }
 #buy-product .product-pre-footer .service a {
   color: #656565;
 }
 @media screen and (min-width: 768px) {
-  #buy-product .product-pre-footer .badge-box {
-    min-height: 19rem;
-  }
-  #buy-product .product-pre-footer .badge-box h3 {
+  #buy-product .product-pre-footer .ordering h3, #buy-product .product-pre-footer .service h3 {
     font-size: 21px;
   }
   #buy-product .product-pre-footer .service ul {
     text-align: left;
+    margin-left: 0.25rem;
   }
   #buy-product .product-pre-footer .service a {
     padding: 0.25rem 0.5rem;
   }
 }
 @media screen and (min-width: 980px) {
-  #buy-product .product-pre-footer .badge-box h3 {
+  #buy-product .product-pre-footer .ordering h3, #buy-product .product-pre-footer .service h3 {
     font-size: 22px;
+  }
+}
+#buy-product .shipping-box {
+  text-align: center;
+}
+#buy-product .shipping-box-img {
+  display: flex;
+  justify-content: center;
+}
+#buy-product .shipping-box-img img {
+  max-width: 250px;
+  margin: 0 1rem;
+}
+@media screen and (min-width: 768px) {
+  #buy-product .shipping-box-img img {
+    margin: 0 2rem;
   }
 }
 
@@ -4473,6 +4472,7 @@ aside .sidebar-img a {
   /*---------SYMPTOMS PAGE---------------*/
   /*-------------------------------------*/
   /*---------HERO---------------*/
+  /*---------COMMON SYMPTOMS SECTION-------------*/
   /*---------EXAMPLES OF EFFECTS SECTION---------------*/
   /*---------VARIATIONS IN EXPERIENCE SECTION--------------*/
   /*---------INVOLUNTARY SECTION---------------*/
@@ -4485,6 +4485,16 @@ aside .sidebar-img a {
 }
 #symptoms .grad1 a {
   text-decoration: underline;
+}
+@media screen and (min-width: 768px) {
+  #symptoms #hero-english {
+    background: url(/img/symptoms/symptoms-header-en.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+}
+#symptoms #hero-english .large-8 {
+  margin-top: 2.5rem;
 }
 #symptoms .hero-banner-image {
   background: #f2f2f2;
@@ -4510,6 +4520,9 @@ aside .sidebar-img a {
 }
 #symptoms figcaption {
   text-align: justify;
+}
+#symptoms #common-symptoms .did-you-know {
+  margin: 0 auto;
 }
 #symptoms #examples-effects img {
   display: block;
@@ -4540,6 +4553,15 @@ aside .sidebar-img a {
 #symptoms #variations-experience .opaque-box ul {
   padding: 0 2rem;
   margin-left: 2rem;
+}
+#symptoms .banner-solid-gray {
+  padding-bottom: 1rem;
+}
+#symptoms .banner-solid-gray h2 {
+  padding: 0;
+}
+#symptoms .banner-solid-gray p {
+  padding-bottom: 1rem;
 }
 #symptoms #involuntary {
   padding: 0 1rem 2rem 1rem;
@@ -4581,6 +4603,16 @@ aside .sidebar-img a {
 }
 #causes .grad1 a {
   text-decoration: underline;
+}
+@media screen and (min-width: 768px) {
+  #causes #hero-english {
+    background: url(/img/causes/causes-hero.jpg);
+    background-position: top center;
+    background-size: cover;
+  }
+}
+#causes #hero-english .large-8 {
+  margin-top: 3rem;
 }
 #causes .hero-banner-image {
   background: #f2f2f2;
@@ -4690,6 +4722,16 @@ aside .sidebar-img a {
   color: #333333;
   padding-bottom: 0.25rem;
 }
+@media screen and (min-width: 768px) {
+  #stories #hero-english {
+    background: url(/img/stories/stories-hero.jpg);
+    background-position: top center;
+    background-size: cover;
+  }
+}
+#stories #hero-english .large-8 {
+  margin-top: 2rem;
+}
 #stories .hero-banner-image {
   background: #f2f2f2;
 }
@@ -4782,6 +4824,16 @@ aside .sidebar-img a {
 #diagnosis a {
   font-weight: bold;
 }
+@media screen and (min-width: 768px) {
+  #diagnosis #hero-english {
+    background: url(/img/diagnosis/diagnosis-hero.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+}
+#diagnosis #hero-english .large-8 {
+  margin-top: 3rem;
+}
 #diagnosis .hero-banner-image {
   background: #f2f2f2;
   background-size: cover;
@@ -4850,8 +4902,8 @@ aside .sidebar-img a {
 #treatment {
   /*---------HERO---------------*/
   /*---------TREATMENT OVERVIEW SECTION---------------*/
-  /*---------TREATMENT DETAILS SECTION---------------*/
   /*---------10 STEPS SECTION---------------*/
+  /*---------TREATMENT DETAILS SECTION---------------*/
 }
 #treatment section {
   -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
@@ -4881,6 +4933,16 @@ aside .sidebar-img a {
   font-weight: 400;
   padding-bottom: 1rem;
 }
+@media screen and (min-width: 768px) {
+  #treatment #hero-english {
+    background: url(/img/treatment/treatment-hero.jpg);
+    background-position: top center;
+    background-size: cover;
+  }
+}
+#treatment #hero-english .large-8 {
+  margin-top: 2rem;
+}
 #treatment .hero-banner-image {
   background: #f2f2f2;
 }
@@ -4907,6 +4969,24 @@ aside .sidebar-img a {
     padding-bottom: 0;
   }
 }
+#treatment #ten-steps h4 {
+  margin-bottom: 1rem;
+}
+#treatment #ten-steps p {
+  padding-bottom: 1rem;
+}
+#treatment #ten-steps .large-12 {
+  border: 1px solid #656565;
+  margin-bottom: 2rem;
+}
+#treatment #ten-steps .large-12 img {
+  float: left;
+  padding: 0 0.5rem 0.5rem 0;
+  margin: 0;
+}
+#treatment #ten-steps .large-12 p {
+  padding-bottom: 0;
+}
 #treatment .treatment-details {
   background: url(/img/white-wood-bkgd.jpg);
 }
@@ -4928,21 +5008,6 @@ aside .sidebar-img a {
 #treatment .treatment-details .opaque-box p {
   padding: 0.25rem 2rem 0.5rem;
   text-align: center;
-}
-#treatment #ten-steps h4 {
-  margin-bottom: 1rem;
-}
-#treatment #ten-steps .large-12 {
-  border: 1px solid #656565;
-  margin-bottom: 2rem;
-}
-#treatment #ten-steps img {
-  float: left;
-  padding: 0 0.5rem 0.5rem 0;
-  margin: 0;
-}
-#treatment #ten-steps p {
-  padding-bottom: 0;
 }
 
 @media screen and (min-width: 768px) {
@@ -6746,6 +6811,9 @@ html[dir="rtl"] #site-map ul li {
 .what-is {
   /*---------BUTTONS SECTION-------------*/
 }
+.what-is #hero-english {
+  margin-bottom: 1rem;
+}
 .what-is #hero-english a {
   display: block;
   margin: 2rem auto 1rem;
@@ -6756,6 +6824,14 @@ html[dir="rtl"] #site-map ul li {
     background: url(/img/what-is/hero.jpg);
     background-position: center;
     background-size: cover;
+  }
+  .what-is #hero-english .large-8 {
+    margin-top: 0.6rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  .what-is #hero-english .large-8 {
+    margin-top: 2rem;
   }
 }
 .what-is .what-is-buttons .wrapper h2 {
@@ -7090,9 +7166,9 @@ html[dir="rtl"] #site-map ul li {
 .treatment-english {
   /*---------HERO---------------*/
   /*---------SELF HELP SECTION-------------*/
-  /*-----------PROF ASSISTANCE SECTION-------------*/
+  /*-----------PRODUCTS SECTION-------------*/
   /*---------DILATOR BANNER--------*/
-  /*-----------FORUM SECTION-------------*/
+  /*---------SELF-HELP & FORUM SECTIONS-----------*/
   /*-------FURTHER SUPPORT BANNER---------*/
 }
 @media screen and (min-width: 768px) {
@@ -7105,74 +7181,8 @@ html[dir="rtl"] #site-map ul li {
     margin-top: 2rem;
   }
 }
-.treatment-english .self-help {
-  text-align: center;
-}
-.treatment-english .self-help .treatment-button {
-  color: #656565;
-}
-@media screen and (max-width: 767.99px) {
-  .treatment-english .self-help {
-    padding-top: 0;
-  }
-  .treatment-english .self-help p {
-    padding-bottom: 1.5rem;
-  }
-}
-@media screen and (min-width: 768px) {
-  .treatment-english .self-help {
-    margin-top: 1rem;
-  }
-  .treatment-english .self-help .wrapper {
-    max-width: 720px;
-  }
-  .treatment-english .self-help .treatment-button {
-    display: block;
-    margin: 0 auto;
-    height: 250px;
-    background: url(/img/treatment/further-support.jpg) no-repeat center;
-    background-size: auto 100%;
-    position: relative;
-    border: 1px solid #cacaca;
-    -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-    -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-    box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-  }
-  .treatment-english .self-help .treatment-button .text-box {
-    position: absolute;
-    width: 70%;
-    right: 1rem;
-    top: 0;
-    text-align: right;
-  }
-  .treatment-english .self-help .treatment-button h2 {
-    text-align: right;
-  }
-  .treatment-english .self-help .treatment-button p {
-    margin-bottom: 1rem;
-  }
-  .treatment-english .self-help .treatment-button .gray-btn {
-    display: inline;
-  }
-}
-@media screen and (min-width: 980px) {
-  .treatment-english .self-help .wrapper {
-    max-width: 875px;
-  }
-  .treatment-english .self-help .treatment-button {
-    height: 328px;
-    background-position: left;
-  }
-  .treatment-english .self-help .treatment-button .text-box {
-    width: 60%;
-  }
-}
 .treatment-english #treatment-products {
   text-align: center;
-  padding-top: 2rem;
-}
-.treatment-english #treatment-products li {
-  padding-bottom: 0.75rem;
 }
 .treatment-english #treatment-products p {
   margin-bottom: 1rem;
@@ -7180,22 +7190,23 @@ html[dir="rtl"] #site-map ul li {
 @media screen and (min-width: 768px) {
   .treatment-english #treatment-products .wrapper {
     position: relative;
-    text-align: left;
+    text-align: right;
   }
   .treatment-english #treatment-products .white-box-float {
     position: absolute;
     width: 375px;
-    left: 0;
+    right: 0;
   }
   .treatment-english #treatment-products h2 {
-    text-align: left;
+    text-align: right;
+    padding-top: 0;
   }
   .treatment-english #treatment-products p {
     margin-bottom: 0.5rem;
   }
   .treatment-english #treatment-products img {
     width: 600px;
-    float: right;
+    float: left;
     max-width: none;
     max-height: none;
     margin: 2rem auto;
@@ -7244,14 +7255,14 @@ html[dir="rtl"] #site-map ul li {
     margin-right: 1.5rem;
   }
 }
-.treatment-english #treatment-forum {
+.treatment-english #treatment-forum, .treatment-english .self-help {
   text-align: center;
   padding-top: 0;
 }
-.treatment-english #treatment-forum .wrapper {
+.treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
   position: relative;
 }
-.treatment-english #treatment-forum .white-box-float {
+.treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
   -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
@@ -7263,31 +7274,31 @@ html[dir="rtl"] #site-map ul li {
   max-width: 450px;
 }
 @media screen and (max-width: 767.99px) {
-  .treatment-english #treatment-forum .white-box-float {
+  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
     margin-bottom: 1rem;
     padding-bottom: 1.5rem;
   }
 }
-.treatment-english #treatment-forum p {
+.treatment-english #treatment-forum p, .treatment-english .self-help p {
   margin-bottom: 1rem;
 }
 @media screen and (min-width: 768px) {
-  .treatment-english #treatment-forum .wrapper {
+  .treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
     text-align: left;
   }
-  .treatment-english #treatment-forum .white-box-float {
+  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
     position: absolute;
     width: 375px;
     top: 6rem;
     left: 0;
   }
-  .treatment-english #treatment-forum .white-box-float .text-box {
+  .treatment-english #treatment-forum .white-box-float .text-box, .treatment-english .self-help .white-box-float .text-box {
     padding: 1rem 2rem 1.5rem;
   }
-  .treatment-english #treatment-forum h2 {
+  .treatment-english #treatment-forum h2, .treatment-english .self-help h2 {
     text-align: left;
   }
-  .treatment-english #treatment-forum img {
+  .treatment-english #treatment-forum img, .treatment-english .self-help img {
     width: 600px;
     float: right;
     max-width: none;
@@ -7296,24 +7307,24 @@ html[dir="rtl"] #site-map ul li {
   }
 }
 @media screen and (min-width: 980px) {
-  .treatment-english #treatment-forum .wrapper {
+  .treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
     max-width: 1100px;
   }
-  .treatment-english #treatment-forum .white-box-float {
+  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
     top: 8rem;
   }
-  .treatment-english #treatment-forum p {
+  .treatment-english #treatment-forum p, .treatment-english .self-help p {
     margin: 0.5rem 0 1.5rem;
   }
-  .treatment-english #treatment-forum img {
+  .treatment-english #treatment-forum img, .treatment-english .self-help img {
     width: 750px;
   }
 }
 @media screen and (min-width: 1200px) {
-  .treatment-english #treatment-forum .white-box-float {
+  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
     top: 9rem;
   }
-  .treatment-english #treatment-forum img {
+  .treatment-english #treatment-forum img, .treatment-english .self-help img {
     width: 800px;
   }
 }
@@ -7332,30 +7343,22 @@ html[dir="rtl"] #site-map ul li {
 }
 @media screen and (min-width: 768px) {
   .professional-assist #hero-english {
-    background: url(/img/understanding/hero-mobile.jpg);
+    background: url(/img/further-support/prof-assist-hero.jpg);
     background-size: cover;
     background-position: top;
   }
-  .professional-assist #hero-english h1, .professional-assist #hero-english a, .professional-assist #hero-english p {
-    color: #ffffff;
-  }
   .professional-assist #hero-english .large-8 {
-    float: none;
-    margin: 2rem auto 0;
-    background: transparent;
-  }
-  .professional-assist #hero-english h1:after {
-    border-bottom-color: #ffffff;
+    margin-top: 3rem;
   }
 }
-.professional-assist .organizations h2, .professional-assist .organizations h3, .professional-assist .articles h2, .professional-assist .articles h3 {
+.professional-assist #organizations h2, .professional-assist #organizations h3, .professional-assist #articles h2, .professional-assist #articles h3 {
   text-align: left;
 }
-.professional-assist .organizations p, .professional-assist .articles p {
+.professional-assist #organizations p, .professional-assist #articles p {
   font-size: 18px;
   padding-bottom: 1rem;
 }
-.professional-assist .organizations hr, .professional-assist .articles hr {
+.professional-assist #organizations hr, .professional-assist #articles hr {
   margin-top: 2rem;
 }
 .professional-assist ul, .professional-assist ol {
@@ -7370,10 +7373,10 @@ html[dir="rtl"] #site-map ul li {
 .professional-assist ol li {
   list-style: upper-roman;
 }
-.professional-assist .organizations h3 {
+.professional-assist #organizations h3 {
   padding: 0.5rem 0 1rem 1rem;
 }
-.professional-assist .organizations ol {
+.professional-assist #organizations ol {
   margin-left: 1rem;
 }
 .professional-assist #reviews {
@@ -7417,6 +7420,12 @@ html[dir="rtl"] #site-map ul li {
 }
 .product-page-english section:first-child {
   padding-top: 2rem;
+}
+.product-page-english #hero-english {
+  background: url(/img/products/products-header.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .product-page-english .hero {
   text-align: center;
@@ -7507,9 +7516,19 @@ html[dir="rtl"] #site-map ul li {
   .product-page-english .product-description .video h3, .product-page-english .product-description .forum h3 {
     margin-top: 1rem;
   }
+  .product-page-english .product-description #sizing img {
+    display: block;
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  .product-page-english .product-description .books a, .product-page-english .product-description .graduated a {
+    display: block;
+    text-align: center;
+  }
 }
 .product-page-english .bonus-banner {
   background: #f2f2f2;
+  padding-top: 1rem;
 }
 .product-page-english .bonus-banner p {
   font-size: 14px;
@@ -7518,6 +7537,13 @@ html[dir="rtl"] #site-map ul li {
   font-weight: 600;
   font-size: 16px;
   margin-top: 1rem;
+}
+@media screen and (max-width: 767.99px) {
+  .product-page-english .bonus-banner img {
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+  }
 }
 .product-page-english #reviews {
   background: url(/img/white-wood-bkgd.jpg);
@@ -7528,6 +7554,9 @@ html[dir="rtl"] #site-map ul li {
 .product-page-english .banner-solid-gray {
   min-height: 5.25rem;
   padding-top: 1.9rem;
+}
+.product-page-english .banner-solid-gray a {
+  font-size: 18px;
 }
 .product-page-english .banner-solid {
   margin-bottom: 2rem;

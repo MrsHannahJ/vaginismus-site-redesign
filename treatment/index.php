@@ -21,18 +21,52 @@
       </div>
     </div>
   </section>
+  <!--      TREATMENT OVERVIEW SECTION      -->
+        
+<section id="treatment-overview">
+  <div class="wrapper">
+    <h2>Treatment Overview</h2>
+    <h4>Successful vaginismus treatment does not require drugs, surgery, hypnosis, nor any other complex invasive technique.</h4>
+    <div class="large-6">
+      <p>Treatment steps can usually be completed at home using a self-help approach, allowing a woman to work at her own pace in privacy, or in cooperation with her health care provider or specialist.</p>
+      <p>Vaginismus is fully treatable.  Women experiencing sexual tightness/pain, penetration problems, or unconsummated relationships can expect remarkable resolution of their vaginismus, allowing full, pain-free intercourse.</p>
+    </div>
+    <div class="large-6">
+      <p>Effective treatment approaches combine pelvic floor control exercises, insertion or dilation training, pain elimination techniques, transition steps, and exercises designed to help women identify, express and resolve any contributing emotional components.</p>
+      <p>Vaginismus treatment exercises follow a manageable, step-by-step process (see <a href="/treatment/self-help-program/index.php#ten-steps">Steps</a>).</p>
+<!--      <ul>-->
+<!--        <li>The sexual pain, tightness and penetration difficulties from vaginismus are fully treatable and can be completely overcome with no remaining pain or discomfort.</li>-->
+<!--        <li>Women experiencing sexual tightness/pain, penetration problems, or unconsummated relationships can expect remarkable resolution of their vaginismus, allowing full, pain-free intercourse.</li>-->
+<!--        <li>Treatment steps can usually be completed at home using a self-help approach, allowing a woman to work at her own pace in privacy, or in cooperation with her health care provider or specialist.</li>-->
+<!--      </ul>-->
+    </div>
+  </div>
+</section>
   <section class="self-help">
+    <img src="/img/treatment/10-steps.jpg" alt="Woman reading about self-treatment" class="hidden-tablet hidden-desktop">
+    <div class="wrapper">
+      <img src="/img/treatment/10-steps.jpg" alt="Woman reading about self-treatment" class="hidden-mobile">
+      <div class="white-box-float">
+        <div class="text-box">
+          <h2>Self-Help Program: 10 Steps to Home Treatment</h2>
+          <p>Vaginismus is considered one of the most successfully treatable female sexual disorders. Studies have shown treatment success rates approaching nearly 100%.</p>
+          <a href="/treatment/self-help-program/index.php" class="gray-btn">Learn about Self-Treatment</a>
+        </div>
+      </div>
+    </div>
+<!--
     <img src="/img/treatment/hero-mobile.jpg" alt="Self-Help Treatment" class="hidden-tablet hidden-desktop">
     <div class="wrapper">
         <a href="/treatment/self-help-program/index.php" class="treatment-button">
         <div class="text-box">
-          <h2>Treatment Overview &amp; 10 Steps to Home Treatment</h2>
+          <h2>Self-Help Program: 10 Steps to Home Treatment</h2>
           <p>Vaginismus is considered one of the most successfully treatable female sexual disorders. Studies have shown treatment success rates approaching nearly 100%.</p>
         <p class="gray-btn hidden-mobile">Learn about Self-Treatment</p>
         </div>
         </a>
         <a href="/treatment/self-help-program/index.php" class="gray-btn hidden-tablet hidden-desktop">Learn about Self-Treatment</a>
     </div>
+-->
   </section>
 <!--     PRODUCTS SECTION-->
   <section id="treatment-products">
