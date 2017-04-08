@@ -1,7 +1,6 @@
 <!--   SIDEBAR   -->
 
-        <aside class="large-3">
-          <h2>Treatment FAQs</h2>
+        <aside class="">
           <ul>
             <li>
               <a href='/further-support/treatment-questions/vaginismus-treatment-success-rates/index.php' <?php
@@ -64,7 +63,4 @@
             <li><a href='/further-support/treatment-questions/erection-problems/index.php' <?php if($active == 'ed') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>My husband is having problems keeping an erection. Any advice?</a></li>
             <li><a href='/further-support/treatment-questions/sexual-addictions/index.php' <?php if($active == 'sa') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>We’re really struggling with our lack of a sexual relationship.  My husband is seeking relief in porn and may have a sexual addiction as well.  Is there help?</a></li>
           </ul>
-          <a href='/further-support/index.php' class="shaded-btn">Back to Further Support</a>
         </aside>
-      </div>
-    </main>

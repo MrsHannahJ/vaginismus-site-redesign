@@ -8,10 +8,16 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'ed';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>My husband is having problems with keeping an erection. Any advice?</h1>
 
           <h3>Erection difficulties are experienced by a significant number of men.</h3>
@@ -38,11 +44,18 @@
               <li><a href="../../../resources/related-conditions/sexual-addictions/index.html">Sexual Addiction Resources</a></li>
               <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'ed';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

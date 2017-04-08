@@ -1,6 +1,5 @@
 <!--   SIDEBAR   -->
-        <aside class="large-3">
-          <h2>General FAQs</h2>
+        <aside class="">
           <ul>
             <li>
               <a href='/further-support/general-questions/do-i-have-vaginismus/index.php' <?php
@@ -31,5 +30,5 @@
             <li><a href='/further-support/general-questions/vaginismus-a-lonely-condition/index.php' <?php if($active == 'lonely') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>Vaginismus &#8211; Lonely? Benefits of Community</a></li>
             <li><a href='/further-support/general-questions/are-you-suffering-from-painful-intercourse/index.php' <?php if($active == 'suffering') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>Are you suffering? Seeking help for painful intercourse.</a></li>
           </ul>
-          <a href='/further-support/index.php' class="shaded-btn">Back to Further Support</a>
+
         </aside>

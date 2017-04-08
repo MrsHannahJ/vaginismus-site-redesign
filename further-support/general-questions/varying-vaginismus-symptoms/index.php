@@ -8,10 +8,17 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+      $active = 'varying';
+      include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+    ?>
+        <section class="">
           <h1>Are there varying degrees of symptoms with vaginismus?</h1>
           <h3>Vaginismus Symptoms Range</h3>
           <p>Vaginismus manifests itself in varying <a href="../../../vaginismus-symptoms/index.html">symptoms</a> and degrees of intensity in different women. Fortunately, the treatment method is <a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">almost the same</a> regardless of the intensity or specific variation. The symptoms range depending upon type, causes, and complications present. It broadly affects women from all stages of life in that it can be triggered in both younger and older women; in those with no sexual experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">primary vaginismus</a>) and those with years of experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">secondary vaginismus</a>).</p>
@@ -43,11 +50,18 @@
             <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
             <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'varying';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -9,11 +9,17 @@
 
 
 
-    
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'dyspareunia';
+          include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+        ?>
+        <section class="">
           <h1>What is dyspareunia? What is the connection between dyspareunia and vaginismus?</h1>
           <h3>Any type of dyspareunia (general sex pain) may trigger vaginismus (ongoing sex pain or penetration problem from involuntary vaginal tightness).</h3>
 
@@ -74,12 +80,18 @@
             <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
             <li><a href="../../../vaginismus-diagnosis/index.html">Vaginismus Diagnosis</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
-
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'dyspareunia';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -9,10 +9,17 @@
 
 
 
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'treating';
+          include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+        ?>
+        <section class="">
           <h1>What types of vaginal dilators are best for treating vaginismus and similar conditions?</h1>
      
                  
@@ -49,12 +56,18 @@
             <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
             <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Why are vaginal dilators used in treating vaginismus?</a></li>
           </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'treating';
-  include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

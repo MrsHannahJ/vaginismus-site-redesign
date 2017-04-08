@@ -10,10 +10,15 @@
 
     
 <!--   MAIN SECTION   -->
-    <main class="faq-question">
-      <div class="wrapper long-side">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'sa';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>We’re really struggling with our lack of a sexual relationship. My husband is seeking relief in porn and may have a sexual addiction as well. Is there help?</h1>
                 
           <p>Some men may develop sexual addictions and/or other sexually addictive behaviors, partially as a result of struggles with an absence of sex in marriage (or relationship), due to vaginismus or another sexual pain problem. Addictions can impede the restoration of a healthy sexual relationship and can contribute to ongoing relational difficulties.</p>
@@ -39,8 +44,17 @@
           </ul>
 
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'sa';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

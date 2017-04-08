@@ -8,10 +8,17 @@
 ?>
 
 
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'orgasms';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>I can&#8217;t seem to have orgasms. Could this be related to vaginismus?</h1>
           <h3>Vaginismus may impede orgasm in some cases.</h3>
           <p>Intercourse is not necessary to achieve orgasms. The key to most orgasms for women is clitoral stimulation. However, for some women with vaginismus, the arousal process is interrupted when the intercourse attempt becomes uncomfortable or painful. If a woman’s body reacts to stimulation by triggering the vaginismus response, the tightened pelvic floor may abruptly end the arousal process.</p>
@@ -32,11 +39,18 @@
             <li><a href="../what-is-vaginismus/index.html">What is vaginismus?</a></li>
             <li><a href="../../../vaginismus-symptoms/index.html">Vaginismus Symptoms</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'orgasms';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

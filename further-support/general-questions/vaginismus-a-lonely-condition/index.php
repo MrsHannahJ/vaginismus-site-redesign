@@ -10,12 +10,16 @@
 
     
 <!--   MAIN SECTION   -->
-    <main class="faq-question">
-     
-<!--     ARTICLE BODY     -->
-     
-      <div class="wrapper">
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'lonely';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Vaginismus &#8211; Lonely? Benefits of Community</h1>
 
           <div class="blog-article">
@@ -46,10 +50,18 @@
           </div>
 
         </section>
-      
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'lonely';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
               

@@ -1,7 +1,6 @@
 <!--   SIDEBAR   -->
 
-        <aside class="large-3">
-          <h2>Dilator FAQs</h2>
+        <aside>
           <ul>
             <li><a href='/further-support/dilator-questions/vaginal-dilators-treating-vaginismus/index.php' <?php if($active == 'why') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>Why are vaginal dilators used in treating vaginismus?</a></li>
             <li><a href='/further-support/dilator-questions/can-i-just-get-dilators/index.php' <?php if($active == 'program') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>Using dilators without a program?</a></li>
@@ -16,7 +15,5 @@
             <li><a href='/further-support/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php' <?php if($active == 'treating') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>What types of vaginal dilators are best for treating vaginismus and similar conditions?</a></li>
             <li><a href='/further-support/dilator-questions/health-insurance-cover-dilators/index.php' <?php if($active == 'insurance') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>Will my health insurance cover the cost of buying dilators?</a></li>
           </ul>
-          <a href='/further-support/index.php' class="shaded-btn">Back to Further Support</a>
         </aside>
-      </div>
-    </main>
+

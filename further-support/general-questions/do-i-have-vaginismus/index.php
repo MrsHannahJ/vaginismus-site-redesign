@@ -9,10 +9,17 @@
 
 
 
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'how';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>How do I know if I have vaginismus?</h1>
           <h3>Women often suspect they have vaginismus simply from their symptoms.</h3>
           <p>Strong indicators of vaginismus include any of the following <a href="../../../vaginismus-symptoms/index.html">symptoms</a>:</p>
@@ -40,12 +47,19 @@
             <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
             <li><a href="../../treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnostic and treatment help for vaginismus?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'how';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
         

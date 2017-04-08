@@ -1,9 +1,6 @@
 <!--   SIDEBAR   -->
 
-   
-       
-        <aside class="large-3">
-          <h2>Pregnancy FAQs</h2>
+        <aside class="">
           <ul>
             <li>
               <a href='/further-support/pregnancy-questions/biological-clock-ticking/index.php' <?php
@@ -18,7 +15,4 @@
             <li><a href='/further-support/pregnancy-questions/unable-to-have-gynecological-exams/index.php' <?php if($active == 'exams') {echo 'class="active"';} ?>><i class="icon-angle-double-right"></i>If I am unable to have pelvic exams due to vaginismus, how will I handle my prenatal care?</a></li>
             
           </ul>
-          <a href='/further-support/index.php' class="shaded-btn">Back to Further Support</a>
         </aside>
-      </div>
-    </main>

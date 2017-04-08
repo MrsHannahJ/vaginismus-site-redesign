@@ -9,10 +9,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'made';
+        include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+      ?>
+        <section class="">
           <h1>What are the dilators made of?</h1>
           <figure>
             <figcaption>
@@ -36,11 +43,18 @@
             <li><a href="../can-i-just-get-dilators/index.html">Can I use dilators without a program?</a></li>
           </ul>
           
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'made';
-  include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

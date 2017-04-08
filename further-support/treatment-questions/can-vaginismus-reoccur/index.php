@@ -8,10 +8,16 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'reoccur';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>Once vaginismus has been successfully treated can it reoccur?</h1>
           <h3>The process of overcoming vaginismus is generally permanent. Learned abilities are lifelong and prevent reoccurrence.</h3>
           <p>The process of overcoming vaginismus normally instills life-long skills that provide permanent pain-free resolution. The body&#8217;s tendency to involuntarily <a href="../../../vaginismus-causes/index.html#pc-muscles">tighten the pelvic floor</a> is overcome, and if any vaginismus symptoms ever reoccur, they are typically easily resolved with the skills learned through successfully completing treatment.</p>
@@ -27,13 +33,18 @@
               <li><a href="../../../vaginismus-causes/index.html">Vaginismus Causes</a></li>
               <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
-
-                    
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'reoccur';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

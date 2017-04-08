@@ -9,10 +9,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'go';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Will vaginismus go away on its own?</h1>
           <figure>
             <figcaption>
@@ -31,11 +38,18 @@
             <li><a href="../../../faq/treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnosis and treatment help for vaginismus?</a></li>
             <li><a href="../../../faq/treatment-questions/can-vaginismus-reoccur/index.html">Once vaginismus has been successfully treated can it reoccur?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'go';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

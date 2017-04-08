@@ -9,10 +9,16 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'pregnancy'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'cause';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+      ?>
+        <section class="">
           <h1>Can childbirth cause vaginismus? Can it be prevented?</h1>
                 
           <h3>The temporary pains of childbirth can trigger ongoing vaginismus sexual pain.</h3>
@@ -55,12 +61,19 @@
               <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
               <li><a href="../../general-questions/had-pleasurable-intercourse-before/index.html">Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'cause';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
                

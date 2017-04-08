@@ -10,10 +10,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'primary';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>What is the difference between primary vaginismus and secondary vaginismus?</h1>
           <h3>Vaginismus has Two Major Classifications</h3>
           <p>Vaginismus can be experienced by women at any age or time in life. It has two major classifications: primary vaginismus and secondary vaginismus. The medical community typically uses these terms to indicate the time of onset. These labels assist the medical community and researchers in diagnosis and classification. For the individual woman, the distinction between the two types tends to be of less importance. Whether primary or secondary, both are highly <a href="../../../vaginismus-treatment/index.html">treatable</a>.</p>
@@ -34,11 +41,18 @@
             <li><a href="https://www.vaginismus.com/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
             <li><a href="https://www.vaginismus.com/faq/general-questions/dyspareunia-diagnosis-treatment/">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'primary';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

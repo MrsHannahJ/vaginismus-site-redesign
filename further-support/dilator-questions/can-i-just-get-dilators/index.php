@@ -7,11 +7,16 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'program'; include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+      ?>
+        <section class="">
           <h1>Using dilators without a program?</h1>
                 
           <h3>There&#8217;s more to treating vaginismus than simply using dilators.</h3>
@@ -26,6 +31,7 @@
           <h3>Getting Results</h3>
           <p>Many women experience anxiety even at the sight of vaginal dilators and find undirected insertion efforts to be unpleasantly difficult. Unanswered questions and thoughts like, “Am I doing it right? Which one should I start with? How do I get it in? Why am I using these things? Why is this not working? and Why am I not seeing any progress?” are common and can lead to defeat and discouragement.</p>
           <p>The correct use of dilators is an important part of the vaginismus treatment process and when used as part of a complete program, helps treatment efforts to be a manageable process likely to result in successful resolution in a reasonable time-frame.</p>
+          <a href='#' >Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
           
           <h3>See Also</h3>
@@ -36,12 +42,21 @@
             <li><a href="../vaginal-dilators-for-treating-vaginismus/index.html">What types of vaginal dilators are best for treating vaginismus?</a></li>
           </ul>
           
-          <hr class="hidden-desktop"/>
         </section>
         
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'program';
-  include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+    
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
        

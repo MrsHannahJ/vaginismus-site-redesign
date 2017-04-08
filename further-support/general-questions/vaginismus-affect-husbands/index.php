@@ -9,10 +9,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'husbands';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>How does vaginismus affect husbands/partners of women with vaginismus?</h1>
           <h3>Sexual problems due to vaginismus can negatively affect a relationship.</h3>
           <p>Overcoming vaginismus together can deepen and strengthen couple bonds and bring needed restoration. Although women experience the consequences of having vaginismus most acutely and directly, it is important to acknowledge that their partners will also experience a wide range of impacts.</p>
@@ -49,11 +56,18 @@
             <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
             <li><a href="../../../vaginismus-stories/">Vaginismus Stories</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'husbands';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -2817,47 +2817,47 @@ strong {
   text-align: center;
 }
 
-#home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1 {
+#home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1, .faq-english h1 {
   font-size: 30px;
   font-size: 1.875rem;
 }
 @media screen and (min-width: 980px) {
-  #home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1 {
+  #home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1, .faq-english h1 {
     font-size: 36px;
     font-size: 2.25rem;
   }
 }
-#home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2 {
+#home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2, .faq-english h2 {
   font-size: 24px;
   font-size: 1.5rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  #home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2 {
+  #home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2, .faq-english h2 {
     font-size: 28px;
     font-size: 1.75rem;
   }
 }
-#home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3 {
+#home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3, .faq-english h3 {
   font-size: 21px;
   font-size: 1.3125rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  #home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3 {
+  #home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3, .faq-english h3 {
     font-size: 24px;
     font-size: 1.5rem;
   }
 }
-#home-english h4, .what-is h4, .understanding h4, .further-support h4, .treatment-english h4, .professional-assist h4, .product-page-english h4 {
+#home-english h4, .what-is h4, .understanding h4, .further-support h4, .treatment-english h4, .professional-assist h4, .product-page-english h4, .faq-english h4 {
   font-size: 20px;
   font-size: 1.25rem;
 }
-#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li, .treatment-english p, .treatment-english li, .professional-assist p, .professional-assist li, .product-page-english p, .product-page-english li {
+#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li, .treatment-english p, .treatment-english li, .professional-assist p, .professional-assist li, .product-page-english p, .product-page-english li, .faq-english p, .faq-english li {
   font-size: 16px;
   font-size: 1rem;
 }
-#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td, .treatment-english a, .treatment-english figcaption, .treatment-english table, .treatment-english th, .treatment-english td, .professional-assist a, .professional-assist figcaption, .professional-assist table, .professional-assist th, .professional-assist td, .product-page-english a, .product-page-english figcaption, .product-page-english table, .product-page-english th, .product-page-english td {
+#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td, .treatment-english a, .treatment-english figcaption, .treatment-english table, .treatment-english th, .treatment-english td, .professional-assist a, .professional-assist figcaption, .professional-assist table, .professional-assist th, .professional-assist td, .product-page-english a, .product-page-english figcaption, .product-page-english table, .product-page-english th, .product-page-english td, .faq-english a, .faq-english figcaption, .faq-english table, .faq-english th, .faq-english td {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -3064,6 +3064,7 @@ strong {
 /*--------------HEADER---------------*/
 header {
   z-index: 90000;
+  top: 0;
   background: #ffffff;
   -webkit-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
   -moz-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
@@ -3446,11 +3447,11 @@ header .cart-count:after {
 }
 
 main {
-  padding-top: 1.85rem;
+  margin-top: 2.7rem;
 }
 @media screen and (min-width: 980px) {
   main {
-    padding-top: 2.9rem;
+    margin-top: 2.95rem;
   }
 }
 
@@ -7413,6 +7414,8 @@ html[dir="rtl"] #site-map ul li {
 
 .product-page-english {
   /*-----------HERO-------------*/
+  /*-----------PRODUCT PREVIEW-----------*/
+  /*-----------MISSION BANNER-----------*/
   /*-----------PRODCUT DESCRIPTION-----------*/
   /*---------BONUS BANNER--------*/
   /*---------REVIEWS SECTION--------*/
@@ -7426,6 +7429,7 @@ html[dir="rtl"] #site-map ul li {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 1rem;
 }
 .product-page-english .hero {
   text-align: center;
@@ -7441,6 +7445,48 @@ html[dir="rtl"] #site-map ul li {
   display: block;
   margin-bottom: 1rem;
   font-family: "Raleway", sans-serif;
+}
+.product-page-english .product-preview {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.product-page-english .product-preview .large-8, .product-page-english .product-preview .large-4 {
+  padding: 0;
+}
+.product-page-english .product-preview h2 {
+  color: #4eb3b3;
+  padding-top: 0;
+}
+.product-page-english .product-preview p {
+  padding: 0.5rem 0 1rem;
+}
+@media screen and (min-width: 768px) {
+  .product-page-english .product-preview {
+    text-align: left;
+  }
+  .product-page-english .product-preview:nth-child(even) .wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .product-page-english .product-preview:nth-child(4) .wrapper img, .product-page-english .product-preview:nth-child(5) .wrapper img {
+    max-width: 75%;
+    display: block;
+    margin: 0 auto;
+  }
+  .product-page-english .product-preview h2 {
+    text-align: left;
+  }
+}
+@media screen and (min-width: 980px) {
+  .product-page-english .product-preview h2 {
+    margin-top: 2rem;
+  }
+}
+.product-page-english .grad1 {
+  margin: 2rem 0;
+}
+.product-page-english .grad1 h2 {
+  padding-top: 0;
 }
 .product-page-english .product-description {
   padding-top: 0;
@@ -7594,5 +7640,164 @@ html[dir="rtl"] #site-map ul li {
     -o-transform: scale(1.15);
     -webkit-transform: scale(1.15);
     transform: scale(1.15);
+  }
+}
+
+.faq-english {
+  /*---------HERO---------------*/
+  /*---------FAQ BODY---------------*/
+}
+.faq-english #hero-english {
+  min-height: 1rem;
+}
+.faq-english #hero-english h2 {
+  font-size: 20px;
+  padding-top: 0;
+}
+.faq-english aside {
+  background: #fafafa;
+}
+.faq-english aside ul {
+  margin-left: 1rem;
+}
+.faq-english aside ul li {
+  list-style: none;
+  text-indent: -1.25rem;
+}
+.faq-english section ol li, .faq-english section ul li {
+  margin-left: 1rem;
+  padding: 0.75rem 0;
+}
+.faq-english section ol li ul, .faq-english section ul li ul {
+  margin-left: 2rem;
+}
+.faq-english section ol li ul li:last-child, .faq-english section ul li ul li:last-child {
+  padding-bottom: 0;
+}
+.faq-english section ol li {
+  list-style: upper-roman;
+}
+.faq-english section ul li {
+  list-style: disc;
+}
+.faq-english section .number-list li {
+  list-style: decimal;
+}
+@media screen and (max-width: 767.99px) {
+  .faq-english #hero-english {
+    padding-bottom: 0.5rem;
+  }
+  .faq-english #hero-english .faq-topic-btn {
+    display: block;
+    margin: 0.5rem auto 0;
+    width: 250px;
+    background: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 0.25rem 0;
+    -webkit-box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+  }
+  .faq-english #hero-english .faq-topic-btn:hover {
+    opacity: 0.7;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .faq-english #hero-english .faq-topic-btn.opened {
+    width: 275px;
+    color: #4eb3b3;
+    background: #ffffff;
+  }
+  .faq-english .faq-body {
+    width: 100%;
+  }
+  .faq-english .faq-body aside, .faq-english .faq-body section {
+    padding: 1rem 1rem 0;
+  }
+}
+@media screen and (min-width: 768px) {
+  .faq-english #hero-english {
+    padding-bottom: 0;
+  }
+  .faq-english #hero-english p {
+    padding: 0 0 1rem;
+  }
+  .faq-english nav {
+    display: flex;
+    bottom: 0;
+  }
+  .faq-english .faq-topic-btn {
+    flex-basis: 100%;
+    background-color: #ffffff;
+    padding: 1rem 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border-top: 2px solid #f2f2f2;
+    border-right: 2px solid #f2f2f2;
+    border-left: 2px solid #f2f2f2;
+    -webkit-box-shadow: 1px -1px 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 1px -1px 1px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px -1px 1px 0px rgba(0, 0, 0, 0.1);
+  }
+  .faq-english .faq-topic-btn:last-child {
+    margin-right: 0;
+  }
+  .faq-english .faq-topic-btn.opened {
+    border: none;
+    border-top: 5px solid #4eb3b3;
+    background-color: #fafafa;
+    position: relative;
+    box-shadow: none;
+  }
+  .faq-english .faq-topic-btn.opened #triangle-topleft {
+    z-index: 2;
+    position: absolute;
+    bottom: 0;
+    bottom: -20%;
+    left: 45%;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid #f2f2f2;
+  }
+  .faq-english .faq-topic-btn.opened #triangle-topleft:hover {
+    opacity: 1;
+  }
+  .faq-english .faq-topic-btn.opened #triangle {
+    z-index: 2;
+    position: absolute;
+    bottom: -18.1%;
+    left: 45%;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid #fafafa;
+  }
+}
+.faq-english .faq-body {
+  border: 1px solid #f2f2f2;
+  margin-bottom: 2rem;
+}
+.faq-english .faq-body hr {
+  margin: 1rem 0;
+}
+@media screen and (min-width: 768px) {
+  .faq-english .faq-body {
+    display: flex;
+  }
+  .faq-english .faq-body aside {
+    width: 30%;
+    padding: 1rem;
+    margin-top: 0;
+  }
+  .faq-english .faq-body section {
+    width: 70%;
+    padding: 1rem;
+  }
+  .faq-english .faq-body section h1 {
+    font-size: 28px;
   }
 }

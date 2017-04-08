@@ -8,10 +8,16 @@
 ?>
 
 
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'pregnancy'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'adopting';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+      ?>
+        <section class="">
           <h1>Should we consider adopting if our time is running out? Should we just give up and move-on?</h1>
                 
           <h3>Adoption is a viable option for couples with vaginismus.</h3>
@@ -31,12 +37,19 @@
               <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
               <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'adopting';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
                     

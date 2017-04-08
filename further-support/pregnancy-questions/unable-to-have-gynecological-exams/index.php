@@ -9,10 +9,16 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'pregnancy'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'exams';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+      ?>
+        <section class="">
           <h1>If I am unable to have gynecological exams due to vaginismus, how can I get through all the doctor&#8217;s visits and vaginal ultrasounds for my pregnancy?</h1>
                 
           <h3>Untreated vaginismus may present some challenges during pregnancy.</h3>
@@ -41,11 +47,18 @@
               <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
               <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'exams';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -8,10 +8,16 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'stop';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>Should I stop trying to have intercourse during vaginismus treatment?</h1>
 
           <h3>Failing Intercourse Further Complicates Treatment</h3>
@@ -32,11 +38,18 @@
               <li><a href="../passionate-again/index.html">Vaginismus has taken its toll on our marriage. How do we become passionate again?</a></li>
               <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'stop';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

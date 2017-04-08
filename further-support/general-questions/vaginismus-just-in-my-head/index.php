@@ -8,10 +8,17 @@
 ?>
 
 
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'head';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Could vaginismus just be in my head?</h1>
           <h3>Regardless of the potential causes, there is always a distinct physical side to vaginismus.</h3>
           <p>With vaginismus, the <a href="../../../vaginismus-causes/index.html#pc-muscles">pelvic floor tightening response</a> is an involuntary physical occurrence, meaning that it is not under the immediate direction or control of the woman. Therefore, regardless of the <a href="../../../vaginismus-causes/index.html">causes</a> of vaginismus, there is always a distinct, sexually crippling, physical side to the condition. It is a condition in which varying <a href="../../../vaginismus-causes/index.html#physical-causes">physical</a> and/or <a href="../../../vaginismus-causes/index.html#non-physical-causes">emotional</a> factors may play contributory roles and so both should be examined as part of the <a href="https://www.vaginismus.com/vaginismus-treatment/">treatment</a> process.</p>
@@ -29,11 +36,18 @@
             <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
             <li><a href="../../treatment-questions/queasy-about-treatment/index.html">I can&#8217;t even look at myself &#8220;down there&#8221; and I feel queasy just considering penetration or any type of vaginal insertion. How can I make it through treatment?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'head';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

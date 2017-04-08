@@ -8,10 +8,17 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'other';
+        include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+      ?>
+        <section class="">
           <h1>Can the dilators be used to treat other conditions besides vaginismus?</h1>
                 
           <h3>Dilators are successfully used by health professionals to treat a wide variety of medical conditions.</h3>
@@ -27,12 +34,18 @@
               <li><a href="../../customer-service-questions/ordering-faqs/index.html">Can I return the dilators for a refund if I don&#8217;t use them?</a></li>
               <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'other';
-  include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

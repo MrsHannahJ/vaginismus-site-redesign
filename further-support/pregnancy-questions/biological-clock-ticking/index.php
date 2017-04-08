@@ -8,10 +8,16 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'pregnancy'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'clock';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+      ?>
+        <section class="">
           <h1>I can&#8217;t have intercourse and my biological clock is ticking. Any advice?</h1>
               
           <h3>The pressures of wanting children, but being unable to conceive due to vaginismus, can be overwhelming.</h3>
@@ -41,12 +47,19 @@
               <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
               <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'clock';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
                

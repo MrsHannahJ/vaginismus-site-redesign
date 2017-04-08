@@ -8,10 +8,17 @@
 ?>
 
 
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'hymen';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Could my hymen be causing my problem?</h1>
             <h3>Hymen problems rarely cause penetration difficulty.</h3>
             <p>In very rare cases, women with unusually thick hymens may have penetration difficulties because of it. However, in practice, most women who believe their hymen is causing a penetration problem actually have vaginismus. Vaginismus is a much more common cause of penetration difficulties, and the symptoms can be almost identical to that of a hymen problem.</p>
@@ -30,11 +37,18 @@
             <li><a href="../../treatment-questions/queasy-about-treatment/index.html">I can&#8217;t even look at myself &#8220;down there&#8221; and I feel queasy just considering penetration or any type of vaginal insertion. How can I make it through treatment?</a></li>
             <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'hymen';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

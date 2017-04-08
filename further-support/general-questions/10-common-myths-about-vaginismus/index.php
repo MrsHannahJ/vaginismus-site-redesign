@@ -8,19 +8,22 @@
 ?>
  
  
-
 <!--   MAIN SECTION   -->
-    <main class="faq-question">
-     
-<!--     ARTICLE BODY     -->
-     
-      <div class="wrapper long-side">
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = '10';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>10 Common Myths About Vaginismus</h1>
 
           <div class="blog-article">
             <p>The following is a list of ten common myths of vaginismus:</p>
-            <ol>
+            <ol class="number-list">
               <li><strong>Women who have vaginismus are frigid.</strong> Frigid is a derogatory term meaning sexually unresponsive. Most women with vaginismus are sexually responsive and deeply desire to make love. When sex always hurts or is uncomfortable it is normal to begin to avoid intimacy.</li>
               <li><strong>Vaginismus will go away on its own.</strong> Vaginismus does not get better on its own. It requires treatment. The earlier treatment is initiated the more quickly pain-free intercourse will be attained. Do not accept your situation.  We have helped many women who have struggled unnecessarily with vaginismus for decades before they sought treatment help.</li>
               <li><strong>If we just try harder (keep trying to have sex) it will happen.</strong> Continuing to attempt penetrative intercourse while there is pain only makes the vaginismus WORSE &#8211; not better. Forcing it does not help. Stop having intercourse if you are having sexual pain and seek treatment.</li>
@@ -35,10 +38,19 @@
           </div>
 
         </section>
-      
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
+<?php
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
 <?php
   $active = '10';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
   include(ROOT_PATH.'/includes/footer.php');
 ?>
        

@@ -6,6 +6,7 @@
 
 header{
   z-index: 90000;
+  top:0;
   background: $white;
   -webkit-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
   -moz-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
@@ -441,9 +442,9 @@ header{
 }
 
 main{
-  padding-top: 1.85rem;
+  margin-top: 2.7rem;
   @media screen and (min-width: $breakpoint-large){
-    padding-top: 2.9rem;
+    margin-top: 2.95rem;
   }
 }
   

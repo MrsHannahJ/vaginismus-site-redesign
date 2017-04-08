@@ -8,11 +8,17 @@
 ?>
 
 
-    
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'many';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>How many women have vaginismus?</h1>
           <h3>Roughly 2 women in 1000 have vaginismus.</h3>
           <p>It is commonly accepted that <strong>roughly 2 women in 1000</strong> will experience vaginismus. However, that number could be higher. Gathering reliable statistics for vaginismus occurrence is hindered by many factors such as:</p>
@@ -64,11 +70,18 @@
             <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
             <li><a href="../what-is-vaginismus/index.html">What is vaginismus?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'many';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

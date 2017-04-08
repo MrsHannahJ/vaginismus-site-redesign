@@ -8,10 +8,16 @@
 ?>
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'single';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>Can you completely overcome vaginismus if you are single?</h1>
 
           <h3>Vaginismus treatment can be completed while single, up to the point of being fully ready to transition to intercourse.</h3>
@@ -35,11 +41,18 @@
               <li><a href="../vaginismus-treatment-help-severe-cases/index.html">Does your kit only work for mild or marginal cases of vaginismus? Will it work for severe cases as well?</a></li>
               <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'single';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

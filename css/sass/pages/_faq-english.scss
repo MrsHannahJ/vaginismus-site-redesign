@@ -1,0 +1,339 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the faq pages.
+// -----------------------------------------------------------------------------
+
+
+
+.faq-english{
+/*---------HERO---------------*/
+  #hero-english{
+    min-height: 1rem;
+    h2{
+      font-size: 20px;
+      padding-top: 0;
+    }
+  }
+
+/*---------FAQ BODY---------------*/
+  aside{
+    background: #fafafa;
+    ul{
+      margin-left: 1rem;
+    }
+    ul li{
+      list-style: none;
+      text-indent: -1.25rem;
+    }
+  }
+  section{
+    ol li, ul li{
+      margin-left: 1rem;
+      padding:0.75rem 0;
+      ul{
+        margin-left: 2rem;
+        li:last-child{
+          padding-bottom: 0;
+        }
+      }
+    }
+    ol li{
+      list-style: upper-roman;
+    }
+    ul li{
+      list-style: disc;
+    }
+    .number-list li{
+      list-style: decimal;
+    }
+  }
+  
+//MOBILE ONLY
+  @media screen and (max-width: 767.99px){
+    #hero-english{
+      padding-bottom: 0.5rem;
+    .faq-topic-btn{
+      display: block;
+      margin: 0.5rem auto 0;
+      width: 250px;
+      background: transparent;
+      color: $white;
+      border: 1px solid $white;
+      padding: 0.25rem 0;
+      -webkit-box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+      -moz-box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+      box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.1);
+      border-radius: 3px;
+      &:hover{
+        opacity: 0.7;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+      .faq-topic-btn.opened{
+        width: 275px;
+        color: $brand;
+        background: $white;
+      }
+    }
+    .faq-body{
+      width: 100%;
+      aside, section{
+        padding: 1rem 1rem 0;
+      }
+      
+    }
+  }
+  
+//TABLET AND UP
+  @media screen and (min-width:$breakpoint-medium){
+    #hero-english{
+      padding-bottom: 0;
+      p{
+        padding: 0 0 1rem;
+      }
+    }
+    nav{
+      display: flex;
+      bottom: 0;
+    }
+  .faq-topic-btn{
+    flex-basis: 100%;
+    background-color: $white;
+    padding: 1rem 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    border-top: 2px solid $light-gray-background;
+    border-right: 2px solid $light-gray-background;
+    border-left: 2px solid $light-gray-background;
+    -webkit-box-shadow: 1px -1px 1px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 1px -1px 1px 0px rgba(0,0,0,0.1);
+    box-shadow: 1px -1px 1px 0px rgba(0,0,0,0.1);
+    &:last-child{
+      margin-right: 0;
+    }
+  }
+    .faq-topic-btn.opened{
+      border: none;
+      border-top: 5px solid $brand;
+      background-color: #fafafa;
+      position:relative;
+      box-shadow: none;
+      #triangle-topleft {
+        z-index: 2;
+        position: absolute;
+        bottom:0;
+        bottom: -20%;
+        left: 45%;
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-top: 12px solid $light-gray-background;
+        &:hover{
+          opacity: 1;
+        }
+      }
+      #triangle {
+        z-index: 2;
+        position: absolute;
+        bottom: -18.1%;
+        left: 45%;
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-top: 12px solid #fafafa;
+      }
+    }
+    
+
+  }
+
+  .faq-body{
+    border: 1px solid $light-gray-background;
+    margin-bottom:2rem;
+    hr{
+      margin:1rem 0;
+    }
+  }
+    @media screen and (min-width: $breakpoint-medium){
+      .faq-body{
+        display:flex;
+      
+      aside{
+        width:30%;
+        padding:1rem;
+        margin-top: 0;
+        
+      }
+      section{
+        width: 70%;
+        padding: 1rem;
+        h1{
+          font-size: 28px;
+        }
+      }
+        }
+}
+      
+       
+  
+  
+  
+  
+  
+  
+//  
+//  p{
+////      @include font-size(16px);
+//      margin: 0 0.5rem;
+//    }
+//  
+///*---------HERO---------------*/
+//  .faq-index{
+//    text-align: center;
+//    h1, a{
+//    color: $white;
+//    }
+////    h1{
+//////      @include font-size(26px);
+////    }
+////    a{
+//////      @include font-size(22px);
+////    }
+//    img{
+//      width: 5rem;
+//    }
+////    h2{
+////      @include font-size(24px);
+////    }
+//
+////DESKTOP
+//  @media screen and (min-width: $breakpoint-large){
+//    h1{
+////      @include font-size(36px);
+//      padding-top: 1rem;
+//    }
+//    p{
+//      padding-bottom: 1rem;
+//    }
+//  }
+//    
+//  }
+//  
+///*---------MAIN---------------*/
+//
+//    
+//    #general-faq .large-8, #dilator-faq .large-8, #customer-service-faq .large-8{
+//      float: right;
+//    }
+//    #general-faq, #dilator-faq, #pregnancy-faq{
+//      h2{
+//        padding-bottom: 1rem;
+//      }
+//    }
+//    ul{
+//      margin-left: 5%;
+//    }
+//    li{
+//    list-style: disc;
+//    padding-bottom: 1rem;
+//    }
+//    #general-faq{
+//      background-image:url(/img/faq/faq-general.jpg);
+//    }
+//    #treatment-faq{
+//      background-image: url(/img/faq/faq-treatment.jpg);
+//      .large-6:first-child{
+//        padding-bottom:0;
+//      }
+//      .large-6:last-child{
+//        padding-top:0;
+//      }
+//    }
+//    #dilator-faq{
+//      background-image: url(/img/faq/faq-dilator.jpg);
+//    }
+//    #pregnancy-faq{
+//      background-image: url(/img/faq/faq-pregnancy.jpg);
+//    }
+//    #customer-service-faq{
+//      background-image: url(/img/faq/faq-customer.jpg);
+//      .large-6:first-child{
+//        padding-bottom:0;
+//      }
+//      .large-6:last-child{
+//        padding-top:0;
+//      }
+//      ul{
+//        margin-left: 2.5%;
+//      }
+//    }
+//    #brochures{
+//      background-image: url(/img/faq/faq-brochures.jpg);
+//      .brochure-download{
+//        padding: 1rem;
+//        display:block;
+//      }
+//    }
+//    
+//    
+////TABLET
+//  @media screen and (min-width: 768px){
+//    #customer-service-faq{
+//      .large-6:first-child{
+//        padding-bottom:1rem;
+//        padding-top: 0;
+//      }
+//    }
+//  }
+//    
+////DESKTOP
+//    @media screen and (min-width: 980px){
+//      a{
+////        @include font-size(20px);
+//      }
+//      #general-faq{
+//        background-image:url(/img/faq/faq-general.jpg);
+//        h2{
+//          text-align: left;
+//        }
+//      }
+//      #treatment-faq{
+//        background-image: url(/img/faq/faq-treatment.jpg);
+//        .large-6:first-child{
+//          padding-bottom:1rem;
+//        }
+//        .large-6:last-child{
+//          padding-top:1rem;
+//        }
+//      }
+//      #dilator-faq{
+//        background-image: url(/img/faq/faq-dilator.jpg);
+//        h2{
+//          text-align: left;
+//        }
+//      }
+//      #pregnancy-faq{
+//        background-image: url(/img/faq/faq-pregnancy.jpg);
+//        h2{
+//          text-align: left;
+//        }
+//      }
+//      #customer-service-faq{
+//        background-image: url(/img/faq/faq-customer.jpg);
+//        h2{
+//        }
+//      }
+//      #brochures{
+//        background-image: url(/img/faq/faq-brochures.jpg);
+//        .brochure-download{
+//          padding: 1rem;
+//          display:inline-block;
+//          margin-right: 2rem;
+//        }
+//      }
+//    }
+//  
+//  
+  
+}

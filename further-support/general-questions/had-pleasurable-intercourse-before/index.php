@@ -9,10 +9,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper long-side">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'pleasurable';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</h1>
           <h3>Vaginismus can occur later in life following years of pain-free or pleasurable intercourse.</h3>
           <p>Vaginismus can, and frequently does occur later in life following years of pain-free or pleasurable intercourse. This form of vaginismus is called <a href="../primary-and-secondary-vaginismus-differences/index.html">secondary vaginismus</a>. <a href="../../../vaginismus-symptoms/index.html">Symptoms</a> may vary widely from simple discomfort to intense burning sensations upon penetration to inability to penetrate altogether.</p>
@@ -30,12 +37,19 @@
             <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
             <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'pleasurable';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
         

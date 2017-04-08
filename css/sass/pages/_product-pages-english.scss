@@ -14,6 +14,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom:1rem;
   }
   
   .hero{
@@ -32,6 +33,54 @@
       font-family: $accent-font-common;
     }
   }
+  
+//Products Page
+
+/*-----------PRODUCT PREVIEW-----------*/
+  .product-preview{
+    text-align: center;
+    margin-bottom: 1rem;
+    .large-8, .large-4{
+      padding: 0;
+    }
+    h2{
+      color: $brand;
+      padding-top: 0;
+    }
+    p{
+      padding: 0.5rem 0 1rem;
+    }
+    @media screen and (min-width: $breakpoint-medium){
+      text-align: left;
+      &:nth-child(even) .wrapper{
+        display: flex;
+        flex-direction: row-reverse;
+      }
+      &:nth-child(4) .wrapper img, &:nth-child(5) .wrapper img{
+        max-width:75%;
+        display: block;
+        margin: 0 auto;
+      }
+      h2{
+        text-align: left;
+      }
+    }
+    @media screen and (min-width: $breakpoint-large){
+      h2{
+        margin-top:2rem;
+      }
+    }
+  }
+/*-----------MISSION BANNER-----------*/
+  .grad1{
+    margin: 2rem 0;
+    h2{
+      padding-top:0;
+    }
+  }
+ 
+//4 Products Pages
+  
 /*-----------PRODCUT DESCRIPTION-----------*/
   .product-description{
     padding-top:0;

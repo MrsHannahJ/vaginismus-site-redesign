@@ -8,10 +8,16 @@
 ?>
 
    
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+        <?php
+          $active = 'motivated';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+        ?>
+        <section class="">
           <h1>How can I stay motivated and positive through treatment? I struggle with avoidance.</h1>
 
           <h3>Avoiding vaginismus diagnosis and treatment keeps many women suffering needlessly. Taking positive corrective action is key to breaking the cycle of avoidance and defeat.</h3>
@@ -56,11 +62,18 @@
                 <li><a href="../will-sex-ever-feel-good/index.html">Will sex ever feel good?</a></li>
                 <li><a href="../../../reviews/index.html">Customer Feedback &amp; Reviews</a></li>
             </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'motivated';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

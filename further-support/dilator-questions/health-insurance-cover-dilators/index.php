@@ -8,11 +8,17 @@
 ?>
 
 
-    
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+       <?php
+         $active = 'insurance';
+         include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+       ?>
+        <section class="">
           <h1>Will my health insurance cover the cost of buying dilators?</h1>
                
           <h3>Insurance reimbursement varies.</h3>
@@ -31,12 +37,18 @@
             <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Why are vaginal dilators used in treating vaginismus?</a></li>
             <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
           </ul>
-          
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'insurance';
-  include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

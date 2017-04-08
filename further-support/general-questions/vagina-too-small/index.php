@@ -9,10 +9,17 @@
 
 
     
-    <main class="faq-question">
-      <div class="wrapper">
 <!--   MAIN SECTION   -->
-        <section class="large-9">
+    <?php
+      $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
+    ?>
+<!--   FAQ BODY   -->
+      <div class="wrapper faq-body">
+      <?php
+        $active = 'small';
+        include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+      ?>
+        <section class="">
           <h1>Is it possible that my vagina is just too small? Could it be smaller from lack of use?</h1>
           <h3>When a woman experiences penetration difficulties or tightness, it is rarely due to a small or abnormal vagina, and nearly always due to vaginismus.</h3>
           <p>When penetration or sexual tightness problems first become apparent, it is very common for women to wonder if their vagina is too small for intercourse or has become smaller due to lack of use. Problems with penetration or sexual tightness may occur at any time in life, and are most commonly due to vaginismus, although age related issues may contribute.</p>
@@ -36,11 +43,18 @@
             <li><a href="../hymen-problems/index.html">Could my hymen be causing my problem?</a></li>
             <li><a href="../../treatment-questions/queasy-about-treatment/index.html">I can&#8217;t even look at myself &#8220;down there&#8221; and I feel queasy just considering penetration or any type of vaginal insertion. How can I make it through treatment?</a></li>
           </ul>
-          <hr class="hidden-desktop"/>
         </section>
-        
+      </div>
+<!--      PRE-FOOTER-NAV SECTION      -->
+  
 <?php
-  $active = 'small';
-  include(ROOT_PATH.'/includes/sidebar-general-faq.php');
+  $pagebacklink = '/further-support/index.php';
+  $pageback = 'Further Support';
+  $pageforwardlink = '/further-support/related-conditions/index.php';
+  $pageforward = 'Related Conditions';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    </main>
+<?php
   include(ROOT_PATH.'/includes/footer.php');
-?>   
+?>

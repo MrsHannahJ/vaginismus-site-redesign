@@ -12,33 +12,27 @@
 <!--      HERO      -->
   
     <section id="hero-english">
-      <div class="wrapper">
-         <div class="large-12 medium-12">
-           <div class="hero-text-right">
-             <h1 aria-hidden="true" class="visually-hidden">Vaginismus Products</h1>
-           </div>
-        </div>
-      </div>
+       <h1 aria-hidden="true" class="visually-hidden">Vaginismus Products</h1>
     </section>
     
 <!--      VAGINAL TREATMENT KIT SECTION      -->
      
-     <section class="product-kit">
+     <section class="product-preview">
        <div class="wrapper">
          <div class="large-8 medium-8">
-           <img src="/img/home/home-product-1.jpg" alt="Vaginismus Treatment Kit: vaginal dilator set, treatment program (2 book set) and instructional dvd" />
+           <img src="/img/products/kit-english.jpg" alt="Vaginismus Treatment Kit: vaginal dilator set, treatment program (2 book set) and instructional dvd" />
           </div>
          <div class="large-4 medium-4">
            <h2>Vaginismus Treatment Kit</h2>
            <p class="product-description">The complete treatment kit includes everything you need to overcome vaginismus in the privacy of your own home—the most effective resources available.</p>
-           <a class="brand-btn" href="vaginismus-treatment-kit/index.php">View Product</a>
+           <a class="gray-btn" href="vaginismus-treatment-kit/index.php">View Product</a>
          </div>
        </div>
      </section>
      
 <!--      VAGINAL DILATOR SET SECTION      -->
      
-     <section class="product-dilators">
+     <section class="product-preview">
        <div class="wrapper">
          <div class="large-8 medium-8">
            <img src="/img/products/products-dilator-set.jpg" alt="Dilator Set">
@@ -46,20 +40,20 @@
          <div class="large-4 medium-4">
            <h2>Vaginal Dilator Set</h2>
            <p class="product-description">This medical-grade vaginal dilator set is perfect for treating vaginismus and other similar conditions. The set includes 6 multi-sized graduated dilators, a universal handle, lubricant, and care instructions all within a soft unbleached muslin pouch.</p>
-           <a class="brand-btn" href="vaginal-dilator-set/index.php">View Product</a>
+           <a class="gray-btn" href="vaginal-dilator-set/index.php">View Product</a>
          </div>
        </div>
      </section>
      
 <!--      HOME TREATMENT PROGRAM SECTION      -->
      
-     <section class="product-books">
+     <section class="product-preview">
        <div class="wrapper">
-         <div class="large-8 medium-8"><img src="/img/products/products-books.jpg" alt="Home Treatment Book Set"></div>
+         <div class="large-8 medium-8"><img src="/img/products/books-standing.jpg" alt="Home Treatment Book Set"></div>
          <div class="large-4 medium-4">
            <h2>Vaginismus Home Treatment Program</h2>
            <p class="product-description">Well-illustrated with over 300 pages detailing the professional self-treatment of vaginismus, this comprehensive two book set covers all aspects of successful home treatment in a simple step by step format</p>
-           <a class="brand-btn" href="completely-overcome-vaginismus-book-set/index.php">View Product</a>
+           <a class="gray-btn" href="completely-overcome-vaginismus-book-set/index.php">View Product</a>
          </div>
          
        </div>
@@ -67,14 +61,14 @@
      
 <!--      VIDEO SECTION      -->
      
-     <section class="product-video">
+     <section class="product-preview">
        <div class="wrapper">
+         <div class="large-8 medium-8"><img src="/img/products/dvd.png" alt="Vaginismus Treatment Instructional Video"></div>
          <div class="large-4 medium-4">
            <h2>Vaginismus Treatment Instructional Video</h2>
            <p class="product-description">The only treatment video of its kind, Treating Vaginismus follows a couple struggling with vaginismus as a specialist guides them through treatment</p>
-           <a class="brand-btn" href="vaginismus-video/">View Product</a>
+           <a class="gray-btn" href="vaginismus-video/">View Product</a>
          </div>
-         <div class="large-8 medium-8"><img src="/img/products/products-instructional-video.png" alt="Vaginismus Treatment Instructional Video"></div>
        </div>
      </section>
      
