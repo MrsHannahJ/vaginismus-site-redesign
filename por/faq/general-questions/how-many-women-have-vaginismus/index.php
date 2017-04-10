@@ -59,9 +59,9 @@
           <hr />
           <h3>Veja Também</h3>
           <ul>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">Qual é a taxa de sucesso do tratamento do vaginismo?</a></li>
-            <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html">Quanto tempo dura o tratamento?</a></li>
-            <li><a href="../what-is-vaginismus/index.html">O que é vaginismo?</a></li>
+            <li><a href="/por/faq/treatment-questions/vaginismus-treatment-success-rates/index.php">Qual é a taxa de sucesso do tratamento do vaginismo?</a></li>
+            <li><a href="/por/faq/treatment-questions/how-long-does-treatment-take/index.php">Quanto tempo dura o tratamento?</a></li>
+            <li><a href="/por/faq/general-questions/what-is-vaginismus/index.php">O que é vaginismo?</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -71,21 +71,21 @@
           <aside class="large-3">
           <h2>Perguntas Gerais</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>O que é vaginismo?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Como saber se tenho vaginismo?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>Qual é a diferença entre vaginismo primário e vaginismo secundário?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Existem diferentes graus dos sintomas do vaginismo?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>O vaginismo pode desaparecer sem tratamento?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>Quantas mulheres têm vaginismo?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>O vaginismo pode existir aapenas na minha cabeça?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>É possível que a minha vagina seja pequena demais?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>É possível que o meu hímen seja a causa do problema?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Eu tinha intercurso sexual prazeroso antes e agora dói. Ainda assim, o meu problema pode ser vaginismo?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>Como o vaginismo afeta maridos ou namorados de mulheres com vaginismo?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>O que é dispareunia? Qual é a conexão entre dispareunia e vaginismo?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Eu não consigo ter orgasmos. Isso pode estar relacionado ao vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>O que é vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Como saber se tenho vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>Qual é a diferença entre vaginismo primário e vaginismo secundário?</a></li>
+            <li><a href="/por/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>Existem diferentes graus dos sintomas do vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>O vaginismo pode desaparecer sem tratamento?</a></li>
+            <li><a href="/por/faq/general-questions/how-many-women-have-vaginismus/index.php" class="active"><i class="icon-angle-double-right"></i>Quantas mulheres têm vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>O vaginismo pode existir aapenas na minha cabeça?</a></li>
+            <li><a href="/por/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>É possível que a minha vagina seja pequena demais?</a></li>
+            <li><a href="/por/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>É possível que o meu hímen seja a causa do problema?</a></li>
+            <li><a href="/por/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Eu tinha intercurso sexual prazeroso antes e agora dói. Ainda assim, o meu problema pode ser vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/vaginismus-affect-husbands/index.php"><i class="icon-angle-double-right"></i>Como o vaginismo afeta maridos ou namorados de mulheres com vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>O que é dispareunia? Qual é a conexão entre dispareunia e vaginismo?</a></li>
+            <li><a href="/por/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Eu não consigo ter orgasmos. Isso pode estar relacionado ao vaginismo?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Ver Tudo PMFs</a>
+          <a href='/por/faq/index.php' class="shaded-btn">Ver Tudo PMFs</a>
         </aside>
       </div>
     </main>

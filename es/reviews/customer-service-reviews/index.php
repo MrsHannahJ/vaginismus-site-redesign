@@ -171,11 +171,11 @@
             <h3>Productos</h3>
             <br><br>
             <ul>
-              <li class="sidebar-img"><a href="../../products/completely-overcome-vaginismus-book-set/index.html" title="Vaginismus Home Treatment Program"> <img src="../../../img/myths/myths-product-3.jpg" alt="Two vaginismus home treatment books" />Programa de Tratamiento del Vaginismo en el Hogar</a></li>
-              <li class="sidebar-img"><a href="../../products/vaginal-dilator-set/index.html" title="Vaginal Dilator Set"> <img src="../../../img/myths/myths-product-2.jpg" alt="Set of vaginal dilators" />Set de Dilatadores Vaginales</a></li>
-              <li class="sidebar-img"><a href="../../products/vaginismus-treatment-kit/index.html" title="Vaginismus Treatment Kit"> <img src="../../../img/myths/myths-product-1.jpg" alt="vaginismus.com/products/treatment-kit/"  />Kit para el Tratamiento del Vaginismo</a> </li>
+              <li class="sidebar-img"><a href="/es/products/completely-overcome-vaginismus-book-set/index.php" title="Vaginismus Home Treatment Program"> <img src="/img/myths/myths-product-3.jpg" alt="Two vaginismus home treatment books" />Programa de Tratamiento del Vaginismo en el Hogar</a></li>
+              <li class="sidebar-img"><a href="/es/products/vaginal-dilator-set/index.php" title="Vaginal Dilator Set"> <img src="/img/myths/myths-product-2.jpg" alt="Set of vaginal dilators" />Set de Dilatadores Vaginales</a></li>
+              <li class="sidebar-img"><a href="/es/products/vaginismus-treatment-kit/index.php" title="Vaginismus Treatment Kit"> <img src="/img/myths/myths-product-1.jpg" alt="vaginismus.com/products/treatment-kit/"  />Kit para el Tratamiento del Vaginismo</a> </li>
             </ul>
-            <a href='../../reviews/index.html' class="shaded-btn">Ver Todas las Críticas</a>
+            <a href='/es/reviews/index.php' class="shaded-btn">Ver Todas las Críticas</a>
                     
         </aside>
       </div>

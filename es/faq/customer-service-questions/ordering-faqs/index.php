@@ -25,7 +25,7 @@
           <p>Para aquellas personas que no pueden o no desean pagar directamente con una tarjeta de crédito, paypal es una alternativa popular de procesamiento seguro de pagos en línea (vea <a href="http://paypal.com/" target="_blank">PayPal</a>).PayPal permite a los usuarios enviar pagos utilizando diversos métodos, incluyendo cuentas bancarias, varias tarjetas de crédito y otras opciones. Cuando tiene una cuenta de paypal, usted puede ordenar nuestros productos en línea simplemente eligiendo esta opción de pago.</p>
 
           <h4>¿Cómo realizo un pedido si no tengo una tarjeta de crédito?</h4>
-          <p>Además de tarjetas de crédito, aceptamos otros métodos de pago: PayPal (cuenta en línea o cheques electrónicos), giros en dólares estadounidenses (cheques garantizados u otros instrumentos monetarios), o transferencias por medio de Western Union. Para solicitar alguno de los últimos dos servicios, <a href="../../../contact-us/index.html">contáctenos</a>. Haremos todo lo posible para asegurar lograr una solución factible para todas las mujeres que tienen necesidad.</p>
+          <p>Además de tarjetas de crédito, aceptamos otros métodos de pago: PayPal (cuenta en línea o cheques electrónicos), giros en dólares estadounidenses (cheques garantizados u otros instrumentos monetarios), o transferencias por medio de Western Union. Para solicitar alguno de los últimos dos servicios, <a href="/es/faq/customer-service-questions/../../contact-us/index.php">contáctenos</a>. Haremos todo lo posible para asegurar lograr una solución factible para todas las mujeres que tienen necesidad.</p>
 
           <h4>Me inquieta poner mi pedido por la Internet. ¿Es su sitio Web seguro?</h4>
           <p>Sí, para su tranquilidad utilizamos los mejores métodos de seguridad disponibles. Norton Symantec es un líder reconocido en el campo de la seguridad del comercio por internet y brinda la encriptación y seguridad de nuestra entera tienda en línea.</p>
@@ -47,14 +47,14 @@
           <aside class="large-3">
           <h2>PMF Atención al Cliente</h2>
           <ul>
-            <li><a href="../ordering-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>Pedidos y Devolución Preguntas Frecuentes</a></li>
-            <li><a href="../shipping-faqs/index.html"><i class="icon-angle-double-right"></i>Envío Preguntas Frecuentes</a></li>
-            <li><a href="../guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Garantía</a></li>
-            <li><a href="../quality-faqs/index.html"><i class="icon-angle-double-right"></i>Calidad y Seguridad Preguntas Frecuentes</a></li>
-            <li><a href="../privacy-policy/index.html"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Privacidad</a></li>
-            <li><a href="../terms-of-use/index.html"><i class="icon-angle-double-right"></i>Condiciones de Uso</a></li>
+            <li><a href="/es/faq/customer-service-questions/ordering-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>Pedidos y Devolución Preguntas Frecuentes</a></li>
+            <li><a href="/es/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>Envío Preguntas Frecuentes</a></li>
+            <li><a href="/es/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Garantía</a></li>
+            <li><a href="/es/faq/customer-service-questions/quality-faqs/index.php"><i class="icon-angle-double-right"></i>Calidad y Seguridad Preguntas Frecuentes</a></li>
+            <li><a href="/es/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Privacidad</a></li>
+            <li><a href="/es/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Condiciones de Uso</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Ver Todo PMFs</a>
+          <a href='../../../faq/index.php' class="shaded-btn">Ver Todo PMFs</a>
         </aside>
       </div>
     </main>

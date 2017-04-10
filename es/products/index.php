@@ -27,13 +27,13 @@
      <section class="product-kit">
        <div class="wrapper">
          <div class="large-8 medium-8">
-           <img src="../../img/es/treatment-kit-es.jpg" alt="El vaginismo Kit de tratamiento: conjunto dilatador vaginal, programa de tratamiento (2 fijado libro) y DVD de instrucciones"/>
+           <img src="/img/es/treatment-kit-es.jpg" alt="El vaginismo Kit de tratamiento: conjunto dilatador vaginal, programa de tratamiento (2 fijado libro) y DVD de instrucciones"/>
           </div>
          <div class="large-4 medium-4">
            <h2>Kit para el Tratamiento del Vaginismo</h2>
            <p class="product-sku">#S2201-DVD</p>
            <p class="product-description">Este kit completo de tratamiento incluyen todo lo que usted necesita para eliminar el vaginismo en la privacidad de su propio hogar, los recursos más efectivos disponibles.</p>
-           <a class="brand-btn" href="vaginismus-treatment-kit/index.html">Vea el Producto</a>
+           <a class="brand-btn" href="vaginismus-treatment-kit/index.php">Vea el Producto</a>
          </div>
        </div>
      </section>
@@ -43,13 +43,13 @@
      <section class="product-dilators">
        <div class="wrapper">
          <div class="large-8 medium-8">
-           <img src="../../img/products/products-dilator-set.jpg" alt="Set de Dilatadores Vaginales">
+           <img src="/img/products/products-dilator-set.jpg" alt="Set de Dilatadores Vaginales">
          </div>
          <div class="large-4 medium-4">
            <h2>Set de Dilatadores Vaginales</h2>
            <p class="product-sku">#S8077</p>
            <p class="product-description">Este set de dilatadores vaginales de grado médico es perfecto para el tratamiento del vaginismo y otros padecimientos similares. El set incluye 6 dilatadores graduados de diversos tamaños, mango universal, lubricante e instrucciones para su cuidado, todo dentro de un estuche de muselina sin blanquear..</p>
-           <a class="brand-btn" href="vaginal-dilator-set/index.html">Vea el Producto</a>
+           <a class="brand-btn" href="/es/products/vaginal-dilator-set/index.php">Vea el Producto</a>
          </div>
        </div>
      </section>
@@ -58,12 +58,12 @@
      
      <section class="product-books">
        <div class="wrapper">
-         <div class="large-8 medium-8"><img src="../../img/es/book-es.jpg" alt="Programa de Tratamiento del Vaginismo en el Hogar"></div>
+         <div class="large-8 medium-8"><img src="/img/es/book-es.jpg" alt="Programa de Tratamiento del Vaginismo en el Hogar"></div>
          <div class="large-4 medium-4">
            <h2>Programa de Tratamiento del Vaginismo en el Hogar</h2>
            <p class="product-sku">#S5404</p>
            <p class="product-description">Bien ilustrado con más de 300 páginas detallando el autotratamiento profesional del vaginismo, este completo libro cubre todos los aspectos de un tratamiento exitoso en el hogar, en un simple formato de paso por paso.</p>
-           <a class="brand-btn" href="completely-overcome-vaginismus-book-set/index.html">Vea el Producto</a>
+           <a class="brand-btn" href="/es/products/completely-overcome-vaginismus-book-set/index.php">Vea el Producto</a>
          </div>
          
        </div>
@@ -77,9 +77,9 @@
            <h2>Vaginismus Tratamiento Video Instruccional</h2>
            <p class="product-sku">#S2201</p>
            <p class="product-description">El único video de tratamiento de su clase, Tratamiento Vaginismus sigue a una pareja luchando con el vaginismo como un especialista los guía a través del tratamiento</p>
-           <a class="brand-btn" href="vaginismus-video/">Vea el Producto</a>
+           <a class="brand-btn" href="/es/products/vaginismus-video/index.php">Vea el Producto</a>
          </div>
-         <div class="large-8 medium-8"><img src="../../img/products/products-instructional-video.png" alt="Vaginismus Tratamiento Video Instruccional"></div>
+         <div class="large-8 medium-8"><img src="/img/products/products-instructional-video.png" alt="Vaginismus Tratamiento Video Instruccional"></div>
        </div>
      </section>
      
@@ -97,7 +97,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../img/products/products-contact-icon.png" alt="contacto icono"/>
+              <img src="/img/products/products-contact-icon.png" alt="contacto icono"/>
               <hr>
               <p>Llamada gratuita en los EE.UU.: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -108,24 +108,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../img/products/products-guarantee-icon.png" alt="garantía icono">
+              <img src="/img/products/products-guarantee-icon.png" alt="garantía icono">
               <hr>
               <ul>
-                <li><span><a href="../faq/customer-service-questions/guarantee-faqs/index.html">Garantía de los precios más bajos</a></span></li>
-                <li><span><a href="../faq/customer-service-questions/shipping-faqs/index.html"> Envío garantizado</a></span></li>
-                <li><span><a href="../faq/customer-service-questions/ordering-faqs/index.html">Fácil devolución</a></span></li>
-                <li><span><a href="../faq/customer-service-questions/shipping-faqs/index.html">Se envía a todo el mundo</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/guarantee-faqs/index.php">Garantía de los precios más bajos</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/shipping-faqs/index.php"> Envío garantizado</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/ordering-faqs/index.php">Fácil devolución</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/shipping-faqs/index.php">Se envía a todo el mundo</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../img/products/products-shield-icon.png" alt="seguro icono">
+              <img src="/img/products/products-shield-icon.png" alt="seguro icono">
               <hr>
               <ul>
-                <li><span><a href="../faq/index.html#customer-service-faq">Seguro</a></span></li>
-                <li><span><a href="../faq/index.html#customer-service-faq">Pagos rápidos y eficientes</a></span></li>
-                <li><span><a href="../faq/customer-service-questions/privacy-policy/index.html">Privado y confidencial</a></span></li>
+                <li><span><a href="/es/faq/index.php#customer-service-faq">Seguro</a></span></li>
+                <li><span><a href="/es/faq/index.php#customer-service-faq">Pagos rápidos y eficientes</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/privacy-policy/index.php">Privado y confidencial</a></span></li>
               </ul>
             </div>
           </div>
@@ -137,10 +137,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover y American Express aceptados" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover y American Express aceptados" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../img/products/products-shipping-icon.jpg" alt="El envío de DHL y el Servicio Postal de Estados Unidos" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="El envío de DHL y el Servicio Postal de Estados Unidos" />
          </div>
            
          </div>
@@ -157,16 +157,16 @@
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../faq/index.html">
-              <img src="../../img/es/products-left-footer-button-es.png" alt="Vinculo a PMFs">
+            <a href="/es/faq/index.php">
+              <img src="/img/es/products-left-footer-button-es.png" alt="Vinculo a PMFs">
             </a>
           </div>
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-             <a href="../forum-introduction/index.html">
-               <img src="../../img/es/product-right-footer-button-es.png" alt="Vinculo a Foro">
+             <a href="/es/forum-introduction/index.php">
+               <img src="/img/es/product-right-footer-button-es.png" alt="Vinculo a Foro">
              </a>
           </div>
         </div>

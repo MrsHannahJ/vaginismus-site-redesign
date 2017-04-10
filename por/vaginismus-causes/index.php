@@ -13,7 +13,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="../../img/causes/causes-hero-mobile.jpeg" alt="la causa del vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/causes/causes-hero-mobile.jpeg" alt="la causa del vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text hero-text-right">
@@ -36,7 +36,7 @@
             <p>Reagindo à antecipação da dor, o corpo automaticamente contrai os músculos vaginais, fechando-se para se proteger de algum perigo. O sexo se torna doloroso ou desconfortável, e a penetração pode ser mais difícil ou impossível, dependendo da gravidade do caso. Com as tentativas de sexo, qualquer desconforto resultante reforça ainda mais o reflexo da contração, de forma que ele se intensifica mais. O corpo sente mais dor e reage “apertando” ainda mais os músculos, em um círculo vicioso, reforçando esta resposta e criando um <strong> ciclo da dor</strong>.</p>
           </div>
           <div class="large-8">
-            <img src="../../img/por/cycle-of-pain-chart-por.png" alt="Ciclo de dor. 1) Anicipate Pain: O corpo antecipa; medo / ansiedade pode contribuir; 2) reação involuntária: O corpo aperta automaticamente músculos vaginais; 3) dolorosa Sexo: Tightens faz sexo doloroso; a penetração pode ser impossível; 4) A dor Reforça: dor se intensifica resposta reflexa; 5) Órtese: corpo reage apoiando mais em uma base contínua; 6) Evitar: Evitar a intimidade, a falta de desejo pode se desenvolver.">
+            <img src="/img/por/cycle-of-pain-chart-por.png" alt="Ciclo de dor. 1) Anicipate Pain: O corpo antecipa; medo / ansiedade pode contribuir; 2) reação involuntária: O corpo aperta automaticamente músculos vaginais; 3) dolorosa Sexo: Tightens faz sexo doloroso; a penetração pode ser impossível; 4) A dor Reforça: dor se intensifica resposta reflexa; 5) Órtese: corpo reage apoiando mais em uma base contínua; 6) Evitar: Evitar a intimidade, a falta de desejo pode se desenvolver.">
           </div>
         </div>
         <div class="wrapper">
@@ -48,7 +48,7 @@
             <p>Os desencadeadores emocionais que provocam os sintomas do vaginismo nem sempre são facilmente evidentes e requerem investigação. É importante que os processos de tratamento eficazes incluam tratar de todos os desencadeadores emocionais para que uma relação sexual prazerosa e sem dor completa possa ser usufruída.</p>
           </div>
           <div class="large-4 max-500">
-            <img src="../../img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
+            <img src="/img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
           </div>
         </div>
       </section>
@@ -126,9 +126,9 @@
         <div class="wrapper">
           <div class="large-4">
             <div class="did-you-know">
-              <img src="../../img/icons/lightbulb.png" alt="" aria-hidden="true">
+              <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h4>Você Sabia?</h4>
-              <p>O vaginismo nem tem uma causa óbvia (Veja <a href="/vaginismus-diagnosis/index.html">Diagnóstico</a>). Às vezes, as mulheres com infâncias quase perfeitas, excelentes relacionamentos, formação acadêmica sólida e poucas ansiedades, têm dificuldade em encontrar qualquer explicação plausível para o que causou o seu vaginismo. Entender por que elas tiveram vaginismo pode permanecer um mistério, mesmo depois da cura completa.</p>
+              <p>O vaginismo nem tem uma causa óbvia (Veja <a href="/por/vaginismus-diagnosis/index.php">Diagnóstico</a>). Às vezes, as mulheres com infâncias quase perfeitas, excelentes relacionamentos, formação acadêmica sólida e poucas ansiedades, têm dificuldade em encontrar qualquer explicação plausível para o que causou o seu vaginismo. Entender por que elas tiveram vaginismo pode permanecer um mistério, mesmo depois da cura completa.</p>
             </div>
           </div>
           <div class="large-8">
@@ -155,7 +155,7 @@
           <div class="large-4">
             <p>Os espasmos causar ardência ou dor durante a penetração ou movimentação do pênis na vagina e podem até mesmo bloquear completamente a entrada do pênis. O grupo muscular PC é grande e muito poderoso. Ela envolve a abertura urinária, a vagina e o ânus numa figura em forma de oito com um laço de músculos que rodeiam a área vaginal e outro laço em torno da região anal. Em cada extremidade, os músculos estão ligados ao esqueleto e suportam e sustentam no lugar os órgãos abdominais e pélvicos, como uma rede, formando o assoalho pélvico.</p>
             <figure>
-              <img src="../../img/por/pc-muscle-group-por.png" alt="O grupo muscular PC">
+              <img src="/img/por/pc-muscle-group-por.png" alt="O grupo muscular PC">
               <figcaption><strong>Músculos PC:</strong> A anatomia do assoalho pélvico feminino destaca os músculos internos chamados de grupo muscular pubococcígeo ou PC. Este é o grupo muscular que contrai involuntariamente no caso do vaginismo. O poderoso grupo muscular envolve toda a área vaginal e a área anal.</figcaption>
             </figure>
           </div>
@@ -170,7 +170,7 @@
        <section class="grad1 body-retraining">
          <div class="wrapper">
            <h2>Como Reeducar o Corpo</h2>
-           <p>Reeducar o grupo muscular PC a responder de forma diferente à antecipação da relação sexual é fundamental para o sucesso do tratamento do vaginismo. O processo de aprender a assumir o controle conscientemente desse grupo muscular muda o reflexo condicionado de forma que a contração involuntária não ocorre mais (modificando a memória muscular ou as respostas condicionadas). Etapas eficazes de um programa irão abordar de forma abrangente ambos os componentes do corpo e da mente para resolver todos os desencadeadores para que, quando a relação sexual for tentada, os espasmos involuntários não ocorrem mais e dor seja eliminada (veja <a href="../vaginismus-treatment/index.html">Tratamento</a> para mais informações).</p>
+           <p>Reeducar o grupo muscular PC a responder de forma diferente à antecipação da relação sexual é fundamental para o sucesso do tratamento do vaginismo. O processo de aprender a assumir o controle conscientemente desse grupo muscular muda o reflexo condicionado de forma que a contração involuntária não ocorre mais (modificando a memória muscular ou as respostas condicionadas). Etapas eficazes de um programa irão abordar de forma abrangente ambos os componentes do corpo e da mente para resolver todos os desencadeadores para que, quando a relação sexual for tentada, os espasmos involuntários não ocorrem mais e dor seja eliminada (veja <a href="/por/vaginismus-treatment/index.php">Tratamento</a> para mais informações).</p>
          </div>
        </section>
 
@@ -181,16 +181,16 @@
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-stories/index.html">
-               <img src="../../img/por/causes-left-footer-button-por.png" alt="ir para a histórias">
+            <a href="/por/vaginismus-stories/index.php">
+               <img src="/img/por/causes-left-footer-button-por.png" alt="ir para a histórias">
              </a>
           </div>
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-             <a href="../vaginismus-diagnosis/index.html">
-               <img src="../../img/por/causes-right-footer-button-por.png" alt="ir para a diagnóstico">
+             <a href="/por/vaginismus-diagnosis/index.php">
+               <img src="/img/por/causes-right-footer-button-por.png" alt="ir para a diagnóstico">
              </a>
           </div>
         </div>

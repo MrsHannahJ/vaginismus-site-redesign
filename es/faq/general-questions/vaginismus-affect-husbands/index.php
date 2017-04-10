@@ -26,9 +26,9 @@
             <li><strong>Temor</strong> &#8211; “No sé por cuánto tiempo puedo hacer esto. Es decir, realmente la amo pero, ¡vamos! No quiero vivir eternamente en una relación sin sexo. Queríamos tener hijos pero ahora me temo que eso tampoco va a suceder. ¿Cómo va a ser mi futuro si esto continúa?”</li>
             <li><strong>Distanciamiento</strong> &#8211; “Mi vida en casa es un desastre y ni siquiera quiero ver a mi esposa en este momento. Así que más vale que ponga mi tiempo en mi trabajo y con mis amigos. Por lo menos mis amigos me aprecian y si estoy ocupado no tengo que pensar en esto.”</li>
           </ul>
-          <p>Es importante que el hombre entienda que el vaginismo no es algo que la mujer causó intencionalmente para evitar tener sexo. La constricción de los <a href="../../../vaginismus-causes/index.html#pc-muscles">músculos PC</a> que causan que la vagina se ‘cierre herméticamente’ es una reacción inconsciente e involuntaria que sucede sin control o intención.</p>
-          <p>Aunque una mujer pueda tener mucho deseo de participar en el coito, existe una “desconexión” entre su mente y su cuerpo, lo cual desencadena espasmos en el músculo PC. Existen muchos factores <a href="../../../vaginismus-causes/index.html#non-physical-causes">emocionales</a> y <a href="../../../vaginismus-causes/index.html#physical-causes">físicos</a> que pueden contribuir al desarrollo del vaginismo. Factores emocionales tales como el temor de penetración (no común en todos los tipos de vaginismo) afectarán a algunas mujeres con vaginismo. En estos casos es importante que una mujer entienda y supere su temor y pensamientos negativos sobre el sexo. El auto dirigido inventario emocional incluido en el programa de <a href="../../../products/vaginismus-treatment-kit/index.html">autoayuda</a> auxilia a que una mujer llegue a la raíz de estos factores y los reemplace con sentimientos sexuales positivos.</p>
-          <p>No es raro que los hombres “repriman” sus emociones, nieguen el enojo, la frustración y el estrés asociados con vivir en una <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">relación no consumada</a>. Con frecuencia el hombre siente que no puede hablar con nadie sobre su situación. Es posible que también esté preocupado de lastimar a su esposa si le dice a alguien sobre su “secreto”, así que vive con sentimientos guardados de resentimiento y tristeza, por su pareja y por sí mismo.</p>
+          <p>Es importante que el hombre entienda que el vaginismo no es algo que la mujer causó intencionalmente para evitar tener sexo. La constricción de los <a href="/es/vaginismus-causes/index.php#pc-muscles">músculos PC</a> que causan que la vagina se ‘cierre herméticamente’ es una reacción inconsciente e involuntaria que sucede sin control o intención.</p>
+          <p>Aunque una mujer pueda tener mucho deseo de participar en el coito, existe una “desconexión” entre su mente y su cuerpo, lo cual desencadena espasmos en el músculo PC. Existen muchos factores <a href="/es/vaginismus-causes/index.php#non-physical-causes">emocionales</a> y <a href="/es/vaginismus-causes/index.php#physical-causes">físicos</a> que pueden contribuir al desarrollo del vaginismo. Factores emocionales tales como el temor de penetración (no común en todos los tipos de vaginismo) afectarán a algunas mujeres con vaginismo. En estos casos es importante que una mujer entienda y supere su temor y pensamientos negativos sobre el sexo. El auto dirigido inventario emocional incluido en el programa de <a href="/es/products/vaginismus-treatment-kit/index.php">autoayuda</a> auxilia a que una mujer llegue a la raíz de estos factores y los reemplace con sentimientos sexuales positivos.</p>
+          <p>No es raro que los hombres “repriman” sus emociones, nieguen el enojo, la frustración y el estrés asociados con vivir en una <a href="/es/vaginismus-symptoms/index.php#unconsummated-marriages">relación no consumada</a>. Con frecuencia el hombre siente que no puede hablar con nadie sobre su situación. Es posible que también esté preocupado de lastimar a su esposa si le dice a alguien sobre su “secreto”, así que vive con sentimientos guardados de resentimiento y tristeza, por su pareja y por sí mismo.</p>
           <p>Lamentablemente, muchas parejas cesan de tener momentos de intimidad debido al dolor y frustración causados por intentos fallidos de coito. El conflicto es común y los problemas en la pareja pudieran escalar mientras el vaginismo continúa sin tratamiento. Es posible que ocurra una pérdida de comunicación a medida que los cónyuges se alejan a su lado de la cama o incluso duermen en camas separadas.</p>
           <p>Además del vaginismo, una pareja pudiera también tener que enfrentar la existencia de un padecimiento médico, cirugía o ataque que posiblemente desencadenó el problema, potencialmente causando más estrés en la relación.</p>
           <h3>Existe Una Solución</h3>
@@ -36,10 +36,10 @@
           <hr/>
           <h3>También Vea</h3>
           <ul>
-            <li><a href="../../treatment-questions/men-help-wives/index.html">¿Qué puede hacer el hombre para ayudar a su esposa/pareja a sobrellevar el vaginismo?</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">¿Cómo puedo permanecer motivado y positivo durante el tratamiento? Tengo problemas de evitación.</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">¿Ustedes recomiendan trabajar con profesionales del tratamiento como médicos, ginecólogos, terapeutas físicos, psicólogos, psiquiatras, consejeros, terapeutas sexuales u otros?</a></li>
-            <li><a href="../../../vaginismus-stories/">Historias del Vaginismo</a></li>
+            <li><a href="/es/faq/treatment-questions/men-help-wives/index.php">¿Qué puede hacer el hombre para ayudar a su esposa/pareja a sobrellevar el vaginismo?</a></li>
+            <li><a href="/es/faq/treatment-questions/how-can-i-stay-motivated/index.php">¿Cómo puedo permanecer motivado y positivo durante el tratamiento? Tengo problemas de evitación.</a></li>
+            <li><a href="/es/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">¿Ustedes recomiendan trabajar con profesionales del tratamiento como médicos, ginecólogos, terapeutas físicos, psicólogos, psiquiatras, consejeros, terapeutas sexuales u otros?</a></li>
+            <li><a href="/es/vaginismus-stories/">Historias del Vaginismo</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -49,21 +49,21 @@
           <aside class="large-3">
           <h2>Preguntas Generales</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>¿Qué es el vaginismo?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>¿Cómo sé si padezco de vaginismo?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>¿Cuál es la diferencia entre el vaginismo primario y el vaginismo secundario?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>¿Existen diversos grados de síntomas con el vaginismo?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>¿Desaparecerá el vaginismo por sí solo?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>¿Cuántas mujeres tienen vaginismo?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>¿Existe la posibilidad de que el vaginismo esté sólo en mi cabeza?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>¿Es posible que mi vagina sea simplemente demasiado pequeña?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>¿Podría ser que mi himen esté causando mi problema?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>¿Lo que si he tenido relaciones sexuales placenteros delante y ahora me duele?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html" class="active"><i class="icon-angle-double-right"></i> ¿Cómo afecta el vaginismo a los esposos/parejas de las mujeres con vaginismo?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>¿Qué es la dispareunia? ¿Qué conexión existe entre la dispareunia y el vaginismo?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Parezco no poder tener orgasmos. ¿Podría estar relacionado al vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Qué es el vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Cómo sé si padezco de vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>¿Cuál es la diferencia entre el vaginismo primario y el vaginismo secundario?</a></li>
+            <li><a href="/es/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>¿Existen diversos grados de síntomas con el vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>¿Desaparecerá el vaginismo por sí solo?</a></li>
+            <li><a href="/es/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Cuántas mujeres tienen vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>¿Existe la posibilidad de que el vaginismo esté sólo en mi cabeza?</a></li>
+            <li><a href="/es/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>¿Es posible que mi vagina sea simplemente demasiado pequeña?</a></li>
+            <li><a href="/es/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>¿Podría ser que mi himen esté causando mi problema?</a></li>
+            <li><a href="/es/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>¿Lo que si he tenido relaciones sexuales placenteros delante y ahora me duele?</a></li>
+            <li><a href="/es/faq/general-questions/vaginismus-affect-husbands/index.php" class="active"><i class="icon-angle-double-right"></i> ¿Cómo afecta el vaginismo a los esposos/parejas de las mujeres con vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>¿Qué es la dispareunia? ¿Qué conexión existe entre la dispareunia y el vaginismo?</a></li>
+            <li><a href="/es/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Parezco no poder tener orgasmos. ¿Podría estar relacionado al vaginismo?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Ver Todo PMFs</a>
+          <a href='/es/faq/index.php' class="shaded-btn">Ver Todo PMFs</a>
         </aside>
       </div>
     </main>

@@ -23,7 +23,7 @@
       <section class="product-description-0">
         <div class="wrapper">
           <div class="large-8 medium-8">
-            <img src="../../../img/por/book-por.jpg" alt="livro">
+            <img src="/img/por/book-por.jpg" alt="livro">
           </div>
           <div class="large-4 medium-4">
             <h2>Inclui:</h2>
@@ -37,7 +37,7 @@
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Mais despesas de envio.</p>
             <p><a class="shaded-btn" href="#">Comprar</a></p>
-            <p><a href="../../reviews/index.html">Comentários Do Cliente<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/por/reviews/index.php">Comentários Do Cliente<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -46,11 +46,11 @@
       <section class="product-description-1">
         <div class="wrapper">
           <div class="large-5">
-            <img src="../../../img/products/open-books.jpg" alt="abra o livro">
+            <img src="/img/products/open-books.jpg" alt="abra o livro">
           </div>
           <div class="large-7">
             <h2>Supere Completamente o Vaginismo</h2>
-             <p>A Abordagem Prática para Intercurso Sexual Sem Dor. Esclarecendo o mistério da rigidez muscular PC que causa dor no início da relação sexual, os exercícios fáceis de seguir de dez etapas para superar o vaginismo na privacidade da própria casa de uma mulher. Todas as informações necessárias; controle do assoalho pélvico, eliminação da dor, resolução dos componentes emocionais, exercícios com dilatadores, foco sensorial, transição para o intercurso sexual, e muito mais. O resultado é uma relação sexual bem sucedida. (<a href="../../reviews/index.html">Ver feedback de pessoas que fizeram o programa</a>)</p>
+             <p>A Abordagem Prática para Intercurso Sexual Sem Dor. Esclarecendo o mistério da rigidez muscular PC que causa dor no início da relação sexual, os exercícios fáceis de seguir de dez etapas para superar o vaginismo na privacidade da própria casa de uma mulher. Todas as informações necessárias; controle do assoalho pélvico, eliminação da dor, resolução dos componentes emocionais, exercícios com dilatadores, foco sensorial, transição para o intercurso sexual, e muito mais. O resultado é uma relação sexual bem sucedida. (<a href="/por/reviews/index.php">Ver feedback de pessoas que fizeram o programa</a>)</p>
           </div>
         </div>
       </section>
@@ -59,12 +59,12 @@
       <section class="product-description-6">
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="../../../img/products/products-forum-pass.jpg" alt="Fórum passagem Incluso na compra">
+            <img src="/img/products/products-forum-pass.jpg" alt="Fórum passagem Incluso na compra">
           </div>
           <div class="large-6 medium-6">
             <h2>BÔNUS Passe para o Fórum do Vaginismo</h2>
-            <p>Não passe pelo vaginismo sozinha! O exclusivo Passe ao Fórum do Vaginismo permite que as mulheres anonimamente acessem o centro de <a href="../../forum-introduction/index.html">comunidade</a> de vaginismo particular  e útil (incluindo acesso ao moderador). Incluído com os livro.</p>
-            <p><a class="brand-btn" href="../../forum-introduction/index.html">Sabia Mais</a></p>
+            <p>Não passe pelo vaginismo sozinha! O exclusivo Passe ao Fórum do Vaginismo permite que as mulheres anonimamente acessem o centro de <a href="/por/forum-introduction/index.php">comunidade</a> de vaginismo particular  e útil (incluindo acesso ao moderador). Incluído com os livro.</p>
+            <p><a class="brand-btn" href="/por/forum-introduction/index.php">Sabia Mais</a></p>
           </div>
         </div>
       </section>
@@ -75,11 +75,11 @@
           <h2>Disponibilizando Recursos sobre o Vaginismo para Pessoas ao Redor do Mundo</h2>
           <p>A nossa principal missão principal é ajudar mulheres de todas as maneiras possíveis, onde pudermos. Por isso, traduzimos nossos livros bem ilustrados e materiais informativos em diversos idiomas.</p>
           <div class="large-5 medium-5">
-            <img src="../../../img/products/word-cloud.png" alt="Idiomas disponíveis: Español, Português, العربية, Pусский, Türk, English">
+            <img src="/img/products/word-cloud.png" alt="Idiomas disponíveis: Español, Português, العربية, Pусский, Türk, English">
             
           </div>
           <div class="large-7 medium-7">
-            <img src="../../../img/products/pile-books.jpg" alt="Livros em várias línguas empilhados">
+            <img src="/img/products/pile-books.jpg" alt="Livros em várias línguas empilhados">
           </div>
         </div>
       </section>
@@ -92,13 +92,13 @@
             <p>Este livro abrangente cobre todos os aspectos do tratamento em casa bem sucedido em um formato simples de passo a passo.</p>
           </div>
           <div class="large-4 medium-4">
-            <img src="../../../img/por/book-por.jpg" alt="livro">
+            <img src="/img/por/book-por.jpg" alt="livro">
           </div>
           <div class="large-4 medium-4">
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Mais despesas de envio.</p>
             <p><a class="shaded-btn" href="#">Comprar</a></p>
-            <p><a href="../../reviews/index.html">Comentários Do Cliente<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/por/reviews/index.php">Comentários Do Cliente<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -106,7 +106,7 @@
 <!--   TREATMENT BANNER   -->
       <section class="treatment-banner grad1">
         <h2>Ver a Página de PFs</h2>
-        <p><a class="white-btn" href="../../faq/index.html">Saiba Mais</a></p>
+        <p><a class="white-btn" href="/por/faq/index.php">Saiba Mais</a></p>
       </section>
                  
 <!--      PRE-FOOTER-BADGES SECTION      -->
@@ -117,7 +117,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-contact-icon.png" alt="ícone de contacto"/>
+              <img src="/img/products/products-contact-icon.png" alt="ícone de contacto"/>
               <hr>
               <p>Ligação gratuita nos EUA: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -128,24 +128,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-guarantee-icon.png" alt="ícone de garantia">
+              <img src="/img/products/products-guarantee-icon.png" alt="ícone de garantia">
               <hr>
               <ul>
-                <li><span><a href="../../faq/customer-service-questions/guarantee-faqs/index.html">Garantia de Preços Mais Baixos</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Entrega Garantida</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Devoluções Fáceis</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Envio para o Mundo Todo</a></span></li>
+                <li><span><a href="/por/faq/customer-service-questions/guarantee-faqs/index.php">Garantia de Preços Mais Baixos</a></span></li>
+                <li><span><a href="/por/faq/customer-service-questions/shipping-faqs/index.php">Entrega Garantida</a></span></li>
+                <li><span><a href="/por/faq/customer-service-questions/ordering-faqs/index.php">Devoluções Fáceis</a></span></li>
+                <li><span><a href="/por/faq/customer-service-questions/shipping-faqs/index.php">Envio para o Mundo Todo</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-shield-icon.png" alt="shield icon">
+              <img src="/img/products/products-shield-icon.png" alt="shield icon">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Seguro</a></span></li>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Pagamentos Rápidos e Eficientes</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/privacy-policy/index.html">Discreta e Confidencial</a></span></li>
+                <li><span><a href="/por/faq/index.php#customer-service-faq">Seguro</a></span></li>
+                <li><span><a href="/por/faq/index.php#customer-service-faq">Pagamentos Rápidos e Eficientes</a></span></li>
+                <li><span><a href="/por/faq/customer-service-questions/privacy-policy/index.php">Discreta e Confidencial</a></span></li>
               </ul>
             </div>
           </div>
@@ -157,10 +157,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover e American Express aceita" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover e American Express aceita" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-shipping-icon.jpg" alt="transporte DHL e United States Postal Service" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="transporte DHL e United States Postal Service" />
          </div>
            
          </div>

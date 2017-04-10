@@ -25,14 +25,14 @@
           <aside class="large-3">
           <h2>PMF Atención al Cliente</h2>
           <ul>
-            <li><a href="../ordering-faqs/index.html"><i class="icon-angle-double-right"></i>Pedidos y Devolución Preguntas Frecuentes</a></li>
-            <li><a href="../shipping-faqs/index.html"><i class="icon-angle-double-right"></i>Envío Preguntas Frecuentes</a></li>
-            <li><a href="../guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Garantía</a></li>
-            <li><a href="../quality-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>Calidad y Seguridad Preguntas Frecuentes</a></li>
-            <li ><a href="../privacy-policy/index.html"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Privacidad</a></li>
-            <li><a href="../terms-of-use/index.html"><i class="icon-angle-double-right"></i>Condiciones de Uso</a></li>
+            <li><a href="/es/faq/customer-service-questions/ordering-faqs/index.php"><i class="icon-angle-double-right"></i>Pedidos y Devolución Preguntas Frecuentes</a></li>
+            <li><a href="/es/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>Envío Preguntas Frecuentes</a></li>
+            <li><a href="/es/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Garantía</a></li>
+            <li><a href="/es/faq/customer-service-questions/quality-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>Calidad y Seguridad Preguntas Frecuentes</a></li>
+            <li ><a href="/es/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>Preguntas Frecuentes Privacidad</a></li>
+            <li><a href="/es/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Condiciones de Uso</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Ver Todo PMFs</a>
+          <a href='../../../faq/index.php' class="shaded-btn">Ver Todo PMFs</a>
         </aside>
       </div>
     </main>

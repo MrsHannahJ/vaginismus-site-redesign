@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
-      <img src="../../img/contact-us/contact-us-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="contate nos">
+      <img src="/img/contact-us/contact-us-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="contate nos">
       <div class="wrapper">
          <div class="large-12 medium-12">
            <div class="hero-text hero-text-right">
@@ -27,17 +27,17 @@
       <h1>Contate</h1>
       <div class="wrapper">
         <div class="large-4 medium-6">
-          <a href="tel:+1-888-426-9900"><img src="../../img/icons/call.png" alt=""></a>
+          <a href="tel:+1-888-426-9900"><img src="/img/icons/call.png" alt=""></a>
           <h2>Ligação gratuita (EUA):</h2>
           <p><a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
         </div>
         <div class="large-4 medium-6">
-          <a href="tel:+1-619-449-1200"><img src="../../img/icons/call-international.png" alt=""></a>
+          <a href="tel:+1-619-449-1200"><img src="/img/icons/call-international.png" alt=""></a>
           <h2>Internacional:</h2>
           <p><a href="tel:+1-619-449-1200">1.619.449.1200</a></p>
         </div>
         <div class="large-4 medium-12">
-          <a href="mailto:care@vaginismus.com"><img src="../../img/icons/email.png" alt=""></a>
+          <a href="mailto:care@vaginismus.com"><img src="/img/icons/email.png" alt=""></a>
           <h2>Envie-nos um e-mail:</h2>
           <p><a href="mailto:care@vaginismus.com">care@vaginismus.com</a></p>
         </div>
@@ -50,7 +50,7 @@
     <section class="grad1">
       <div class="wrapper">
        <h2>Visite O Nosso Atendimento Ao Cliente PFs</h2>
-       <a href="../faq/index.html#customer">Aprender Mais</a>
+       <a href="/por/faq/index.php#customer">Aprender Mais</a>
      </div>
     </section>
       

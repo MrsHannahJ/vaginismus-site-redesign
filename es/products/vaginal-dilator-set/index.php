@@ -23,7 +23,7 @@
       <section class="product-description-0">
         <div class="wrapper">
           <div class="large-8 medium-8">
-            <img src="../../../img/products/products-dilator-set.jpg" alt="El dilatador vaginal Set: 6 dilatadores, mango universal y bolsa de transporte">
+            <img src="/img/products/products-dilator-set.jpg" alt="El dilatador vaginal Set: 6 dilatadores, mango universal y bolsa de transporte">
           </div>
           <div class="large-4 medium-4">
             <h2>Incluye:</h2>
@@ -37,7 +37,7 @@
             <p class="product-price">$44.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus de envío y manipulación</p>
             <p><a class="shaded-btn" href="#">Añadir Al Carrito</a></p>
-            <p><a href="../../reviews/kit-reviews/index.html">Comentarios De Los Clientes<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/es/reviews/kit-reviews/index.php">Comentarios De Los Clientes<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -46,7 +46,7 @@
       <section class="product-description-3">
         <div class="wrapper">
           <div class="large-6">
-            <img src="../../../img/products/products-medically-safe.jpg" alt="Dilatador y mango universal">
+            <img src="/img/products/products-medically-safe.jpg" alt="Dilatador y mango universal">
           </div>
           <div class="large-6">
             <h2>Médicamente Seguros y Prácticos</h2>
@@ -60,7 +60,7 @@
 <!--   DILATOR SIZE IMAGE SECTION   -->
       <section>
         <div class="wrapper">
-          <img src="../../../img/es/dilator-sizes-with-measurements-es.jpg" alt="set 6 dilatador. Un dilatador: diámetro de hasta 0,6 pulgadas (15 mm) y longitud de 3,48 pulgadas (88 mm). Dilatador B: diámetro de hasta .88 pulgadas (22 mm) y longitud de 3,97 pulgadas (101 mm). Dilatador C: hasta un diámetro de 1,04 pulgadas (26 mm) y longitud de 4,46 pulgadas (113 mm). Dilatador D: diámetro de hasta 1,19 pulgadas (30 mm) y longitud de 4,95 pulgadas (126 mm). Dilatador E: hasta un diámetro de 1,35 pulgadas (34 mm) y longitud de 5,45 pulgadas (138mm). Dilatador F: diámetro de hasta 1,5 pulgadas (38 mm) y longitud de 5,96 pulgadas (151 mm). mango universal se adapta a todos los tamaños.">
+          <img src="/img/es/dilator-sizes-with-measurements-es.jpg" alt="set 6 dilatador. Un dilatador: diámetro de hasta 0,6 pulgadas (15 mm) y longitud de 3,48 pulgadas (88 mm). Dilatador B: diámetro de hasta .88 pulgadas (22 mm) y longitud de 3,97 pulgadas (101 mm). Dilatador C: hasta un diámetro de 1,04 pulgadas (26 mm) y longitud de 4,46 pulgadas (113 mm). Dilatador D: diámetro de hasta 1,19 pulgadas (30 mm) y longitud de 4,95 pulgadas (126 mm). Dilatador E: hasta un diámetro de 1,35 pulgadas (34 mm) y longitud de 5,45 pulgadas (138mm). Dilatador F: diámetro de hasta 1,5 pulgadas (38 mm) y longitud de 5,96 pulgadas (151 mm). mango universal se adapta a todos los tamaños.">
         </div>
       </section>
       
@@ -70,15 +70,15 @@
 
 <!--  Replace these images with coded text-->
           <div class="large-6 medium-6">
-            <img src="../../../img/es/included-items-es.png" alt="Incluidos los puntos de bonificación: la información dilatador folleto, vaginismo folleto informativo, 2 paquetes de muestra de lubricante personal.">
+            <img src="/img/es/included-items-es.png" alt="Incluidos los puntos de bonificación: la información dilatador folleto, vaginismo folleto informativo, 2 paquetes de muestra de lubricante personal.">
             <h3><strong>¿Se pueden devolver los dilatadores? </strong></h3>
             <p>No podemos aceptar devoluciones de los dilatadores vaginales. Por razones de salud y seguridad, y con el fin de cumplir con las normas del FDA (Administración de Drogas y Alimentos de los Estados Unidos) para los insertos vaginales, los dilatadores vaginales que se hayan vendido a un consumidor no pueden regresar a inventario y se prohíbe su venta.</p>
             <h3><strong>¿Sufre de dolor durante el sexo o penetración?</strong></h3>
-            <p>Para el vaginismo, o para circunstancias similares de relaciones sexuales dolorosas o imposibles, recomendamos nuestro <a href="../vaginismus-treatment-kit/index.html">Kit Completo para el Vaginismo</a>. Un tratamiento exitoso es alcanzado con un programa profesional.</p>
+            <p>Para el vaginismo, o para circunstancias similares de relaciones sexuales dolorosas o imposibles, recomendamos nuestro <a href="../vaginismus-treatment-kit/index.php">Kit Completo para el Vaginismo</a>. Un tratamiento exitoso es alcanzado con un programa profesional.</p>
           </div>
           
           <div class="large-6 medium-6">
-            <img src="../../../img/es/product-quality-es.png" alt="Nuestros productos son: Libre de Tóxicos, EE.UU. Made, de calidad médica.">
+            <img src="/img/es/product-quality-es.png" alt="Nuestros productos son: Libre de Tóxicos, EE.UU. Made, de calidad médica.">
             <h3><strong>Nota a los médicos</strong></h3>
             <p>Estos dilatadores son de grado médico (FDA INT), no tóxicos y libres de látex. Altamente efectivos para programas de recuperación después de cirugías así como para el tratamiento de vaginismo, dispareunia, estrechamiento vaginal y otros trastornos ginecológicos similares. [CPT Code: Procedure 57400 o 58999, HCPCS Code: E1399, Supplies: 99070]</p>
           </div>
@@ -94,13 +94,13 @@
             <p>Simplemente un mejor producto: Estos dilatadores son suaves y cómodos, fáciles de controlar, livianos, libre de látex, lavables y seguros.</p>
           </div>
           <div class="large-4 medium-4">
-            <img src="../../../img/products/products-dilator-set.jpg" alt="El dilatador vaginal Set: 6 dilatadores, mango universal y bolsa de transporte.">
+            <img src="/img/products/products-dilator-set.jpg" alt="El dilatador vaginal Set: 6 dilatadores, mango universal y bolsa de transporte.">
           </div>
           <div class="large-4 medium-4">
             <p class="product-price">$44.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Plus de envío y manipulación</p>
             <p><a class="shaded-btn" href="#">Añadir Al Carrito</a></p>
-            <p><a href="../../reviews/dilator-reviews/index.html">Comentarios De Los Clientes<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/es/reviews/dilator-reviews/index.php">Comentarios De Los Clientes<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -108,7 +108,7 @@
 <!--   DILATOR FAQ BANNER   -->
       <section class="treatment-banner grad1">
         <h2>Visite la Página de Preguntas Más Frecuentes</h2>
-        <p><a class="white-btn" href="../../faq/index.html#dilator-faq">Aprenda Más</a></p>
+        <p><a class="white-btn" href="/es/faq/index.php#dilator-faq">Aprenda Más</a></p>
       </section>
 
 <!--      PRE-FOOTER-BADGES SECTION      -->
@@ -117,7 +117,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-contact-icon.png" alt="icono de contacto"/>
+              <img src="/img/products/products-contact-icon.png" alt="icono de contacto"/>
               <hr>
               <p>Llamada gratuita en los EE.UU.: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -128,24 +128,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-guarantee-icon.png" alt="icono de garantía">
+              <img src="/img/products/products-guarantee-icon.png" alt="icono de garantía">
               <hr>
               <ul>
-                <li><span><a href="../../faq/customer-service-questions/guarantee-faqs/index.html"> Garantía de los precios más bajos</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html"> Envío garantizado</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Fácil devolución</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Se envía a todo el mundo</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/guarantee-faqs/index.php"> Garantía de los precios más bajos</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/shipping-faqs/index.php"> Envío garantizado</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/ordering-faqs/index.php">Fácil devolución</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/shipping-faqs/index.php">Se envía a todo el mundo</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-shield-icon.png" alt="icono de seguridad">
+              <img src="/img/products/products-shield-icon.png" alt="icono de seguridad">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Seguro</a></span></li>
-                <li><span><a href="../../faq/index.html#customer-service-faq"> Pagos rápidos y eficientes</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/privacy-policy/index.html">Privado y confidencial</a></span></li>
+                <li><span><a href="/es/faq/index.php#customer-service-faq">Seguro</a></span></li>
+                <li><span><a href="/es/faq/index.php#customer-service-faq"> Pagos rápidos y eficientes</a></span></li>
+                <li><span><a href="/es/faq/customer-service-questions/privacy-policy/index.php">Privado y confidencial</a></span></li>
               </ul>
             </div>
           </div>
@@ -156,10 +156,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover y American Express aceptados" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover y American Express aceptados" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-shipping-icon.jpg" alt="El envío de DHL y el Servicio Postal de Estados Unidos" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="El envío de DHL y el Servicio Postal de Estados Unidos" />
          </div>
            
          </div>

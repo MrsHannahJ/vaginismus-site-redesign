@@ -15,7 +15,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-       <img src="../../img/symptoms/symptoms-header-mobile-en.jpeg" alt="Síntomas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
+       <img src="/img/symptoms/symptoms-header-mobile-en.jpeg" alt="Síntomas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
             
@@ -34,8 +34,8 @@
           <div class="large-4 medium-6">
             <h2>¿Qué es el Vaginismo?</h2>
             <p><strong>El vaginismo es una constricción vaginal que causa incomodidad, ardor, dolor, problemas de penetración o completa incapacidad de tener coito.</strong></p>
-            <p>La constricción vaginal es producto de contracciones involuntarias del piso pélvico del grupo muscular <a href="../vaginismus-causes/index.html#pc-muscles">pubococcígeos </a> (PC), aunque es posible que la mujer no esté consciente de que esta es la causa de su dolor o dificultades de penetración.</p>
-            <p>El vaginismo es una frecuente causa del dolor sexual continuo y también es la principal causa femenina de matrimonios sin relaciones sexuales (<a href="#unconsummated-marriages">no consumado</a>). El dolor sexual puede afectar a mujeres en todas las etapas de la vida; incluso a mujeres que han tenido sexo cómodamente por años. Aunque el experimentar una molestia temporal durante la relación sexual no es algo inusual, los problemas continuos se deben <a href="../vaginismus-diagnosis/index.html">diagnosticados</a> y tratar.</p>
+            <p>La constricción vaginal es producto de contracciones involuntarias del piso pélvico del grupo muscular <a href="/es/vaginismus-causes/index.php#pc-muscles">pubococcígeos </a> (PC), aunque es posible que la mujer no esté consciente de que esta es la causa de su dolor o dificultades de penetración.</p>
+            <p>El vaginismo es una frecuente causa del dolor sexual continuo y también es la principal causa femenina de matrimonios sin relaciones sexuales (<a href="#unconsummated-marriages">no consumado</a>). El dolor sexual puede afectar a mujeres en todas las etapas de la vida; incluso a mujeres que han tenido sexo cómodamente por años. Aunque el experimentar una molestia temporal durante la relación sexual no es algo inusual, los problemas continuos se deben <a href="/es/vaginismus-diagnosis/index.php">diagnosticados</a> y tratar.</p>
           </div>
           <div class="large-4 medium-6">
             <h2>Síntomas Comunes</h2>
@@ -43,7 +43,7 @@
               <li>Ardor o picazón con constricción durante el sexo</li>
               <li>Dificultad o penetración imposible, dolor al penetrar, inserción incómoda del pene</li>
               <li>Matrimonio no consumado</li>
-              <li>Continua incomodidad sexual o dolor después del parto, infecciones por levadura o urinarias, enfermedades de transmisión sexual, histerectomía, cáncer y cirugías, violación, menopausia u otros <a href="../vaginismus-causes/index.html#non-physical-causes">problemas</a></li>
+              <li>Continua incomodidad sexual o dolor después del parto, infecciones por levadura o urinarias, enfermedades de transmisión sexual, histerectomía, cáncer y cirugías, violación, menopausia u otros <a href="/es/vaginismus-causes/index.php#non-physical-causes">problemas</a></li>
               <li>Dolor sexual continuo de causas desconocidas, sin razón aparente</li>
               <li>Dificultad para insertar un tampón, o tener un examen ginecológico/pélvico</li>
               <li>Espasmos en otros grupos musculares del cuerpo (piernas, zona lumbar, etc.) y/o interrupción de la respiración durante intentos de coito</li>
@@ -52,9 +52,9 @@
           </div>
           <div class="large-4">
             <div class="did-you-know">
-              <img src="../../img/icons/lightbulb.png" alt="¿Sabía Usted?" aria-hidden="true">
+              <img src="/img/icons/lightbulb.png" alt="¿Sabía Usted?" aria-hidden="true">
               <h3>¿Sabía Usted?</h3>
-              <p>El vaginismo es una causa común del dolor sexual continuo y también es la principal causa femenina de matrimonios sin relaciones sexuales (<a href="#unconsummated-marriages">no consumados</a>). El dolor sexual puede afectar a mujeres en todas las etapas de la vida; incluso a mujeres que han tenido sexo cómodamente por años. Aunque experimentar una molestia temporal durante la relación sexual no es algo inusual, los problemas continuos se deben <a href="../vaginismus-diagnosis/index.html">diagnosticar</a> y tratar.</p>
+              <p>El vaginismo es una causa común del dolor sexual continuo y también es la principal causa femenina de matrimonios sin relaciones sexuales (<a href="#unconsummated-marriages">no consumados</a>). El dolor sexual puede afectar a mujeres en todas las etapas de la vida; incluso a mujeres que han tenido sexo cómodamente por años. Aunque experimentar una molestia temporal durante la relación sexual no es algo inusual, los problemas continuos se deben <a href="/es/vaginismus-diagnosis/index.php">diagnosticar</a> y tratar.</p>
             </div>
           </div>
         </div>
@@ -67,13 +67,13 @@
         <div class="wrapper">
           <div class="large-6 medium-6">
             <figure>
-              <img src="../../img/es/impossible-penetration-es.png" alt="Diagrama que representa penetración vaginal imposible">
+              <img src="/img/es/impossible-penetration-es.png" alt="Diagrama que representa penetración vaginal imposible">
               <figcaption>Cuando un hombre intenta tener coito con una mujer, el grupo muscular PC de la mujer (sombreado oscuro) entra en espasmo y aprieta cerrando la entrada a la vagina, haciendo el coito imposible y doloroso, “como toparse con pared”. Este tipo de vaginismo hace que la penetración sea imposible.</figcaption>
             </figure>
           </div>
           <div class="large-6 medium-6">
             <figure>
-              <img src="../../img/es/tightness%20and%20pain-es.jpg" alt="Diagram depicting painful vaginal entrance">
+              <img src="/img/es/tightness%20and%20pain-es.jpg" alt="Diagram depicting painful vaginal entrance">
               <figcaption>En otros casos de vaginismo, la penetración podría ser posible, pero la mujer experimenta periodos de contracción involuntaria que causan ardor, incomodidad o dolor.</figcaption>
             </figure>
           </div>
@@ -86,9 +86,9 @@
         <div class="wrapper">
           <div class="large-4">
            <div class="did-you-know">
-              <img src="../../img/icons/lightbulb.png" alt="¿Sabía Usted?" aria-hidden="true">
+              <img src="/img/icons/lightbulb.png" alt="¿Sabía Usted?" aria-hidden="true">
               <h3>¿Sabía Usted?</h3>
-              <p>Con el vaginismo, la mente y el cuerpo han desarrollado una respuesta condicionada en contra de la penetración. El cuerpo ha aprendido a expectar o anticipar dolor con la penetración, de manera que el <a href="../vaginismus-causes/index.html#pc-muscles">músculo PC</a> se “estremece” o contrae fuertemente para protegerse del dolor del coito. Esto es equivalente a parpadear automáticamente los ojos y contraer la cara cuando se arroja un objeto contra nosotros. No es algo que una mujer esté pensando hacer, simplemente sucede (véase <a href="/vaginismus-causes/index.html">Causas</a>).</p>
+              <p>Con el vaginismo, la mente y el cuerpo han desarrollado una respuesta condicionada en contra de la penetración. El cuerpo ha aprendido a expectar o anticipar dolor con la penetración, de manera que el <a href="/es/vaginismus-causes/index.php#pc-muscles">músculo PC</a> se “estremece” o contrae fuertemente para protegerse del dolor del coito. Esto es equivalente a parpadear automáticamente los ojos y contraer la cara cuando se arroja un objeto contra nosotros. No es algo que una mujer esté pensando hacer, simplemente sucede (véase <a href="/es/vaginismus-causes/index.php">Causas</a>).</p>
             </div>
           </div>
           <div class="large-8">
@@ -114,13 +114,13 @@
        <div class="wrapper">
           <div class="large-4">
             <h2>Rango de Severidad de los Síntomas</h2>
-            <p>El vaginismo tiene manifestaciones muy diversas, desde la penetración imposible hasta el coito con incomodidad, dolor o ardor, todo como resultado de una contracción pélvica involuntaria. Cuando una mujer nunca ha podido tener relaciones sexuales sin dolor debido a dificultades con la penetración, esto generalmente se clasifica como <strong>vaginismo primario</strong>. Cuando una mujer desarrolla el padecimiento del vaginismo después de previamente haber disfrutado tener relaciones sexuales sin problema alguno, esto generalmente se clasifica como <strong>vaginismo secundario</strong>. Dependiendo de la clasificación, existen pequeñas <a href="/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">variaciones</a> en la manera en la que se trata el vaginismo.</p>
+            <p>El vaginismo tiene manifestaciones muy diversas, desde la penetración imposible hasta el coito con incomodidad, dolor o ardor, todo como resultado de una contracción pélvica involuntaria. Cuando una mujer nunca ha podido tener relaciones sexuales sin dolor debido a dificultades con la penetración, esto generalmente se clasifica como <strong>vaginismo primario</strong>. Cuando una mujer desarrolla el padecimiento del vaginismo después de previamente haber disfrutado tener relaciones sexuales sin problema alguno, esto generalmente se clasifica como <strong>vaginismo secundario</strong>. Dependiendo de la clasificación, existen pequeñas <a href="/es/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">variaciones</a> en la manera en la que se trata el vaginismo.</p>
           </div>
           <div class="large-8">
 
     <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-            <img src="../../img/es/pain-chart-es.png" alt="Nivel 1, Incomodidad Leve: Se experimenta incomodidad o ardor leve y contracción con la penetración o el movimiento vaginal que pudiera no disminuir; Nivel 2, ardor y constricción: se experimenta ardor y contracción mas fuerte con la penetración o el movimiento vaginal que tiende a persistir; Nivel 3, Contracción Involuntaria: Las contracción involuntarias de los músculos de la vagina hacen la penetración y el movimiento difícil y dolorso; Nivel 4, Dolor Significativo: la pareja no es capaz de lograr la penetración debido a que la abertura vaginal esta firmemente cerrada. Si se fuerza la penetración, se produce gran dolor.">
+            <img src="/img/es/pain-chart-es.png" alt="Nivel 1, Incomodidad Leve: Se experimenta incomodidad o ardor leve y contracción con la penetración o el movimiento vaginal que pudiera no disminuir; Nivel 2, ardor y constricción: se experimenta ardor y contracción mas fuerte con la penetración o el movimiento vaginal que tiende a persistir; Nivel 3, Contracción Involuntaria: Las contracción involuntarias de los músculos de la vagina hacen la penetración y el movimiento difícil y dolorso; Nivel 4, Dolor Significativo: la pareja no es capaz de lograr la penetración debido a que la abertura vaginal esta firmemente cerrada. Si se fuerza la penetración, se produce gran dolor.">
           </div>
         </div>
       </section>
@@ -138,17 +138,17 @@
             </div>
           </div>
           <div class="large-4 medium-6">
-            <p>Cuando la abertura se estrecha, los intentos de insertar cualquier cosa a la vagina producen dolor o molestia. Algunas mujeres también experimentan espasmos en otros grupos musculares del cuerpo e incluso interrupción de la respiración. Normalmente, cuando cesa el intento de poner algo en la vagina, los músculos se relajan y vuelven a la normalidad. <strong>Por esta razón, las exploraciones médicas con frecuencia fallan en revelar cualquier problema aparente a menos que la contracción ocurra y se observe durante el <a href="/vaginismus-diagnosis/index.html#pelvicexam">examen pélvico</a>.</strong></p>
+            <p>Cuando la abertura se estrecha, los intentos de insertar cualquier cosa a la vagina producen dolor o molestia. Algunas mujeres también experimentan espasmos en otros grupos musculares del cuerpo e incluso interrupción de la respiración. Normalmente, cuando cesa el intento de poner algo en la vagina, los músculos se relajan y vuelven a la normalidad. <strong>Por esta razón, las exploraciones médicas con frecuencia fallan en revelar cualquier problema aparente a menos que la contracción ocurra y se observe durante el <a href="/es/vaginismus-diagnosis/index.php#pelvicexam">examen pélvico</a>.</strong></p>
             <h2>Vaginismo Secundario</h2>
             <p><strong>El dolor sexual del vaginismo secundario puede afectar a mujeres en todas las etapas de la vida; incluso a mujeres que han tenido sexo sin dolor por muchos años.</strong></p>
-            <p>El vaginismo secundario se refiere al dolor causado por la constricción o las dificultades de penetración experimentadas más adelante en la vida, después de previamente haber podido tener coito normal sin dolor. Por lo general, este vaginismo se desencadena o sucede luego de experimentar un dolor pélvico temporal u otros problemas asociados. El vaginismo secundario se puede desencadenar a causa de padecimientos médicos, eventos traumáticos, problemas relacionales, cirugías, cambios en la vida (p. ej. la menopausia) o por ninguna razón aparente (véase <a href="/vaginismus-causes/index.html#non-physical_causes">Causas</a> para más ejemplos). El vaginismo secundario es el frecuente responsable del dolor sexual continuo o de la constricción en la penetración cuando este problema no había existido antes. Con mayor frecuencia, el vaginismo secundario ataca a mujeres que experimentan problemas de dolor pélvico temporal, tales como las infecciones urinarias o por levadura, el dolor de un parto, la menopausia o las cirugías.</p>
+            <p>El vaginismo secundario se refiere al dolor causado por la constricción o las dificultades de penetración experimentadas más adelante en la vida, después de previamente haber podido tener coito normal sin dolor. Por lo general, este vaginismo se desencadena o sucede luego de experimentar un dolor pélvico temporal u otros problemas asociados. El vaginismo secundario se puede desencadenar a causa de padecimientos médicos, eventos traumáticos, problemas relacionales, cirugías, cambios en la vida (p. ej. la menopausia) o por ninguna razón aparente (véase <a href="/es/vaginismus-causes/index.php#non-physical_causes">Causas</a> para más ejemplos). El vaginismo secundario es el frecuente responsable del dolor sexual continuo o de la constricción en la penetración cuando este problema no había existido antes. Con mayor frecuencia, el vaginismo secundario ataca a mujeres que experimentan problemas de dolor pélvico temporal, tales como las infecciones urinarias o por levadura, el dolor de un parto, la menopausia o las cirugías.</p>
           </div>
           <div class="large-4">
             <p>Los problemas de dolor inicial se tratan médicamente, se sanan o controlan, sin embargo las mujeres continúan experimentando dolor sexual continuo o dificultad en la penetración a causa del vaginismo. Al experimentar el dolor temporal inicial, sus cuerpos desarrollan una respuesta condicionada que produce una constricción vaginal continua e involuntaria al intentar el coito.</p>
             <div class="call-out">
               <p>Si no se recibe tratamiento, el vaginismo con frecuencia empeora ya que  el experimentar dolor sexual continuo incrementa aún más la duración e intensidad de la contracción involuntaria del músculos  PC.</p>
             </div>
-            <p>La severidad del vaginismo secundario puede escalar hasta el punto que el sexo o incluso la penetración ya no son posibles sin estar acompañados de gran dificultad. Algunas mujeres también experimentan dificultad con los exámenes ginecológicos o con la inserción del tampón. El vaginismo también puede dificultar la habilidad de una mujer para experimentar el <a href="/faq/general-questions/orgasms-problems-from-vaginismus/index.html">orgasmo</a> durante el coito, ya que cualquier punzada dolorosa interrumpe abruptamente el aumento de la excitación que lleva al orgasmo.</p>
+            <p>La severidad del vaginismo secundario puede escalar hasta el punto que el sexo o incluso la penetración ya no son posibles sin estar acompañados de gran dificultad. Algunas mujeres también experimentan dificultad con los exámenes ginecológicos o con la inserción del tampón. El vaginismo también puede dificultar la habilidad de una mujer para experimentar el <a href="/es/faq/general-questions/orgasms-problems-from-vaginismus/index.php">orgasmo</a> durante el coito, ya que cualquier punzada dolorosa interrumpe abruptamente el aumento de la excitación que lleva al orgasmo.</p>
           </div>
         </div>
       </section>
@@ -158,7 +158,7 @@
       <section id="involuntary" class="grad1">
         <div class="wrapper">
           <h2>El Vaginismo Es Involuntario, No Es Intencional</h2>
-          <p>Es importante hacer mención que el vaginismo no se desencadena deliberada o intencionalmente por la mujer. Este sucede involuntariamente sin control intencional y con frecuencia sin percibirse. El vaginismo tiene una variedad de  <strong><a href="/vaginismus-causes/index.html">causas</a></strong>, a menudo en respuesta a una combinación de <strong><a href="https://www.vaginismus.com/vaginismus-causes/#physical_causes">factores físicos o emocionales</a></strong>. El misterio del problema puede ser muy frustrante y angustiante, tanto para la mujer como para su pareja.</p>
+          <p>Es importante hacer mención que el vaginismo no se desencadena deliberada o intencionalmente por la mujer. Este sucede involuntariamente sin control intencional y con frecuencia sin percibirse. El vaginismo tiene una variedad de  <strong><a href="/es/vaginismus-causes/index.php">causas</a></strong>, a menudo en respuesta a una combinación de <strong><a href="/es/vaginismus-causes/index.php#physical_causes">factores físicos o emocionales</a></strong>. El misterio del problema puede ser muy frustrante y angustiante, tanto para la mujer como para su pareja.</p>
           <p>A pesar de que el vaginismo es involuntario y que puede atacar a cualquier mujer, muchas mujeres sienten mucha vergüenza por no ser capaces de tener coito y esconden su dolor en privado, sintiéndose incómodas de compartir su secreto con cualquier persona.</p>
           
         </div>
@@ -185,7 +185,7 @@
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-          <img src="../../img/es/unconsummated-qa-box-es.png" alt="Pregunta: En casos severos de vaginismo, en los que nunca ha habido penetración, ¿ realmente es posible eliminario? ¿Existe esperanza para parejas que no han consumado? Respuesta: Sí. Afortunadamente, el vaginismo es altamente tratable con pleno restablecimiento de la sexual relaciones. Parejas tratamiento de completar plenamente consumada y disfrutar del sexo normal con penetración. Consulte la sección Comentarios y Criticas para muchos usarios contribuyeron historias de superación de las dificultades de penetración.">
+          <img src="/img/es/unconsummated-qa-box-es.png" alt="Pregunta: En casos severos de vaginismo, en los que nunca ha habido penetración, ¿ realmente es posible eliminario? ¿Existe esperanza para parejas que no han consumado? Respuesta: Sí. Afortunadamente, el vaginismo es altamente tratable con pleno restablecimiento de la sexual relaciones. Parejas tratamiento de completar plenamente consumada y disfrutar del sexo normal con penetración. Consulte la sección Comentarios y Criticas para muchos usarios contribuyeron historias de superación de las dificultades de penetración.">
           </div>
         </div>
       </section>
@@ -197,16 +197,16 @@
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../faq/index.html">
-              <img src="../../img/es/symptoms-left-footer-button-es.png" alt="Vinculo a PMFs">
+            <a href="/es/faq/index.php">
+              <img src="/img/es/symptoms-left-footer-button-es.png" alt="Vinculo a PMFs">
             </a>
           </div>
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-             <a href="../vaginismus-stories/index.html">
-               <img src="../../img/es/symptoms-right-footer-button-es.png" alt="Vinculo a Historias">
+             <a href="/es/vaginismus-stories/index.php">
+               <img src="/img/es/symptoms-right-footer-button-es.png" alt="Vinculo a Historias">
              </a>
           </div>
         </div>

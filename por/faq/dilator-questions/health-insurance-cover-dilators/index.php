@@ -19,16 +19,16 @@
           <p>Na prática, sabemos que algumas mulheres receberam reembolso, enquanto os pedidos de outras foram rejeitados. Em alguns casos, as mulheres devem fornecer “cartas de necessidade” de um médico antes que seu seguro processe o pedido.</p>
           <p>Nos EUA, os códigos geralmente usados para reembolsos de seguro são:</p>
           <p class="indent"><em>Código CPT: Procedimento 57400 ou 58999</em><br /> <em>Código HCPCS: E1399</em><br /> <em>Fornecimentos: 99070</em></p>
-          <p>Como nossa missão é ajudar o máximo possível de mulheres com vaginismo e disfunções relacionadas, fizemos os nossos <a href="../../../products/vaginal-dilator-set/index.html">dilatadores</a> o mais acessível em termos de custos, com os preços mais baixos do mundo por um produto médico de qualidade.</p>
+          <p>Como nossa missão é ajudar o máximo possível de mulheres com vaginismo e disfunções relacionadas, fizemos os nossos <a href="/por/products/vaginal-dilator-set/index.php">dilatadores</a> o mais acessível em termos de custos, com os preços mais baixos do mundo por um produto médico de qualidade.</p>
                   
           <hr>
           
           <h3>Veja Também</h3>
           <ul>
-            <li><a href="../../../products/vaginal-dilator-set/index.html">Dilatadores vaginais</a></li>
-            <li><a href="../../customer-service-questions/ordering-faqs/index.html">Posso devolver os dilatadores e solicitar um reembolso se eu não usá-los?</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Por que os dilatadores vaginais são usados no tratamento do vaginismo?</a></li>
-            <li><a href="../../../vaginismus-treatment/index.html">Tratamento do vaginismo</a></li>
+            <li><a href="/por/products/vaginal-dilator-set/index.php">Dilatadores vaginais</a></li>
+            <li><a href="/por/faq/customer-service-questions/ordering-faqs/index.php">Posso devolver os dilatadores e solicitar um reembolso se eu não usá-los?</a></li>
+            <li><a href="/por/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php">Por que os dilatadores vaginais são usados no tratamento do vaginismo?</a></li>
+            <li><a href="/por/vaginismus-treatment/index.php">Tratamento do vaginismo</a></li>
           </ul>
           
           <hr class="hidden-desktop"/>
@@ -39,15 +39,15 @@
           <aside class="large-3">
           <h2>PFs Sobre Dilatadores</h2>
           <ul>
-            <li><a href="../what-are-the-dilators-made-of/index.html"><i class="icon-angle-double-right"></i>De que são feitos os dilatadores?</a></li>
-            <li><a href="../health-insurance-cover-dilators/index.html" class="active"><i class="icon-angle-double-right"></i>O meu plano de saúde cobre o custo dos dilatadores?</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>Por que os dilatadores vaginais são usados no tratamento do vaginismo?</a></li>
-            <li><a href="../can-i-just-get-dilators/index.html"><i class="icon-angle-double-right"></i>Posso usar os dilatadores se eu não estiver seguindo um programa de tratamento?</a></li>
-            <li><a href="../dilators-treat-other-conditions/index.html"><i class="icon-angle-double-right"></i>Os dilatadores podem ser usados para tratar outras disfunções além do vaginismo?</a></li>
-            <li><a href="../will-dilators-break-hymen/index.html"><i class="icon-angle-double-right"></i>Se o meu hímen ainda está Intacto, o uso de dilatadores vai rompê-lo e causar dor?</a></li>
-            <li><a href="../vaginal-dilators-for-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>Quais são os tipos de dilatadores vaginais mais Indicados para o tratamento do vaginismo e disfunções semelhantes?</a></li>
+            <li><a href="/por/faq/dilator-questions/what-are-the-dilators-made-of/index.php"><i class="icon-angle-double-right"></i>De que são feitos os dilatadores?</a></li>
+            <li><a href="/por/faq/dilator-questions/health-insurance-cover-dilators/index.php" class="active"><i class="icon-angle-double-right"></i>O meu plano de saúde cobre o custo dos dilatadores?</a></li>
+            <li><a href="/por/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>Por que os dilatadores vaginais são usados no tratamento do vaginismo?</a></li>
+            <li><a href="/por/faq/dilator-questions/can-i-just-get-dilators/index.php"><i class="icon-angle-double-right"></i>Posso usar os dilatadores se eu não estiver seguindo um programa de tratamento?</a></li>
+            <li><a href="/por/faq/dilator-questions/dilators-treat-other-conditions/index.php"><i class="icon-angle-double-right"></i>Os dilatadores podem ser usados para tratar outras disfunções além do vaginismo?</a></li>
+            <li><a href="/por/faq/dilator-questions/will-dilators-break-hymen/index.php"><i class="icon-angle-double-right"></i>Se o meu hímen ainda está Intacto, o uso de dilatadores vai rompê-lo e causar dor?</a></li>
+            <li><a href="/por/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>Quais são os tipos de dilatadores vaginais mais Indicados para o tratamento do vaginismo e disfunções semelhantes?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Ver Tudo PMFs</a>
+          <a href='/por/faq/index.php' class="shaded-btn">Ver Tudo PMFs</a>
         </aside>
       </div>
     </main>
