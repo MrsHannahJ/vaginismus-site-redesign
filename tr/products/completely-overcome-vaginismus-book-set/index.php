@@ -23,7 +23,7 @@
       <section class="product-description-0">
         <div class="wrapper">
           <div class="large-8 medium-8">
-            <img src="../../../img/tr/book-tr.jpg" alt="Vajinismus Evde Tedavi Programı">
+            <img src="/img/tr/book-tr.jpg" alt="Vajinismus Evde Tedavi Programı">
           </div>
           <div class="large-4 medium-4">
             <h2>Içerir:</h2>
@@ -37,7 +37,7 @@
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Artı Nakliye ve Taşıma.</p>
             <p><a class="shaded-btn" href="#">Sepete Ekle</a></p>
-            <p><a href="../../reviews/index.html">Müşteri Geribildirimi<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/tr/reviews/index.php">Müşteri Geribildirimi<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -46,11 +46,11 @@
       <section class="product-description-1">
         <div class="wrapper">
           <div class="large-5">
-            <img src="../../../img/products/open-books.jpg" alt="açık kitap">
+            <img src="/img/products/open-books.jpg" alt="açık kitap">
           </div>
           <div class="large-7">
             <h2>Vajinismustan Tamamen Kurtulun</h2>
-             <p>Acısız İlişkiye Yönelik Pratik Yaklaşım Cinsel ilişki başlangıcında acı veren PC kası gerginliği gizemini açığa çıkarıyor, detaylı ve takibi kolay on adımlık egzersizlerle vajinismusu bir kadının kendi evinin mahremiyetinde yenmesi. Gerekli tüm bilgiler; pelvik taban kontrolü, acıyı ortadan kaldırmak, duygusal bileşenleri çözmek, dilatör egzersizleri, duyu odağı, cinsel ilişkiye geçiş ve çok daha fazlası. Sonuç, başarılı cinsel ilişkidir. (<a href="../../reviews/index.html">Okur geri bildirimlerine bakın</a>)</p>
+             <p>Acısız İlişkiye Yönelik Pratik Yaklaşım Cinsel ilişki başlangıcında acı veren PC kası gerginliği gizemini açığa çıkarıyor, detaylı ve takibi kolay on adımlık egzersizlerle vajinismusu bir kadının kendi evinin mahremiyetinde yenmesi. Gerekli tüm bilgiler; pelvik taban kontrolü, acıyı ortadan kaldırmak, duygusal bileşenleri çözmek, dilatör egzersizleri, duyu odağı, cinsel ilişkiye geçiş ve çok daha fazlası. Sonuç, başarılı cinsel ilişkidir. (<a href="/tr/reviews/index.php">Okur geri bildirimlerine bakın</a>)</p>
           </div>
         </div>
       </section>
@@ -59,12 +59,12 @@
       <section class="product-description-6">
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="../../../img/products/products-forum-pass.jpg" alt="Forum Geçiş Satın Alma ile Dahil">
+            <img src="/img/products/products-forum-pass.jpg" alt="Forum Geçiş Satın Alma ile Dahil">
           </div>
           <div class="large-6 medium-6">
             <h2>BONUS Vajinismus Özel Forum Girişi</h2>
-            <p>Vajinismus ile tek başınıza mücadele etmeyin! Özel Vajinismus Forumuna Giriş hakkı, kadınların yardım sağlayan özel <a href="https://www.vaginismus.com/community/forum-introduction">vajinismus topluluğuna</a> (moderatör erişimi dâhil) anonim şekilde erişim sağlamalarına imkân tanır. Kitaplarla birlikte.</p>
-            <p><a class="brand-btn" href="../../forum-introduction/index.html">Daha Fazla Bilgi</i></a></p>
+            <p>Vajinismus ile tek başınıza mücadele etmeyin! Özel Vajinismus Forumuna Giriş hakkı, kadınların yardım sağlayan özel <a href="/tr/forum-introduction/index.php">vajinismus topluluğuna</a> (moderatör erişimi dâhil) anonim şekilde erişim sağlamalarına imkân tanır. Kitaplarla birlikte.</p>
+            <p><a class="brand-btn" href="/tr/forum-introduction/index.php">Daha Fazla Bilgi</i></a></p>
           </div>
         </div>
       </section>
@@ -75,11 +75,11 @@
           <h2>Vajinismus Kaynaklarını Dünyanın Her Yerindeki İnsanlara Ulaştırıyoruz</h2>
           <p>Kadınlara elimizden gelen her şekilde ve her yerde yardım etme şeklindeki birincil misyonumuz dâhilinde, görsellerle destekli kitaplarımızı ve bilgi materyallerimizi 6 farklı dilde yayınlıyoruz.</p>
           <div class="large-5 medium-5">
-            <img src="../../../img/products/word-cloud.png" alt="Mevcut Diller: Español, Portekizce, العربية, Hoteller, Türk, İngiliz">
+            <img src="/img/products/word-cloud.png" alt="Mevcut Diller: Español, Portekizce, العربية, Hoteller, Türk, İngiliz">
             
           </div>
           <div class="large-7 medium-7">
-            <img src="../../../img/products/pile-books.jpg" alt="çeşitli dillerde kitaplar yığılmış">
+            <img src="/img/products/pile-books.jpg" alt="çeşitli dillerde kitaplar yığılmış">
           </div>
         </div>
       </section>
@@ -92,13 +92,13 @@
             <p>Bu kapsamlı kitap, başarılı ev tedavisinin tüm yönlerini kolayca izlenen adım adım bir formatta sunuyor.</p>
           </div>
           <div class="large-4 medium-4">
-            <img src="../../../img/tr/book-tr.jpg" alt="Vajinismus Evde Tedavi Programı kitabı">
+            <img src="/img/tr/book-tr.jpg" alt="Vajinismus Evde Tedavi Programı kitabı">
           </div>
           <div class="large-4 medium-4">
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Artı Nakliye ve Taşıma.</p>
             <p><a class="shaded-btn" href="#">Sepete Ekle</a></p>
-            <p><a href="../../reviews/index.html">Müşteri Geribildirimi<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/tr/reviews/index.php">Müşteri Geribildirimi<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -106,7 +106,7 @@
 <!--   TREATMENT BANNER   -->
       <section class="treatment-banner grad1">
         <h2>SSS Sayfasını Görüntüleyin</h2>
-        <p><a class="white-btn" href="../../faq/index.html">Daha Fazla Bilgi</a></p>
+        <p><a class="white-btn" href="/tr/faq/index.php">Daha Fazla Bilgi</a></p>
       </section>
                  
 <!--      PRE-FOOTER-BADGES SECTION      -->
@@ -115,7 +115,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-contact-icon.png" alt="iletişim simgesi"/>
+              <img src="/img/products/products-contact-icon.png" alt="iletişim simgesi"/>
               <hr>
               <p>Ücretsiz Hat (ABD): <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -126,24 +126,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-guarantee-icon.png" alt="garanti simgesi">
+              <img src="/img/products/products-guarantee-icon.png" alt="garanti simgesi">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer">En Düşük Fiyat Garantisi</a></span></li>
-                <li><span><a href="../../faq/index.html#customer">Teslimat Garantisi</a></span></li>
-                <li><span><a href="../../faq/index.html#customer">Kolay İade Süreci</a></span></li>
-                <li><span><a href="../../faq/index.html#customer">Dünya Çapında Gönderim</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">En Düşük Fiyat Garantisi</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Teslimat Garantisi</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Kolay İade Süreci</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Dünya Çapında Gönderim</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-shield-icon.png" alt="kalkan simgesi">
+              <img src="/img/products/products-shield-icon.png" alt="kalkan simgesi">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer">Güvenli ve Emniyetli</a></span></li>
-                <li><span><a href="../../faq/index.html#customer">Hızlı, Kolay Ödeme</a></span></li>
-                <li><span><a href="../../faq/index.html#customer">Özel ve Gizli</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Güvenli ve Emniyetli</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Hızlı, Kolay Ödeme</a></span></li>
+                <li><span><a href="/tr/faq/index.php#customer">Özel ve Gizli</a></span></li>
               </ul>
             </div>
           </div>
@@ -154,10 +154,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, Paypal, Discover ve American Express kabul" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, Paypal, Discover ve American Express kabul" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-shipping-icon.jpg" alt="DHL ve Amerika Birleşik Devletleri Posta Servisi nakliye" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="DHL ve Amerika Birleşik Devletleri Posta Servisi nakliye" />
          </div>
            
          </div>

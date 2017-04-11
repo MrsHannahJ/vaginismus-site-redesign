@@ -16,7 +16,7 @@
            <div class="large-8 medium-8">
              <h1>Vaginismus Stories</h1>
              <p>Fictionalized representations of real experiences to assist women in determining if they have the condition.</p>
-             <p>(For real-life accounts see <a href="../reviews/index.html">Reviews</a>.)</p>
+             <p>(For real-life accounts see <a href="/reviews/index.php">Reviews</a>.)</p>
           </div>
         </div>
       </section>

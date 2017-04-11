@@ -17,19 +17,19 @@
           <p>Вагинизм может препятствовать нормальному течению процесса нарастания сексуального возбуждения, не позволяя осуществить проникающий половой акт, или вызывая боль во время введения или движений полового члена во влагалище. Вагинизм также может влиять на способность достигать оргазма при мануальной стимуляции. Кроме того, эмоциональные аспекты вагинизма могут препятствовать способности женщины полностью расслабиться и достичь оргазма. Например, некоторые женщины испытывают страхи и тревогу в связи с телесной наготой или уязвимостью, и это может затруднять полное расслабление и способность испытывать оргазм. Обратите внимание, что это относится не ко всем случаям вагинизма. Некоторые женщины, страдающие оргазмом, успешно достигают и испытывают полноценный оргазм.</p>
 
           <h3>Поиск решений для достижения оргазма</h3>
-          <p>Системность подхода крайне важна при рассмотрении проблем, связанных с оргазмом, поскольку они могут быть вызваны различными причинами. Мы рекомендуем женщинам попытаться установить природу неспособности испытывать оргазм; возможно, это связано с эмоциями, страхом и беспокойством, физической болью или приемом лекарственных препаратов. Составление и анализ истории сексуальных отношений, о которой говорится в разделе Шаг 2 <a href="../../../products/vaginismus-treatment-kit/index.html">программы лечения в домашних условиях</a>, позволит выявить конкретные страхи или эмоции, которые могут являться причинами проблемы.</p>
+          <p>Системность подхода крайне важна при рассмотрении проблем, связанных с оргазмом, поскольку они могут быть вызваны различными причинами. Мы рекомендуем женщинам попытаться установить природу неспособности испытывать оргазм; возможно, это связано с эмоциями, страхом и беспокойством, физической болью или приемом лекарственных препаратов. Составление и анализ истории сексуальных отношений, о которой говорится в разделе Шаг 2 <a href="/ru/products/vaginismus-treatment-kit/index.php">программы лечения в домашних условиях</a>, позволит выявить конкретные страхи или эмоции, которые могут являться причинами проблемы.</p>
           <p>Большинство женщин, страдающих вагинизмом (вне зависимости от способности осуществлять проникающий половой акт), способны испытывать оргазм в результате мануальной и других видов непроникающей стимуляции в ходе курса лечения вагинизма. Затем, когда способность осуществлять проникающий половой акт становится реальностью, для перехода к полноценному половому акту, ведущего к наступлению оргазма, может потребоваться некоторое время. После успешного и полного перехода к полноценному проникающему половому акту некоторые женщины предпочитают испытывать оргазм не в результате собственно полового акта, а на других этапах занятий любовью. Не все женщины, даже если они не страдают вагинизмом, могут испытывать оргазм во время полового акта – лишь около одной трети всех женщин регулярно испытывают оргазм во время полового акта.</p>
           <h3>Углубление близости через удовольствие</h3>
           <p>И, наконец, если проблема не связана с вагинизмом, парам рекомендуется ознакомиться с информацией, посвященной теме оргазма, чтобы узнать о новых и полезных подходах к занятиям любовью. Есть масса полезных книг на тему сексуальных отношений и оргазма, в которых рассматриваются различные вопросы, связанные с оргазмом, и способы повышения способности достигать оргазма.</p>
-          <p>Для получения более подробной информации мы рекомендуем прочитать интересную статью <a href="https://sogc.org/publications-resources/public-information-pamphlets.html?id=6">«Мифы и факты о женском оргазме»</a>.</p>
+          <p>Для получения более подробной информации мы рекомендуем прочитать интересную статью <a href="https://sogc.org/publications-resources/public-information-pamphlets.php?id=6">«Мифы и факты о женском оргазме»</a>.</p>
           <hr />
           <h3>См. также</h3>
           <ul>
-            <li><a href="../had-pleasurable-intercourse-before/index.html" target="_blank">Может ли у меня быть вагинизм, если у меня есть опыт безболезненных половых отношений, а сейчас половой акт вызывает боль?</a></li>
-            <li><a href="../../dilator-questions/dilators-treat-other-conditions/index.html">Можно ли использовать расширители для лечения других заболеваний, кроме вагинизма?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
-            <li><a href="../what-is-vaginismus/index.html">Что такое вагинизм?</a></li>
-            <li><a href="../../../vaginismus-symptoms/index.html">Симптомы вагинизма</a></li>
+            <li><a href="/ru/faq/general-questions/had-pleasurable-intercourse-before/index.php" target="_blank">Может ли у меня быть вагинизм, если у меня есть опыт безболезненных половых отношений, а сейчас половой акт вызывает боль?</a></li>
+            <li><a href="/ru/faq/dilator-questions/dilators-treat-other-conditions/index.php">Можно ли использовать расширители для лечения других заболеваний, кроме вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php">Что такое вагинизм?</a></li>
+            <li><a href="/ru/vaginismus-symptoms/index.php">Симптомы вагинизма</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -39,21 +39,21 @@
           <aside class="large-3">
           <h2>ЧЗВ Общие</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
+            <li><a href="/ru/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
+            <li><a href="/ru/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
+            <li><a href="/ru/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-affect-husbands/index.php"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/orgasms-problems-from-vaginismus/index.php" class="active"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

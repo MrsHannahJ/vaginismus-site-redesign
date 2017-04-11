@@ -25,14 +25,14 @@
           <aside class="large-3">
           <h2>ЧЗВ oбслуживание клиентов</h2>
           <ul>
-            <li><a href="../ordering-faqs/index.html"><i class="icon-angle-double-right"></i>заказе а также Вернуть</a></li>
-            <li><a href="../shipping-faqs/index.html"><i class="icon-angle-double-right"></i>доставке</a></li>
-            <li><a href="../guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>гарантия</a></li>
-            <li><a href="../quality-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>качество и безопасность</a></li>
-            <li><a href="../privacy-policy/index.html"><i class="icon-angle-double-right"></i>политика конфиденциальности</a></li>
-            <li><a href="../terms-of-use/index.html"><i class="icon-angle-double-right"></i>Условия эксплуатации</a></li>
+            <li><a href="/ru/faq/customer-service-questions/ordering-faqs/index.php"><i class="icon-angle-double-right"></i>заказе а также Вернуть</a></li>
+            <li><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>доставке</a></li>
+            <li><a href="/ru/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>гарантия</a></li>
+            <li><a href="/ru/faq/customer-service-questions/quality-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>качество и безопасность</a></li>
+            <li><a href="/ru/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>политика конфиденциальности</a></li>
+            <li><a href="/ru/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Условия эксплуатации</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

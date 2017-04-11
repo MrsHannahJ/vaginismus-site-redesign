@@ -1,7 +1,7 @@
 <?php
   $pagetitle = 'PFs Sobre Gravidez';
   $pagedescription = 'Perguntas freqüentes sobre a gravidez e concepção.';
-  $pagecanonical = 'https://www.vaginismus.com/por/faq/pregnancy-questions/biological-clock-ticking/';
+  $pagecanonical = 'https://www.vaginismus.com/por/faq/pregnancy-questions/';
   $pageimagepath ="https://www.vaginismus.com/img/twitter-card.png";
   include('../../../config.php');
   include(ROOT_PATH.'/includes/por/header.php');

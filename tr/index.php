@@ -39,7 +39,7 @@
       <div class="vaginismus-banner outer-shadow">
         <div>
           <h3>Vajinismus Nedir?</h3>
-          <a href="faq/general-questions/what-is-vaginismus/index.html" class="white-btn">Daha Fazla Bilgi Edinin</a>
+          <a href="/tr/faq/general-questions/what-is-vaginismus/index.php" class="white-btn">Daha Fazla Bilgi Edinin</a>
         </div>
       </div>
      
@@ -48,20 +48,20 @@
       <section id="products">
        <div class="wrapper">
           <div class="product-1 medium-4 large-4">
-            <a href="products/vaginismus-treatment-kit/index.html">
+            <a href="/tr/products/vaginismus-treatment-kit/index.php">
               <img src="/img/tr/treatment-kit-tr.jpg" alt="Vajinismus Tedavi Seti" />
               <h3 class="dark-btn"> Vajinismus Tedavi Seti</h3>
             </a>
           </div>
           <div class="product-2 medium-4 large-4">
-            <a href="products/vaginal-dilator-set/index.html">
+            <a href="/tr/products/vaginal-dilator-set/index.php">
               <img src="/img/home/home-product-2.jpg" alt="Vajinal Dilatör (Açıcı) Seti" />
               <h3 class="dark-btn">Vajinal Dilatör (Açıcı) Seti</h3>
             </a>
           </div>
 
           <div class="product-3 medium-4 large-4">
-            <a href="products/completely-overcome-vaginismus-book-set/index.html">
+            <a href="/tr/products/completely-overcome-vaginismus-book-set/index.php">
               <img src="/img/tr/book-tr.jpg" alt="Vajinismus Kitabı" />
               <h3 class="dark-btn">Vajinismus Kitabı</h3>
             </a>
@@ -76,31 +76,31 @@
       <h2 class="hidden-mobile">Vajinismus Nedir?</h2>
          <div class="large-6">
           <div class="blurb medium-6 large-6">
-            <a href="vaginismus-symptoms/index.html"><img src="/img/icons/symptoms.png" alt="" aria-hidden="true"></a>
+            <a href="/tr/vaginismus-symptoms/index.php"><img src="/img/icons/symptoms.png" alt="" aria-hidden="true"></a>
             <h3>Belirtiler</h3>
             <p>Yoğunluğuna bağlı olarak vajinismus belirtileri, sıkılıktan dolayı hafif yanma hissinden, ilişkiye girmeyi imkânsız hâle getiren vajinal açıklığının tamamen kapanmasına kadar farklı şekillerde ortaya çıkar.</p>
-            <a href="vaginismus-symptoms/index.html">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/vaginismus-symptoms/index.php">Daha Fazla Bilgi Edinin</a>
           </div>
 
           <div class="blurb medium-6 large-6">
-            <a href="vaginismus-causes/index.html"><img src="/img/icons/causes.png" alt="" aria-hidden="true"></a>
+            <a href="/tr/vaginismus-causes/index.php"><img src="/img/icons/causes.png" alt="" aria-hidden="true"></a>
             <h3>Sebepleri</h3>
             <p>Vajinismus, sebebini ortaya çıkarmanın zor olduğu karmaşık bir durumdur. Fiziksel, duygusal veya ilişkiye dayalı sorunların bir bütünü olarak ortaya çıkabilmektedir.</p>
-            <a href="vaginismus-causes/index.html">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/vaginismus-causes/index.php">Daha Fazla Bilgi Edinin</a>
           </div>
       </div>
         <div class="large-6">
           <div class="blurb medium-6 large-6">
-            <a href="vaginismus-diagnosis/index.html"><img src="/img/icons/diagnosis.png" alt="" aria-hidden="true"></a>
+            <a href="/tr/vaginismus-diagnosis/index.php"><img src="/img/icons/diagnosis.png" alt="" aria-hidden="true"></a>
             <h3>Teşhis</h3>
             <p>Kadınlar belirtilerinden dolayı vajinismus olduklarından sıklıkla şüphe ederler. Tıbbi teşhis ise önce diğer olasılıkları ortadan kaldırmak için jinekolojik muayeneden sonra konur.</p>
-            <a href="vaginismus-diagnosis/index.html">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/vaginismus-diagnosis/index.php">Daha Fazla Bilgi Edinin</a>
           </div>
           <div class="blurb medium-6 large-6">
-            <a href="vaginismus-treatment/index.html"><img src="/img/icons/treatment.png" alt="" aria-hidden="true"></a>
+            <a href="/tr/vaginismus-treatment/index.php"><img src="/img/icons/treatment.png" alt="" aria-hidden="true"></a>
             <h3>Tedavisi</h3>
             <p>Vajinismus, kadınlara özgü cinsel hastalıklar arasında en başarıyla tedavi edileni olarak bilinir. Araştırmalar tedavi başarı oranlarının neredeyse %100’e yaklaştığını göstermektedir.</p>
-            <a href="vaginismus-treatment/index.html">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/vaginismus-treatment/index.php">Daha Fazla Bilgi Edinin</a>
             </div>
           </div>
       </div>
@@ -118,16 +118,16 @@
             <p class="hidden-mobile hidden-tablet">Birinci misyonumuz, kadınlara her şekilde ve her yerde yardım sunmaktır. Dünya kadınlarına umut dolu yardımımızı ulaştırmak için, anlaşılır çizimlere sahip kitaplarımızı ve bilgi içeren materyallerimizi pek çok dile tercüme ettirdik.</p>
             <div class="btn-container">
               <div class="btn-row">
-                <a href="products/index.html" class="dark-btn">English</a>
-                <a href="es/products/index.html" class="dark-btn">Español</a>
+                <a href="/treatment/products/index.php" class="dark-btn">English</a>
+                <a href="/es/products/index.php" class="dark-btn">Español</a>
               </div>
               <div class="btn-row">
-                <a href="por/products/index.html" class="dark-btn">Português</a>
-                <a href="ar/products/index.html" class="dark-btn">العربية</a>
+                <a href="/por/products/index.php" class="dark-btn">Português</a>
+                <a href="/ar/products/index.php" class="dark-btn">العربية</a>
               </div>
               <div class="btn-row">
-                <a href="ru/products/index.html" class="dark-btn">Pусский</a>
-                <a href="tr/products/index.html" class="dark-btn">Türk</a>
+                <a href="/ru/products/index.php" class="dark-btn">Pусский</a>
+                <a href="/tr/products/index.php" class="dark-btn">Türk</a>
               </div>
             </div>
           </div>
@@ -140,7 +140,7 @@
             <h3><strong>Moderasyonlu Forumumuzdan Duygusal Destek Almaya Başlayın</strong></h3>
             <img src="/img/home/home-community-mobile.jpg" alt="destekleyici topluluk" class="hidden-desktop"/>
             <p class="hidden-mobile hidden-tablet">Vajinismus ile tek başınıza mücadele etmeyin! Forumumuza özel giriş hakkı, kadınların yardım sağlayan Vajinismus Özel Forumun a anonim şekilde erişim sağlamalarına imkân tanır.</p>
-            <a href="forum-introduction/index.html" class="dark-btn">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/forum-introduction/index.php" class="dark-btn">Daha Fazla Bilgi Edinin</a>
           </div>
         </div>
       </div>
@@ -163,7 +163,7 @@
             <h3><strong>Gebe Kalma, Hamilelik ve Vajinismus Hakkında Daha Fazla Bilgi Edinin</strong></h3>
             <img src="/img/home/home-pregnancy-mobile.jpg" alt="Gebelik" class="hidden-desktop"/>
             <p class="hidden-mobile hidden-tablet">Özlemle beklediğiniz çocuk sahibi olma hayalinizin vajinismus yüzünden engelleniyor olması sizi üzüyor mu? Bir aile sahibi olma hayalinizi gerçekleştirmenize yardım edecek cevaplar ve çözümlerimiz var.</p>
-            <a href="faq/index.html#pregnancy" class="dark-btn">Daha Fazla Bilgi Edinin</a>
+            <a href="/tr/faq/index.php#pregnancy" class="dark-btn">Daha Fazla Bilgi Edinin</a>
           </div>
         </div>
       </div>
@@ -247,7 +247,7 @@
 
         <div class="reviews-banner grad1 outer-shadow">
           <div>
-            <a href="reviews/index.html" class="white-btn">Geri Bildirimler ve Yorumlar Sayfamızı Ziyaret Edin</a>
+            <a href="/tr/reviews/index.php" class="white-btn">Geri Bildirimler ve Yorumlar Sayfamızı Ziyaret Edin</a>
           </div>
         </div>
       </section>
@@ -261,10 +261,10 @@
               <div class="common-links-1">
                 <h4>Vajinismus Hakkında Bilgi Edinin</h4>
                 <ul>
-                  <li><a href="vaginismus-symptoms/index.html">Vajinismus Belirtileri</a></li>
-                  <li><a href="faq/general-questions/primary-and-secondary-vaginismus-differences/index.html">Vajinismus Türleri</a></li>
-                  <li><a href="vaginismus-causes/index.html">Ne Vajinismus Nedenleri?</a></li>
-                  <li><a href="vaginismus-diagnosis/index.html">Vajinismus Tanı ve Test</a></li>
+                  <li><a href="/tr/vaginismus-symptoms/index.php">Vajinismus Belirtileri</a></li>
+                  <li><a href="/tr/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">Vajinismus Türleri</a></li>
+                  <li><a href="/tr/vaginismus-causes/index.php">Ne Vajinismus Nedenleri?</a></li>
+                  <li><a href="/tr/vaginismus-diagnosis/index.php">Vajinismus Tanı ve Test</a></li>
                 </ul>
               </div>
             </div>
@@ -272,9 +272,9 @@
               <div class="common-links-2">
                 <h4>Sorular ve Öneriler</h4>
                 <ul>
-                  <li><a href="faq/index.html">Sık Sorulan Sorular</a></li>
-                  <li><a href="reviews/index.html">Müşteri Geribildirimi</a></li>
-                  <li><a href="forum-introduction/index.html">Forum ve Canlı Sohbet</a></li>
+                  <li><a href="/tr/faq/index.php">Sık Sorulan Sorular</a></li>
+                  <li><a href="/tr/reviews/index.php">Müşteri Geribildirimi</a></li>
+                  <li><a href="/tr/forum-introduction/index.php">Forum ve Canlı Sohbet</a></li>
                 </ul>
               </div>
             </div>
@@ -283,10 +283,10 @@
               <div class="common-links-3">
                 <h4>Vajinal Dilatör</h4>
                 <ul>
-                  <li><a href="faq/dilator-questions/can-i-just-get-dilators/index.html">Bir Programın Olmadan Dilatörler Kullanma</a></li>
-                  <li><a href="faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.html">Vajinismus Tedavisi Için Dilatörler</a></li>
-                  <li><a href="faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.html">Vajinal Dilatörler Türleri</a></li>
-                  <li><a href="faq/dilator-questions/dilators-treat-other-conditions/index.html">Dilatörler ve Diğer Pelvik Koşullar</a></li>
+                  <li><a href="/tr/faq/dilator-questions/can-i-just-get-dilators/index.php">Bir Programın Olmadan Dilatörler Kullanma</a></li>
+                  <li><a href="/tr/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php">Vajinismus Tedavisi Için Dilatörler</a></li>
+                  <li><a href="/tr/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php">Vajinal Dilatörler Türleri</a></li>
+                  <li><a href="/tr/faq/dilator-questions/dilators-treat-other-conditions/index.php">Dilatörler ve Diğer Pelvik Koşullar</a></li>
                 </ul>
               </div>
             </div>
@@ -294,10 +294,10 @@
               <div class="common-links-4">
                 <h4>Vajinismus Tedavisi</h4>
                 <ul>
-                  <li><a href="vaginismus-treatment/index.html">Vajinismus Tedavisi</a></li>
-                  <li><a href="faq/treatment-questions/vaginismus-treatment-success-rates/index.html">Tedavi ne Kadar Başarılı Olduğunu?</a></li>
-                  <li><a href="faq/treatment-questions/how-long-does-treatment-take/index.html">Tedavi Nasıl Uzun Nedir?</a></li>
-                  <li><a href="faq/treatment-questions/men-help-wives/index.html">Erkekler Nasıl Yardım Edebilirsiniz?</a></li>
+                  <li><a href="/tr/vaginismus-treatment/index.php">Vajinismus Tedavisi</a></li>
+                  <li><a href="/tr/faq/treatment-questions/vaginismus-treatment-success-rates/index.php">Tedavi ne Kadar Başarılı Olduğunu?</a></li>
+                  <li><a href="/tr/faq/treatment-questions/how-long-does-treatment-take/index.php">Tedavi Nasıl Uzun Nedir?</a></li>
+                  <li><a href="/tr/faq/treatment-questions/men-help-wives/index.php">Erkekler Nasıl Yardım Edebilirsiniz?</a></li>
                 </ul>
               </div>
             </div>

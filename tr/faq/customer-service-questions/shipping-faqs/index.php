@@ -15,7 +15,7 @@
           <h1>Nakliyat Hakkinda SSS</h1>
             
           <h4>Hangi gönderi yöntemleri kullaniliyor?</h4>
-          <p>Siparisinizi verirken, online olarak nakliyatin teslim edilecegi yeri seçtiginizde siparis seçenekleri orada belirtilen ülkeler için normalde açiktir. Tipik seçenekler arasında ABD Posta Servisi (USPS) ve DHL yer almaktadır. Bu süreç içinde sunulanlardan baska seçenekler istiyorsaniz, lütfen islemi tamamlamadan önce bizimle dogrudan <a href="../../../contact-us/index.html">iletisime geçin.</a></p>
+          <p>Siparisinizi verirken, online olarak nakliyatin teslim edilecegi yeri seçtiginizde siparis seçenekleri orada belirtilen ülkeler için normalde açiktir. Tipik seçenekler arasında ABD Posta Servisi (USPS) ve DHL yer almaktadır. Bu süreç içinde sunulanlardan baska seçenekler istiyorsaniz, lütfen islemi tamamlamadan önce bizimle dogrudan <a href="/tr/contact-us/index.php">iletisime geçin.</a></p>
 
           <h4>Ürünleriniz nereden gönderiliyor?</h4>
           <p>Bütün ürünler Kaliforniya, ABD’den gönderilmektedir.</p>
@@ -152,14 +152,14 @@
           <aside class="large-3">
           <h2>Müşteri Hizmetleri SSS</h2>
           <ul>
-            <li><a href="../ordering-faqs/index.html"><i class="icon-angle-double-right"></i>Siparis ve İade SSS</a></li>
-            <li><a href="../shipping-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>Nakliyat Hakkinda SSS</a></li>
-            <li><a href="../guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>Garanti</a></li>
-            <li><a href="../quality-faqs/index.html"><i class="icon-angle-double-right"></i>Kalite ve Güvenlik</a></li>
-            <li><a href="../privacy-policy/index.html"><i class="icon-angle-double-right"></i>Gizlilik Politikası</a></li>
-            <li><a href="../terms-of-use/index.html"><i class="icon-angle-double-right"></i>Kullanım Şartları</a></li>
+            <li><a href="/tr/faq/customer-service-questions/ordering-faqs/index.php"><i class="icon-angle-double-right"></i>Siparis ve İade SSS</a></li>
+            <li><a href="/tr/faq/customer-service-questions/shipping-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>Nakliyat Hakkinda SSS</a></li>
+            <li><a href="/tr/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>Garanti</a></li>
+            <li><a href="/tr/faq/customer-service-questions/quality-faqs/index.php"><i class="icon-angle-double-right"></i>Kalite ve Güvenlik</a></li>
+            <li><a href="/tr/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>Gizlilik Politikası</a></li>
+            <li><a href="/tr/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Kullanım Şartları</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Hepsini Gör SSS</a>
+          <a href='/tr/faq/index.php' class="shaded-btn">Hepsini Gör SSS</a>
         </aside>
       </div>
     </main>

@@ -23,7 +23,7 @@
       <section class="product-description-0">
         <div class="wrapper">
           <div class="large-8 medium-8">
-            <img src="../../../img/ru/book-rus.jpg" alt="книга">
+            <img src="/img/ru/book-rus.jpg" alt="книга">
           </div>
           <div class="large-4 medium-4">
             <h2>Bключает:</h2>
@@ -37,7 +37,7 @@
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Плюс доставка и транспортировка.</p>
             <p><a class="shaded-btn" href="#">Добавить В Корзину</a></p>
-            <p><a href="../../reviews/index.html">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/ru/reviews/index.php">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -46,11 +46,11 @@
       <section class="product-description-1">
         <div class="wrapper">
           <div class="large-5">
-            <img src="../../../img/products/open-books.jpg" alt="Открой книгу">
+            <img src="/img/products/open-books.jpg" alt="Открой книгу">
           </div>
           <div class="large-7">
             <h2>Полное преодоление вагинизма</h2>
-             <p>Практический подход к достижению безболезненных половых отношений. Десять этапов программы лечения позволяют женщине понять причину возникновения рефлекторных спазмов ЛК мышц при попытке осуществления полового акта и предлагают полный комплекс упражнений для преодоления вагинизма в комфортных домашних условиях. Здесь представлена вся необходимая информация: контроль над мышцами тазового дна, устранение боли, решение эмоциональных проблем, упражнения с вагинальными расширителями, упражнения на чувственное познание, переход к осуществлению полового акта и многое другое. Результатом прохождения программы лечения является возможность осуществлять полноценный половой акт. (<a href="../../reviews/index.html">См. отзывы читателей</a>)</p>
+             <p>Практический подход к достижению безболезненных половых отношений. Десять этапов программы лечения позволяют женщине понять причину возникновения рефлекторных спазмов ЛК мышц при попытке осуществления полового акта и предлагают полный комплекс упражнений для преодоления вагинизма в комфортных домашних условиях. Здесь представлена вся необходимая информация: контроль над мышцами тазового дна, устранение боли, решение эмоциональных проблем, упражнения с вагинальными расширителями, упражнения на чувственное познание, переход к осуществлению полового акта и многое другое. Результатом прохождения программы лечения является возможность осуществлять полноценный половой акт. (<a href="/ru/reviews/index.php">См. отзывы читателей</a>)</p>
           </div>
         </div>
       </section>
@@ -59,12 +59,12 @@
       <section class="product-description-6">
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="../../../img/products/products-forum-pass.jpg" alt="Форум Pass В комплекте с покупкой">
+            <img src="/img/products/products-forum-pass.jpg" alt="Форум Pass В комплекте с покупкой">
           </div>
           <div class="large-6 medium-6">
             <h2>БОНУС Пропуск для участия в форуме, посвященном вагинизму</h2>
-            <p>Вам не нужно пытаться справиться с вагинизмом в одиночку! Эксклюзивный пропуск для участия в форуме, посвященном вагинизму, позволяет женщинам анонимно участвовать в <a href="../../forum-introduction/index.html">полезном и строго конфиденциальном сообществе</a> (включая доступ к модераторам). Пропуск прилагается к книгам.</p>
-            <p><a class="brand-btn" href="../../forum-introduction/index.html">Узнать больше</i></a></p>
+            <p>Вам не нужно пытаться справиться с вагинизмом в одиночку! Эксклюзивный пропуск для участия в форуме, посвященном вагинизму, позволяет женщинам анонимно участвовать в <a href="/ru/forum-introduction/index.php">полезном и строго конфиденциальном сообществе</a> (включая доступ к модераторам). Пропуск прилагается к книгам.</p>
+            <p><a class="brand-btn" href="/ru/forum-introduction/index.php">Узнать больше</i></a></p>
           </div>
         </div>
       </section>
@@ -75,11 +75,11 @@
           <h2>Ресурсы для лечения вагинизма для всех желающих по всему миру</h2>
           <p>Наша главная цель – помогать женщинам всеми доступными способами в любой точке мира, и поэтому мы перевели наши отлично иллюстрированные книги и информационные материалы на 6 языков.</p>
           <div class="large-5 medium-5">
-            <img src="../../../img/products/word-cloud.png" alt="Доступные Языки: Español, Português, العربية, Pусский, Türk, английский">
+            <img src="/img/products/word-cloud.png" alt="Доступные Языки: Español, Português, العربية, Pусский, Türk, английский">
             
           </div>
           <div class="large-7 medium-7">
-            <img src="../../../img/products/pile-books.jpg" alt="Книги на нескольких языках сложены">
+            <img src="/img/products/pile-books.jpg" alt="Книги на нескольких языках сложены">
           </div>
         </div>
       </section>
@@ -92,13 +92,13 @@
             <p>В этой книге представлены все аспекты успешного лечения вагинизма в домашних условиях в доступном формате пошаговой программы лечения.</p>
           </div>
           <div class="large-4 medium-4">
-            <img src="../../../img/ru/book-rus.jpg" alt="книга">
+            <img src="/img/ru/book-rus.jpg" alt="книга">
           </div>
           <div class="large-4 medium-4">
             <p class="product-price">$32.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Плюс доставка и транспортировка.</p>
             <p><a class="shaded-btn" href="#">Добавить В Корзину</a></p>
-            <p><a href="../../reviews/index.html">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/ru/reviews/index.php">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -106,7 +106,7 @@
 <!--   TREATMENT BANNER   -->
       <section class="treatment-banner grad1">
         <h2>Смотреть страницу Часто задаваемые вопросы о расширителях</h2>
-        <p><a class="white-btn" href="../../faq/index.html">Узнать больше</a></p>
+        <p><a class="white-btn" href="/ru/faq/index.php">Узнать больше</a></p>
       </section>
                  
 <!--      PRE-FOOTER-BADGES SECTION      -->
@@ -115,7 +115,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-contact-icon.png" alt="значок контакта"/>
+              <img src="/img/products/products-contact-icon.png" alt="значок контакта"/>
               <hr>
               <p>Бесплатный номер в США: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -127,24 +127,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-guarantee-icon.png" alt="гарантия значок">
+              <img src="/img/products/products-guarantee-icon.png" alt="гарантия значок">
               <hr>
               <ul>
-                <li><span><a href="../../faq/customer-service-questions/guarantee-faqs/index.html">Гарантированные самые низкие цены</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Гарантированная доставка</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Простой процесс возврата</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Доставка по всему миру</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/guarantee-faqs/index.php">Гарантированные самые низкие цены</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php">Гарантированная доставка</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/ordering-faqs/index.php">Простой процесс возврата</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php">Доставка по всему миру</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-shield-icon.png" alt="значок щита">
+              <img src="/img/products/products-shield-icon.png" alt="значок щита">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Надежность и безопасность</a></span></li>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Быстрые и эффективные платежи</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/privacy-policy/index.html">Полная конфиденциальность</a></span></li>
+                <li><span><a href="/ru/faq/index.php#customer-service-faq">Надежность и безопасность</a></span></li>
+                <li><span><a href="/ru/faq/index.php#customer-service-faq">Быстрые и эффективные платежи</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/privacy-policy/index.php">Полная конфиденциальность</a></span></li>
               </ul>
             </div>
           </div>
@@ -155,10 +155,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover и American Express принимаются" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover и American Express принимаются" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-shipping-icon.jpg" alt="DHL и Почтовая служба Соединенных Штатов доставка" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="DHL и Почтовая служба Соединенных Штатов доставка" />
          </div>
            
          </div>

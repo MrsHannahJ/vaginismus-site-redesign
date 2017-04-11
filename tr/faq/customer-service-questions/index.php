@@ -1,7 +1,7 @@
 <?php
   $pagetitle = 'Müşteri Hizmetleri SSS';
   $pagedescription = 'Müşteri Hizmetleri SSS';
-  $pagecanonical = 'https://www.vaginismus.com/tr/faq/customer-service-questions/ordering-faqs/';
+  $pagecanonical = 'https://www.vaginismus.com/tr/faq/customer-service-questions/';
   $pageimagepath ="https://www.vaginismus.com/img/twitter-card.png";
   include('../../../config.php');
   include(ROOT_PATH.'/includes/tr/header.php');
@@ -25,7 +25,7 @@
           <p>Ana kredi kartlarindan biriyle dogrudan ödeme yapamayan ya da yapmak istemeyenler için PayPal popüler bir alternatif güvenli online ödeme islem yöntemidir (bkz. <a href="http://paypal.com/" target="_blank">www.paypal.com</a>). PayPal, kullanıcıların banka hesapları, çeşitli kredi kartları ve diğer seçenekler gibi birçok değişik yöntem kullanarak ödeme yapmalarını sağlar. PayPal hesabiniz oldugunda, ödeme seçeneginiz olarak sadece PayPal’i seçerek online ürün siparisi verebilirsiniz.</p>
 
           <h4>Eger kredi kartim yoksa nasil siparis verebilirim?</h4>
-          <p>Kredi kartlarının yanı sıra başka ödeme yöntemlerini de kabul ediyoruz: PayPal (çevrimiçi hesap ya da e-çekler), Amerikan Doları para havaleleri (garantili çekler ya da başka para araçları) ya da Western Union para havaleleri. Bu son iki hizmetten birini istemek için lütfen bizimle dogrudan <a href="../../contact-us/index.html">iletisime geçin</a>. Ihtiyaci olan bütün kadinlar için bir çözüm bulmak için elimizden geleni yapariz.</p>
+          <p>Kredi kartlarının yanı sıra başka ödeme yöntemlerini de kabul ediyoruz: PayPal (çevrimiçi hesap ya da e-çekler), Amerikan Doları para havaleleri (garantili çekler ya da başka para araçları) ya da Western Union para havaleleri. Bu son iki hizmetten birini istemek için lütfen bizimle dogrudan <a href="/tr/contact-us/index.php">iletisime geçin</a>. Ihtiyaci olan bütün kadinlar için bir çözüm bulmak için elimizden geleni yapariz.</p>
 
           <h4>Internet üzerinden siparis vermekten çekiniyorum. Siteniz güvenli mi?</h4>
           <p>Evet, sizin gönül rahatligi içinde olmaniz için var olan en yüksek güvenlik yöntemlerini kullaniyoruz. Norton Symantec İnternet üzerinden ticaret güvenliğinde lider bir kuruluştur ve çevrimiçi mağazamız için tam şifreleme ve güvenlik sağlar.</p>
@@ -44,14 +44,14 @@
           <aside class="large-3">
           <h2>Müşteri Hizmetleri SSS</h2>
           <ul>
-            <li><a href="ordering-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>Siparis ve İade SSS</a></li>
-            <li><a href="shipping-faqs/index.html"><i class="icon-angle-double-right"></i>Nakliyat Hakkinda SSS</a></li>
-            <li><a href="guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>Garanti</a></li>
-            <li><a href="quality-faqs/index.html"><i class="icon-angle-double-right"></i>Kalite ve Güvenlik</a></li>
-            <li><a href="privacy-policy/index.html"><i class="icon-angle-double-right"></i>Gizlilik Politikası</a></li>
-            <li><a href="terms-of-use/index.html"><i class="icon-angle-double-right"></i>Kullanım Şartları</a></li>
+            <li><a href="/tr/faq/customer-service-questions/ordering-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>Siparis ve İade SSS</a></li>
+            <li><a href="/tr/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>Nakliyat Hakkinda SSS</a></li>
+            <li><a href="/tr/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>Garanti</a></li>
+            <li><a href="/tr/faq/customer-service-questions/quality-faqs/index.php"><i class="icon-angle-double-right"></i>Kalite ve Güvenlik</a></li>
+            <li><a href="/tr/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>Gizlilik Politikası</a></li>
+            <li><a href="/tr/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Kullanım Şartları</a></li>
           </ul>
-          <a href='../../faq/index.html' class="shaded-btn">Hepsini Gör SSS</a>
+          <a href='/tr/faq/index.php' class="shaded-btn">Hepsini Gör SSS</a>
         </aside>
       </div>
     </main>

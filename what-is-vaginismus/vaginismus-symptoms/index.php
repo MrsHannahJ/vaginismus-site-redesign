@@ -33,8 +33,8 @@
           <div class="large-4 medium-6">
             <h2>What is Vaginismus?</h2>
             <p><strong>Vaginismus is vaginal tightness causing discomfort, burning, pain, penetration problems, or complete inability to have intercourse.</strong></p>
-            <p>The vaginal tightness results from the involuntary tightening of the pelvic floor, especially the <a href="../vaginismus-causes/index.html#pc-muscles">pubococcygeus</a> (PC) muscle group, although the woman may not be aware that this is the cause of her penetration or pain difficulties.</p>
-            <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="../vaginismus-diagnosis/index.html">diagnosed</a> and treated.</p>
+            <p>The vaginal tightness results from the involuntary tightening of the pelvic floor, especially the <a href="../vaginismus-causes/index.php#pc-muscles">pubococcygeus</a> (PC) muscle group, although the woman may not be aware that this is the cause of her penetration or pain difficulties.</p>
+            <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="../vaginismus-diagnosis/index.php">diagnosed</a> and treated.</p>
           </div>
 -->
           <div class="large-7 medium-7">
@@ -43,7 +43,7 @@
               <li>Burning or stinging with tightness during sex</li>
               <li>Difficult or impossible penetration, entry pain, uncomfortable insertion of penis</li>
               <li>Unconsummated marriage</li>
-              <li>Ongoing sexual discomfort or pain following childbirth, yeast/urinary infections, STDs, IC, hysterectomy, cancer and surgeries, rape, menopause, or other <a href="../vaginismus-causes/index.html#non-physical-causes">issues</a></li>
+              <li>Ongoing sexual discomfort or pain following childbirth, yeast/urinary infections, STDs, IC, hysterectomy, cancer and surgeries, rape, menopause, or other <a href="/what-is-vaginismus/vaginismus-causes/index.php#non-physical-causes">issues</a></li>
               <li>Ongoing sexual pain of unknown origin, with no apparent cause</li>
               <li>Difficulty inserting tampons or undergoing a pelvic/gynecological exam</li>
               <li>Spasms in other body muscle groups (legs, lower back, etc.) and/or halted breathing during attempts at intercourse</li>
@@ -54,7 +54,7 @@
             <div class="did-you-know">
               <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h3>Did you know?</h3>
-              <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="../vaginismus-diagnosis/index.html">diagnosed</a> and treated.</p>
+              <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">diagnosed</a> and treated.</p>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@
            <div class="did-you-know">
               <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h3>Did you know?</h3>
-              <p>With vaginismus, the mind and body have developed a conditioned response against penetration. The body has learned to expect or anticipate pain upon penetration, so that the powerful <a href="../vaginismus-causes/index.html#pc-muscles">PC muscle</a> &#8220;flinches&#8221; or contracts to protect against the potential of intercourse pain. This can be equated to automatically blinking one’s eyes and wincing when an object is hurled toward us. It is not something a woman thinks about doing—it just happens (see <a href="/vaginismus-causes/index.html">Causes</a>).</p>
+              <p>With vaginismus, the mind and body have developed a conditioned response against penetration. The body has learned to expect or anticipate pain upon penetration, so that the powerful <a href="/what-is-vaginismus/vaginismus-causes/index.php#pc-muscles">PC muscle</a> &#8220;flinches&#8221; or contracts to protect against the potential of intercourse pain. This can be equated to automatically blinking one’s eyes and wincing when an object is hurled toward us. It is not something a woman thinks about doing—it just happens (see <a href="/what-is-vaginismus/vaginismus-causes/index.php">Causes</a>).</p>
             </div>
           </div>
           <div class="large-8">
@@ -120,7 +120,7 @@
        <div class="wrapper">
           <div class="large-4">
             <h2>Symptoms Severity Range</h2>
-              <p>Vaginismus has a wide range of manifestations, from impossible penetration, to intercourse with discomfort, pain or burning, all resulting from involuntary pelvic tightness. When a woman has never been able to have pain-free sexual intercourse due to penetration difficulties, it is generally classified as <strong>primary vaginismus</strong>. When a woman develops the vaginismus condition after having previously enjoyed problem-free sex, it is generally classified as <strong>secondary vaginismus</strong>. Depending upon the classification, there may be some minor <a href="/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">differences</a> in the way in which vaginismus is treated.</p>
+              <p>Vaginismus has a wide range of manifestations, from impossible penetration, to intercourse with discomfort, pain or burning, all resulting from involuntary pelvic tightness. When a woman has never been able to have pain-free sexual intercourse due to penetration difficulties, it is generally classified as <strong>primary vaginismus</strong>. When a woman develops the vaginismus condition after having previously enjoyed problem-free sex, it is generally classified as <strong>secondary vaginismus</strong>. Depending upon the classification, there may be some minor <a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">differences</a> in the way in which vaginismus is treated.</p>
           </div>
           <div class="large-8">
 
@@ -144,17 +144,17 @@
             </div>
           </div>
           <div class="large-4 medium-6">
-            <p>When tightened, attempts to insert anything into the vagina produce pain or discomfort. Some women also experience related spasms in other body muscle groups or even halted breathing. Generally, when the attempt to put something in the vagina has ended, the muscles relax and return to normal. <strong>For this reason, medical examinations often fail to reveal any apparent problems unless the tightness occurs and is noted during the <a href="/vaginismus-diagnosis/index.html#pelvicexam">pelvic exam</a>.</strong></p>
+            <p>When tightened, attempts to insert anything into the vagina produce pain or discomfort. Some women also experience related spasms in other body muscle groups or even halted breathing. Generally, when the attempt to put something in the vagina has ended, the muscles relax and return to normal. <strong>For this reason, medical examinations often fail to reveal any apparent problems unless the tightness occurs and is noted during the <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php#pelvicexam">pelvic exam</a>.</strong></p>
             <h2>Secondary Vaginismus</h2>
             <p><strong>Secondary vaginismus sexual pain can affect women in all stages of life, even women who have had many years of pain-free intercourse.</strong></p>
-            <p>Secondary vaginismus refers to the experience of tightness pain or penetration difficulties later in life, after previously being able to have normal, pain-free intercourse. It typically follows or is triggered by temporary pelvic pain or other related problems. It can be triggered by medical conditions, traumatic events, relationship issues, surgery, life-changes (e.g. menopause), or for no apparent reason (see <a href="/vaginismus-causes/index.html#non-physical_causes">Causes</a> for more examples). Secondary vaginismus is the common culprit where there is continued, ongoing sexual pain or penetration tightness where there had been no problem before. Most commonly, secondary vaginismus strikes women experiencing temporary pelvic pain problems such as urinary or yeast infections, pain from delivering babies, menopause, or surgery.</p>
+            <p>Secondary vaginismus refers to the experience of tightness pain or penetration difficulties later in life, after previously being able to have normal, pain-free intercourse. It typically follows or is triggered by temporary pelvic pain or other related problems. It can be triggered by medical conditions, traumatic events, relationship issues, surgery, life-changes (e.g. menopause), or for no apparent reason (see <a href="/what-is-vaginismus/vaginismus-causes/index.php#non-physical_causes">Causes</a> for more examples). Secondary vaginismus is the common culprit where there is continued, ongoing sexual pain or penetration tightness where there had been no problem before. Most commonly, secondary vaginismus strikes women experiencing temporary pelvic pain problems such as urinary or yeast infections, pain from delivering babies, menopause, or surgery.</p>
           </div>
           <div class="large-4">
             <p>The initial pain problems are addressed medically, healed, and/or managed,  yet women continue to experience ongoing sexual pain or penetration difficulties due to vaginismus. While the initial temporary pain was experienced, their bodies developed a conditioned response resulting in ongoing, involuntary vaginal tightness with attempts at intercourse.</p>
             <div class="call-out">
               <p>Left untreated, vaginismus often worsens because the experience of ongoing sexual pain further increases the duration and intensity of the involuntary PC muscle contraction.</p>
             </div>
-            <p>The severity of secondary vaginismus may escalate so that sex or even penetration is no longer possible without great difficulty. Some women will also experience difficulty with gynecological exams or tampon insertion. Vaginismus can also impede a woman&#8217;s ability to experience <a href="/faq/general-questions/orgasms-problems-from-vaginismus/index.html">orgasm</a> during intercourse, as any sudden pangs of pain will abruptly terminate the arousal buildup toward orgasm.</p>
+            <p>The severity of secondary vaginismus may escalate so that sex or even penetration is no longer possible without great difficulty. Some women will also experience difficulty with gynecological exams or tampon insertion. Vaginismus can also impede a woman&#8217;s ability to experience <a href="/further-support/general-questions/orgasms-problems-from-vaginismus/index.php">orgasm</a> during intercourse, as any sudden pangs of pain will abruptly terminate the arousal buildup toward orgasm.</p>
           </div>
         </div>
       </section>
@@ -164,7 +164,7 @@
       <section id="involuntary" class="grad1">
         <div class="wrapper">
           <h2>Vaginismus is Involuntary—Not Intentional</h2>
-          <p>It is important to note that vaginismus is not triggered deliberately or intentionally by women. It happens involuntarily without their intentional control and often without any awareness on their part. Vaginismus has a variety of <strong><a href="/vaginismus-causes/index.html">causes</a></strong>, often in response to a combination of <strong><a href="https://www.vaginismus.com/vaginismus-causes/#physical_causes">physical or emotional factors</a></strong>. The mystery of the problem can be very frustrating and distressing for both women and their partners.</p>
+          <p>It is important to note that vaginismus is not triggered deliberately or intentionally by women. It happens involuntarily without their intentional control and often without any awareness on their part. Vaginismus has a variety of <strong><a href="/what-is-vaginismus/vaginismus-causes/index.php">causes</a></strong>, often in response to a combination of <strong><a href="/what-is-vaginismus/vaginismus-causes/#physical_causes">physical or emotional factors</a></strong>. The mystery of the problem can be very frustrating and distressing for both women and their partners.</p>
           <p>Despite the fact that vaginismus is involuntary and can strike any woman, many women feel intense shame from being unable to have intercourse and keep their pain private, feeling uncomfortable sharing their secret with anyone.</p>
           
         </div>

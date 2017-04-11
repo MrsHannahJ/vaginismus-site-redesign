@@ -200,16 +200,16 @@
           <br><br>
           <ul>
             <li class="sidebar-img">
-              <a href="../../products/completely-overcome-vaginismus-book-set/index.html" title="Vajinismus Evde Tedavi Programı"> <img src="../../../img/myths/myths-product-3.jpg" alt="kitap" />Vajinismus Evde Tedavi Programı</a>
+              <a href="/tr/products/completely-overcome-vaginismus-book-set/index.php" title="Vajinismus Evde Tedavi Programı"> <img src="/img/myths/myths-product-3.jpg" alt="kitap" />Vajinismus Evde Tedavi Programı</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginal-dilator-set/index.html" title="Vajinal Dilatör Seti"> <img src="../../../img/myths/myths-product-2.jpg" alt="Vajinal Dilatör Seti" />Vajinal Dilatör Seti</a>
+              <a href="/tr/products/vaginal-dilator-set/index.php" title="Vajinal Dilatör Seti"> <img src="/img/myths/myths-product-2.jpg" alt="Vajinal Dilatör Seti" />Vajinal Dilatör Seti</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginismus-treatment-kit/index.html" title="Vajinismus Tedavi Seti"> <img src="../../../img/myths/myths-product-1.jpg" alt="Vajinismus Tedavi Seti" />Vajinismus Tedavi Seti</a>
+              <a href="/tr/products/vaginismus-treatment-kit/index.php" title="Vajinismus Tedavi Seti"> <img src="/img/myths/myths-product-1.jpg" alt="Vajinismus Tedavi Seti" />Vajinismus Tedavi Seti</a>
             </li>
           </ul>
-          <a href='../../resources/index.html' class="shaded-btn">Tüm Yorumları Görüntülemek</a>
+          <a href='/tr/reviews/index.php' class="shaded-btn">Tüm Yorumları Görüntülemek</a>
 
         </aside>
       </div>

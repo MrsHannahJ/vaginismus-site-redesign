@@ -355,16 +355,16 @@
           <br><br>
           <ul>
             <li class="sidebar-img">
-              <a href="../../products/completely-overcome-vaginismus-book-set/index.html" title="книга для лечения вагинизма в домашних условиях"> <img src="../../../img/myths/myths-product-3.jpg" alt="книга" />книга для лечения вагинизма в домашних условиях</a>
+              <a href="/ru/products/completely-overcome-vaginismus-book-set/index.php" title="книга для лечения вагинизма в домашних условиях"> <img src="/img/myths/myths-product-3.jpg" alt="книга" />книга для лечения вагинизма в домашних условиях</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginal-dilator-set/index.html" title="Набор вагинальных расширителей"> <img src="../../../img/myths/myths-product-2.jpg" alt="Набор вагинальных расширителей" />Набор вагинальных расширителей</a>
+              <a href="/ru/products/vaginal-dilator-set/index.php" title="Набор вагинальных расширителей"> <img src="/img/myths/myths-product-2.jpg" alt="Набор вагинальных расширителей" />Набор вагинальных расширителей</a>
             </li>
             <li class="sidebar-img">
-              <a href="../../products/vaginismus-treatment-kit/index.html" title="Набор для лечения вагинизма"> <img src="../../../img/myths/myths-product-1.jpg" alt="Набор для лечения вагинизма" />Набор для лечения вагинизма</a>
+              <a href="/ru/products/vaginismus-treatment-kit/index.php" title="Набор для лечения вагинизма"> <img src="/img/myths/myths-product-1.jpg" alt="Набор для лечения вагинизма" />Набор для лечения вагинизма</a>
             </li>
           </ul>
-          <a href='../../reviews/index.html' class="shaded-btn">Просмотреть все отзывы</a>
+          <a href='/ru/reviews/index.php' class="shaded-btn">Просмотреть все отзывы</a>
                     
         </aside>
       </div>

@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="../../img/tr/diagnosis-header-mobile-tr.jpeg" alt="vajinismus Teşhis" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/tr/diagnosis-header-mobile-tr.jpeg" alt="vajinismus Teşhis" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text">
@@ -26,36 +26,36 @@
    
 <section id="quick-diagnosis">
     <h2>Hızlı Teşhis</h2>
-    <h4>Aşağıdakilerin herhangi biri vajinismusun varlığına kuvvetli bir işaret oluşturur (daha ayrıntılı bilgi için <a href="/vaginismus-symptoms/index.html">Vajinismus Belirtileri</a>):</h4>
+    <h4>Aşağıdakilerin herhangi biri vajinismusun varlığına kuvvetli bir işaret oluşturur (daha ayrıntılı bilgi için <a href="/tr/vaginismus-symptoms/index.php">Vajinismus Belirtileri</a>):</h4>
 <div class="wrapper">
   <div class="large-6 medium-6">
-    <img src="../../img/icons/green-people.png" alt="Giriş Sorunları" aria-hidden="true"/>
+    <img src="/img/icons/green-people.png" alt="Giriş Sorunları" aria-hidden="true"/>
     <h3>Giriş Sorunları</h3>
-    <p>Zor giriş ya da cinsel birleşmenin imkânsızlığı/evlilikleri seksle tamamlanmamış çiftler. Kadınların cinsel birleşmede girişi sağlayamamaları ve <a href="../vaginismus-symptoms/index.html#unconsummated-marriages">seksle tamamlanmayan evlilikler</a> tipik olarak vajinismustan ötürüdür. Girişte sıkışıklık ve acı, vajinismusun yaygın belirtileridir.</p>
+    <p>Zor giriş ya da cinsel birleşmenin imkânsızlığı/evlilikleri seksle tamamlanmamış çiftler. Kadınların cinsel birleşmede girişi sağlayamamaları ve <a href="/tr/vaginismus-symptoms/index.php#unconsummated-marriages">seksle tamamlanmayan evlilikler</a> tipik olarak vajinismustan ötürüdür. Girişte sıkışıklık ve acı, vajinismusun yaygın belirtileridir.</p>
   </div>
   <div class="large-6 medium-6">
-    <img src="../../img/icons/shield.png" alt="Tıbbi Sorunlar" aria-hidden="true"/>
+    <img src="/img/icons/shield.png" alt="Tıbbi Sorunlar" aria-hidden="true"/>
     <h3>Tıbbi Sorunlar</h3>
-    <p>Pelvik bir sorun, tıbbi sorunlar ya da ameliyattan sonra devam eden cinsel acı. <a href="../vaginismus-causes/index.html">Pelvik tıbbi ya da acı sorunu</a> nun çözülmesinden sonra devam eden cinsel acı ya da sıkışıklık yaşamak tipik olarak vajinismustan kaynaklanır (ayrıca bakınız <a href="../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">disparöni</a>).</p>
+    <p>Pelvik bir sorun, tıbbi sorunlar ya da ameliyattan sonra devam eden cinsel acı. <a href="/tr/vaginismus-causes/index.php">Pelvik tıbbi ya da acı sorunu</a> nun çözülmesinden sonra devam eden cinsel acı ya da sıkışıklık yaşamak tipik olarak vajinismustan kaynaklanır (ayrıca bakınız <a href="/tr/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">disparöni</a>).</p>
   </div>
   </div>
 <div class="wrapper">
   <div class="large-6 medium-6">
-    <img src="../../img/icons/stethoscope.png" alt="Nedeni Anlaşılmayan Fiziksel Acı" aria-hidden="true"/>
+    <img src="/img/icons/stethoscope.png" alt="Nedeni Anlaşılmayan Fiziksel Acı" aria-hidden="true"/>
     <h3>Nedeni Anlaşılmayan Fiziksel Acı</h3>
     <p>Nedeni anlaşılmayan sürekli cinsel acı ve sıkışıklık. Vajinismus genelde sadece seks çabaları sırasında gerçekleşir. Doktorlar ilk önce cinsel zorlukların nedeni olan bir sorun bulamayabilirler.</p>
   </div>
   <div class="large-6 medium-6">
-    <img src="../../img/icons/circle-with-x.png" alt="Seksten Uzak Durmak" aria-hidden="true"/>
+    <img src="/img/icons/circle-with-x.png" alt="Seksten Uzak Durmak" aria-hidden="true"/>
     <h3>Seksten Uzak Durmak</h3>
     <p>Acı ve/veya başarısızlıktan ötürü seksten uzak durmak. Bir kadın, seksin ona kendini iyi hissettirmediği ya da çok acı veren bir hâl aldığından ötürü eşiyle cinsel ilişkiye girmekten kaçındığını bildirdiğinde vajinismus olasılığının üzerinde kuvvetle durulmalıdır</p>
   </div>
 </div>
 <div class="wrapper">
   <div class="large-6 medium-6 no-float">
-    <img src="../../img/icons/heart.png" alt="Doğumdan Sonra" aria-hidden="true"/>
+    <img src="/img/icons/heart.png" alt="Doğumdan Sonra" aria-hidden="true"/>
     <h3>Doğumdan Sonra</h3>
-    <p>Doğumdan sonra devam eden cinsel acı. <a href="../faq/pregnancy-questions/can-childbirth-cause-vaginismus/index.html">Doğumdan sonra cinsel acı ya da sıkışıklık</a> durumunun devam etmesi (her şey iyileştikten sonra) tipik olarak ikincil vajinismustan ötürüdür.</p>
+    <p>Doğumdan sonra devam eden cinsel acı. <a href="/tr/faq/pregnancy-questions/can-childbirth-cause-vaginismus/index.php">Doğumdan sonra cinsel acı ya da sıkışıklık</a> durumunun devam etmesi (her şey iyileştikten sonra) tipik olarak ikincil vajinismustan ötürüdür.</p>
   </div>
 </div>
 </section>
@@ -71,18 +71,18 @@
       <p>Birçok doktor vajinismus konusunda fazla bilgili değildir, bu yüzden sürecin bir kısmını sadece sorun konusunda bilgili bir doktor bulmak oluşturur. Vajinismusun başarılı bir tıbbi teşhisi, tipik olarak hastanın tıbbi geçmişi, sorunu tanımlaması, jinekolojik muayene ve başka sorunların olmadığından emin olma süreciyle yapılabilir. Doktorlarla cinsel sorunlar hakkında konuşmak zor olabilir. Utanma, sıkılma ve endişe vardır ve bunlar da iletişim kurmayı ve doğru tedavinin sağlanmasını zorlaştırır.</p>
     </div>
     <div class="large-4">
-      <p>Tıbbi bir teşhis, durumu tanımlamayla ilgili bütün kuşku ve endişeleri ortadan kaldırmakta yararlıdır ve kadınların <a href="../vaginismus-treatment/index.html">tedavi</a> çözümlerine doğru ilerlemelerinde onlara daha çok güven sağlar. Vajinismus gibi cinsel acı rahatsızlıklarına çoğu zaman yanlış teşhis konulur ya da ele alınmadan bırakılır. Kadınların, endişelerine gerekli ilgili gösterilip güvenilir bir tıbbi teşhise erişilene dek sebat etme konusunda çok cesur olmaları gerekebilir. Bazı durumlarda, sağlam bir tıbbi teşhis konulması her zaman mümkün değildir. Örneğin daha az sağlık hizmeti verilen bölgelerde durum böyledir.
+      <p>Tıbbi bir teşhis, durumu tanımlamayla ilgili bütün kuşku ve endişeleri ortadan kaldırmakta yararlıdır ve kadınların <a href="/tr/vaginismus-treatment/index.php">tedavi</a> çözümlerine doğru ilerlemelerinde onlara daha çok güven sağlar. Vajinismus gibi cinsel acı rahatsızlıklarına çoğu zaman yanlış teşhis konulur ya da ele alınmadan bırakılır. Kadınların, endişelerine gerekli ilgili gösterilip güvenilir bir tıbbi teşhise erişilene dek sebat etme konusunda çok cesur olmaları gerekebilir. Bazı durumlarda, sağlam bir tıbbi teşhis konulması her zaman mümkün değildir. Örneğin daha az sağlık hizmeti verilen bölgelerde durum böyledir.
 </p>
       <div class="call-out">
         <p>Misyon umuz, bu durumda olan mümkün olduğu kadar çok sayıda kadına yardım etmektir.</p>
       </div>
-      <p>Bu web sitesi vajinismus hakkında önemli bilgileri ayrıntılarıyla vermektedir. Durumlarına böyle bir teşhis konulacağını düşünen herkesi durumları hakkında mümkün olduğunca çok şey öğrenmeleri ve belki de kendi durumlarına biraz ışık tutmak için <a href="../vaginismus-symptoms/index.html">belirtiler</a>, <a href="../vaginismus-stories/index.html">öyküler</a>, <a href="../vaginismus-causes/index.html">nedenler</a>, <a href="../vaginismus-treatment/index.html">tedavi</a>, <a href="../reviews/index.html">kullanıcı/tıbbi geribildirim</a> ve <a href="../faq/index.html">Sık Sorulan Sorular</a> gibi çeşitli site konularını iyice okumaya davet ediyoruz.</p>
-      <p>Günümüzde kadınların vajinismus ve tedavisi hakkında bilgi almaları için birçok harika kaynak bulunuyor. Sitemizde sunula <a href="../products/completely-overcome-vaginismus-book-set/index.html">kendine yardım tedavi kılavuzu</a> başarılı vajinismus yardımı konusunda belirtiler, nedenler ve tedavi protokolleri hakkında epey ayrıntılı bilgi verir.</p>
+      <p>Bu web sitesi vajinismus hakkında önemli bilgileri ayrıntılarıyla vermektedir. Durumlarına böyle bir teşhis konulacağını düşünen herkesi durumları hakkında mümkün olduğunca çok şey öğrenmeleri ve belki de kendi durumlarına biraz ışık tutmak için <a href="/tr/vaginismus-symptoms/index.php">belirtiler</a>, <a href="/tr/vaginismus-stories/index.php">öyküler</a>, <a href="/tr/vaginismus-causes/index.php">nedenler</a>, <a href="/tr/vaginismus-treatment/index.php">tedavi</a>, <a href="/tr/reviews/index.php">kullanıcı/tıbbi geribildirim</a> ve <a href="/tr/faq/index.php">Sık Sorulan Sorular</a> gibi çeşitli site konularını iyice okumaya davet ediyoruz.</p>
+      <p>Günümüzde kadınların vajinismus ve tedavisi hakkında bilgi almaları için birçok harika kaynak bulunuyor. Sitemizde sunula <a href="/tr/products/completely-overcome-vaginismus-book-set/index.php">kendine yardım tedavi kılavuzu</a> başarılı vajinismus yardımı konusunda belirtiler, nedenler ve tedavi protokolleri hakkında epey ayrıntılı bilgi verir.</p>
       
-      <img src="../../img/tr/medical-test-qa-box-tr.png" alt="Soru: Ben vajinismus varsa bana söylerdim alabilir basit bir tıbbi test var mı? Cevap: vajinismus durumunu onaylamak için alınabilecek herhangi bir tıbbi test yoktur. Vajinismus hasta öyküsü ile teşhis edilir, sorun / acı ve jinekolojik muayene açıklaması diğer şartlar olasılığını ekarte etmek.">
+      <img src="/img/tr/medical-test-qa-box-tr.png" alt="Soru: Ben vajinismus varsa bana söylerdim alabilir basit bir tıbbi test var mı? Cevap: vajinismus durumunu onaylamak için alınabilecek herhangi bir tıbbi test yoktur. Vajinismus hasta öyküsü ile teşhis edilir, sorun / acı ve jinekolojik muayene açıklaması diğer şartlar olasılığını ekarte etmek.">
     </div>
     <div class="large-4">
-      <img src="../../img/diagnosis/doctor-office.jpg" alt="doktor ofisi">
+      <img src="/img/diagnosis/doctor-office.jpg" alt="doktor ofisi">
       <p>Vajinismus tıbbi web siteleri, kadınların değişik pelvik acı sorunları konusunda yararlı bilgiler bulup, farklı durumları ayırt edip anlamalarına yardımcı olabilir. Değişik bilim dallarından pelvik taban sorunlarının teşhis ve tedavisinde yardımcı olacak birçok uzman vardır. Vajinismus teşhisi konusundaki kaynaklara şunlar da dâhil olabilir:</p>
       <ul>
         <li><strong>Jinekologlar</strong> &#8211; Jinekolog, kadınların pelvik sağlık konularını teşhis ve tedavi konusunda uzmanlık eğitimi almış bir tıp doktorudur. Bütün jinekologlar vajinismus teşhis ve tedavisinde deneyimli değildir ancak çok bilgilidirler ve diğer olasılıkları elemeye yardımcı olabilecek, sağlık sorunlarını aydınlığa kavuşturacak olmanın yanı sıra iyileşme yolunuzda sizin için harika bir yardımcı olabilirler.</li>
@@ -117,10 +117,10 @@
       <p>Vücudun konumlandırılması, kullanılan spekülumun boyu ve hemşire desteği gibi daha olumlu bir deneyime katkıda olması sağlanabilecek bazı düzenlemeler yapılabilir. Vajinismus durumu konusunda bilgili olan bir doktor, rahat ve duyarlı bir ortam sağlamaya daha yatkın olacaktır.</p>
     </div>
     <div class="large-4">
-      <p>Pelvik muayene sırasında sürekli vajinal sıkılık olduğunda bu durum doktora <a href="../faq/general-questions/vagina-too-small/index.html">fazla küçük vajina</a> ya da <a href="../faq/general-questions/hymen-problems/index.html">kızlık zarı anormalliği</a> sorunu gibi görünebilir.</p>
+      <p>Pelvik muayene sırasında sürekli vajinal sıkılık olduğunda bu durum doktora <a href="/tr/faq/general-questions/vagina-too-small/index.php">fazla küçük vajina</a> ya da <a href="/tr/faq/general-questions/hymen-problems/index.php">kızlık zarı anormalliği</a> sorunu gibi görünebilir.</p>
       <p>Hastanın eşiyle girişin gerçekleştiği şekilde seks yapamadığı ya da seksin çok acı verdiği konusundaki şiddetli şikâyetleriyle birleştiğinde yanlış olarak vajina girişinin genişletilerek girişe izin vermesi için düzeltici ameliyat gerektiği kanısına varabilir.</p>
       <p>Ender istisnalar olabileceği hâlde, vajinismusu olan kadınların cinsel organları tipik olarak normaldir. Vajinanın kapanması sadece pelvik taban kaslarının sıkı bir istemsiz spazmından kaynaklanmaktadır. Ne yazık ki bazı doktorlar kadına çok büyük rahatsızlık ve acı vererek pelvik muayeneyi bitene kadar devam ettirirler. Bu sarsıcı deneyim bile tek başına vajinismus durumuna katkıda bulunabilir.</p>
-      <img src="../../img/tr/restriction-illustration-tr.png" alt="Constriction during a pelvic exam.  The PC muscle group goes into a tight spasm, closing the entrance to the vagina.">
+      <img src="/img/tr/restriction-illustration-tr.png" alt="Constriction during a pelvic exam.  The PC muscle group goes into a tight spasm, closing the entrance to the vagina.">
     </div>
     <div class="large-4">
       <p>İlgili bilgiye sahip olmayan sağlık uzmanlarının yanlış teşhis koyması pek çok tehlikeye yol açabilir. Doğru teşhi konulmayan kadınlara gereksiz, invazif ve potansiyel olarak zararlı ameliyatlar ve tedaviler önerilmektedir. Bu karışıklıklardan ötürü yanlış teşhis, invazif veya yararsız ameliyatlar söz konusu olabilir.</p>
@@ -128,7 +128,7 @@
         <p>Vajinismusu iyileştirecek bir ameliyat yoktur. Vajinal açıklığı 'genişletmek' için ameliyat önerildiyse ikinci bir görüş olmak çok önemlidir çünkü bu genelde giriş sorununu çözümlemek yerine soruna daha fazla komplikasyon getirir.</p>
       </div>
       <p>Vajinal açıklığı ‘genişletmek’ için ameliyat önerildiyse ikinci bir görüş olmak çok önemlidir çünkü bu genelde giriş sorununu çözümlemek yerine soruna daha fazla komplikasyon getirir. Durumlarına doğru teşhis konulmayan vajinismusu olan kadınlara gereksiz, invazif ve zarar verme olasılığı olan ameliyatlar ve ilaçlar tavsiye edilmiştir.</p>
-      <p>Vajinismus invazif prosedürler gerektirmeyen tedavi edilebilir bir durumdur (bakınız <a href="../vaginismus-treatment/index.html">Vajinismus Tedavisi</a>). Durumlarına bir teşhis konulmasını isteyen birçok kadına, onların durumlarında fiziksel olarak hiçbir sorun bulamayan ve kendilerinin yapabilecekleri başka bir şey olmadığını düşünen doktorlar tarafından çoğu zaman bir teşhis konulmaz. Sırf durumun bilincinde olmadıklarından vajinismus teşhisini göz önünde bulundurmazlar.</p>
+      <p>Vajinismus invazif prosedürler gerektirmeyen tedavi edilebilir bir durumdur (bakınız <a href="/tr/vaginismus-treatment/index.php">Vajinismus Tedavisi</a>). Durumlarına bir teşhis konulmasını isteyen birçok kadına, onların durumlarında fiziksel olarak hiçbir sorun bulamayan ve kendilerinin yapabilecekleri başka bir şey olmadığını düşünen doktorlar tarafından çoğu zaman bir teşhis konulmaz. Sırf durumun bilincinde olmadıklarından vajinismus teşhisini göz önünde bulundurmazlar.</p>
     </div>
   </div>
   </section>
@@ -153,7 +153,7 @@
         <p><strong>3. Geçmişte Herhangi bir Sorun Olduysa Bildirin</strong><br /> Cinsel yolla bulaşan hastalıklar, maya enfeksiyonları, idrar yolları sorunları geçirdiniz mi ya da giriş dışı başka bir pelvik acı hissettiniz mi?</p>
         <p><strong>4. Geçmişte Cinsel bir Taciz Yaşadıysanız Bildirin</strong></p>
         <p><strong>5. Sorunun ne Olduğunu Düşündüğünüzü Bildirin</strong><br> “Sanırım sorun vajinismus olabilir. Belirtilerim okuduğum makalede bildirilen ana noktalara çok benziyor. Ancak seks sırasında acıya neden olan başka şeylerin de olduğunu okudum ve bunların elenmesini istiyorum.”</p>
-        <p><a href="../../media/sample-script-a-self-guided-history-of-sexual-pain-tr.pdf" target="_blank">Yazdırılabilir PDF Versiyonu</a></p>
+        <p><a href="/downloads/sample-script-a-self-guided-history-of-sexual-pain-tr.pdf" target="_blank">Yazdırılabilir PDF Versiyonu</a></p>
       </div>
       
     </div>
@@ -172,16 +172,16 @@
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-causes/index.html">
-              <img src="../../img/tr/diagnosis-left-footer-button-tr.png" alt="Nedenler gitmek">
+            <a href="/tr/vaginismus-causes/index.php">
+              <img src="/img/tr/diagnosis-left-footer-button-tr.png" alt="Nedenler gitmek">
             </a>
           </div>
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-            <a href="../vaginismus-treatment/index.html">
-              <img src="../../img/tr/diagnosis-right-footer-button-tr.png" alt="Teşhis gitmek">
+            <a href="/tr/vaginismus-treatment/index.php">
+              <img src="/img/tr/diagnosis-right-footer-button-tr.png" alt="Teşhis gitmek">
             </a>
           </div>
         </div>

@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
-      <img src="../../img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum giriş">
+      <img src="/img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum giriş">
       <div class="wrapper">
         <div class="large-12 medium-12">
           <div class="hero-text-right">
@@ -44,10 +44,10 @@
       <div class="wrapper">
         <div class="large-4">
           <h2>Vajinismus Özel Forumu</h2>
-          <p>Kadınlara özel çevrimiçi forum ve sohbet odamıza katılma fırsatını sunduğumuz Vaginismus.com Topluluk Merkezi’ne hoş geldiniz. Forum, kadınların moderatörlerden ve  <strong><a href="../products/vaginismus-treatment-kit/index.html">kendine yardım</a></strong> programlarını uygulayan diğer kadınlardan pratik bilgiler, sağlam tavsiyeler ve teşvik alacakları güvenli bir yerdir. Forum hakkında daha fazla bilgi almak ve giriş hakkınızı nasıl alacağınızı öğrenmek için aşağıdaki bilgilere bakınız.</p>
+          <p>Kadınlara özel çevrimiçi forum ve sohbet odamıza katılma fırsatını sunduğumuz Vaginismus.com Topluluk Merkezi’ne hoş geldiniz. Forum, kadınların moderatörlerden ve  <strong><a href="/tr/products/vaginismus-treatment-kit/index.php">kendine yardım</a></strong> programlarını uygulayan diğer kadınlardan pratik bilgiler, sağlam tavsiyeler ve teşvik alacakları güvenli bir yerdir. Forum hakkında daha fazla bilgi almak ve giriş hakkınızı nasıl alacağınızı öğrenmek için aşağıdaki bilgilere bakınız.</p>
         </div>
         <div class="large-8">
-          <img src="../../img/tr/forum-features-bar-tr.png" alt="Ücretsiz Özel Forum, 24/7 Access Online, 10.000'den fazla üyeleri, Mesajlar binlerce Sorumlu ve Güvenli, Anonim tanımlar">
+          <img src="/img/tr/forum-features-bar-tr.png" alt="Ücretsiz Özel Forum, 24/7 Access Online, 10.000'den fazla üyeleri, Mesajlar binlerce Sorumlu ve Güvenli, Anonim tanımlar">
           <h4><em>100% ÜCRETSİZ </em>Vajinismus Tedavi Setinin bir parçası olan Özel Forum giriş hakkınızı alın</a></h4>
         </div>
       </div>
@@ -58,17 +58,17 @@
     <section class="grad1">
       <div class="wrapper">
         <div class="large-4">
-          <img src="../../img/icons/forum-community.png" alt="yeni gelenler hoş geldiniz" aria-hidden="true">
+          <img src="/img/icons/forum-community.png" alt="yeni gelenler hoş geldiniz" aria-hidden="true">
           <h2>Yeni Gelenler Hoşgeldiniz</h2>
           <p>Foruma katılan her kadın, istediği kullanıcı ismini kullanarak soru ve endişelerini anonim olarak foruma ekleyebilir. Bazı kadınlar teşvik bulmak için başkalarının yazdıklarını sessizce okur, bazıları da birçok konu hakkındaki cesaret verici konuşmalara aktif katılımcı olurlar.</p>
         </div>
         <div class="large-4">
-          <img src="../../img/icons/forum-chat.png" alt="canlı sohbet" aria-hidden="true">
+          <img src="/img/icons/forum-chat.png" alt="canlı sohbet" aria-hidden="true">
           <h2>Canlı Sohbet</h2>
           <p>Forumda kadınların daha kişisel bir düzeyde birbiriyle bağlanabilmesi için bir sohbet odası vardır. Dünyanın her yerinden vajinismusu olan kadınlar yaşamları hakkında sohbet edebilir ve tedavi hakkında sorular sorabilir. Kadınların sorunları hakkında anonim olarak olsa bile konuşmaya başladıkça, artık kendilerini soyut hissetmedikleri için vajinismus durumları hakkında daha olumlu bir kafa yapısına girdiklerini görüyoruz.</p>
         </div>
         <div class="large-4">
-          <img src="../../img/icons/treatment.png" alt="yalnız değilsin" aria-hidden="true">
+          <img src="/img/icons/treatment.png" alt="yalnız değilsin" aria-hidden="true">
           <h2>Yalnız Değilsin</h2>
           <p>Forum, başkalarına yardım eden kadınlar tarafından yönetilir ve teknik ya da duygusal destek için moderatörler de vardır. Bu forumun kadınların birlikte kendine yardım program üzerinde aynı anda çalışırken umut, teşvik, bilgi, esin, dostluk ve iyileşme dolu güvenli bir yer olmasını arzuluyoruz. Vaginismus.com sadece forum giriş hakkı olanlara açık olan özel bir alandır</p>
         </div>
@@ -83,7 +83,7 @@
         <div class="large-4">
           <p>Esas hedefimiz, vajinismusu yenmek için aktif bir şekilde çalışan kadınlara bir destek ağı sağlamaktır. Forumumuz günün 24 saati açıktır. Kadınlar programın adımlarını izlerken fiziksel ya da duygusal konularda sorular sorabilirler ve kendilerine çok gerekli olan olumlu teşvikleri alabilirler. Forumumuzda ele alınan konu örneklerine şunlar dâhildir:</p>
           <ul>
-            <li><a href="../products/vaginismus-treatment-kit/index.html">Kendine yardım</a> programlarının her biriyle ilgili sorular</li>
+            <li><a href="/tr/products/vaginismus-treatment-kit/index.php">Kendine yardım</a> programlarının her biriyle ilgili sorular</li>
             <li>Vajinismus ve ilişkiler</li>
             <li>Duygusal ve fiziksel sıkıntılar</li>
             <li>Hamilelik ve vajinismus</li>
@@ -95,14 +95,14 @@
         </div>
         <div class="large-4">
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>Bu oturumda yer alanları okuyup buraya yazmak soyutluk hissini büyük ölçüde azaltabilir…” “Bu oturuma katılmadan önce vajinismusu, ‘kendimi suçlu hissetmeme neden olan bir sır’ olarak görüyordum. Şimdi artık öyle düşünmediğimi fark ettim. Her gün vajinismusun dev yükü ve utancını hissediyordum ve şimdi ise başarı hikâyemi ileride başkalarıyla paylaşma olasılığını bile düşünüyorum. Bu oturumdakileri okumak ve buraya yazmak birçoğumuzun başlangıçtaki soyutluk ve umutsuzluk hissini büyük ölçüde azaltabilir.</p>
               <p><strong>Anonim Özel Forum Kullanıcı</strong></p>
             </div>
           </div>
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>Harika destek…” “Bu oturumu öğrenmeden önce vajinismusu yenmek zordu ama şimdi sonunda ilerlemede bulunuyorum… Oturum harika bir destek oluşturuyor ve beni çok iyi bir şekilde motive ediyor!</p>
               <p><strong>Anonim Özel Forum Kullanıcı</strong></p>
@@ -111,14 +111,14 @@
         </div>
         <div class="large-4">
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>Bu oturumdan ötürü çok mutluyum…” “Bütün önerileriniz, düşünceleriniz ve en önemlisi DESTEĞİNİZden ötürü size teşekkür etmek istiyorum. Yalnız olmadığımı bilmemi sağlayan bu oturumdan ötürü çok mutluyum.</p>
               <p><strong>Anonim Özel Forum Kullanıcı</strong></p>
             </div>
           </div>
           <div class="testimonial outer-shadow-dark">
-            <img src="../../img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
+            <img src="/img/icons/quotations.png" alt="" aria-hidden="true" class="quotes">
             <div class="testimonial-text">
               <p>Burayı bulduğuma inanamıyorum…” “Bu oturumdaki harika kadınlardan gelen teşvik, dualar ve desteği umutla bekliyorum. Sizin yardımınızla vajinismusu yakında yeneceğimi biliyorum. Bu siteyi keşfetmek, set hakkında bilgi almak ve bu oturumdaki yazılarınızı okumak benim için Tanrı’nın bir lütfu oldu. Burayı bulduğuma inanamıyorum.”</p>
               <p><strong>Anonim Özel Forum Kullanıcı</strong></p>
@@ -133,13 +133,13 @@
      <section>
        <div class="wrapper">
          <div class="large-6">
-           <img src="../../img/forum-introduction/forum-introduction-pass.jpg" alt="forum geçiş">
+           <img src="/img/forum-introduction/forum-introduction-pass.jpg" alt="forum geçiş">
          </div>
          <div class="large-6">
            <h2>Giriş Kartını Nasıl Alabilirim?</h2>
            <p>Şimdi artık bütün Vajinismus Tedavi Kılavuzları ya da Vajinismus Setlerine ücretsiz bir forum giriş hakkı dâhildir. Forum programımız üzerinde çalışan ve kitaplarımızı almış olanlar içindir (sadece bir dilator seti sipariş edildiğinde pakete giriş kartları dâhil değildir). Şu anda vajinismus çekenler için internette herkese açık forumlar var olduğundan, bizim forumumuz özellikle bizim programımızı bilen ve bizim programımız üzerinde çalışan kadınlara yöneliktir.</p>
            <p>Forum giriş hakkı özel ve anonim bir kullanıcı adı ve şifre oluşturmanızı sağlar. Kullanıcı adı ve şifreniz olduktan sonra, özel foruma ve topluluk merkezine giriş yapabilir, dünyanın her tarafından yüzlerce kadının desteğine erişebilirsiniz.</p>
-           <p>NOT: Eğer bu ürünleri daha önce sipariş ettiyseniz ve giriş hakkınız yoksa lütfen (ücretsiz) bir giriş hakkı almak için <strong><a href="/contact-us/index.html">bizimle iletişime geçin</a></strong>.</p>
+           <p>NOT: Eğer bu ürünleri daha önce sipariş ettiyseniz ve giriş hakkınız yoksa lütfen (ücretsiz) bir giriş hakkı almak için <strong><a href="/tr/contact-us/index.php">bizimle iletişime geçin</a></strong>.</p>
          </div>
        </div>
      </section>

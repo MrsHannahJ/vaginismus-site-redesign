@@ -18,17 +18,17 @@
             <p>Неясность зачастую усугубляется тем, что многие врачи не знакомы ни с заболеванием вагинизм, ни с тем, как выглядит «нормальная» девственная плева. Поэтому женщина не может понять, почему партнер «упирается в стенку» при попытке осуществления полового акта, и приходят к ошибочному выводу о том, что они страдают проблемой, связанной с девственной плевой.</p>
               
             <h3>Трудности Получение диагноз</h3>
-            <p>При этом если мышечный спазм не происходит во время осмотра, влагалище может выглядеть абсолютно нормальным, и врач может недоумевать в отношении причины затрудненности вагинального проникновения. Если сжатие мышц тазового дна происходит во время гинекологического осмотра, врач может прийти к ошибочному выводу о том, что <a href="../vagina-too-small/index.html">влагалище слишком маленькое</a> или о том, что существует проблема, связанная с девственной плевой, которая требует хирургического вмешательства. Кроме того, если мышечный спазм не происходит во время осмотра, влагалище может выглядеть абсолютно нормально, и врач может недоумевать в отношении причины затрудненности вагинального проникновения. Врач может предложить женщине хирургическую операцию для расширения отверстия в девственной плеве или расширения входа во влагалище, ошибочно полагая, что это может решить проблему вагинального проникновения. Обратите внимание, что в отдельных редких случаях у женщины может наблюдаться одновременно вагинизм и проблема, связанная с девственной плевой. Именно поэтому правильный <a href="../../../vaginismus-diagnosis/index.html">диагноз</a> квалифицированного медицинского специалиста (хорошо разбирающегося и в вагинизме, и в проблемах, связанных с девственной плевой) может помочь в определении правильного курса лечения.</p>
+            <p>При этом если мышечный спазм не происходит во время осмотра, влагалище может выглядеть абсолютно нормальным, и врач может недоумевать в отношении причины затрудненности вагинального проникновения. Если сжатие мышц тазового дна происходит во время гинекологического осмотра, врач может прийти к ошибочному выводу о том, что <a href="/ru/faq/general-questions/vagina-too-small/index.php">влагалище слишком маленькое</a> или о том, что существует проблема, связанная с девственной плевой, которая требует хирургического вмешательства. Кроме того, если мышечный спазм не происходит во время осмотра, влагалище может выглядеть абсолютно нормально, и врач может недоумевать в отношении причины затрудненности вагинального проникновения. Врач может предложить женщине хирургическую операцию для расширения отверстия в девственной плеве или расширения входа во влагалище, ошибочно полагая, что это может решить проблему вагинального проникновения. Обратите внимание, что в отдельных редких случаях у женщины может наблюдаться одновременно вагинизм и проблема, связанная с девственной плевой. Именно поэтому правильный <a href="/ru/vaginismus-diagnosis/index.php">диагноз</a> квалифицированного медицинского специалиста (хорошо разбирающегося и в вагинизме, и в проблемах, связанных с девственной плевой) может помочь в определении правильного курса лечения.</p>
             <h3>Гименея Аномалии</h3>
             <p>Если в строении девственной плевы имеются отклонения, может потребоваться незначительная хирургическая операция (которая, как правило, называется гименэктомия или гименотомия) для рассечения или удаления девственной плевы в целях устранения проблемы.</p>
             <p>Однако мы хотим повторить, что это бывает необходимо в крайне редких случаях. Мы призываем женщин, подозревающих наличие проблем, связанных с девственной плевой, пройти гинекологическое обследование у квалифицированного и опытного медицинского специалиста, с которым женщина может открыто обсудить все необходимые вопросы, и при необходимости обращаться за компетентным мнением к другим специалистам.</p>
           <hr />
           <h3>См. также</h3>
           <ul>
-            <li><a href="../../dilator-questions/will-dilators-break-hymen/index.html">Если моя девственная плева не повреждена, нарушат ли вагинальные расширители ее целостность, или вызывает ли это боль?</a></li>
-            <li><a href="../vagina-too-small/index.html">Возможно, у меня слишком маленькое влагалище? Возможно, это связано с отсутствием опыта половых отношений?</a></li>
-            <li><a href="../../treatment-questions/queasy-about-treatment/index.html">Я не могу даже смотреть «туда», не говоря уже о том, чтобы пытаться вводить какой-то предмет во влагалище. Как я смогу пройти курс лечения?</a></li>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">Насколько эффективно лечение вагинизма?</a></li>
+            <li><a href="/ru/faq/dilator-questions/will-dilators-break-hymen/index.php">Если моя девственная плева не повреждена, нарушат ли вагинальные расширители ее целостность, или вызывает ли это боль?</a></li>
+            <li><a href="/ru/faq/general-questions/vagina-too-small/index.php">Возможно, у меня слишком маленькое влагалище? Возможно, это связано с отсутствием опыта половых отношений?</a></li>
+            <li><a href="/ru/faq/treatment-questions/queasy-about-treatment/index.php">Я не могу даже смотреть «туда», не говоря уже о том, чтобы пытаться вводить какой-то предмет во влагалище. Как я смогу пройти курс лечения?</a></li>
+            <li><a href="/ru/faq/treatment-questions/vaginismus-treatment-success-rates/index.php">Насколько эффективно лечение вагинизма?</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -38,21 +38,21 @@
           <aside class="large-3">
           <h2>ЧЗВ Общие</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
-            <li><a href="../hymen-problems/index.html" class="active"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
+            <li><a href="/ru/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
+            <li><a href="/ru/faq/general-questions/hymen-problems/index.php" class="active"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
+            <li><a href="/ru/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-affect-husbands/index.php"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

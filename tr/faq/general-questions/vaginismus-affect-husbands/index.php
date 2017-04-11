@@ -28,12 +28,12 @@
             <li><strong>Uzaklaşma</strong> &#8211; &#8220;Ev hayatım berbat ve şu anda karımı görmek bile istemiyorum. Zamanımı işime ya da erkek arkadaşlarımla daha çok zaman geçirmeye adasam sanki daha iyi olacak. Hiç olmazsa erkek arkadaşlarım beni takdir ediyorlar ve eğer meşgulsem bu tür şeyleri düşünmem gerekmez.&#8221;</li>
           </ul>
           <h3>Anlama Kaçınma</h3>
-          <p>Erkek partnerlerin vajinismusun bir kadının seksten uzak durmak için kasıtlı olarak neden olduğu bir şey olmadığını anlamaları önemlidir. Vajinanın “sıkı sıkıya kapanması” na neden olan <a href="../../../vaginismus-causes/index.html#pc-muscles">PC kası</a> nın sıkışması, istemsiz olan bilinç dışı bir reaksiyondur ve kontrol ve niyet olmadan gerçekleşir.</p>
+          <p>Erkek partnerlerin vajinismusun bir kadının seksten uzak durmak için kasıtlı olarak neden olduğu bir şey olmadığını anlamaları önemlidir. Vajinanın “sıkı sıkıya kapanması” na neden olan <a href="/tr/vaginismus-causes/index.php#pc-muscles">PC kası</a> nın sıkışması, istemsiz olan bilinç dışı bir reaksiyondur ve kontrol ve niyet olmadan gerçekleşir.</p>
           <h3>Onun korkular anlama</h3>
-          <p>Bir kadın cinsel birleşmede bulunmayı çok istese de, aklıyla PC kasının spazm yapmasını tetikleyen vücudu arasında bir “kopukluk” vardır. Vajinismus oluşumuna katkıda bulunabilecek birçok <a href="../../../vaginismus-causes/index.html#non-physical-causes">duygusal</a> ve <a href="../../../vaginismus-causes/index.html#physical-causes">fiziksel</a> etken vardır.</p>
-          <p>Giriş korkusu gibi (bu vajinismusun bütün türlerinde yaygın değildir) duygusal etkenler vajinismusu olan bazı kadınları etkileyecektir. Bu durumlarda bir kadının korkusu ve seks hakkındaki olumsuz düşüncelerini anlayıp bunları yenmesi çok önemlidir. <a href="../../../products/vaginismus-treatment-kit/index.html">Kendine yardım</a> programına dahil olan kişinin kendi öncülüğünde yapılan bu duygusal envanter, kadının bu etkenlerin köküne inip onları olumlu cinsel duygularla etkisiz bırakmasına yardım eder.</p>
+          <p>Bir kadın cinsel birleşmede bulunmayı çok istese de, aklıyla PC kasının spazm yapmasını tetikleyen vücudu arasında bir “kopukluk” vardır. Vajinismus oluşumuna katkıda bulunabilecek birçok <a href="/tr/vaginismus-causes/index.php#non-physical-causes">duygusal</a> ve <a href="/tr/vaginismus-causes/index.php#physical-causes">fiziksel</a> etken vardır.</p>
+          <p>Giriş korkusu gibi (bu vajinismusun bütün türlerinde yaygın değildir) duygusal etkenler vajinismusu olan bazı kadınları etkileyecektir. Bu durumlarda bir kadının korkusu ve seks hakkındaki olumsuz düşüncelerini anlayıp bunları yenmesi çok önemlidir. <a href="/tr/products/vaginismus-treatment-kit/index.php">Kendine yardım</a> programına dahil olan kişinin kendi öncülüğünde yapılan bu duygusal envanter, kadının bu etkenlerin köküne inip onları olumlu cinsel duygularla etkisiz bırakmasına yardım eder.</p>
           <h3>İlişki ve Yakınlık Üzerindeki Etkileri</h3>
-          <p>Erkeklerin, duygularını “içlerine atıp” <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">seksle tamamlanmayan bir ilişki</a> yi yaşamakla bağlantılı olan öfke, hüsran ve stresi inkâr etmeleri de sık görülen bir durumdur. Erkekler çoğu kez durumlarını kimseye söyleyemeyeceklerini düşünürler. Ayrıca eşleriyle aralarında olan “küçük sır” rı başka birisine söylerlerse eşlerini üzeceklerinden de endişe ederler ve bu yüzden hem kendileri, hem de eşleri hakkında bastırılmış içerleme ve üzgünlük duygularıyla yaşarlar.</p>
+          <p>Erkeklerin, duygularını “içlerine atıp” <a href="/tr/vaginismus-symptoms/index.php#unconsummated-marriages">seksle tamamlanmayan bir ilişki</a> yi yaşamakla bağlantılı olan öfke, hüsran ve stresi inkâr etmeleri de sık görülen bir durumdur. Erkekler çoğu kez durumlarını kimseye söyleyemeyeceklerini düşünürler. Ayrıca eşleriyle aralarında olan “küçük sır” rı başka birisine söylerlerse eşlerini üzeceklerinden de endişe ederler ve bu yüzden hem kendileri, hem de eşleri hakkında bastırılmış içerleme ve üzgünlük duygularıyla yaşarlar.</p>
           <p>Ne yazık ki birçok çift, cinsel birleşme çabasının başarısızlığının acı ve hüsranından ötürü birbiriyle mahrem zamanlar geçirmeye son verirler. Vajinismus tedavi edilmeden bırakıldıkça çatışmalar sık görülür ve ilişki sorunları artmaya devam eder. Eşler yatağın kendi taraflarına çekildikçe ve hatta ayrı yataklara uyudukça aralarında iletişim bozuklukları da olur.</p>
           <p>Vajinismusa ek olarak, bir çiftin aynı zamanda vajinismus durumunu tetikleyen tıbbi durum, ameliyat ya da saldırı gibi olayları da ele alması gerekmektedir. Bu da potansiyel olarak ilişkide daha çok gerginliğe neden olabilir.</p>
           <h3>Bunun Bir Çözümü Vardır</h3>
@@ -41,10 +41,10 @@
           <hr/>
           <h3>Ayrıca Bkz</h3>
           <ul>
-            <li><a href="../../treatment-questions/men-help-wives/index.html">Erkekler eşlerinin/partnerlerinin vajinismusu yenmelerine yardım etmek için ne yapabilir?</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">Tedavi sırasında motivasyonumu nasıl koruyabilir ve olumlu kalabilirim? Hep kaçınıyorum.</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Doktorlar, jinekologlar, fizik tedavi uzmanları, psikologlar, psikiyatristler, danışmanlar, seks terapistleri ve başkaları gibi tedavi profesyonelleriyle çalışmayı tavsiye ediyor musunuz?</a></li>
-            <li><a href="../../../vaginismus-stories/">Vajinismus öyküleri</a></li>
+            <li><a href="/tr/faq/treatment-questions/men-help-wives/index.php">Erkekler eşlerinin/partnerlerinin vajinismusu yenmelerine yardım etmek için ne yapabilir?</a></li>
+            <li><a href="/tr/faq/treatment-questions/how-can-i-stay-motivated/index.php">Tedavi sırasında motivasyonumu nasıl koruyabilir ve olumlu kalabilirim? Hep kaçınıyorum.</a></li>
+            <li><a href="/tr/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Doktorlar, jinekologlar, fizik tedavi uzmanları, psikologlar, psikiyatristler, danışmanlar, seks terapistleri ve başkaları gibi tedavi profesyonelleriyle çalışmayı tavsiye ediyor musunuz?</a></li>
+            <li><a href="/tr/vaginismus-stories/index.php">Vajinismus öyküleri</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -54,21 +54,21 @@
           <aside class="large-3">
           <h2>Genel Sorular</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>Vajinismus nedir?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Vajinismusum olduğunu nasıl bilebilirim?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>Birincil vajinismus ve ikincil vajinismus arasındaki fark nedir?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Vajinismus belirtilerinin değişik dereceleri mi vardır?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Vajinismus kendi kendine yok olur mu?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Kaç kadında vajinismus vardır?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Vajinismus sadece kafamda olan bir şey olabilir mi?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Vajinamın fazlasıyla küçük olması mümkün mü?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>Sorunuma kızlık zarım yol açıyor olabilir mi?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Daha önce zevk veren cinsel birleşmede bulunabildiysek ve şimdi canım acıyorsa sorunum hâlâ vajinismus olabilir mi?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html" class="active"><i class="icon-angle-double-right"></i>Vajinismus, vajinismusu olan kadınların kocalarını ya da eşlerini nasıl etkiler?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>Disparöni nedir? Disparöni ve vajinismus arasındaki fark nedir?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Orgazm olamıyorum. Bu durum vajinismusla ilgili olabilir mi?</a></li>
+            <li><a href="/tr/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>Vajinismus nedir?</a></li>
+            <li><a href="/tr/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Vajinismusum olduğunu nasıl bilebilirim?</a></li>
+            <li><a href="/tr/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>Birincil vajinismus ve ikincil vajinismus arasındaki fark nedir?</a></li>
+            <li><a href="/tr/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>Vajinismus belirtilerinin değişik dereceleri mi vardır?</a></li>
+            <li><a href="/tr/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>Vajinismus kendi kendine yok olur mu?</a></li>
+            <li><a href="/tr/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Kaç kadında vajinismus vardır?</a></li>
+            <li><a href="/tr/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>Vajinismus sadece kafamda olan bir şey olabilir mi?</a></li>
+            <li><a href="/tr/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>Vajinamın fazlasıyla küçük olması mümkün mü?</a></li>
+            <li><a href="/tr/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>Sorunuma kızlık zarım yol açıyor olabilir mi?</a></li>
+            <li><a href="/tr/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Daha önce zevk veren cinsel birleşmede bulunabildiysek ve şimdi canım acıyorsa sorunum hâlâ vajinismus olabilir mi?</a></li>
+            <li><a href="/tr/faq/general-questions/vaginismus-affect-husbands/index.php" class="active"><i class="icon-angle-double-right"></i>Vajinismus, vajinismusu olan kadınların kocalarını ya da eşlerini nasıl etkiler?</a></li>
+            <li><a href="/tr/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>Disparöni nedir? Disparöni ve vajinismus arasındaki fark nedir?</a></li>
+            <li><a href="/tr/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Orgazm olamıyorum. Bu durum vajinismusla ilgili olabilir mi?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Hepsini Gör SSS</a>
+          <a href='/tr/faq/index.php' class="shaded-btn">Hepsini Gör SSS</a>
         </aside>
       </div>
     </main>

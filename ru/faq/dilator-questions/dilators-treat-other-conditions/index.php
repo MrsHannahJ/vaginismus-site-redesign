@@ -21,11 +21,11 @@
           
           <h3>См. также</h3>
             <ul>
-              <li><a href="../../../products/vaginal-dilator-set/index.html">Вагинальные расширители</a></li>
-              <li><a href="../what-are-the-dilators-made-of/index.html">Из чего сделаны расширители?</a></li>
-              <li><a href="../health-insurance-cover-dilators/index.html">Покрывает ли моя медицинская страховка приобретение вагинальных расширителей?</a></li>
-              <li><a href="../../customer-service-questions/ordering-faqs/index.html">Могу ли я вернуть расширители, если я ими не пользуюсь?</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
+              <li><a href="/ru/products/vaginal-dilator-set/index.php">Вагинальные расширители</a></li>
+              <li><a href="/ru/faq/dilator-questions/what-are-the-dilators-made-of/index.php">Из чего сделаны расширители?</a></li>
+              <li><a href="/ru/faq/dilator-questions/health-insurance-cover-dilators/index.php">Покрывает ли моя медицинская страховка приобретение вагинальных расширителей?</a></li>
+              <li><a href="/ru/faq/customer-service-questions/ordering-faqs/index.php">Могу ли я вернуть расширители, если я ими не пользуюсь?</a></li>
+              <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
             </ul>
           
           <hr class="hidden-desktop"/>
@@ -36,15 +36,15 @@
           <aside class="large-3">
           <h2>ЧЗВ расширителях</h2>
           <ul>
-            <li><a href="../what-are-the-dilators-made-of/index.html"><i class="icon-angle-double-right"></i>Из Чего Сделаны Расширители?</a></li>
-            <li><a href="../health-insurance-cover-dilators/index.html"><i class="icon-angle-double-right"></i>Покрывает Ли Моя Медицинская Страховка Приобретение Вагинальных Расширителей?</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>Для Чего Вагинальные Расширители Используются При Лечении Вагинизма?</a></li>
-            <li><a href="../can-i-just-get-dilators/index.html"><i class="icon-angle-double-right"></i>Можно Ли Использовать Расширители Вне Рамок Программы Лечения?</a></li>
-            <li><a href="../dilators-treat-other-conditions/index.html" class="active"><i class="icon-angle-double-right"></i>Можно Ли Использовать Расширители Для Лечения Других Заболеваний, Кроме Вагинизма?</a></li>
-            <li><a href="../will-dilators-break-hymen/index.html"><i class="icon-angle-double-right"></i>Если Моя Девственная Плева Не Повреждена, Нарушат Ли Вагинальные Расширители Ее Целостность, Или Вызывает Ли Это Боль?</a></li>
-            <li><a href="../vaginal-dilators-for-treating-vaginismus/index.html"><i class="icon-angle-double-right"></i>Какие Вагинальные Расширители Наиболее Эффективны При Лечении Вагинизма?</a></li>
+            <li><a href="/ru/faq/dilator-questions/what-are-the-dilators-made-of/index.php"><i class="icon-angle-double-right"></i>Из Чего Сделаны Расширители?</a></li>
+            <li><a href="/ru/faq/dilator-questions/health-insurance-cover-dilators/index.php"><i class="icon-angle-double-right"></i>Покрывает Ли Моя Медицинская Страховка Приобретение Вагинальных Расширителей?</a></li>
+            <li><a href="/ru/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>Для Чего Вагинальные Расширители Используются При Лечении Вагинизма?</a></li>
+            <li><a href="/ru/faq/dilator-questions/can-i-just-get-dilators/index.php"><i class="icon-angle-double-right"></i>Можно Ли Использовать Расширители Вне Рамок Программы Лечения?</a></li>
+            <li><a href="/ru/faq/dilator-questions/dilators-treat-other-conditions/index.php" class="active"><i class="icon-angle-double-right"></i>Можно Ли Использовать Расширители Для Лечения Других Заболеваний, Кроме Вагинизма?</a></li>
+            <li><a href="/ru/faq/dilator-questions/will-dilators-break-hymen/index.php"><i class="icon-angle-double-right"></i>Если Моя Девственная Плева Не Повреждена, Нарушат Ли Вагинальные Расширители Ее Целостность, Или Вызывает Ли Это Боль?</a></li>
+            <li><a href="/ru/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>Какие Вагинальные Расширители Наиболее Эффективны При Лечении Вагинизма?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ
 </a>
         </aside>
       </div>

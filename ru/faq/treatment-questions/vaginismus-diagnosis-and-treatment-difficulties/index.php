@@ -18,16 +18,16 @@
           <p>Вагинизм является достаточно редким заболеванием, поэтому некоторые врачи вообще о нем не слышали, или же не имеют достаточного опыта в постановке диагноза или лечения вагинизма.</p>
 
           <h3>Почему в некоторых случаях женщинам кажется, что врачи не понимают их и их заболевания?</h3>
-          <p>Вагинизм – это заболевание, которое зачастую «остается незамеченным» в общей медицинской практике. Иногда женщины не получают необходимую медицинскую помощь или в некоторых случаях получают неверный <a href="../../../vaginismus-diagnosis/index.html">диагноз</a> или неправильную рекомендацию в отношении <a href="../../../vaginismus-treatment/index.html">лечения</a> поскольку врач может просто не знать о таком заболевании. Поскольку вагинизм относится к заболеваниям, которыми страдает менее 1% населения, многие врачи не получают достаточных знаний в ходе обучения относительно такого рода заболеваний.</p>
-          <p> Кроме того, поскольку при вагинизме может не быть симптомов какого-либо физического недомогания или заболевания, некоторые врачи полагают, что с такого рода жалобами женщин необходимо направить к другим более узким специалистам. К сожалению, в результате многие женщины остаются с ощущением, что врачи не понимают заболевание вагинизм, что это заболевание неизлечимо, или же, что вариантов <a href="../../../vaginismus-treatment/index.html">лечения</a> крайне мало.</p>
+          <p>Вагинизм – это заболевание, которое зачастую «остается незамеченным» в общей медицинской практике. Иногда женщины не получают необходимую медицинскую помощь или в некоторых случаях получают неверный <a href="/ru/vaginismus-diagnosis/index.php">диагноз</a> или неправильную рекомендацию в отношении <a href="/ru/vaginismus-treatment/index.php">лечения</a> поскольку врач может просто не знать о таком заболевании. Поскольку вагинизм относится к заболеваниям, которыми страдает менее 1% населения, многие врачи не получают достаточных знаний в ходе обучения относительно такого рода заболеваний.</p>
+          <p> Кроме того, поскольку при вагинизме может не быть симптомов какого-либо физического недомогания или заболевания, некоторые врачи полагают, что с такого рода жалобами женщин необходимо направить к другим более узким специалистам. К сожалению, в результате многие женщины остаются с ощущением, что врачи не понимают заболевание вагинизм, что это заболевание неизлечимо, или же, что вариантов <a href="/ru/vaginismus-treatment/index.php">лечения</a> крайне мало.</p>
 
           <h3>Барьеры для получения помощи квалифицированным и осведомленных о вагинизме медицинских специалистов</h3>
-          <p>Помимо сложности с нахождением медицинского специалиста, которых имеет знания и опыт в отношении диагноза и лечения вагинизма. Существуют и другие барьеры, затрудняющие получение квалифицированной помощи. Постановка правильного <a href="../../../vaginismus-diagnosis/index.html">диагноза</a> и назначение эффективного курса <a href="../../../vaginismus-treatment/index.html">лечения</a> врачами и физиотерапевтами может быть затруднено следующими факторами:</p>
+          <p>Помимо сложности с нахождением медицинского специалиста, которых имеет знания и опыт в отношении диагноза и лечения вагинизма. Существуют и другие барьеры, затрудняющие получение квалифицированной помощи. Постановка правильного <a href="/ru/vaginismus-diagnosis/index.php">диагноза</a> и назначение эффективного курса <a href="/ru/vaginismus-treatment/index.php">лечения</a> врачами и физиотерапевтами может быть затруднено следующими факторами:</p>
           <ul>
             <li>Глобальная нехватка специалистов или клиник, где врачи могут поставить точный диагноз вагинизм и назначить курс лечения</li>
             <li>Долгое время ожидания лечения для новых пациентов – у некоторых специалистов время ожидания может составить более 6 месяцев</li>
             <li>Несоответствие требованиям для прохождения лечения в специализированных клиниках. Процесс отбора пациентов может иметь слишком узкие рамки и отсеивать многих желающих пройти курс лечения</li>
-            <li>Стоимость – лечение у специалиста может стоить до 10 000 долларов, а в некоторых случаях и больше (таким образом, <a href="https://www.vaginismus.com/vaginismus-treatment/">курс лечения в домашних условиях</a> для некоторых женщин является единственным возможным вариантом)</li>
+            <li>Стоимость – лечение у специалиста может стоить до 10 000 долларов, а в некоторых случаях и больше (таким образом, <a href="/ru/vaginismus-treatment/index.php">курс лечения в домашних условиях</a> для некоторых женщин является единственным возможным вариантом)</li>
             <li>Время прохождения курса лечения может быть неудобным или слишком кратким для некоторых женщин</li>
             <li>Отсутствие доступа к лечению для женщин, живущих в отдаленных или труднодоступных регионах</li>
             <li>Ранее неправильно поставленный диагноз или грубое обращение могут вызвать недоверие к медицинским специалистам и/или другим специалистам, в результате чего у женщины может наблюдаться нежелание вновь обращаться за медицинской помощью</li>
@@ -36,7 +36,7 @@
 
           <h3>Самостоятельное лечение в домашних условиях</h3>
           <p>Мы пропагандируем и верим в эффективность и неоценимость поддержки квалифицированных медицинских специалистов, которые могут составить индивидуальную программу курса лечения вагинизма, в зависимости от уникальных особенностей ситуации женщины. Однако мы также понимаем, насколько трудно бывает получить помощь квалифицированного специалиста.</p>
-          <p>Какой бы сложной ни была ситуация, как ни сильно чувство стыда, и где бы не находилась женщина, страдающая вагинизмом, <a href="../../../products/vaginismus-treatment-kit/index.html">программа лечения в домашних</a> условиях предоставляет всю необходимую информацию и позволяет пройти курс лечения в домашних условиях. Программа позволяет каждой женщине понять природу ее заболевания и пройти курс лечения и добиться полного преодоления вагинизма.</p>
+          <p>Какой бы сложной ни была ситуация, как ни сильно чувство стыда, и где бы не находилась женщина, страдающая вагинизмом, <a href="/ru/products/vaginismus-treatment-kit/index.php">программа лечения в домашних</a> условиях предоставляет всю необходимую информацию и позволяет пройти курс лечения в домашних условиях. Программа позволяет каждой женщине понять природу ее заболевания и пройти курс лечения и добиться полного преодоления вагинизма.</p>
           <p>Хотя в идеале поддержка медицинского специалиста, направляющего курс лечения, является весьма полезной, эффективность самостоятельного лечения в домашних условиях неоспорима. Это статистически подтверждено результатами таких исследований, как исследование Шнайдера, Шнайдер-Лути, Баллинари и Блейзера (Schnyder, Schnyder-Luthi, Ballinari, &amp; Blaser) в 1998 году и исследование Ланквельда, Эвераеда и Гротйоханна (Lankveld, Everaerd, &amp; Grotjohann) в 2001 году.</p>
           <hr>
           <h3>Ссылки</h3>
@@ -48,11 +48,11 @@
           
           <h3>См. также</h3>
             <ul>
-              <li><a href="../../../vaginismus-diagnosis/index.html">Диагноз вагинизм</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">Как можно сохранить мотивацию и позитивный настрой в ходе курса лечения? Мне очень трудно дисциплинированно выполнять курс лечения.</a></li>
-              <li><a href="../men-help-wives/index.html">Как муж/партнер может помочь женщине в преодолении вагинизма?</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Рекомендуете ли Вы обращаться за помощью к медицинским специалистам, например, терапевтам, гинекологам, физиотерапевтам, психологам, психологам-консультантам, сексологам и другим специалистам?</a></li>
+              <li><a href="/ru/vaginismus-diagnosis/index.php">Диагноз вагинизм</a></li>
+              <li><a href="/ru/faq/treatment-questions/how-can-i-stay-motivated/index.php">Как можно сохранить мотивацию и позитивный настрой в ходе курса лечения? Мне очень трудно дисциплинированно выполнять курс лечения.</a></li>
+              <li><a href="/ru/faq/treatment-questions/men-help-wives/index.php">Как муж/партнер может помочь женщине в преодолении вагинизма?</a></li>
+              <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
+              <li><a href="/ru/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Рекомендуете ли Вы обращаться за помощью к медицинским специалистам, например, терапевтам, гинекологам, физиотерапевтам, психологам, психологам-консультантам, сексологам и другим специалистам?</a></li>
             </ul>
           
           <hr class="hidden-desktop"/>
@@ -63,27 +63,27 @@
           <aside class="large-3">
           <h2>ЧЗВ лечении</h2>
           <ul>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html"><i class="icon-angle-double-right"></i>Насколько Эффективно Лечение Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html"><i class="icon-angle-double-right"></i>Сколько Времени Занимает Курс Лечения Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/will-sex-ever-feel-good/index.html"><i class="icon-angle-double-right"></i>Будет Ли Секс Вновь Приносить Удовольствие?</a></li>
-            <li><a href="../../treatment-questions/further-support-after/index.html"><i class="icon-angle-double-right"></i>Существует Ли Дальнейшая Поддержка Для Женщин, Проходящих Курс Лечения Самостоятельно В Домашних Условиях?</a></li>
-            <li><a href="../../treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.html" class="active"><i class="icon-angle-double-right"></i>Почему Так Сложно Поставить Правильный Диагноз И Назначить Правильный Курс Лечения Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/other-treatment-for-vaginismus/index.html"><i class="icon-angle-double-right"></i>Существуют Ли Лекарства, Витамины Или Хирургические Процедуры, Которые Могут Решить Проблему Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html"><i class="icon-angle-double-right"></i>Чем Отличается Лечение Первичного Вагинизма От Лечения Вторичного Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/stop-intercourse-during-vaginismus-treatment/index.html"><i class="icon-angle-double-right"></i>Следует Ли Мне Отказаться От Попыток Осуществления Полового Акта Во Время Курса Лечения Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/will-program-help-long-sufferer/index.html"><i class="icon-angle-double-right"></i>Я Страдаю Вагинизмом Более 10 Лет. Не Слишком Ли Поздно Мне Начинать Лечение?</a></li>
-            <li><a href="../../treatment-questions/vaginismus-treatment-help-severe-cases/index.html"><i class="icon-angle-double-right"></i>Курс Лечения Вагинизма В Домашних Условиях Применим Только К Слабо Выраженным Случаям Вагинизма? Эффективен Ли Он При Вагинизме В Тяжелой Степени?</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html"><i class="icon-angle-double-right"></i>Рекомендуете Ли Вы Обращаться За Помощью К Медицинским Специалистам?</a></li>
-            <li><a href="../../treatment-questions/can-vaginismus-reoccur/index.html"><i class="icon-angle-double-right"></i>Может ли вагинизм возникнуть снова после полного его излечения?</a></li>
-            <li><a href="../../treatment-questions/erection-problems/index.html"><i class="icon-angle-double-right"></i>Мой муж испытывает проблемы с сохранением эрекции. Любой совет? </a></li>
-            <li><a href="../../treatment-questions/single-vaginismus-treatment/index.html"><i class="icon-angle-double-right"></i>Может Ли Одинокая Женщина Полностью Преодолеть Вагинизм? </a></li>
-            <li><a href="../../treatment-questions/men-help-wives/index.html"><i class="icon-angle-double-right"></i>Как Муж/Партнер Может Помочь Женщине В Преодолении Вагинизма?</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html"><i class="icon-angle-double-right"></i>Как Можно Сохранить Мотивацию И Позитивный Настрой В Ходе Курса Лечения? Мне Очень Трудно Дисциплинированно Выполнять Курс Лечения.</a></li>
-            <li><a href="../../treatment-questions/passionate-again/index.html"><i class="icon-angle-double-right"></i>Вагинизм Негативно Повлиял На Наш Брак. Как Мы Можем Восстановить Прежний Пыл И Страсть В Наших Отношениях?</a></li>
-            <li><a href="../../treatment-questions/vaginismus-treatment-professional-program-help/index.html"><i class="icon-angle-double-right"></i>Я – Медик, Специализирующийся На Лечении Вагинизма; Как Программа Лечения, Представленная На Вебсайте Vaginismus.Com Может Помочь Моим Пациентам?</a></li>
-            <li><a href="../../treatment-questions/queasy-about-treatment/index.html"><i class="icon-angle-double-right"></i>Я Не Могу Даже Смотреть «Туда», Не Говоря Уже О Том, Чтобы Пытаться Вводить Какой-То Предмет Во Влагалище. Как Я Смогу Пройти Курс Лечения?</a></li>
+            <li><a href="/ru/faq/treatment-questions/vaginismus-treatment-success-rates/index.php"><i class="icon-angle-double-right"></i>Насколько Эффективно Лечение Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/how-long-does-treatment-take/index.php"><i class="icon-angle-double-right"></i>Сколько Времени Занимает Курс Лечения Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/will-sex-ever-feel-good/index.php"><i class="icon-angle-double-right"></i>Будет Ли Секс Вновь Приносить Удовольствие?</a></li>
+            <li><a href="/ru/faq/treatment-questions/further-support-after/index.php"><i class="icon-angle-double-right"></i>Существует Ли Дальнейшая Поддержка Для Женщин, Проходящих Курс Лечения Самостоятельно В Домашних Условиях?</a></li>
+            <li><a href="/ru/faq/treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.php" class="active"><i class="icon-angle-double-right"></i>Почему Так Сложно Поставить Правильный Диагноз И Назначить Правильный Курс Лечения Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/other-treatment-for-vaginismus/index.php"><i class="icon-angle-double-right"></i>Существуют Ли Лекарства, Витамины Или Хирургические Процедуры, Которые Могут Решить Проблему Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php"><i class="icon-angle-double-right"></i>Чем Отличается Лечение Первичного Вагинизма От Лечения Вторичного Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/stop-intercourse-during-vaginismus-treatment/index.php"><i class="icon-angle-double-right"></i>Следует Ли Мне Отказаться От Попыток Осуществления Полового Акта Во Время Курса Лечения Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/will-program-help-long-sufferer/index.php"><i class="icon-angle-double-right"></i>Я Страдаю Вагинизмом Более 10 Лет. Не Слишком Ли Поздно Мне Начинать Лечение?</a></li>
+            <li><a href="/ru/faq/treatment-questions/vaginismus-treatment-help-severe-cases/index.php"><i class="icon-angle-double-right"></i>Курс Лечения Вагинизма В Домашних Условиях Применим Только К Слабо Выраженным Случаям Вагинизма? Эффективен Ли Он При Вагинизме В Тяжелой Степени?</a></li>
+            <li><a href="/ru/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php"><i class="icon-angle-double-right"></i>Рекомендуете Ли Вы Обращаться За Помощью К Медицинским Специалистам?</a></li>
+            <li><a href="/ru/faq/treatment-questions/can-vaginismus-reoccur/index.php"><i class="icon-angle-double-right"></i>Может ли вагинизм возникнуть снова после полного его излечения?</a></li>
+            <li><a href="/ru/faq/treatment-questions/erection-problems/index.php"><i class="icon-angle-double-right"></i>Мой муж испытывает проблемы с сохранением эрекции. Любой совет? </a></li>
+            <li><a href="/ru/faq/treatment-questions/single-vaginismus-treatment/index.php"><i class="icon-angle-double-right"></i>Может Ли Одинокая Женщина Полностью Преодолеть Вагинизм? </a></li>
+            <li><a href="/ru/faq/treatment-questions/men-help-wives/index.php"><i class="icon-angle-double-right"></i>Как Муж/Партнер Может Помочь Женщине В Преодолении Вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/how-can-i-stay-motivated/index.php"><i class="icon-angle-double-right"></i>Как Можно Сохранить Мотивацию И Позитивный Настрой В Ходе Курса Лечения? Мне Очень Трудно Дисциплинированно Выполнять Курс Лечения.</a></li>
+            <li><a href="/ru/faq/treatment-questions/passionate-again/index.php"><i class="icon-angle-double-right"></i>Вагинизм Негативно Повлиял На Наш Брак. Как Мы Можем Восстановить Прежний Пыл И Страсть В Наших Отношениях?</a></li>
+            <li><a href="/ru/faq/treatment-questions/vaginismus-treatment-professional-program-help/index.php"><i class="icon-angle-double-right"></i>Я – Медик, Специализирующийся На Лечении Вагинизма; Как Программа Лечения, Представленная На Вебсайте Vaginismus.Com Может Помочь Моим Пациентам?</a></li>
+            <li><a href="/ru/faq/treatment-questions/queasy-about-treatment/index.php"><i class="icon-angle-double-right"></i>Я Не Могу Даже Смотреть «Туда», Не Говоря Уже О Том, Чтобы Пытаться Вводить Какой-То Предмет Во Влагалище. Как Я Смогу Пройти Курс Лечения?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

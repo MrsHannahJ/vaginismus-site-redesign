@@ -23,7 +23,7 @@
       <section class="product-description-0">
         <div class="wrapper">
           <div class="large-8 medium-8">
-            <img src="../../../img/ru/treatment-kit-rus.jpg" alt="Вагинизм Лечение Kit: Расширитель Set, Главная Программа лечения, Обучающий DVD.">
+            <img src="/img/ru/treatment-kit-rus.jpg" alt="Вагинизм Лечение Kit: Расширитель Set, Главная Программа лечения, Обучающий DVD.">
           </div>
           <div class="large-4 medium-4">
             <h2>Bключает:</h2>
@@ -38,7 +38,7 @@
             <p class="product-price">$90.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Плюс доставка и транспортировка.</p>
             <p><a class="shaded-btn" href="#">Добавить В Корзину</a></p>
-            <p><a href="../../reviews/kit-reviews/index.html">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/ru/reviews/kit-reviews/index.php">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -47,11 +47,11 @@
       <section class="product-description-1">
         <div class="wrapper">
           <div class="large-5">
-            <img src="../../../img/ru/book-rus.jpg" alt="книга">
+            <img src="/img/ru/book-rus.jpg" alt="книга">
           </div>
           <div class="large-7">
             <h2>книга для лечения вагинизма в домашних условиях</h2>
-             <p>Прекрасно иллюстрированное издание, содержащее более 300 страниц, в котором подробно описывается курс лечения вагинизма в домашних условиях. В этом книгa представлены все аспекты успешного лечения вагинизма в домашних условиях в доступном формате пошаговой программы лечения.  <strong>Полное преодоление вагинизма</strong> – практический подход к достижению безболезненных половых отношений. Десять этапов программы лечения позволяют женщине понять причину возникновения рефлекторных спазмов ЛК мышц при попытке осуществления полового акта и предлагают полный комплекс упражнений для преодоления вагинизма в комфортных домашних условиях. Здесь представлена вся необходимая информация: контроль над мышцами тазового дна, устранение боли, решение эмоциональных проблем, упражнения с вагинальными расширителями, упражнения на чувственное познание, переход к осуществлению полового акта и многое другое. Результатом прохождения программы лечения является возможность осуществлять полноценный половой акт. (<a href="../../reviews/index.html">См. отзывы читателей</a>)</p>
+             <p>Прекрасно иллюстрированное издание, содержащее более 300 страниц, в котором подробно описывается курс лечения вагинизма в домашних условиях. В этом книгa представлены все аспекты успешного лечения вагинизма в домашних условиях в доступном формате пошаговой программы лечения.  <strong>Полное преодоление вагинизма</strong> – практический подход к достижению безболезненных половых отношений. Десять этапов программы лечения позволяют женщине понять причину возникновения рефлекторных спазмов ЛК мышц при попытке осуществления полового акта и предлагают полный комплекс упражнений для преодоления вагинизма в комфортных домашних условиях. Здесь представлена вся необходимая информация: контроль над мышцами тазового дна, устранение боли, решение эмоциональных проблем, упражнения с вагинальными расширителями, упражнения на чувственное познание, переход к осуществлению полового акта и многое другое. Результатом прохождения программы лечения является возможность осуществлять полноценный половой акт. (<a href="/ru/reviews/index.php">См. отзывы читателей</a>)</p>
           </div>
         </div>
       </section>
@@ -60,7 +60,7 @@
       <section class="product-description-2">
         <div class="wrapper">
           <div class="large-6">
-          <img src="../../../img/products/products-dilator-set.jpg" alt="Шесть расширитель набор с универсальной ручкой и сумкой для переноски.">
+          <img src="/img/products/products-dilator-set.jpg" alt="Шесть расширитель набор с универсальной ручкой и сумкой для переноски.">
           </div>
           <div class="large-6">
             <h2>Набор вагинальных расширителей</h2>
@@ -81,7 +81,7 @@
       <section class="product-description-3">
         <div class="wrapper">
           <div class="large-6">
-            <img src="../../../img/products/products-medically-safe.jpg" alt="Расширитель и универсальная ручка">
+            <img src="/img/products/products-medically-safe.jpg" alt="Расширитель и универсальная ручка">
           </div>
           <div class="large-6">
             <h2>Безопасные и удобные в использовании</h2>
@@ -94,7 +94,7 @@
 <!--   DILATOR SIZE IMAGE SECTION   -->
       <section>
         <div class="wrapper">
-          <img src="../../../img/ru/dilator-sizes-with-measurements-rus.jpg" alt="6 расширитель установлен. Расширитель A: диаметр до 0,6 дюйма (15 мм) и длиной 3,48 дюйма (88mm). Расширитель B: диаметр до .88 дюйма (22 мм) и длиной 3,97 дюйма (101 мм). Расширитель C: диаметр до 1,04 дюйма (26 мм) и длиной 4,46 дюймов (113мм). Расширитель D: диаметр до 1,19 дюйма (30 мм) и длиной 4,95 дюймов (126мм). Расширитель E: диаметр до 1,35 дюйма (34мм) и длиной 5,45 дюймов (138мм). Расширитель F: диаметр до 1,5 дюйма (38мм) и длиной 5,96 дюйма (151mm). Универсальная ручка подходит для всех размеров.">
+          <img src="/img/ru/dilator-sizes-with-measurements-rus.jpg" alt="6 расширитель установлен. Расширитель A: диаметр до 0,6 дюйма (15 мм) и длиной 3,48 дюйма (88mm). Расширитель B: диаметр до .88 дюйма (22 мм) и длиной 3,97 дюйма (101 мм). Расширитель C: диаметр до 1,04 дюйма (26 мм) и длиной 4,46 дюймов (113мм). Расширитель D: диаметр до 1,19 дюйма (30 мм) и длиной 4,95 дюймов (126мм). Расширитель E: диаметр до 1,35 дюйма (34мм) и длиной 5,45 дюймов (138мм). Расширитель F: диаметр до 1,5 дюйма (38мм) и длиной 5,96 дюйма (151mm). Универсальная ручка подходит для всех размеров.">
         </div>
       </section>
       
@@ -104,12 +104,12 @@
 
 <!--  Replace these images with coded text-->
           <div class="large-6 medium-6">
-            <img src="../../../img/ru/included-items-rus.png" alt="Включены бонусные пункты: информационная брошюра расширитель, вагинизм информационную брошюру, 2 образца личного смазочного материала упаковки.">
+            <img src="/img/ru/included-items-rus.png" alt="Включены бонусные пункты: информационная брошюра расширитель, вагинизм информационную брошюру, 2 образца личного смазочного материала упаковки.">
             <h3><strong>Могу ли я вернуть приобретенные вагинальные расширители?  </strong></h3>
             <p>Мы не принимаем приобретенные клиентами вагинальные расширители. По соображениям гигиены и безопасности, а также в целях соблюдения требований FDA в отношении вагинальных расширителей, проданные вагинальные расширители не принимаются к возврату и не подлежат повторной продаже.</p>
           </div>
           <div class="large-6 medium-6">
-            <img src="../../../img/ru/product-quality-rus.png" alt="Наша продукция: Toxic Free, США Сделано, медицинского качества.">
+            <img src="/img/ru/product-quality-rus.png" alt="Наша продукция: Toxic Free, США Сделано, медицинского качества.">
             <h3><strong>Примечание для врачей</strong></h3>
             <p>Данные вагинальные расширители являются официально зарегистрированным медицинским продуктом (FDA INT), не содержащим токсичных веществ и латекса. Они являются высокоэффективными при использовании для программ восстановления после хирургической операции, а также для лечения вагинизма, диспареунии, вагинального сужения или других подобных гинекологических заболеваний. [Код CPT: Процедура 57400 или 58999, Код HCPCS: E1399, Продукт: 99070]</p>
           </div>
@@ -120,14 +120,14 @@
       <section class="product-description-5">
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <a href="../vaginismus-video/index.html"><img src="../../../img/products/products-instructional-video.png" alt="Вагинизм Видео Ресурсы DVD"></a>
+            <a href="../vaginismus-video/index.php"><img src="/img/products/products-instructional-video.png" alt="Вагинизм Видео Ресурсы DVD"></a>
           </div>
           <div class="large-6 medium-6">
             <div class="opaque-box">
               <h2>Обучающее видео</h2>
               <h3>Уникальный видеоматериал для лечения вагинизма.</h3>
               <p>Видеоматериал «Лечение вагинизма» посвящен истории супружеской пары, проходящей курс лечения вагинизма под руководством медицинского специалиста. Основное внимание в видеоматериале уделено правильному использованию вагинальных расширителей в рамках программы лечения вагинизма. Этот видеоматериал предназначен для использования в сочетании с программой лечения вагинизма в домашних условиях, изложенной в книгах о лечении вагинизма.</p>
-              <a href="../vaginismus-video/index.html">Узнать больше <i class="icon-angle-double-right"></i></a>
+              <a href="../vaginismus-video/index.php">Узнать больше <i class="icon-angle-double-right"></i></a>
             </div>
           </div>
         </div>
@@ -137,12 +137,12 @@
       <section class="product-description-6">
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="../../../img/products/products-forum-pass.jpg" alt="Форум Pass В комплекте с покупкой">
+            <img src="/img/products/products-forum-pass.jpg" alt="Форум Pass В комплекте с покупкой">
             <h2>Пропуск для участия в форуме, посвященном вагинизму</h2>
-            <p>Вам не нужно пытаться справиться с вагинизмом в одиночку! Эксклюзивный пропуск для участия в форуме, посвященном вагинизму, позволяет женщинам анонимно участвовать в полезном и строго конфиденциальном сообществе (включая доступ к модераторам). <a href="../../forum-introduction/index.html">Узнать больше<i class="icon-angle-double-right"></i></a></p>
+            <p>Вам не нужно пытаться справиться с вагинизмом в одиночку! Эксклюзивный пропуск для участия в форуме, посвященном вагинизму, позволяет женщинам анонимно участвовать в полезном и строго конфиденциальном сообществе (включая доступ к модераторам). <a href="/ru/forum-introduction/index.php">Узнать больше<i class="icon-angle-double-right"></i></a></p>
           </div>
           <div class="large-6 medium-6">
-            <img src="../../../img/ru/bonus-items-rus.jpg" alt="Бонусные пункты: брошюры, образцы смазки и ватный тампон пакет.">
+            <img src="/img/ru/bonus-items-rus.jpg" alt="Бонусные пункты: брошюры, образцы смазки и ватный тампон пакет.">
             <h2>Бонусные продукты</h2>
             <p>В число дополнительных продуктов входит набор ватных палочек (для Шага 5 программы), две пробные упаковки вагинального лубриканта, и брошюры по уходу за изделиями.</p>
           </div>
@@ -157,13 +157,13 @@
             <p>Отличное предложение — Полная программа лечения вагинизма по цене ниже, чем стоимость одной традиционной консультации специалиста. Присоединяйтесь к тысячам женщин, преодолевших вагинизм — Закажите набор сегодня!</p>
           </div>
           <div class="large-4 medium-4">
-            <img src="../../../img/ru/treatment-kit-rus.jpg" alt="Вагинизм Лечение Kit: Расширитель Set, Главная Программа лечения, Обучающий DVD.">
+            <img src="/img/ru/treatment-kit-rus.jpg" alt="Вагинизм Лечение Kit: Расширитель Set, Главная Программа лечения, Обучающий DVD.">
           </div>
           <div class="large-4 medium-4">
             <p class="product-price">$90.95<sup><span>USD</span></sup></p>
             <p class="product-price-caption">*Плюс доставка и транспортировка.</p>
             <p><a class="shaded-btn" href="#">Добавить В Корзину</a></p>
-            <p><a href="../../reviews/kit-reviews/index.html">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
+            <p><a href="/ru/reviews/kit-reviews/index.php">Отзывы клиентов<i class="icon-angle-double-right"></i></a></p>
           </div>
         </div>
       </section>
@@ -171,7 +171,7 @@
 <!--   TREATMENT BANNER   -->
       <section class="treatment-banner grad1">
         <h2>Смотреть страницу Часто задаваемые вопросы о расширителях</h2>
-        <p><a class="white-btn" href="../../faq/index.html#treatment-faq">Узнать больше</a></p>
+        <p><a class="white-btn" href="/ru/faq/index.php#treatment-faq">Узнать больше</a></p>
       </section>
 
       
@@ -182,7 +182,7 @@
         <div class="wrapper">
           <div class="large-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-contact-icon.png" alt="значок контакта"/>
+              <img src="/img/products/products-contact-icon.png" alt="значок контакта"/>
               <hr>
               <p>Бесплатный номер в США: <a href="tel:+1-888-426-9900">1.888.426.9900</a></p>
 
@@ -194,24 +194,24 @@
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-guarantee-icon.png" alt="гарантия значок">
+              <img src="/img/products/products-guarantee-icon.png" alt="гарантия значок">
               <hr>
               <ul>
-                <li><span><a href="../../faq/customer-service-questions/guarantee-faqs/index.html">Гарантированные самые низкие цены</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Гарантированная доставка</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Простой процесс возврата</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/shipping-faqs/index.html">Доставка по всему миру</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/guarantee-faqs/index.php">Гарантированные самые низкие цены</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php">Гарантированная доставка</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/ordering-faqs/index.php">Простой процесс возврата</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php">Доставка по всему миру</a></span></li>
               </ul>
             </div>
           </div>
           <div class="large-3 medium-6">
             <div class="badge-box">
-              <img src="../../../img/products/products-shield-icon.png" alt="значок щита">
+              <img src="/img/products/products-shield-icon.png" alt="значок щита">
               <hr>
               <ul>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Надежность и безопасность</a></span></li>
-                <li><span><a href="../../faq/index.html#customer-service-faq">Быстрые и эффективные платежи</a></span></li>
-                <li><span><a href="../../faq/customer-service-questions/privacy-policy/index.html">Полная конфиденциальность</a></span></li>
+                <li><span><a href="/ru/faq/index.php#customer-service-faq">Надежность и безопасность</a></span></li>
+                <li><span><a href="/ru/faq/index.php#customer-service-faq">Быстрые и эффективные платежи</a></span></li>
+                <li><span><a href="/ru/faq/customer-service-questions/privacy-policy/index.php">Полная конфиденциальность</a></span></li>
               </ul>
             </div>
           </div>
@@ -222,10 +222,10 @@
       <div class="credit-and-shipping">
        <div class="wrapper">
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover и American Express принимаются" />
+           <img src="/img/products/products-creditcards-icon.png" alt="Visa, Mastercard, PayPal, Discover и American Express принимаются" />
          </div>
          <div class="large-6 medium-6">
-           <img src="../../../img/products/products-shipping-icon.jpg" alt="DHL и Почтовая служба Соединенных Штатов доставка" />
+           <img src="/img/products/products-shipping-icon.jpg" alt="DHL и Почтовая служба Соединенных Штатов доставка" />
          </div>
            
          </div>

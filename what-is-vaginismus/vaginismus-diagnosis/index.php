@@ -26,16 +26,16 @@
     
 <div class="wrapper">
   <h2>Quick Diagnosis</h2>
-  <h4>Strong indicators of vaginismus include any of the following (see <a href="../vaginismus-symptoms/index.html">Vaginismus Symptoms</a> for more detailed information):</h4>
+  <h4>Strong indicators of vaginismus include any of the following (see <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">Vaginismus Symptoms</a> for more detailed information):</h4>
   <div class="large-6 medium-6">
     <img src="/img/icons/green-people.png" alt="penetration problems" aria-hidden="true"/>
     <h3>Penetration Problems</h3>
-    <p>Difficult penetration or impossible intercourse / unconsummated couples. Female penetration problems and <a href="../vaginismus-symptoms/index.html#unconsummated-marriages">unconsummated marriages</a> are typically due to vaginismus. Entry tightness and pain are common symptoms of vaginismus.</p>
+    <p>Difficult penetration or impossible intercourse / unconsummated couples. Female penetration problems and <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">unconsummated marriages</a> are typically due to vaginismus. Entry tightness and pain are common symptoms of vaginismus.</p>
   </div>
   <div class="large-6 medium-6">
     <img src="/img/icons/shield.png" alt="medical problems" aria-hidden="true"/>
     <h3>Medical Problems</h3>
-    <p>Ongoing sexual pain after a pelvic problem, medical issue, or surgery. The experience of ongoing sexual pain or tightness after resolving or managing a <a href="../vaginismus-causes/index.html">pelvic medical or pain issue</a> is typically due to vaginismus (see also <a href="../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">dyspareunia</a>).</p>
+    <p>Ongoing sexual pain after a pelvic problem, medical issue, or surgery. The experience of ongoing sexual pain or tightness after resolving or managing a <a href="/what-is-vaginismus/vaginismus-causes/index.php">pelvic medical or pain issue</a> is typically due to vaginismus (see also <a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">dyspareunia</a>).</p>
   </div>
   </div>
 <div class="wrapper">
@@ -54,7 +54,7 @@
   <div class="large-6 medium-6 no-float">
     <img src="/img/icons/heart.png" alt="after childbirth" aria-hidden="true"/>
     <h3>After Childbirth</h3>
-    <p>The experience of ongoing <a href="../faq/pregnancy-questions/can-childbirth-cause-vaginismus/index.html">sexual pain or tightness following childbirth</a> (after everything has healed) is typically due to secondary vaginismus.</p>
+    <p>The experience of ongoing <a href="/further-support/pregnancy-questions/can-childbirth-cause-vaginismus/index.php">sexual pain or tightness following childbirth</a> (after everything has healed) is typically due to secondary vaginismus.</p>
   </div>
 </div>
 </section>
@@ -70,22 +70,22 @@
       <p>Many physicians are unfamiliar with vaginismus, so part of the process is simply finding a physician that is knowledgeable about the condition. A successful medical diagnosis of vaginismus is typically determined through patient history and description of the problem, gynecological examination and the process of ruling out the possibility of other conditions. Talking to physicians about sexual problems can be difficult. Embarrassment, shame, and anxiety are often present, making it hard to communicate and obtain appropriate care.</p>
     </div>
     <div class="large-4">
-      <p>A medical diagnosis is helpful in removing any doubts or anxiety related to identifying the condition and enables women to have more confidence in moving toward <a href="../vaginismus-treatment/index.html">treatment</a> solutions. Sexual pain disorders like vaginismus are commonly misdiagnosed or left unaddressed. Women may need to be very courageous in persevering until their concerns are given due attention and a reliable medical diagnosis is reached. In some cases and locations, a solid medical diagnosis is not always available or possible. This is especially true in nations with fewer health care options.</p>
+      <p>A medical diagnosis is helpful in removing any doubts or anxiety related to identifying the condition and enables women to have more confidence in moving toward <a href="/treatment/index.php">treatment</a> solutions. Sexual pain disorders like vaginismus are commonly misdiagnosed or left unaddressed. Women may need to be very courageous in persevering until their concerns are given due attention and a reliable medical diagnosis is reached. In some cases and locations, a solid medical diagnosis is not always available or possible. This is especially true in nations with fewer health care options.</p>
       <div class="call-out">
         <p>Our mission is to help as many women as possible with this condition.</p>
       </div>
-      <p>This website details important information about vaginismus and we invite all those suspecting a possible diagnosis to read through the various site topic areas such as <a href="../vaginismus-symptoms/index.html">symptoms</a>,
-      <a href="../vaginismus-stories/index.html">stories</a>, <a href="../vaginismus-causes/index.html">causes</a>, <a href="../vaginismus-treatment/index.html">treatment</a>, <a href="../reviews/index.html">user/medical feedback</a>                    and <a href="../faq/index.html">FAQs</a>, to learn as much as they can about the condition and perhaps to shed some light onto their own situations.</p>
-      <p>Today, there are many wonderful resources to help women learn about vaginismus and treatment. The <a href="../products/completely-overcome-vaginismus-book-set/index.html">self-help books</a> offered through our website, go into great detail about the symptoms, causes, and treatment protocols for successful vaginismus help.</p>
+      <p>This website details important information about vaginismus and we invite all those suspecting a possible diagnosis to read through the various site topic areas such as <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">symptoms</a>,
+      <a href="/what-is-vaginismus/vaginismus-stories/vaginismus-stories/index.php">stories</a>, <a href="/what-is-vaginismus/vaginismus-causes/index.php">causes</a>, <a href="../vaginismus-treatment/index.php">treatment</a>, <a href="../reviews/index.php">user/medical feedback</a>                    and <a href="../faq/index.php">FAQs</a>, to learn as much as they can about the condition and perhaps to shed some light onto their own situations.</p>
+      <p>Today, there are many wonderful resources to help women learn about vaginismus and treatment. The <a href="../products/completely-overcome-vaginismus-book-set/index.php">self-help books</a> offered through our website, go into great detail about the symptoms, causes, and treatment protocols for successful vaginismus help.</p>
       
       <img src="/img/diagnosis/medical-test-qa-box-.png" alt="Question: Is there a simple medical test I can take that would tell me if I have vaginismus? Answer: There is no medical test that can be taken to confirm the vaginismus condition. Vaginismus is diagnosed through patient history, the description of the problem/pain and gynecological examination to rule out the possibility of other conditions.">
     </div>
     <div class="large-4">
       <img src="/img/diagnosis/doctor-office.jpg" alt="doctor office">
-      <p>Medical websites, such as those listed in our vaginismus <a href="../resources/index.html">community</a> area, can help women find useful information about different types of pelvic pain disorders to help them sort through and understand different conditions. There are many specialists from diverse fields who can assist with the diagnosis and treatment of pelvic floor problems. Sources for vaginismus diagnostic help may also include:</p>
+      <p>Medical websites, such as those listed in our vaginismus <a href="/further-support/professional-assistance/index.php">related conditions</a>, can help women find useful information about different types of pelvic pain disorders to help them sort through and understand different conditions. There are many specialists from diverse fields who can assist with the diagnosis and treatment of pelvic floor problems. Sources for vaginismus diagnostic help may also include:</p>
       <ul>
         <li><strong>Gynecologists</strong> – A gynecologist is a medical doctor who has specialized training in diagnosing and treating female pelvic health issues. Not all gynecologists have experience with vaginismus diagnosis and treatment, but gynecologists are tremendously knowledgeable and will be able to help rule out other conditions, clarify health issues and may be a great ally in the road to restoration.</li>
-        <li><strong>Physical Therapists</strong> – There are growing numbers of physical therapists specializing in pelvic floor and sexual pain disorders like vaginismus. Many physical therapists will work with patients to set up home programs allowing women to work at their own pace, in privacy, and at a lower cost. The <a href="../resources/press/apta-journal-of-womens-health-physical-therapy-review-by-beth-shelly/index.html">American Physical Therapy Association</a>, Journal of Women’s Health Physical Therapy, published a recommendation for the use of our materials for all women with vaginismus, and many therapists use the materials to help guide their patients through successful home treatment.</li>
+        <li><strong>Physical Therapists</strong> – There are growing numbers of physical therapists specializing in pelvic floor and sexual pain disorders like vaginismus. Many physical therapists will work with patients to set up home programs allowing women to work at their own pace, in privacy, and at a lower cost. The <a href="../resources/press/apta-journal-of-womens-health-physical-therapy-review-by-beth-shelly/index.php">American Physical Therapy Association</a>, Journal of Women’s Health Physical Therapy, published a recommendation for the use of our materials for all women with vaginismus, and many therapists use the materials to help guide their patients through successful home treatment.</li>
         <li><strong>Sex Therapists, Psychologists, and Counselors</strong> – There are many other specialists who have varying degrees of experience with vaginismus.</li>
       </ul>
     </div>
@@ -109,14 +109,14 @@
   <div class="wrapper">
   <div class="large-4">
     <p><strong>Burning, tightness, and difficult penetration symptoms may not be at all noticeable during the pelvic exam. </strong>For some women, these symptoms occur only during intercourse attempts. For this reason, diagnosis must involve serious consideration of the woman’s concerns which might be stated vaguely as “I’m having difficulty with sex.”</p>
-    <p>Sometimes, busy health care professionals will fail to recognize the signs of vaginismus and give standard (but unhelpful) advice to just “use more lubricant,” “try to relax more,” or “drink some wine.” This may be due to a lack of familiarity with vaginismus or reliance on outdated literature on the condition. Due to <a href="../vaginismus-causes/index.html#pc-muscles">PC muscle</a> tightness, some women with vaginismus find gynecological exams to be extremely painful and are unable to tolerate them. If a woman suspects she may have difficulty completing an exam, she should communicate this to her physician.</p>
+    <p>Sometimes, busy health care professionals will fail to recognize the signs of vaginismus and give standard (but unhelpful) advice to just “use more lubricant,” “try to relax more,” or “drink some wine.” This may be due to a lack of familiarity with vaginismus or reliance on outdated literature on the condition. Due to <a href="../vaginismus-causes/index.php#pc-muscles">PC muscle</a> tightness, some women with vaginismus find gynecological exams to be extremely painful and are unable to tolerate them. If a woman suspects she may have difficulty completing an exam, she should communicate this to her physician.</p>
     <div class="call-out">
       <p>Instead of recognizing the vaginismus condition, a physician may falsely believe a woman's vagina is too small, when/if she is unable to complete a pelvic exam.</p>
     </div>
     <p>There are adjustments (e.g. body positioning, size of speculum used, and nurse support) that can be made to contribute to a more positive experience. A physician who is familiar with the vaginismus condition will be more suited to providing a comfortable and sensitive environment.</p>
   </div>
   <div class="large-4">
-    <p>When there is constant vaginal tightness for the duration of the pelvic exam, it may appear to the physician as though there is an <a href="../faq/general-questions/vagina-too-small/index.html">unusually small vagina</a> or a <a href="../faq/general-questions/hymen-problems/index.html">hymen abnormality</a> problem.</p>
+    <p>When there is constant vaginal tightness for the duration of the pelvic exam, it may appear to the physician as though there is an <a href="../faq/general-questions/vagina-too-small/index.php">unusually small vagina</a> or a <a href="../faq/general-questions/hymen-problems/index.php">hymen abnormality</a> problem.</p>
     <p>A doctor&#8217;s false belief that the vagina is too small, combined with the patient’s urgent complaint that she cannot have penetrative sex with her spouse or that sex really hurts, may further lead to the false assumption that the vagina requires corrective surgery to enlarge the opening and allow entry.</p>
     <p>Though there may be rare exceptions, women with vaginismus typically have completely normal genitalia. The constriction of the vagina is due solely to the tight involuntary spasm of the pelvic floor muscles. Unfortunately, some physicians continue to press forward with the pelvic exam causing great discomfort and pain for the woman. This traumatic experience in itself can contribute to the vaginismus condition.</p>
     <p>With vaginismus, the simple approach of a physician’s hand may have the effect of tightening the pelvic floor muscles and making the vaginal entrance seem very small and tight. Note that not all women with vaginismus will experience tightness during a medical exam (tightness may only occur during sex attempts).</p>
@@ -128,7 +128,7 @@
       <p>There is no surgery to cure vaginismus. It is very important to seek a second opinion if surgery to "widen" the the vaginal opening has been recommended.</p>
     </div>
     <p>Surgery does not normally resolve the penetration problem, but instead may further complicate the problem. Unnecessary, invasive, and potentially harmful surgeries and medications have been suggested for women with vaginismus who have not been properly diagnosed.</p>
-    <p>Vaginismus is a highly treatable condition that does not require any invasive procedures (see <a href="../vaginismus-treatment/index.html">Vaginismus Treatment</a>). Many women seeking diagnosis are often simply left undiagnosed and turned away by physicians who fail to find anything physically wrong and feel there is nothing more they can do. They may not consider a diagnosis of vaginismus due to simple lack of awareness.</p>
+    <p>Vaginismus is a highly treatable condition that does not require any invasive procedures (see <a href="../vaginismus-treatment/index.php">Vaginismus Treatment</a>). Many women seeking diagnosis are often simply left undiagnosed and turned away by physicians who fail to find anything physically wrong and feel there is nothing more they can do. They may not consider a diagnosis of vaginismus due to simple lack of awareness.</p>
   </div>
   </div>
   </section>

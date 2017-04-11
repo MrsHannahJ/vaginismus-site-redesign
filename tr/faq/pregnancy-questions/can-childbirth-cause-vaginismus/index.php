@@ -17,14 +17,14 @@
           <h3>Kadınlar doğumdan sonra devam eden cinsel acı, yanma, sıkılık, rahatsızlık ya da giriş zorlukları yaşadıklarında bu tipik olarak vajinismustur.</h3>
           <p>Neyse ki, vajinismus doğal doğumun normal sonuçlarından değildir. Ancak bir kadının doğum sürecinde fiziksel veya duygusal bir travma yaşaması, vajinismus durumunu tetikleyebilir.</p>
           <p>Doğum sonrasında cinsel ilişki, epizyotomi, perinenin yırtılması gibi geçici vajinal berelenme ve prosedürler sebebiyle veya iyileşme tamamlanmadan cinsel ilişkide bulunmaya çalışma ve/veya hormonal değişiklikler/emzirmeden ötürü vajinal kuruluk sebepleriyle rahatsız veya acılı olabilir. Cinsel ilişkiye başlandığından bir miktar vajinal hassasiyet olması normaldir. Ancak, sürekli olarak birleşme zorlukları yaşanması ayrıntılı inceleme gerektirebilir ve sebebi vajinismus olabilir.</p>
-          <p>Vajinismus bir kez tetiklendikten sonra, giriş çabasında bulunulduğunda vücudun pelvik tabanı sıkılaştırmasına neden olur ve yeniden cinsel birleşme çabasında bulunmayı çok zorlaştırır. Cinsel birleşme çabaları acı ve başarısızlıkla sonuçlandığında, vücut bu duruma daha da kuvvetle tepki göstererek vajinismus etkisini daha da sağlamlaştırır. Bu durum devam eden ve gitgide kötüleşen bir deneyime dönüştükçe bundan bazen <a href="../../../vaginismus-causes/index.html">acı döngüsü</a> olarak söz edilir. Vajinismus belirtileri ne kadar erken teşhis ve tedavi edilirse, çözümlenmeleri de o kadar kolay olur.</p>
+          <p>Vajinismus bir kez tetiklendikten sonra, giriş çabasında bulunulduğunda vücudun pelvik tabanı sıkılaştırmasına neden olur ve yeniden cinsel birleşme çabasında bulunmayı çok zorlaştırır. Cinsel birleşme çabaları acı ve başarısızlıkla sonuçlandığında, vücut bu duruma daha da kuvvetle tepki göstererek vajinismus etkisini daha da sağlamlaştırır. Bu durum devam eden ve gitgide kötüleşen bir deneyime dönüştükçe bundan bazen <a href="/tr/vaginismus-causes/index.php">acı döngüsü</a> olarak söz edilir. Vajinismus belirtileri ne kadar erken teşhis ve tedavi edilirse, çözümlenmeleri de o kadar kolay olur.</p>
 
           <h3>Doğum Sonrası Ağrılı Seks</h3>
-          <p>Tedavi edildikten kadar Vajinismus genellikle, sürekli cinsel ağrı ve <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">penetrasyon güçlükleri</a>, doğum yaşandığı sonra bile aylar hatta yıllar neden devam edecektir. Bir kez tetiklenen, vajinismus penetrasyonu sonucu, kaçınılmaz olarak zor yeniden başlatan ilişki için girişimlerde bulunmak, pelvik taban sıkın vücudu neden olur.</p>
-          <p>ağrı ve başarısızlık ilişki sonucu girişimleri, vücut daha fazla vajinismus etkisi oturtulmasıyla, daha güçlü bir tepki zaman. Bu devam eden bir kötüleşen bir deneyim haline geliştikçe Bu bazen <a href="../../../vaginismus-causes/index.html">ağrı vajinismus döngüsü</a> olarak adlandırılır.</p>
+          <p>Tedavi edildikten kadar Vajinismus genellikle, sürekli cinsel ağrı ve <a href="/tr/vaginismus-symptoms/index.php#unconsummated-marriages">penetrasyon güçlükleri</a>, doğum yaşandığı sonra bile aylar hatta yıllar neden devam edecektir. Bir kez tetiklenen, vajinismus penetrasyonu sonucu, kaçınılmaz olarak zor yeniden başlatan ilişki için girişimlerde bulunmak, pelvik taban sıkın vücudu neden olur.</p>
+          <p>ağrı ve başarısızlık ilişki sonucu girişimleri, vücut daha fazla vajinismus etkisi oturtulmasıyla, daha güçlü bir tepki zaman. Bu devam eden bir kötüleşen bir deneyim haline geliştikçe Bu bazen <a href="/tr/vaginismus-causes/index.php">ağrı vajinismus döngüsü</a> olarak adlandırılır.</p>
 
           <h3>Keşif ve Tedavi</h3>
-          <p>Vajinismus ağrı yanıtı devam daha uzun, daha yoğun sızdırmazlık olma eğilimindedir. Sonunda, basit penetrasyon (Ayrıca penetrasyon zorluklar hemen gelişebilir unutmayın) <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">imkansız</a> hale gelebilir. Bu nedenle, erken vajinismus belirtileri teşhis ve tedavi edilmektedir, onlar olabilir kolay çözmek için.</p>
+          <p>Vajinismus ağrı yanıtı devam daha uzun, daha yoğun sızdırmazlık olma eğilimindedir. Sonunda, basit penetrasyon (Ayrıca penetrasyon zorluklar hemen gelişebilir unutmayın) <a href="/tr/vaginismus-symptoms/index.php#unconsummated-marriages">imkansız</a> hale gelebilir. Bu nedenle, erken vajinismus belirtileri teşhis ve tedavi edilmektedir, onlar olabilir kolay çözmek için.</p>
 
           <h3>Doğum sonrası vajinismus oluşması olasılığını azaltmak</h3>
           <p>Doğumdan sonra vajinismus çekme şansını azaltmak ve cinsel birleşmeye dönüşü mümkün olduğu kadar olumlu bir deneyim haline getirmek için yapılacak bazı şeyler vardır:</p>
@@ -41,18 +41,18 @@
           </ul>
 
           <h3>Vajinismus Doğumdan Sonra Dönen Hakkında Endişeler</h3>
-          <p>Hamilelikten önceki bir dönemde vajinismusu yenen kadınlar için, doğumdan sonra yine vajinismus oluşabileceği endişesi vardır. Neyse ki, vajinismusu başarılı bir şekilde <a href="../../../vaginismus-treatment/index.html">tedavi etme</a> aracılığıyla öğrenilen becerilerle, doğum ağrıları sırasında yaşanan herhangi bir pelvik travmanın potansiyel olarak <a href="../../general-questions/primary-and-secondary-vaginismus-differences/index.html">ikincil vajinismu</a> su tetikleyebilecek olması da göreceli olarak çabuk bir çözüm sağlar. Her insan ve deneyim farklı olduğu halde, genel olarak, vajinismusu yenme süreci yaşam boyu devam edecek bir beceri haline gelerek soruna uzun vadeli, acısız bir çözüm sağlayacaktır.</p>
+          <p>Hamilelikten önceki bir dönemde vajinismusu yenen kadınlar için, doğumdan sonra yine vajinismus oluşabileceği endişesi vardır. Neyse ki, vajinismusu başarılı bir şekilde <a href="/tr/vaginismus-treatment/index.php">tedavi etme</a> aracılığıyla öğrenilen becerilerle, doğum ağrıları sırasında yaşanan herhangi bir pelvik travmanın potansiyel olarak <a href="/tr/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">ikincil vajinismu</a> su tetikleyebilecek olması da göreceli olarak çabuk bir çözüm sağlar. Her insan ve deneyim farklı olduğu halde, genel olarak, vajinismusu yenme süreci yaşam boyu devam edecek bir beceri haline gelerek soruna uzun vadeli, acısız bir çözüm sağlayacaktır.</p>
                       
           <hr>
           
           <h3>Ayrıca Bkz</h3>
             <ul>
-              <li><a href="../../../vaginismus-causes/index.html">Vajinismusa ne neden olur?</a></li>
-              <li><a href="../../../vaginismus-treatment/index.html">Vajinismus tedavisi</a></li>
-              <li><a href="../vaginismus-complications-delivery/index.html">Vajinismus bebeğin doğmasında komplikasyonlara neden olur mu ya da çocuğun vajinal yoldan doğmasını engeller mi? Pelvik taban kasları spazm yapar ya da başka sorunlar oluşturur mu?</a></li>
-              <li><a href="../can-childbirth-help-vaginismus/index.html">Doğal doğum daha vajinal açıklığı açarak önceden var olan vajinismusun giderilmesine yardımcı olur mu?</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">Disparöni nedir? Disparöni ve vajinismus arasındaki fark nedir?</a></li>
-              <li><a href="../../general-questions/had-pleasurable-intercourse-before/index.html">Daha önce zevk veren cinsel birleşmede bulunabildiysek ve şimdi canım acıyorsa sorunum hâlâ vajinismus olabilir mi?</a></li>
+              <li><a href="/tr/vaginismus-causes/index.php">Vajinismusa ne neden olur?</a></li>
+              <li><a href="/tr/vaginismus-treatment/index.php">Vajinismus tedavisi</a></li>
+              <li><a href="/tr/faq/pregnancy-questions/vaginismus-complications-delivery/index.php">Vajinismus bebeğin doğmasında komplikasyonlara neden olur mu ya da çocuğun vajinal yoldan doğmasını engeller mi? Pelvik taban kasları spazm yapar ya da başka sorunlar oluşturur mu?</a></li>
+              <li><a href="/tr/faq/pregnancy-questions/can-childbirth-help-vaginismus/index.php">Doğal doğum daha vajinal açıklığı açarak önceden var olan vajinismusun giderilmesine yardımcı olur mu?</a></li>
+              <li><a href="/tr/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Disparöni nedir? Disparöni ve vajinismus arasındaki fark nedir?</a></li>
+              <li><a href="/tr/faq/general-questions/had-pleasurable-intercourse-before/index.php">Daha önce zevk veren cinsel birleşmede bulunabildiysek ve şimdi canım acıyorsa sorunum hâlâ vajinismus olabilir mi?</a></li>
             </ul>
           
           <hr class="hidden-desktop"/>
@@ -63,14 +63,14 @@
           <aside class="large-3">
           <h2>Hamilelik SSS</h2>
           <ul>
-            <li><a href="../biological-clock-ticking/index.html"><i class="icon-angle-double-right"></i>Cinsel birleşmede bulunamıyorum ve biyolojik saatim tıklıyor. Bana herhangi bir öğütte bulunabilir misiniz?</a></li>
-            <li><a href="../adopting/index.html"><i class="icon-angle-double-right"></i>Eğer çocuk yapma yaşımız geçiyorsa evlat edinmeyi düşünmeli miyiz?</a></li>
-            <li><a href="../vaginismus-complications-delivery/index.html"><i class="icon-angle-double-right"></i>Vajinismus komplikasyonlara neden olur ve bebeğin vajinal yoldan doğmasını engeller mi?</a></li>
-            <li><a href="../can-childbirth-cause-vaginismus/index.html" class="active"><i class="icon-angle-double-right"></i>Çocuk doğurmak vajinismusa neden olabilir mi? Vajinismus engellenebilir mi?</a></li>
-            <li><a href="../can-childbirth-help-vaginismus/index.html"><i class="icon-angle-double-right"></i>Doğal doğum vajinal açıklığı esneterek daha önceden var olan vajinismusun giderilmesine yardımcı olabilir mi?</a></li>
-            <li><a href="../unable-to-have-gynecological-exams/index.html"><i class="icon-angle-double-right"></i>Eğer vajinismustan ötürü jinekolojik muayene olamıyorsam hamileliğim için bütün o doktor muayenelerini ve vajinal ultrasonları nasıl tamamlayabilirim?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/biological-clock-ticking/index.php"><i class="icon-angle-double-right"></i>Cinsel birleşmede bulunamıyorum ve biyolojik saatim tıklıyor. Bana herhangi bir öğütte bulunabilir misiniz?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/adopting/index.php"><i class="icon-angle-double-right"></i>Eğer çocuk yapma yaşımız geçiyorsa evlat edinmeyi düşünmeli miyiz?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/vaginismus-complications-delivery/index.php"><i class="icon-angle-double-right"></i>Vajinismus komplikasyonlara neden olur ve bebeğin vajinal yoldan doğmasını engeller mi?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/can-childbirth-cause-vaginismus/index.php" class="active"><i class="icon-angle-double-right"></i>Çocuk doğurmak vajinismusa neden olabilir mi? Vajinismus engellenebilir mi?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/can-childbirth-help-vaginismus/index.php"><i class="icon-angle-double-right"></i>Doğal doğum vajinal açıklığı esneterek daha önceden var olan vajinismusun giderilmesine yardımcı olabilir mi?</a></li>
+            <li><a href="/tr/faq/pregnancy-questions/unable-to-have-gynecological-exams/index.php"><i class="icon-angle-double-right"></i>Eğer vajinismustan ötürü jinekolojik muayene olamıyorsam hamileliğim için bütün o doktor muayenelerini ve vajinal ultrasonları nasıl tamamlayabilirim?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Hepsini Gör SSS</a>
+          <a href='/tr/faq/index.php' class="shaded-btn">Hepsini Gör SSS</a>
         </aside>
       </div>
     </main>

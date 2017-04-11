@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="../../img/causes/causes-hero-mobile.jpeg" alt="vajinismus Nedenler" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/causes/causes-hero-mobile.jpeg" alt="vajinismus Nedenler" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text hero-text-right">
@@ -35,7 +35,7 @@
             <p>Vücut acı bekleyişine tepki olarak kendisini hasardan korumak için otomatik olarak vajinal kasları sıkıştırır. Seks rahatsız ya da acı verici bir hâl alır ve giriş de bu sıkışmış durumun ciddiliğine bağlı olarak daha zor ya da imkânsız olabilir. Seks çabalarının neden olduğu rahatsızlık refleks tepkisini daha da yoğun olacak şekilde pekiştirir. Vücut artan bir acı hisseder ve daha sürekli bir şekilde kendini hazırlar, bu da bu tepkiyi daha da yerleşik kılar ve bir vajinismus <strong>acı döngüsü</strong>yaratır.</p>
           </div>
           <div class="large-8">
-            <img src="../../img/tr/cycle-of-pain-chart-tr.png" alt="Ağrı Döngüsü. 1) Anicipate Ağrı: vücut bekliyor; korku / anksiyete katkıda bulunabilir; 2) Zorunlu Reaksiyon: vücut otomatik olarak vajinal kasları sıkılaştırır; 3) Ağrılı Cinsiyet: Tightens seks acı yapar; penetrasyon imkansız olabilir; 4) Ağrı pekiştiriyor: Ağrı refleks yanıtı yoğunlaştırır; 5) Bracing: Vücut daha canlandırıcı tarafından tepki devam eden bir temel; 6) Kaçınma: samimiyet kaçınma, arzu eksikliği gelişebilir.">
+            <img src="/img/tr/cycle-of-pain-chart-tr.png" alt="Ağrı Döngüsü. 1) Anicipate Ağrı: vücut bekliyor; korku / anksiyete katkıda bulunabilir; 2) Zorunlu Reaksiyon: vücut otomatik olarak vajinal kasları sıkılaştırır; 3) Ağrılı Cinsiyet: Tightens seks acı yapar; penetrasyon imkansız olabilir; 4) Ağrı pekiştiriyor: Ağrı refleks yanıtı yoğunlaştırır; 5) Bracing: Vücut daha canlandırıcı tarafından tepki devam eden bir temel; 6) Kaçınma: samimiyet kaçınma, arzu eksikliği gelişebilir.">
           </div>
         </div>
         <div class="wrapper">
@@ -48,7 +48,7 @@
             
           </div>
           <div class="large-4 max-500">
-            <img src="../../img/causes/causes-primary-vaginismus.png" alt="Birincil Vajinismus: pc kaslar penetrasyon imkansız hale sıkın">
+            <img src="/img/causes/causes-primary-vaginismus.png" alt="Birincil Vajinismus: pc kaslar penetrasyon imkansız hale sıkın">
           </div>
         </div>
       </section>
@@ -126,9 +126,9 @@
         <div class="wrapper">
           <div class="large-4">
             <div class="did-you-know">
-              <img src="../../img/icons/lightbulb.png" alt="" aria-hidden="true">
+              <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h4>Biliyor muydunuz?</h4>
-              <p>Vajinismusun her zaman belli bir nedeni yoktur (bkz. <a href="../vaginismus-diagnosis/index.html">Teşhis</a>). Kusursuz çocukluklar, harika ilişkiler yaşamış, iyi bir eğitim almış ve endişesiz bir hayat süren kadınlar da vajinismuslarına neyin sebep olduğuna dair mantıklı bir açıklama bulamazlar. Vajinismus sorunu tamamen ortadan kalksa da, sebebi hâlâ bir gizem olarak kalmaya devam edebilir.</p>
+              <p>Vajinismusun her zaman belli bir nedeni yoktur (bkz. <a href="/tr/vaginismus-diagnosis/index.php">Teşhis</a>). Kusursuz çocukluklar, harika ilişkiler yaşamış, iyi bir eğitim almış ve endişesiz bir hayat süren kadınlar da vajinismuslarına neyin sebep olduğuna dair mantıklı bir açıklama bulamazlar. Vajinismus sorunu tamamen ortadan kalksa da, sebebi hâlâ bir gizem olarak kalmaya devam edebilir.</p>
             </div>
           </div>
           <div class="large-8">
@@ -155,7 +155,7 @@
           <div class="large-4">
             <p>Spazmlar girişten ya da hareketten sonra yanma ya da acıya neden olur ve girişi tamamen kapatabilir. PC kas grubu büyük ve çok güçlüdür. İdrar yolu açıklığını, vajinayı ve anüsü sekiz sayısına benzeyen bir şekilde çevreler; kasların bir halkası vajina bölümünün, diğeri ise anüs bölümünün etrafındadır. Bu kaslar, her iki tarafta da, karın ve pelvik organları bir ağ gibi yerinde tutmak için iskelete bağlıdır.</p>
             <figure>
-              <img src="../../img/tr/pc-muscle-group-tr.png" alt="PC muscle group">
+              <img src="/img/tr/pc-muscle-group-tr.png" alt="PC muscle group">
               <figcaption><strong>PC Kasları:</strong> Kadının pelvik tabanının anatomisi, pubococcygeus ya da PC kas grubu adı verilen iç kasları vurgular. Bu kas grubu, vajinismus yaşandığında istemsiz bir şekilde spazm yapar. Bu güçlü kas grubu hem vajina bölgesinin tamamını, hem de anüsün etrafını çevreler.</figcaption>
             </figure>
           </div>
@@ -170,7 +170,7 @@
        <section class="grad1 body-retraining">
          <div class="wrapper">
            <h2>Vücudu Yeniden Eğitmek</h2>
-           <p>PC kas grubunu cinsel birleşme beklentisine farklı bir şekilde tepki göstermesi için yeniden eğitmek vajinismusun başarılı tedavisinin anahtarını oluşturur. Bu kas grubunun bilinçli olarak yönetimini ele almayı öğrenme süreci, artık istemsiz sıkılığın gerçekleşmemesi sağlayacak şekilde şartlı refleksi değiştirir (kas belleklerini ya da şartlı tepkileri değiştirir). Etkin program <a href="/vaginismus-treatment/index.html#ten-steps">adımları</a> bütün tetikleyicilerin ortadan kalkması için hem vücut, hem de zihnin ögelerini kapsamlı olarak ele alır. Böylece, cinsel birleşmeye çalışıldığında artık istemsiz spazmlar gerçekleşmez ve acı ortadan kalkar (daha çok bilgi için <a href="/vaginismus-treatment/index.html">Tedavi</a> bölümüne bakın).</p>
+           <p>PC kas grubunu cinsel birleşme beklentisine farklı bir şekilde tepki göstermesi için yeniden eğitmek vajinismusun başarılı tedavisinin anahtarını oluşturur. Bu kas grubunun bilinçli olarak yönetimini ele almayı öğrenme süreci, artık istemsiz sıkılığın gerçekleşmemesi sağlayacak şekilde şartlı refleksi değiştirir (kas belleklerini ya da şartlı tepkileri değiştirir). Etkin program <a href="/tr/vaginismus-treatment/index.php#ten-steps">adımları</a> bütün tetikleyicilerin ortadan kalkması için hem vücut, hem de zihnin ögelerini kapsamlı olarak ele alır. Böylece, cinsel birleşmeye çalışıldığında artık istemsiz spazmlar gerçekleşmez ve acı ortadan kalkar (daha çok bilgi için <a href="/tr/vaginismus-treatment/index.php">Tedavi</a> bölümüne bakın).</p>
          </div>
        </section>
 
@@ -181,16 +181,16 @@
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
-            <a href="../vaginismus-stories/index.html">
-               <img src="../../img/tr/causes-left-footer-button-tr.png" alt="Hikâyeleri gitmek">
+            <a href="/tr/vaginismus-stories/index.php">
+               <img src="/img/tr/causes-left-footer-button-tr.png" alt="Hikâyeleri gitmek">
              </a>
           </div>
           <div class="large-6 medium-6">
 
   <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-             <a href="../vaginismus-diagnosis/index.html">
-               <img src="../../img/tr/causes-right-footer-button-tr.png" alt="Teşhis gitmek">
+             <a href="/tr/vaginismus-diagnosis/index.php">
+               <img src="/img/tr/causes-right-footer-button-tr.png" alt="Teşhis gitmek">
              </a>
           </div>
         </div>

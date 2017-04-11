@@ -25,7 +25,7 @@
           <p>Платежная онлайн-система PayPal позволяет пользователям производить оплату различными методами, включая оплату через банковские счета, различные кредитные карты и другие варианты оплаты. Если Вы имеете счет в системе <a href="http://paypal.com/" target="_blank">PayPal</a>, Вы можете заказать наши продукты, просто выбрав PayPal в качестве метода оплаты.</p>
 
           <h4>Как я могу разместить заказ, если у меня нет кредитной карты?</h4>
-          <p>Помимо кредитных карт, мы принимаем различные методы оплаты: PayPal (онлайн-счет или электронные чеки), почтовые денежные переводы в долларах США (гарантированные чеки или другие денежные инструменты) или денежные переводы Western Union. Чтобы обратиться с запросом на одну из этих двух последних услуг, пожалуйста, <a href="../../contact-us/index.html">свяжитесь с нами</a>. Мы делаем все возможное, чтобы найти приемлемое решение в целях оказания необходимой помощи всем нуждающимся в ней женщинам.</p>
+          <p>Помимо кредитных карт, мы принимаем различные методы оплаты: PayPal (онлайн-счет или электронные чеки), почтовые денежные переводы в долларах США (гарантированные чеки или другие денежные инструменты) или денежные переводы Western Union. Чтобы обратиться с запросом на одну из этих двух последних услуг, пожалуйста, <a href="/ru/contact-us/index.php">свяжитесь с нами</a>. Мы делаем все возможное, чтобы найти приемлемое решение в целях оказания необходимой помощи всем нуждающимся в ней женщинам.</p>
 
           <h4>Меня беспокоит необходимость размещать заказ в Интернете. Ваш вебсайт надежно защищен?</h4>
           <p>Да, мы используем новейшие и самые надежные методы обеспечения безопасности данных и защиты информации. Norton Symantec является признанным лидером в области обеспечения безопасности торговых и финансовых операций в Интернете, обеспечивающим полное шифрование и безопасность данных в нашем онлайн-магазине.</p>
@@ -44,14 +44,14 @@
           <aside class="large-3">
           <h2>ЧЗВ oбслуживание клиентов</h2>
           <ul>
-            <li><a href="ordering-faqs/index.html" class="active"><i class="icon-angle-double-right"></i>заказе а также Вернуть</a></li>
-            <li><a href="shipping-faqs/index.html"><i class="icon-angle-double-right"></i>доставке</a></li>
-            <li><a href="guarantee-faqs/index.html"><i class="icon-angle-double-right"></i>гарантия</a></li>
-            <li><a href="quality-faqs/index.html"><i class="icon-angle-double-right"></i>качество и безопасность</a></li>
-            <li><a href="privacy-policy/index.html"><i class="icon-angle-double-right"></i>политика конфиденциальности</a></li>
-            <li><a href="terms-of-use/index.html"><i class="icon-angle-double-right"></i>Условия эксплуатации</a></li>
+            <li><a href="/ru/faq/customer-service-questions/ordering-faqs/index.php" class="active"><i class="icon-angle-double-right"></i>заказе а также Вернуть</a></li>
+            <li><a href="/ru/faq/customer-service-questions/shipping-faqs/index.php"><i class="icon-angle-double-right"></i>доставке</a></li>
+            <li><a href="/ru/faq/customer-service-questions/guarantee-faqs/index.php"><i class="icon-angle-double-right"></i>гарантия</a></li>
+            <li><a href="/ru/faq/customer-service-questions/quality-faqs/index.php"><i class="icon-angle-double-right"></i>качество и безопасность</a></li>
+            <li><a href="/ru/faq/customer-service-questions/privacy-policy/index.php"><i class="icon-angle-double-right"></i>политика конфиденциальности</a></li>
+            <li><a href="/ru/faq/customer-service-questions/terms-of-use/index.php"><i class="icon-angle-double-right"></i>Условия эксплуатации</a></li>
           </ul>
-          <a href='../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

@@ -29,12 +29,12 @@
             <li><strong>Отдаление</strong> &#8211; «Жизнь дома стала просто невыносимой, поэтому мне остается только полностью уйти в работу или проводить больше времени с друзьями. По крайней мере, если я буду много работать, я чего-то смогу добиться и отвлечься мыслями на что-то другое».</li>
           </ul>
           <h3>Понимание Избежание</h3>
-          <p>Мужчины должны понимать, что вагинизм не был намеренно вызван женщиной, чтобы избежать необходимости осуществления половых отношений. Спазматическое сжатие <a href="../../../vaginismus-causes/index.html#pc-muscles">ЛК мышц</a> которое вызывает «перекрытие» входа во влагалище, является непроизвольной рефлекторной реакцией, без осознанного контроля или участия женщины.</p>
+          <p>Мужчины должны понимать, что вагинизм не был намеренно вызван женщиной, чтобы избежать необходимости осуществления половых отношений. Спазматическое сжатие <a href="/ru/vaginismus-causes/index.php#pc-muscles">ЛК мышц</a> которое вызывает «перекрытие» входа во влагалище, является непроизвольной рефлекторной реакцией, без осознанного контроля или участия женщины.</p>
           <h3>Понимание своих страхах</h3>
-          <p>Женщина может искренне стремиться к осуществлению полового акта, но «несогласованность» между реакцией мозга и тела вызывает спазматический рефлекс и сжатие ЛК мышц. Возникновению вагинизма могут способствовать различные<a href="../../../vaginismus-causes/index.html#non-physical-causes">эмоциональные</a> и <a href="../../../vaginismus-causes/index.html#physical-causes">физические</a> факторы. Эмоциональные факторы, такие как страх перед вагинальным проникновением (не обязательно свойственные всех типам вагинизма), оказывают воздействие на некоторых женщин, страдающих вагинизмом.</p>
-          <p>В этих случаях женщине важно признать и преодолеть свои страхи и негативное отношение к сексу. Анализ и изучение эмоциональных факторов, входящий в программу <a href="../../../products/vaginismus-treatment-kit/index.html">лечения вагинизма в домашних условиях</a> позволяет женщине выявить эмоциональные факторы и заменить их позитивным отношением к половым отношениям.</p>
+          <p>Женщина может искренне стремиться к осуществлению полового акта, но «несогласованность» между реакцией мозга и тела вызывает спазматический рефлекс и сжатие ЛК мышц. Возникновению вагинизма могут способствовать различные<a href="/ru/vaginismus-causes/index.php#non-physical-causes">эмоциональные</a> и <a href="/ru/vaginismus-causes/index.php#physical-causes">физические</a> факторы. Эмоциональные факторы, такие как страх перед вагинальным проникновением (не обязательно свойственные всех типам вагинизма), оказывают воздействие на некоторых женщин, страдающих вагинизмом.</p>
+          <p>В этих случаях женщине важно признать и преодолеть свои страхи и негативное отношение к сексу. Анализ и изучение эмоциональных факторов, входящий в программу <a href="/ru/products/vaginismus-treatment-kit/index.php">лечения вагинизма в домашних условиях</a> позволяет женщине выявить эмоциональные факторы и заменить их позитивным отношением к половым отношениям.</p>
           <h3>Воздействие на отношениях &amp; интимность</h3>
-          <p>Довольно часто мужчины «подавляют» свои эмоции и не признают гнев, отчаяние и стресс, связанные с <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">неосуществленными брачными отношениями</a>. Часто мужчины чувствуют, что им не с кем поделиться своей проблемой. Они также переживают, боясь причинить боль жене, если они расскажут кому-либо об этом «маленьком секрете», поэтому мужчины вынуждены жить с подавленными чувствами неприязни и печали – по отношению к самим себе и своей жене/подруге.</p>
+          <p>Довольно часто мужчины «подавляют» свои эмоции и не признают гнев, отчаяние и стресс, связанные с <a href="/ru/vaginismus-symptoms/index.php#unconsummated-marriages">неосуществленными брачными отношениями</a>. Часто мужчины чувствуют, что им не с кем поделиться своей проблемой. Они также переживают, боясь причинить боль жене, если они расскажут кому-либо об этом «маленьком секрете», поэтому мужчины вынуждены жить с подавленными чувствами неприязни и печали – по отношению к самим себе и своей жене/подруге.</p>
           <p>К сожалению, многие пары полностью отказываются от интимной близости, поскольку боли и разочарование, вызванные неудачными попытками осуществления полового акта, слишком сильны. Партнеры начинают часто ссориться, и проблемы во взаимоотношениях усугубляются по мере того, как время идет, а проблема вагинизма остается. Существует опасность нарушения открытости в отношениях, когда супруги начинают спать отдельно друг от друга.</p>
           <p>Помимо вагинизма, возможно, супругам приходится решать дополнительные проблемы, связанные с заболеванием, хирургической операцией, случаем насилия или нападения, которые, возможно, явились первопричиной возникновения вагинизма, что является дополнительной эмоциональной нагрузкой.</p>
           <h3>Решение этой проблемы существует</h3>
@@ -42,10 +42,10 @@
           <hr/>
           <h3>См. также</h3>
           <ul>
-            <li><a href="../../treatment-questions/men-help-wives/index.html">Как муж/партнер может помочь женщине в преодолении вагинизма?</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">Как можно сохранить мотивацию и позитивный настрой в ходе курса лечения? Мне очень трудно дисциплинированно выполнять курс лечения.</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Рекомендуете ли Вы обращаться за помощью к медицинским специалистам, например, терапевтам, гинекологам, физиотерапевтам, психологам, психологам-консультантам, сексологам и другим специалистам?</a></li>
-            <li><a href="../../../vaginismus-stories/">Истории о случаях вагинизма</a></li>
+            <li><a href="/ru/faq/treatment-questions/men-help-wives/index.php">Как муж/партнер может помочь женщине в преодолении вагинизма?</a></li>
+            <li><a href="/ru/faq/treatment-questions/how-can-i-stay-motivated/index.php">Как можно сохранить мотивацию и позитивный настрой в ходе курса лечения? Мне очень трудно дисциплинированно выполнять курс лечения.</a></li>
+            <li><a href="/ru/faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Рекомендуете ли Вы обращаться за помощью к медицинским специалистам, например, терапевтам, гинекологам, физиотерапевтам, психологам, психологам-консультантам, сексологам и другим специалистам?</a></li>
+            <li><a href="/ru/vaginismus-stories/">Истории о случаях вагинизма</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -55,21 +55,21 @@
           <aside class="large-3">
           <h2>ЧЗВ Общие</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html" class="active"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/varying-vaginismus-symptoms/index.php"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
+            <li><a href="/ru/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
+            <li><a href="/ru/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
+            <li><a href="/ru/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-affect-husbands/index.php" class="active"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>

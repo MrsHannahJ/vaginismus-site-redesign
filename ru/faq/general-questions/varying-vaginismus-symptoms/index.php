@@ -14,8 +14,8 @@
         <section class="large-9">
           <h1>Как может проявляться степень выраженности вагинизма?</h1>
           <h3>Вагинизм Симптомы Диапазон</h3>
-          <p><a href="../../../vaginismus-symptoms/index.html">Симптомы</a> вагинизма могут отличаться в зависимости от типа и причин вагинизма, осложнений и возраста женщины. По счастью, метод <a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">лечения</a>  вагинизма практически не отличается вне зависимости от степени выраженности или конкретных особенностей случаев вагинизма. Симптомы заболевания могут отличаться в зависимости типа и причин вагинизма, а также возможных осложнений. Вагинизм может возникнуть у женщины любого возраста – как у молодых женщин, так и у женщин старшего возраста; у тех, кто не имел опыта сексуальных отношений (<a href="../primary-and-secondary-vaginismus-differences/index.html">первичный вагинизм</a>) и у тех, кто в течение многих лет до вагинизма наслаждался полноценными половыми отношениями (<a href="../primary-and-secondary-vaginismus-differences/index.html">вторичный вагинизм</a>).</p>
-          <p>Вагинизм также может вызываться другими болезненными заболеваниями, перенесенной хирургической операцией, родами, а также может являться осложнением различных других заболеваний, связанных с тазовой болью (см. <a href="../dyspareunia-diagnosis-treatment/index.html">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a>).</p>
+          <p><a href="/ru/vaginismus-symptoms/index.php">Симптомы</a> вагинизма могут отличаться в зависимости от типа и причин вагинизма, осложнений и возраста женщины. По счастью, метод <a href="/ru/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">лечения</a>  вагинизма практически не отличается вне зависимости от степени выраженности или конкретных особенностей случаев вагинизма. Симптомы заболевания могут отличаться в зависимости типа и причин вагинизма, а также возможных осложнений. Вагинизм может возникнуть у женщины любого возраста – как у молодых женщин, так и у женщин старшего возраста; у тех, кто не имел опыта сексуальных отношений (<a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">первичный вагинизм</a>) и у тех, кто в течение многих лет до вагинизма наслаждался полноценными половыми отношениями (<a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">вторичный вагинизм</a>).</p>
+          <p>Вагинизм также может вызываться другими болезненными заболеваниями, перенесенной хирургической операцией, родами, а также может являться осложнением различных других заболеваний, связанных с тазовой болью (см. <a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a>).</p>
           <p>В зависимости от степени выраженности вагинизма, симптомы этого заболевания проявляются по-разному: от чувства мышечного сжатия, вызывающего незначительный дискомфорт, до полного перекрытия влагалища и невозможности осуществления полового акта. Степень выраженности вагинизма у разных женщин проявляется по-разному.</p>
           <h3>наиболее распространенных симптомов вагинизма</h3>
           <ul>
@@ -37,11 +37,11 @@
           
           <h3>См. также</h3>
           <ul>
-            <li><a href="../../../vaginismus-symptoms/index.html">Симптомы вагинизма</a></li>
-            <li><a href="../what-is-vaginismus/index.html">Что такое вагинизм?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html">В чем отличия между первичным и вторичным вагинизмом?</a></li>
-            <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Чем отличается лечение первичного вагинизма от лечения вторичного вагинизма?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
+            <li><a href="/ru/vaginismus-symptoms/index.php">Симптомы вагинизма</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php">Что такое вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php">В чем отличия между первичным и вторичным вагинизмом?</a></li>
+            <li><a href="/ru/faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">Чем отличается лечение первичного вагинизма от лечения вторичного вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php">Что такое диспареуния? Как связаны диспареуния и вагинизм?</a></li>
           </ul>
           <hr class="hidden-desktop"/>
         </section>
@@ -51,21 +51,21 @@
           <aside class="large-3">
           <h2>ЧЗВ Общие</h2>
           <ul>
-            <li><a href="../what-is-vaginismus/index.html"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
-            <li><a href="../do-i-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
-            <li><a href="../varying-vaginismus-symptoms/index.html" class="active"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
-            <li><a href="../will-vaginismus-go-away/index.html"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
-            <li><a href="../how-many-women-have-vaginismus/index.html"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
-            <li><a href="../vaginismus-just-in-my-head/index.html"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
-            <li><a href="../vagina-too-small/index.html"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
-            <li><a href="../hymen-problems/index.html"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
-            <li><a href="../had-pleasurable-intercourse-before/index.html"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
-            <li><a href="../vaginismus-affect-husbands/index.html"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
-            <li><a href="../orgasms-problems-from-vaginismus/index.html"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php"><i class="icon-angle-double-right"></i>Что Такое Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/do-i-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Как Я Узнаю, Страдаю Ли Я Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/primary-and-secondary-vaginismus-differences/index.php"><i class="icon-angle-double-right"></i>В Чем Отличия Между Первичным И Вторичным Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/varying-vaginismus-symptoms/index.php" class="active"><i class="icon-angle-double-right"></i>Как Может Проявляться Степень Выраженности Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/will-vaginismus-go-away/index.php"><i class="icon-angle-double-right"></i>Проходит Ли Вагинизм Без Лечения?</a></li>
+            <li><a href="/ru/faq/general-questions/how-many-women-have-vaginismus/index.php"><i class="icon-angle-double-right"></i>Сколько женщин страдает вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-just-in-my-head/index.php"><i class="icon-angle-double-right"></i>Возможно, Я Просто Выдумала Проблему Вагинизма?</a></li>
+            <li><a href="/ru/faq/general-questions/vagina-too-small/index.php"><i class="icon-angle-double-right"></i>Возможно, У Меня Слишком Маленькое Влагалище? Возможно, Это Связано С Отсутствием Опыта Половых Отношений?</a></li>
+            <li><a href="/ru/faq/general-questions/hymen-problems/index.php"><i class="icon-angle-double-right"></i>Возможно, Причина Проблемы Заключается В Девственной Плеве?</a></li>
+            <li><a href="/ru/faq/general-questions/had-pleasurable-intercourse-before/index.php"><i class="icon-angle-double-right"></i>Может Ли У Меня Быть Вагинизм, Если У Меня Есть Опыт Безболезненных Половых Отношений, А Сейчас Половой Акт Вызывает Боль?</a></li>
+            <li><a href="/ru/faq/general-questions/vaginismus-affect-husbands/index.php"><i class="icon-angle-double-right"></i>Как Вагинизм Влияет На Мужей И Партнеров Женщин, Страдающих Вагинизмом?</a></li>
+            <li><a href="/ru/faq/general-questions/dyspareunia-diagnosis-treatment/index.php"><i class="icon-angle-double-right"></i>Что Такое Диспареуния? Как Связаны Диспареуния И Вагинизм?</a></li>
+            <li><a href="/ru/faq/general-questions/orgasms-problems-from-vaginismus/index.php"><i class="icon-angle-double-right"></i>Я Не Испытываю Оргазм. Это Может Быть Связано С Вагинизмом?</a></li>
           </ul>
-          <a href='../../../faq/index.html' class="shaded-btn">Посмотреть все ЧЗВ</a>
+          <a href='/ru/faq/index.php' class="shaded-btn">Посмотреть все ЧЗВ</a>
         </aside>
       </div>
     </main>
