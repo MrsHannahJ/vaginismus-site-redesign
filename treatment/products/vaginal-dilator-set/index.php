@@ -172,7 +172,9 @@
       </div>
       
     </main>
+                  
                     
 <?php
+  $script2 = '<script src="/js/vendor/video.min.js"></script>';
   include(ROOT_PATH.'/includes/footer.php');
 ?>

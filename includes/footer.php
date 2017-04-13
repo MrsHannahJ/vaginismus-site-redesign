@@ -62,65 +62,7 @@
 </nav>
 </div>
 
-<!--
-<div class="wrapper hidden-mobile">
-  <nav class="footer-nav">
-      
-        <div class="large-3 medium-3">
-          <ul>
-            <li>About
-              <ul>
-                <li><a href="">About Us</a></li>
-                <li><a href="">Press</a></li>
-                <li><a href="">Private Forum</a></li>
-                <li><a href="">Contact Us</a></li>
-                <li><a href="">Site Map</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <div class="large-3 medium-3">
-          <ul>
-            <li>Customer Service
-            <ul>
-              <li><a href="/customer-service-questions/ordering/index.php">Ordering &amp; Returns</a></li>
-              <li><a href="/customer-service-questions/shipping/index.php">Shipping</a></li>
-              <li><a href="/customer-service-questions/quality/index.php">Quality &amp; Safety</a></li>
-              <li><a href="/customer-service-questions/privacy-policy/index.php">Privacy Policy</a></li>
-              <li><a href="/customer-service-questions/terms-of-use/index.php">Terms of Use</a></li>
-            </ul>
-            </li>
-            
-          </ul>
-        </div>
-        <div class="large-3 medium-3">
-          <ul>
-            <li>Other Languages
-              <ul>
-                <li><a href="">Arabic</a></li>
-                <li><a href="">Spanish</a></li>
-                <li><a href="">Portuguese</a></li>
-                <li><a href="">Turkish</a></li>
-                <li><a href="">Russian</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <div class="large-3 medium-3">
-          <ul>
-            <li>Downloads
-            <ul>
-              <li><a href="">Vaginismus Brochure</a></li>
-              <li><a href="">Dilator Brochure</a></li>
-              <li><a href="">Diagnosis Script</a></li>
-              <li><a href="">Fax Order Form</a></li>
-            </ul>
-            </li>
-          </ul>
-        </div>
-      </nav>
-      </div>
--->
+
       
       
       <div id="footer-badges" class="wrapper">
@@ -146,15 +88,15 @@
 
   
 <script src="/js/vendor/jquery-3.1.1.min.js" async></script>
-<script type="text/javascript" src="/js/vendor/slick.min.js"></script>
-<script src="/js/vendor/video.min.js"></script>
-<script src="/js/main.js"></script>
-<!--where javascript is disabled, use this stylesheet-->
+<?php echo $script2 ?>
 <!--
-  <noscript>
-    <link rel="stylesheet" href="/css/stylesheets/no-js.css" />
-  </noscript>
+for carousel:
+<script type="text/javascript" src="/js/vendor/slick.min.js"></script>
+for video player:
+<script src="/js/vendor/video.min.js"></script>
 -->
+<script src="/js/main.js"></script>
+
  
 </body>
 

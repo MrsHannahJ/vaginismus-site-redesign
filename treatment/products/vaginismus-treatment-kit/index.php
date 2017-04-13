@@ -72,11 +72,7 @@
         </div>
         
         
-<video id="my_video_1" class="video-js vjs-default-skin"
-      controls preload="none" poster='/img/products/animation-poster.jpg'
-      data-setup='{ "aspectRatio":"16:9", "playbackRates": [1, 1.5, 2] }'>
-    <source src="/media/animation.mp4" type='video/mp4' />
-  </video>
+
         
         
 <!--
@@ -99,13 +95,19 @@
 -->
 <!--</div>-->
         <div class="wrapper" id="sizing">
-          <div class="large-12">
+          <div class="large-6">
+            <video id="my_video_1" class="video-js vjs-default-skin" controls preload="none" poster='/img/products/animation-poster.jpg' data-setup='{ "aspectRatio":"16:9", "playbackRates": [1, 1.5, 2] }'>
+              <source src="/media/animation.mp4" type='video/mp4' />
+            </video>
+          </div>
+            <div class="large-6">
 
             <h4>Medically Safe &amp; Convenient</h4>
             <p>Each set includes six graduated dilators, universal easy-grip handle, lubricant, and soft cotton carrying pouch with care instructions. A silky-smooth finish ensures maximum comfort while the gently curved shape eases entry and transition up in size.</p>
             <p>Convenient handle improves insertion control while keeping lubricant off one&#8217;s hands. The product is medically safe for individual use (see your doctor for more information) and easy to clean with soapy water. For storage portability and privacy, dilators fit one inside another forming a convenient, small package.</p>
-            <img src="/img/products/dilator-sizes-with-measurements.jpg" alt="6 dilator set. Dilator A: diameter up to 0.6 inches (15mm) and length of 3.48 inches (88mm). Dilator B: diameter up to .88 inches (22mm) and length of 3.97 inches (101mm). Dilator C: diameter up to 1.04 inches (26mm) and length of 4.46 inches (113mm). Dilator D: diameter up to 1.19 inches (30mm) and length of 4.95 inches (126mm). Dilator E: diameter up to 1.35 inches (34mm) and length of 5.45 inches (138mm). Dilator F: diameter up to 1.5 inches (38mm) and length of 5.96 inches (151mm). Universal handle fits all sizes.">
           </div>
+          <img src="/img/products/dilator-sizes-with-measurements.jpg" alt="6 dilator set. Dilator A: diameter up to 0.6 inches (15mm) and length of 3.48 inches (88mm). Dilator B: diameter up to .88 inches (22mm) and length of 3.97 inches (101mm). Dilator C: diameter up to 1.04 inches (26mm) and length of 4.46 inches (113mm). Dilator D: diameter up to 1.19 inches (30mm) and length of 4.95 inches (126mm). Dilator E: diameter up to 1.35 inches (34mm) and length of 5.45 inches (138mm). Dilator F: diameter up to 1.5 inches (38mm) and length of 5.96 inches (151mm). Universal handle fits all sizes.">
+          
         </div>
 <?php
   include(ROOT_PATH.'/includes/products-bonus-banner.php');
@@ -248,5 +250,6 @@
     </main>
 
 <?php
+  $script2 = '<script src="/js/vendor/video.min.js"></script>';
   include(ROOT_PATH.'/includes/footer.php');
 ?>

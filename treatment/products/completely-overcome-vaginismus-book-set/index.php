@@ -179,5 +179,6 @@
 
                     
 <?php
+  $script2 = '<script type="text/javascript" src="/js/vendor/slick.min.js"></script>';
   include(ROOT_PATH.'/includes/footer.php');
 ?>
