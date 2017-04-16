@@ -15,7 +15,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-       <img src="/img/symptoms/symptoms-header-mobile-en.jpeg" alt="Síntomas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
+       <img src="/img/symptoms/symptoms-header-mobile-en.jpg" alt="Síntomas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
             
@@ -73,7 +73,7 @@
           </div>
           <div class="large-6 medium-6">
             <figure>
-              <img src="/img/es/tightness%20and%20pain-es.jpg" alt="Diagram depicting painful vaginal entrance">
+              <img src="/img/es/tightness-pain-es.jpg" alt="Diagram depicting painful vaginal entrance">
               <figcaption>En otros casos de vaginismo, la penetración podría ser posible, pero la mujer experimenta periodos de contracción involuntaria que causan ardor, incomodidad o dolor.</figcaption>
             </figure>
           </div>
@@ -120,7 +120,7 @@
 
     <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-            <img src="/img/es/pain-chart-es.png" alt="Nivel 1, Incomodidad Leve: Se experimenta incomodidad o ardor leve y contracción con la penetración o el movimiento vaginal que pudiera no disminuir; Nivel 2, ardor y constricción: se experimenta ardor y contracción mas fuerte con la penetración o el movimiento vaginal que tiende a persistir; Nivel 3, Contracción Involuntaria: Las contracción involuntarias de los músculos de la vagina hacen la penetración y el movimiento difícil y dolorso; Nivel 4, Dolor Significativo: la pareja no es capaz de lograr la penetración debido a que la abertura vaginal esta firmemente cerrada. Si se fuerza la penetración, se produce gran dolor.">
+            <img src="/img/es/pain-chart-es.jpg" alt="Nivel 1, Incomodidad Leve: Se experimenta incomodidad o ardor leve y contracción con la penetración o el movimiento vaginal que pudiera no disminuir; Nivel 2, ardor y constricción: se experimenta ardor y contracción mas fuerte con la penetración o el movimiento vaginal que tiende a persistir; Nivel 3, Contracción Involuntaria: Las contracción involuntarias de los músculos de la vagina hacen la penetración y el movimiento difícil y dolorso; Nivel 4, Dolor Significativo: la pareja no es capaz de lograr la penetración debido a que la abertura vaginal esta firmemente cerrada. Si se fuerza la penetración, se produce gran dolor.">
           </div>
         </div>
       </section>

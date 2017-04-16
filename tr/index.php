@@ -16,7 +16,7 @@
 <!--     HERO SECTION     -->
      
       <section id="hero" class="hero-banner-image">
-        <img src="/img/tr/home-header-mobile-tr.jpeg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="ev">
+        <img src="/img/tr/home-header-mobile-tr.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="ev">
         <div class="wrapper">
          <div class="large-12 medium-12">
            <div class="hero-text-right">

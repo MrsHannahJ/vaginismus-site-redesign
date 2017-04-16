@@ -15,7 +15,7 @@
 <!--     HERO SECTION     -->
      
       <section id="hero" class="hero-banner-image">
-        <img src="/img/por/home-header-mobile.jpeg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="página inicial">
+        <img src="/img/por/home-header-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="página inicial">
         <div class="wrapper">
          <div class="large-12 medium-12">
            <div class="hero-text-right">

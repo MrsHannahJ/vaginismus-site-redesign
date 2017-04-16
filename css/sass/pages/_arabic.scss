@@ -12,6 +12,7 @@ html[dir="rtl"]{
   }
 }
 
+
 /*------------------------------*/
 /*-----------HOME---------------*/
 /*------------------------------*/
@@ -386,9 +387,86 @@ html[dir="rtl"] footer{
 /*------------HEADER-------------*/
 /*-------------------------------*/
 html[dir="rtl"] header{
+  z-index: 90000;
+  top:0;
+  background: $white;
+  -webkit-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  -moz-box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  box-shadow: 0px 5px 13px 3px rgba(101,101,101,0.2);
+  position: fixed;
+  width: 100%;
+  color: $light-gray-text;
+  font-size: 1rem;
+  font-family: $accent-font-common;
+
+  &:after {
+  @extend %clearfix;
+      }
+
+
+  .logo {
+    max-width: 150px;
+  }
+
+  .cart{
+    float: right;
+    width: 2rem;
+    position: relative;
+  }
+
+  .cart-count{
+    position: absolute;
+    top: -0.25rem;
+    right: -0.25rem;
+    display:inline-block;
+    border-radius:50%;
+    background: $brand;
+    color: $white;
+    font-size:12px;
+    &:before, &:after {
+      content:'\200B';
+      display:inline-block;
+      line-height:0px;
+      padding-top:25%;
+      padding-bottom:25%;
+    }
+    &:before {
+      padding-left:4px;
+    }
+    &:after {
+      padding-right:4px;
+    }
+  }
+
+
+//  MOBILE AND TABLET
   @media screen and (max-width: 979.99px){
-    nav{
+    .desktop-navbar{
+      display:flex;
+      height: 100%;
+      margin: 0.5rem 0.5rem 0;
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto;
+      text-indent: 1rem;
+      @media screen and (min-width: 375px){
+        text-indent: 1.5rem;
+      }
+    }
+
+/* --------- */
+/* Slide Out */
+/* --------- */
+
+    nav {
+      position: fixed;
+      display: block;
+      top: 0;
+      bottom: 0;
       right: -250px;
+      z-index: 1000;
       -moz-transition: right 0.2s ease-in-out 0s;
       -o-transition: right 0.2s ease-in-out 0s;
       -webkit-transition: right 0.2s ease-in-out;
@@ -397,25 +475,360 @@ html[dir="rtl"] header{
       @media screen and (min-width: 375px){
         right: -310px;
       }
-  }
+    }
+
     nav.open {
       right: 0;
-      -moz-transition: right 0.3s ease-in-out 0s;
-      -o-transition: right 0.3s ease-in-out 0s;
-      -webkit-transition: right 0.3s ease-in-out;
+      -moz-transition: left 0.3s ease-in-out 0s;
+      -o-transition: left 0.3s ease-in-out 0s;
+      -webkit-transition: left 0.3s ease-in-out;
       -webkit-transition-delay: 0s;
-      transition: right 0.3s ease-in-out 0s;
+      transition: left 0.3s ease-in-out 0s;
     }
-        //hamburger menu
+
+    //hamburger menu
     .nav-toggle {
+      z-index: 2000000;
       margin: 0.775rem 0.5rem 0 0;
+      float: right;
       right: 0;
+      width: 32px;
+      height: 21px;
+      position: fixed;
+      top: 0;
+//      left: 0;
+      -webkit-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+      -webkit-transition: all .5s ease-in-out;
+      -moz-transition: all .5s ease-in-out;
+      -o-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      cursor: pointer;
+      span {
+        display: block;
+        position: absolute;
+        height: 2px;
+        width: 100%;
+        background: $light-gray-text;
+        border-radius: 9px;
+        opacity: 1;
+        left: 0;
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+        -webkit-transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -o-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+      }
     }
+    .nav-toggle span:nth-child(1) {
+      top: 0px;
+      -webkit-transform-origin: left center;
+      -moz-transform-origin: left center;
+      -o-transform-origin: left center;
+      transform-origin: left center;
+    }
+
+    .nav-toggle span:nth-child(2) {
+      top: 9px;
+      -webkit-transform-origin: left center;
+      -moz-transform-origin: left center;
+      -o-transform-origin: left center;
+      transform-origin: left center;
+    }
+
+    .nav-toggle span:nth-child(3) {
+      top: 18px;
+      -webkit-transform-origin: left center;
+      -moz-transform-origin: left center;
+      -o-transform-origin: left center;
+      transform-origin: left center;
+    }
+    
+//Hamburger menu when open
+
+    .open .nav-toggle span{
+      background: $brand;
+    }
+
+    .open .nav-toggle span:nth-child(1) {
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+      top: 0;
+      left: 0;
+    }
+
+    .open .nav-toggle span:nth-child(2) {
+      width: 0%;
+      opacity: 0;
+    }
+
+    .open .nav-toggle span:nth-child(3) {
+      -webkit-transform: rotate(-45deg);
+      -moz-transform: rotate(-45deg);
+      -o-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+      top: 22px;
+      left: 0;
+    }
+
+    .close-hamburger{
+      max-width: 2rem;
+      margin: 1rem 0 0 1rem;
+    }
+
+    .nav-menu {
+      position: relative;
+      padding-top: 20px;
+      padding-top: 1rem;
+      height: 100%;
+      width: 250px;
+      background: $white;
+      overflow:auto;
+      z-index: 10;
+
+      @media screen and (min-width: 375px){
+        width: 310px;
+      }
+    }
+
+    .nav-menu ul {
+      list-style-type: none;
+    }
+
+    .nav-menu li {
+      margin: 0;
+    }
+
     .nav-menu a {
-      text-align: right;
-      padding: 0.4rem 2.5rem 0;
+      display: block;
+      padding: 0.4rem 2rem;
+      font-size: 20px;
+      font-size: 1rem;
+      color: $light-gray-text;
+      text-align: left;
+      text-decoration: none;
+      -moz-transition: color 0.3s ease-in-out 0s;
+      -o-transition: color 0.3s ease-in-out 0s;
+      -webkit-transition: color 0.3s ease-in-out;
+      -webkit-transition-delay: 0s;
+      transition: color 0.3s ease-in-out 0s;
+    }
+    
+    #nav{
+      padding-top: 2rem;
+    }
+    ul#nav > li > a{
+      color: $brand;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    ul#nav > li > ul > li > a{
+      font-style: italic;
+      font-weight: 400;
+    }
+    
+    
+/* --------- */
+/* Scrollbar */
+/* --------- */
+    ::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    ::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+      border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    }
+
+
+    .nav-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      right: 0;
+      background: transparent;
+      z-index: -99999;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+      opacity: 0;
+      -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+      -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+      -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
+      -webkit-transition-delay: 0s, 0.6s;
+      transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+    }
+
+    .nav-overlay.open {
+      display: block;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 100%;
+      background: #646566;
+      z-index: 999;
+      // filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      -moz-transition: opacity 0.5s ease-in-out 0s;
+      -o-transition: opacity 0.5s ease-in-out 0s;
+      -webkit-transition: opacity 0.5s ease-in-out;
+      -webkit-transition-delay: 0s;
+      transition: opacity 0.5s ease-in-out 0s;
+    }
+
+  
+  }
+
+//TABLET HEADER
+  @media screen and (min-width: $breakpoint-medium){
+    .logo {
+      max-width: 175px;
     }
   }
+
+
+//  DESKTOP HEADER
+  @media screen and (min-width: $breakpoint-large){
+
+    .desktop-navbar{
+      display:flex;
+      height: 100%;
+    }
+    .logo{
+      margin: 0.5rem 0 0 1rem;
+    }
+    .cart{
+      margin: 0.5rem 1rem 0 0;
+    }
+    
+    #menu {
+      clear: both;
+    }
+    nav{
+      flex-grow: 2;
+      margin: 0 auto;
+    }
+
+    ul#nav {
+      float: left;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      justify-content: center;
+    }
+
+    ul#nav li {
+      display: inline;
+    }
+
+    ul#nav li a {
+      float: left;
+      font: bold 1.1em;
+      line-height: 3rem;
+      color: $light-gray-text;
+      font-weight: 500;
+      text-decoration: none;
+      text-transform: uppercase;
+      margin: 0;
+      padding: 0 30px;
+    }
+
+
+/* APPLIES THE ACTIVE STATE */
+
+    ul#nav li:hover > a,
+    ul#nav li:active > a {
+      color: $brand;
+      opacity: 1;
+      transition: none;
+    }
+
+/* THE SUBMENU LIST HIDDEN BY DEFAULT */
+
+    ul#nav ul {
+      display: none;
+    }
+
+
+/* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
+
+    ul#nav li:hover > ul {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 2.25rem;
+      left:0;
+      right: 0;
+      margin: 3rem 0 0 0;
+      text-align: center;
+      background: #656565;
+      z-index: -5;
+    }
+
+    ul#nav li:hover > ul li a {
+      float: none;
+      line-height: 45px;
+      color: $white;
+      text-decoration: none;
+      margin: 0;
+      text-transform: capitalize;
+      padding: 0 15px;
+      line-height: 2.25rem;
+      @include font-size(16px);
+      &:hover{
+        opacity: .8
+      }
+    }
+
+    ul#nav li:hover > ul li a:hover {
+      text-decoration: none;
+      text-shadow: none;
+    }
+
+    .primary-nav-item >a {
+      position: relative;
+    }
+
+    .primary-nav-item:hover >a:after {
+      content: '';
+      position: absolute;
+      left: 45%;
+      top: 100%;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 8px solid white;
+      z-index: 3;
+    }
+
+    ul#nav li:hover > ul:hover{
+      .primary-nav-item:after{
+        display: inline;
+      }
+    }
+
+    .cart{
+      float: right;
+    }
+
+    
+//end desktop
+  }
+//end header
+}
     @media screen and (min-width: $breakpoint-large){
       .cart{
         margin: 0.5rem 0 0 1rem;
@@ -424,6 +837,8 @@ html[dir="rtl"] header{
         margin: 0.5rem 1rem 0 0;
       }
     }
-}
+  
+  
+
 
 

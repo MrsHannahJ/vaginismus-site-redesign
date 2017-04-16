@@ -120,7 +120,7 @@
     </div>
   </section>
   <section id="further-forum">
-    <img src="/img/further-support/private-forum-mobile.jpeg" alt="Private Support Forum" class="hidden-tablet hidden-desktop">
+    <img src="/img/further-support/private-forum-mobile.jpg" alt="Private Support Forum" class="hidden-tablet hidden-desktop">
     <div class="wrapper">
       <img src="/img/further-support/private-forum.jpg" alt="Private Support Forum" class="hidden-mobile">
       <div class="white-box-float">

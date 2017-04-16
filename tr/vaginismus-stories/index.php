@@ -11,7 +11,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="/img/tr/stories-header-mobile-tr.jpeg" alt="Vajinismus Hikâyeleri" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/tr/stories-header-mobile-tr.jpg" alt="Vajinismus Hikâyeleri" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text">

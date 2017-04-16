@@ -64,7 +64,6 @@ $breakpoints: (
 /* Document
    ========================================================================== */
 @import "https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Open+Sans:300, 600|Raleway:300,400,400i,500,600,600i";
-@import url("//hello.myfonts.net/count/2fd6f8");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -2477,13 +2476,13 @@ img {
 /* @import must be at top of file, otherwise CSS will not work */
 @font-face {
   font-family: 'CaturritaDisplayLight-Light';
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot");
-  src: url("../../fonts/caturrita/webfonts/2FD6F8_2_0.eot?#iefix") format("embedded-opentype"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff2") format("woff2"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.woff") format("woff"), url("../../fonts/caturrita/webfonts/2FD6F8_2_0.ttf") format("truetype");
+  src: url("/fonts/caturrita/webfonts/2FD6F8_2_0.eot");
+  src: url("/fonts/caturrita/webfonts/2FD6F8_2_0.eot?#iefix") format("embedded-opentype"), url("/fonts/caturrita/webfonts/2FD6F8_2_0.woff2") format("woff2"), url("/fonts/caturrita/webfonts/2FD6F8_2_0.woff") format("woff"), url("/fonts/caturrita/webfonts/2FD6F8_2_0.ttf") format("truetype");
 }
 @font-face {
   font-family: 'fontello';
-  src: url("../../fonts/fontello/font/fontello.eot?44374473");
-  src: url("../../fonts/fontello/font/fontello.eot?44374473#iefix") format("embedded-opentype"), url("../../fonts/fontello/font/fontello.woff2?44374473") format("woff2"), url("../../fonts/fontello/font/fontello.woff?44374473") format("woff"), url("../../fonts/fontello/font/fontello.ttf?44374473") format("truetype"), url("../../fonts/fontello/font/fontello.svg?44374473#fontello") format("svg");
+  src: url("/fonts/fontello/font/fontello.eot?44374473");
+  src: url("/fonts/fontello/font/fontello.eot?44374473#iefix") format("embedded-opentype"), url("/fonts/fontello/font/fontello.woff2?44374473") format("woff2"), url("/fonts/fontello/font/fontello.woff?44374473") format("woff"), url("/fonts/fontello/font/fontello.ttf?44374473") format("truetype"), url("/fonts/fontello/font/fontello.svg?44374473#fontello") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2865,18 +2864,18 @@ strong {
 /**
  * Clear inner floats
  */
-.wrapper:after, header:after, clearfix {
+.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix {
   *zoom: 1;
 }
-.wrapper:after, header:after, clearfix:before, clearfix:after {
+.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix:before, clearfix:after {
   content: " ";
   display: table;
 }
-.wrapper:after, header:after, clearfix:after {
+.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix:after {
   clear: both;
 }
 
-/**
+/*
  * Main content containers
  * 1. Make the container full-width with a maximum width
  * 2. Center it in the viewport
@@ -3062,7 +3061,7 @@ strong {
   }
 }
 /*--------------HEADER---------------*/
-header {
+:lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
   z-index: 90000;
   top: 0;
   background: #ffffff;
@@ -3075,15 +3074,15 @@ header {
   font-size: 1rem;
   font-family: "Raleway", sans-serif;
 }
-header .logo {
+:lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
   max-width: 150px;
 }
-header .cart {
+:lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
   float: right;
   width: 2rem;
   position: relative;
 }
-header .cart-count {
+:lang(en) header .cart-count, :lang(pt) header .cart-count, :lang(es) header .cart-count, :lang(ru) header .cart-count, :lang(tr) header .cart-count {
   position: absolute;
   top: -0.25rem;
   right: -0.25rem;
@@ -3093,21 +3092,21 @@ header .cart-count {
   color: #ffffff;
   font-size: 12px;
 }
-header .cart-count:before, header .cart-count:after {
+:lang(en) header .cart-count:before, :lang(en) header .cart-count:after, :lang(pt) header .cart-count:before, :lang(pt) header .cart-count:after, :lang(es) header .cart-count:before, :lang(es) header .cart-count:after, :lang(ru) header .cart-count:before, :lang(ru) header .cart-count:after, :lang(tr) header .cart-count:before, :lang(tr) header .cart-count:after {
   content: '\200B';
   display: inline-block;
   line-height: 0px;
   padding-top: 25%;
   padding-bottom: 25%;
 }
-header .cart-count:before {
+:lang(en) header .cart-count:before, :lang(pt) header .cart-count:before, :lang(es) header .cart-count:before, :lang(ru) header .cart-count:before, :lang(tr) header .cart-count:before {
   padding-left: 4px;
 }
-header .cart-count:after {
+:lang(en) header .cart-count:after, :lang(pt) header .cart-count:after, :lang(es) header .cart-count:after, :lang(ru) header .cart-count:after, :lang(tr) header .cart-count:after {
   padding-right: 4px;
 }
 @media screen and (max-width: 979.99px) {
-  header {
+  :lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
     /* --------- */
     /* Slide Out */
     /* --------- */
@@ -3115,24 +3114,24 @@ header .cart-count:after {
     /* Scrollbar */
     /* --------- */
   }
-  header .desktop-navbar {
+  :lang(en) header .desktop-navbar, :lang(pt) header .desktop-navbar, :lang(es) header .desktop-navbar, :lang(ru) header .desktop-navbar, :lang(tr) header .desktop-navbar {
     display: flex;
     height: 100%;
     margin: 0.5rem 0.5rem 0;
   }
-  header .logo {
+  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
     display: block;
     margin: 0 auto;
     text-indent: 1rem;
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  header .logo {
+  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
     text-indent: 1.5rem;
   }
 }
 @media screen and (max-width: 979.99px) {
-  header nav {
+  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
     position: fixed;
     display: block;
     top: 0;
@@ -3147,12 +3146,12 @@ header .cart-count:after {
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  header nav {
+  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
     left: -310px;
   }
 }
 @media screen and (max-width: 979.99px) {
-  header nav.open {
+  :lang(en) header nav.open, :lang(pt) header nav.open, :lang(es) header nav.open, :lang(ru) header nav.open, :lang(tr) header nav.open {
     left: 0;
     -moz-transition: left 0.3s ease-in-out 0s;
     -o-transition: left 0.3s ease-in-out 0s;
@@ -3160,7 +3159,7 @@ header .cart-count:after {
     -webkit-transition-delay: 0s;
     transition: left 0.3s ease-in-out 0s;
   }
-  header .nav-toggle {
+  :lang(en) header .nav-toggle, :lang(pt) header .nav-toggle, :lang(es) header .nav-toggle, :lang(ru) header .nav-toggle, :lang(tr) header .nav-toggle {
     z-index: 2000000;
     margin: 0.775rem 0 0 0.5rem;
     float: right;
@@ -3180,7 +3179,7 @@ header .cart-count:after {
     transition: all .5s ease-in-out;
     cursor: pointer;
   }
-  header .nav-toggle span {
+  :lang(en) header .nav-toggle span, :lang(pt) header .nav-toggle span, :lang(es) header .nav-toggle span, :lang(ru) header .nav-toggle span, :lang(tr) header .nav-toggle span {
     display: block;
     position: absolute;
     height: 2px;
@@ -3198,31 +3197,31 @@ header .cart-count:after {
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
   }
-  header .nav-toggle span:nth-child(1) {
+  :lang(en) header .nav-toggle span:nth-child(1), :lang(pt) header .nav-toggle span:nth-child(1), :lang(es) header .nav-toggle span:nth-child(1), :lang(ru) header .nav-toggle span:nth-child(1), :lang(tr) header .nav-toggle span:nth-child(1) {
     top: 0px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  header .nav-toggle span:nth-child(2) {
+  :lang(en) header .nav-toggle span:nth-child(2), :lang(pt) header .nav-toggle span:nth-child(2), :lang(es) header .nav-toggle span:nth-child(2), :lang(ru) header .nav-toggle span:nth-child(2), :lang(tr) header .nav-toggle span:nth-child(2) {
     top: 9px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  header .nav-toggle span:nth-child(3) {
+  :lang(en) header .nav-toggle span:nth-child(3), :lang(pt) header .nav-toggle span:nth-child(3), :lang(es) header .nav-toggle span:nth-child(3), :lang(ru) header .nav-toggle span:nth-child(3), :lang(tr) header .nav-toggle span:nth-child(3) {
     top: 18px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  header .open .nav-toggle span {
+  :lang(en) header .open .nav-toggle span, :lang(pt) header .open .nav-toggle span, :lang(es) header .open .nav-toggle span, :lang(ru) header .open .nav-toggle span, :lang(tr) header .open .nav-toggle span {
     background: #4eb3b3;
   }
-  header .open .nav-toggle span:nth-child(1) {
+  :lang(en) header .open .nav-toggle span:nth-child(1), :lang(pt) header .open .nav-toggle span:nth-child(1), :lang(es) header .open .nav-toggle span:nth-child(1), :lang(ru) header .open .nav-toggle span:nth-child(1), :lang(tr) header .open .nav-toggle span:nth-child(1) {
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -o-transform: rotate(45deg);
@@ -3230,11 +3229,11 @@ header .cart-count:after {
     top: 0;
     left: 0;
   }
-  header .open .nav-toggle span:nth-child(2) {
+  :lang(en) header .open .nav-toggle span:nth-child(2), :lang(pt) header .open .nav-toggle span:nth-child(2), :lang(es) header .open .nav-toggle span:nth-child(2), :lang(ru) header .open .nav-toggle span:nth-child(2), :lang(tr) header .open .nav-toggle span:nth-child(2) {
     width: 0%;
     opacity: 0;
   }
-  header .open .nav-toggle span:nth-child(3) {
+  :lang(en) header .open .nav-toggle span:nth-child(3), :lang(pt) header .open .nav-toggle span:nth-child(3), :lang(es) header .open .nav-toggle span:nth-child(3), :lang(ru) header .open .nav-toggle span:nth-child(3), :lang(tr) header .open .nav-toggle span:nth-child(3) {
     -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
     -o-transform: rotate(-45deg);
@@ -3242,11 +3241,11 @@ header .cart-count:after {
     top: 22px;
     left: 0;
   }
-  header .close-hamburger {
+  :lang(en) header .close-hamburger, :lang(pt) header .close-hamburger, :lang(es) header .close-hamburger, :lang(ru) header .close-hamburger, :lang(tr) header .close-hamburger {
     max-width: 2rem;
     margin: 1rem 0 0 1rem;
   }
-  header .nav-menu {
+  :lang(en) header .nav-menu, :lang(pt) header .nav-menu, :lang(es) header .nav-menu, :lang(ru) header .nav-menu, :lang(tr) header .nav-menu {
     position: relative;
     padding-top: 20px;
     padding-top: 1rem;
@@ -3258,18 +3257,18 @@ header .cart-count:after {
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  header .nav-menu {
+  :lang(en) header .nav-menu, :lang(pt) header .nav-menu, :lang(es) header .nav-menu, :lang(ru) header .nav-menu, :lang(tr) header .nav-menu {
     width: 310px;
   }
 }
 @media screen and (max-width: 979.99px) {
-  header .nav-menu ul {
+  :lang(en) header .nav-menu ul, :lang(pt) header .nav-menu ul, :lang(es) header .nav-menu ul, :lang(ru) header .nav-menu ul, :lang(tr) header .nav-menu ul {
     list-style-type: none;
   }
-  header .nav-menu li {
+  :lang(en) header .nav-menu li, :lang(pt) header .nav-menu li, :lang(es) header .nav-menu li, :lang(ru) header .nav-menu li, :lang(tr) header .nav-menu li {
     margin: 0;
   }
-  header .nav-menu a {
+  :lang(en) header .nav-menu a, :lang(pt) header .nav-menu a, :lang(es) header .nav-menu a, :lang(ru) header .nav-menu a, :lang(tr) header .nav-menu a {
     display: block;
     padding: 0.4rem 2rem;
     font-size: 20px;
@@ -3283,25 +3282,38 @@ header .cart-count:after {
     -webkit-transition-delay: 0s;
     transition: color 0.3s ease-in-out 0s;
   }
-  header ::-webkit-scrollbar {
+  :lang(en) header #nav, :lang(pt) header #nav, :lang(es) header #nav, :lang(ru) header #nav, :lang(tr) header #nav {
+    padding-top: 2rem;
+  }
+  :lang(en) header ul#nav > li > a, :lang(pt) header ul#nav > li > a, :lang(es) header ul#nav > li > a, :lang(ru) header ul#nav > li > a, :lang(tr) header ul#nav > li > a {
+    color: #4eb3b3;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  :lang(en) header ul#nav > li > ul > li > a, :lang(pt) header ul#nav > li > ul > li > a, :lang(es) header ul#nav > li > ul > li > a, :lang(ru) header ul#nav > li > ul > li > a, :lang(tr) header ul#nav > li > ul > li > a {
+    font-style: italic;
+    font-weight: 400;
+  }
+  :lang(en) header ::-webkit-scrollbar, :lang(pt) header ::-webkit-scrollbar, :lang(es) header ::-webkit-scrollbar, :lang(ru) header ::-webkit-scrollbar, :lang(tr) header ::-webkit-scrollbar {
     width: 6px;
   }
-  header ::-webkit-scrollbar-track {
+  :lang(en) header ::-webkit-scrollbar-track, :lang(pt) header ::-webkit-scrollbar-track, :lang(es) header ::-webkit-scrollbar-track, :lang(ru) header ::-webkit-scrollbar-track, :lang(tr) header ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
   }
-  header ::-webkit-scrollbar-thumb {
+  :lang(en) header ::-webkit-scrollbar-thumb, :lang(pt) header ::-webkit-scrollbar-thumb, :lang(es) header ::-webkit-scrollbar-thumb, :lang(ru) header ::-webkit-scrollbar-thumb, :lang(tr) header ::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
   }
-  header .nav-overlay {
+  :lang(en) header .nav-overlay, :lang(pt) header .nav-overlay, :lang(es) header .nav-overlay, :lang(ru) header .nav-overlay, :lang(tr) header .nav-overlay {
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background: #646566;
-    z-index: -1;
+    background: transparent;
+    z-index: -99999;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
     -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
@@ -3310,7 +3322,11 @@ header .cart-count:after {
     -webkit-transition-delay: 0s, 0.6s;
     transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
   }
-  header .nav-overlay.open {
+  :lang(en) header .nav-overlay.open, :lang(pt) header .nav-overlay.open, :lang(es) header .nav-overlay.open, :lang(ru) header .nav-overlay.open, :lang(tr) header .nav-overlay.open {
+    display: block;
+    top: 0;
+    left: 0;
+    background: #646566;
     z-index: 999;
     opacity: 0.8;
     -moz-transition: opacity 0.5s ease-in-out 0s;
@@ -3319,48 +3335,36 @@ header .cart-count:after {
     -webkit-transition-delay: 0s;
     transition: opacity 0.5s ease-in-out 0s;
   }
-  header #nav {
-    padding-top: 2rem;
-  }
-  header ul#nav > li > a {
-    color: #4eb3b3;
-    text-transform: uppercase;
-    font-weight: 600;
-  }
-  header ul#nav > li > ul > li > a {
-    font-style: italic;
-    font-weight: 400;
-  }
 }
 @media screen and (min-width: 768px) {
-  header .logo {
+  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
     max-width: 175px;
   }
 }
 @media screen and (min-width: 980px) {
-  header {
+  :lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
     /* APPLIES THE ACTIVE STATE */
     /* THE SUBMENU LIST HIDDEN BY DEFAULT */
     /* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
   }
-  header .desktop-navbar {
+  :lang(en) header .desktop-navbar, :lang(pt) header .desktop-navbar, :lang(es) header .desktop-navbar, :lang(ru) header .desktop-navbar, :lang(tr) header .desktop-navbar {
     display: flex;
     height: 100%;
   }
-  header .logo {
+  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
     margin: 0.5rem 0 0 1rem;
   }
-  header .cart {
+  :lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
     margin: 0.5rem 1rem 0 0;
   }
-  header #menu {
+  :lang(en) header #menu, :lang(pt) header #menu, :lang(es) header #menu, :lang(ru) header #menu, :lang(tr) header #menu {
     clear: both;
   }
-  header nav {
+  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
     flex-grow: 2;
     margin: 0 auto;
   }
-  header ul#nav {
+  :lang(en) header ul#nav, :lang(pt) header ul#nav, :lang(es) header ul#nav, :lang(ru) header ul#nav, :lang(tr) header ul#nav {
     float: left;
     width: 100%;
     margin: 0;
@@ -3369,10 +3373,10 @@ header .cart-count:after {
     display: flex;
     justify-content: center;
   }
-  header ul#nav li {
+  :lang(en) header ul#nav li, :lang(pt) header ul#nav li, :lang(es) header ul#nav li, :lang(ru) header ul#nav li, :lang(tr) header ul#nav li {
     display: inline;
   }
-  header ul#nav li a {
+  :lang(en) header ul#nav li a, :lang(pt) header ul#nav li a, :lang(es) header ul#nav li a, :lang(ru) header ul#nav li a, :lang(tr) header ul#nav li a {
     float: left;
     font: bold 1.1em;
     line-height: 3rem;
@@ -3383,16 +3387,20 @@ header .cart-count:after {
     margin: 0;
     padding: 0 30px;
   }
-  header ul#nav li:hover > a,
-  header ul#nav li:active > a {
+  :lang(en) header ul#nav li:hover > a,
+  :lang(en) header ul#nav li:active > a, :lang(pt) header ul#nav li:hover > a,
+  :lang(pt) header ul#nav li:active > a, :lang(es) header ul#nav li:hover > a,
+  :lang(es) header ul#nav li:active > a, :lang(ru) header ul#nav li:hover > a,
+  :lang(ru) header ul#nav li:active > a, :lang(tr) header ul#nav li:hover > a,
+  :lang(tr) header ul#nav li:active > a {
     color: #4eb3b3;
     opacity: 1;
     transition: none;
   }
-  header ul#nav ul {
+  :lang(en) header ul#nav ul, :lang(pt) header ul#nav ul, :lang(es) header ul#nav ul, :lang(ru) header ul#nav ul, :lang(tr) header ul#nav ul {
     display: none;
   }
-  header ul#nav li:hover > ul {
+  :lang(en) header ul#nav li:hover > ul, :lang(pt) header ul#nav li:hover > ul, :lang(es) header ul#nav li:hover > ul, :lang(ru) header ul#nav li:hover > ul, :lang(tr) header ul#nav li:hover > ul {
     position: absolute;
     display: block;
     width: 100%;
@@ -3404,7 +3412,7 @@ header .cart-count:after {
     background: #656565;
     z-index: -5;
   }
-  header ul#nav li:hover > ul li a {
+  :lang(en) header ul#nav li:hover > ul li a, :lang(pt) header ul#nav li:hover > ul li a, :lang(es) header ul#nav li:hover > ul li a, :lang(ru) header ul#nav li:hover > ul li a, :lang(tr) header ul#nav li:hover > ul li a {
     float: none;
     line-height: 45px;
     color: #ffffff;
@@ -3416,17 +3424,17 @@ header .cart-count:after {
     font-size: 16px;
     font-size: 1rem;
   }
-  header ul#nav li:hover > ul li a:hover {
+  :lang(en) header ul#nav li:hover > ul li a:hover, :lang(pt) header ul#nav li:hover > ul li a:hover, :lang(es) header ul#nav li:hover > ul li a:hover, :lang(ru) header ul#nav li:hover > ul li a:hover, :lang(tr) header ul#nav li:hover > ul li a:hover {
     opacity: 0.8;
   }
-  header ul#nav li:hover > ul li a:hover {
+  :lang(en) header ul#nav li:hover > ul li a:hover, :lang(pt) header ul#nav li:hover > ul li a:hover, :lang(es) header ul#nav li:hover > ul li a:hover, :lang(ru) header ul#nav li:hover > ul li a:hover, :lang(tr) header ul#nav li:hover > ul li a:hover {
     text-decoration: none;
     text-shadow: none;
   }
-  header .primary-nav-item > a {
+  :lang(en) header .primary-nav-item > a, :lang(pt) header .primary-nav-item > a, :lang(es) header .primary-nav-item > a, :lang(ru) header .primary-nav-item > a, :lang(tr) header .primary-nav-item > a {
     position: relative;
   }
-  header .primary-nav-item:hover > a:after {
+  :lang(en) header .primary-nav-item:hover > a:after, :lang(pt) header .primary-nav-item:hover > a:after, :lang(es) header .primary-nav-item:hover > a:after, :lang(ru) header .primary-nav-item:hover > a:after, :lang(tr) header .primary-nav-item:hover > a:after {
     content: '';
     position: absolute;
     left: 45%;
@@ -3438,19 +3446,28 @@ header .cart-count:after {
     border-top: 8px solid white;
     z-index: 3;
   }
-  header ul#nav li:hover > ul:hover .primary-nav-item:after {
+  :lang(en) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(pt) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(es) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(ru) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(tr) header ul#nav li:hover > ul:hover .primary-nav-item:after {
     display: inline;
   }
-  header .cart {
+  :lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
     float: right;
   }
 }
 
 main {
+  margin-top: 1.85rem;
+}
+@media screen and (min-width: 768px) {
+  main {
+    margin-top: 2.95rem;
+  }
+}
+
+:lang(en) main {
   margin-top: 2.7rem;
 }
 @media screen and (min-width: 980px) {
-  main {
+  :lang(en) main {
     margin-top: 2.95rem;
   }
 }
@@ -3943,7 +3960,7 @@ aside .sidebar-img a {
 }
 
 .has-v-background {
-  background: url(../img/v-background.jpg) no-repeat;
+  background: url(/img/v-background.jpg) no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -6298,9 +6315,83 @@ html[dir="rtl"] #site-map ul li {
 /*-------------------------------*/
 /*------------HEADER-------------*/
 /*-------------------------------*/
+html[dir="rtl"] header {
+  z-index: 90000;
+  top: 0;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  -moz-box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  box-shadow: 0px 5px 13px 3px rgba(101, 101, 101, 0.2);
+  position: fixed;
+  width: 100%;
+  color: #656565;
+  font-size: 1rem;
+  font-family: "Raleway", sans-serif;
+}
+html[dir="rtl"] header .logo {
+  max-width: 150px;
+}
+html[dir="rtl"] header .cart {
+  float: right;
+  width: 2rem;
+  position: relative;
+}
+html[dir="rtl"] header .cart-count {
+  position: absolute;
+  top: -0.25rem;
+  right: -0.25rem;
+  display: inline-block;
+  border-radius: 50%;
+  background: #4eb3b3;
+  color: #ffffff;
+  font-size: 12px;
+}
+html[dir="rtl"] header .cart-count:before, html[dir="rtl"] header .cart-count:after {
+  content: '\200B';
+  display: inline-block;
+  line-height: 0px;
+  padding-top: 25%;
+  padding-bottom: 25%;
+}
+html[dir="rtl"] header .cart-count:before {
+  padding-left: 4px;
+}
+html[dir="rtl"] header .cart-count:after {
+  padding-right: 4px;
+}
+@media screen and (max-width: 979.99px) {
+  html[dir="rtl"] header {
+    /* --------- */
+    /* Slide Out */
+    /* --------- */
+    /* --------- */
+    /* Scrollbar */
+    /* --------- */
+  }
+  html[dir="rtl"] header .desktop-navbar {
+    display: flex;
+    height: 100%;
+    margin: 0.5rem 0.5rem 0;
+  }
+  html[dir="rtl"] header .logo {
+    display: block;
+    margin: 0 auto;
+    text-indent: 1rem;
+  }
+}
+@media screen and (max-width: 979.99px) and (min-width: 375px) {
+  html[dir="rtl"] header .logo {
+    text-indent: 1.5rem;
+  }
+}
 @media screen and (max-width: 979.99px) {
   html[dir="rtl"] header nav {
+    position: fixed;
+    display: block;
+    top: 0;
+    bottom: 0;
     right: -250px;
+    z-index: 1000;
     -moz-transition: right 0.2s ease-in-out 0s;
     -o-transition: right 0.2s ease-in-out 0s;
     -webkit-transition: right 0.2s ease-in-out;
@@ -6316,30 +6407,311 @@ html[dir="rtl"] #site-map ul li {
 @media screen and (max-width: 979.99px) {
   html[dir="rtl"] header nav.open {
     right: 0;
-    -moz-transition: right 0.3s ease-in-out 0s;
-    -o-transition: right 0.3s ease-in-out 0s;
-    -webkit-transition: right 0.3s ease-in-out;
+    -moz-transition: left 0.3s ease-in-out 0s;
+    -o-transition: left 0.3s ease-in-out 0s;
+    -webkit-transition: left 0.3s ease-in-out;
     -webkit-transition-delay: 0s;
-    transition: right 0.3s ease-in-out 0s;
+    transition: left 0.3s ease-in-out 0s;
   }
   html[dir="rtl"] header .nav-toggle {
+    z-index: 2000000;
     margin: 0.775rem 0.5rem 0 0;
+    float: right;
     right: 0;
+    width: 32px;
+    height: 21px;
+    position: fixed;
+    top: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+  }
+  html[dir="rtl"] header .nav-toggle span {
+    display: block;
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background: #656565;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+  }
+  html[dir="rtl"] header .nav-toggle span:nth-child(1) {
+    top: 0px;
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -o-transform-origin: left center;
+    transform-origin: left center;
+  }
+  html[dir="rtl"] header .nav-toggle span:nth-child(2) {
+    top: 9px;
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -o-transform-origin: left center;
+    transform-origin: left center;
+  }
+  html[dir="rtl"] header .nav-toggle span:nth-child(3) {
+    top: 18px;
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -o-transform-origin: left center;
+    transform-origin: left center;
+  }
+  html[dir="rtl"] header .open .nav-toggle span {
+    background: #4eb3b3;
+  }
+  html[dir="rtl"] header .open .nav-toggle span:nth-child(1) {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top: 0;
+    left: 0;
+  }
+  html[dir="rtl"] header .open .nav-toggle span:nth-child(2) {
+    width: 0%;
+    opacity: 0;
+  }
+  html[dir="rtl"] header .open .nav-toggle span:nth-child(3) {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    top: 22px;
+    left: 0;
+  }
+  html[dir="rtl"] header .close-hamburger {
+    max-width: 2rem;
+    margin: 1rem 0 0 1rem;
+  }
+  html[dir="rtl"] header .nav-menu {
+    position: relative;
+    padding-top: 20px;
+    padding-top: 1rem;
+    height: 100%;
+    width: 250px;
+    background: #ffffff;
+    overflow: auto;
+    z-index: 10;
+  }
+}
+@media screen and (max-width: 979.99px) and (min-width: 375px) {
+  html[dir="rtl"] header .nav-menu {
+    width: 310px;
+  }
+}
+@media screen and (max-width: 979.99px) {
+  html[dir="rtl"] header .nav-menu ul {
+    list-style-type: none;
+  }
+  html[dir="rtl"] header .nav-menu li {
+    margin: 0;
   }
   html[dir="rtl"] header .nav-menu a {
-    text-align: right;
-    padding: 0.4rem 2.5rem 0;
+    display: block;
+    padding: 0.4rem 2rem;
+    font-size: 20px;
+    font-size: 1rem;
+    color: #656565;
+    text-align: left;
+    text-decoration: none;
+    -moz-transition: color 0.3s ease-in-out 0s;
+    -o-transition: color 0.3s ease-in-out 0s;
+    -webkit-transition: color 0.3s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: color 0.3s ease-in-out 0s;
+  }
+  html[dir="rtl"] header #nav {
+    padding-top: 2rem;
+  }
+  html[dir="rtl"] header ul#nav > li > a {
+    color: #4eb3b3;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  html[dir="rtl"] header ul#nav > li > ul > li > a {
+    font-style: italic;
+    font-weight: 400;
+  }
+  html[dir="rtl"] header ::-webkit-scrollbar {
+    width: 6px;
+  }
+  html[dir="rtl"] header ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  }
+  html[dir="rtl"] header ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  }
+  html[dir="rtl"] header .nav-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: transparent;
+    z-index: -99999;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+    -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+    -o-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+    -webkit-transition: opacity 0.3s ease-in-out, z-index 0s ease;
+    -webkit-transition-delay: 0s, 0.6s;
+    transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
+  }
+  html[dir="rtl"] header .nav-overlay.open {
+    display: block;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    background: #646566;
+    z-index: 999;
+    opacity: 0.8;
+    -moz-transition: opacity 0.5s ease-in-out 0s;
+    -o-transition: opacity 0.5s ease-in-out 0s;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -webkit-transition-delay: 0s;
+    transition: opacity 0.5s ease-in-out 0s;
+  }
+}
+@media screen and (min-width: 768px) {
+  html[dir="rtl"] header .logo {
+    max-width: 175px;
   }
 }
 @media screen and (min-width: 980px) {
-  html[dir="rtl"] header .cart {
-    margin: 0.5rem 0 0 1rem;
+  html[dir="rtl"] header {
+    /* APPLIES THE ACTIVE STATE */
+    /* THE SUBMENU LIST HIDDEN BY DEFAULT */
+    /* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
+  }
+  html[dir="rtl"] header .desktop-navbar {
+    display: flex;
+    height: 100%;
   }
   html[dir="rtl"] header .logo {
+    margin: 0.5rem 0 0 1rem;
+  }
+  html[dir="rtl"] header .cart {
     margin: 0.5rem 1rem 0 0;
+  }
+  html[dir="rtl"] header #menu {
+    clear: both;
+  }
+  html[dir="rtl"] header nav {
+    flex-grow: 2;
+    margin: 0 auto;
+  }
+  html[dir="rtl"] header ul#nav {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  html[dir="rtl"] header ul#nav li {
+    display: inline;
+  }
+  html[dir="rtl"] header ul#nav li a {
+    float: left;
+    font: bold 1.1em;
+    line-height: 3rem;
+    color: #656565;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0 30px;
+  }
+  html[dir="rtl"] header ul#nav li:hover > a,
+  html[dir="rtl"] header ul#nav li:active > a {
+    color: #4eb3b3;
+    opacity: 1;
+    transition: none;
+  }
+  html[dir="rtl"] header ul#nav ul {
+    display: none;
+  }
+  html[dir="rtl"] header ul#nav li:hover > ul {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2.25rem;
+    left: 0;
+    right: 0;
+    margin: 3rem 0 0 0;
+    text-align: center;
+    background: #656565;
+    z-index: -5;
+  }
+  html[dir="rtl"] header ul#nav li:hover > ul li a {
+    float: none;
+    line-height: 45px;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0;
+    text-transform: capitalize;
+    padding: 0 15px;
+    line-height: 2.25rem;
+    font-size: 16px;
+    font-size: 1rem;
+  }
+  html[dir="rtl"] header ul#nav li:hover > ul li a:hover {
+    opacity: 0.8;
+  }
+  html[dir="rtl"] header ul#nav li:hover > ul li a:hover {
+    text-decoration: none;
+    text-shadow: none;
+  }
+  html[dir="rtl"] header .primary-nav-item > a {
+    position: relative;
+  }
+  html[dir="rtl"] header .primary-nav-item:hover > a:after {
+    content: '';
+    position: absolute;
+    left: 45%;
+    top: 100%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 8px solid white;
+    z-index: 3;
+  }
+  html[dir="rtl"] header ul#nav li:hover > ul:hover .primary-nav-item:after {
+    display: inline;
+  }
+  html[dir="rtl"] header .cart {
+    float: right;
   }
 }
 
+@media screen and (min-width: 980px) {
+  .cart {
+    margin: 0.5rem 0 0 1rem;
+  }
+
+  .logo {
+    margin: 0.5rem 1rem 0 0;
+  }
+}
 .press h1 {
   margin-bottom: 1rem;
 }
@@ -7561,11 +7933,6 @@ html[dir="rtl"] #site-map ul li {
   }
   .product-page-english .product-description .video h3, .product-page-english .product-description .forum h3 {
     margin-top: 1rem;
-  }
-  .product-page-english .product-description #sizing img {
-    display: block;
-    margin: 0 auto;
-    max-width: 700px;
   }
   .product-page-english .product-description .books a, .product-page-english .product-description .graduated a {
     display: block;

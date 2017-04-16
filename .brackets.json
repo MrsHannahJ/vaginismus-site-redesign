@@ -1,0 +1,40 @@
+{
+  "jscompiler": {
+    "outputs": [
+      {
+        "inputs": [
+                  "/js/vendor/jquery-3.2.1.min.js",
+                  "/js/vendor/slick.min.js",
+                  "/js/vendor/video.min.js",
+                  "/js/main.js"
+                ],
+        "output": "/js/main.min.js",
+        "generateMap": true,
+        "mangle": true,
+        "isolate": false
+            }
+        ]
+  }
+} {
+  "bb.beautify.onSave": true,
+  "path": {
+    "/js/vendor/**.js": {
+      "bb.beautify.onSave": false
+    },
+    "/js/**.js": {
+      "bb.beautify.onSave": false
+    },
+    "/js/**.js.map": {
+      "bb.beautify.onSave": false
+    },
+    "/css/stylesheets/vendor/**.css": {
+      "bb.beautify.onSave": false
+    },
+    "/css/stylesheets/**.css": {
+      "bb.beautify.onSave": false
+    },
+    "/css/stylesheets/**.min.css": {
+      "bb.beautify.onSave": false
+    }
+  }
+}

@@ -15,7 +15,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-       <img src="/img/ar/symptoms-header-mobile-ar.jpeg" alt="أعراض التشنج المهبلي" class="hidden-desktop hidden-tablet" aria-hidden="true">
+       <img src="/img/ar/symptoms-header-mobile-ar.jpg" alt="أعراض التشنج المهبلي" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
             

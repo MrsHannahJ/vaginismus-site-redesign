@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 
 /*--------------HEADER---------------*/
-
+:lang(en), :lang(pt), :lang(es), :lang(ru), :lang(tr){
 header{
   z-index: 90000;
   top:0;
@@ -238,6 +238,21 @@ header{
       -webkit-transition-delay: 0s;
       transition: color 0.3s ease-in-out 0s;
     }
+    
+    #nav{
+      padding-top: 2rem;
+    }
+    ul#nav > li > a{
+      color: $brand;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    ul#nav > li > ul > li > a{
+      font-style: italic;
+      font-weight: 400;
+    }
+    
+    
 /* --------- */
 /* Scrollbar */
 /* --------- */
@@ -257,13 +272,14 @@ header{
 
 
     .nav-overlay {
+      display: none;
       position: fixed;
       top: 0;
       left: 0;
       height: 100%;
       width: 100%;
-      background: #646566;
-      z-index: -1;
+      background: transparent;
+      z-index: -99999;
       filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
       opacity: 0;
       -moz-transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
@@ -274,6 +290,10 @@ header{
     }
 
     .nav-overlay.open {
+      display: block;
+      top: 0;
+      left: 0;
+      background: #646566;
       z-index: 999;
       // filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=80);
       opacity: 0.8;
@@ -284,26 +304,14 @@ header{
       transition: opacity 0.5s ease-in-out 0s;
     }
 
-    #nav{
-      padding-top: 2rem;
-    }
-    ul#nav > li > a{
-      color: $brand;
-      text-transform: uppercase;
-      font-weight: 600;
-    }
-    ul#nav > li > ul > li > a{
-      font-style: italic;
-      font-weight: 400;
-    }
   
   }
 
 //TABLET HEADER
   @media screen and (min-width: $breakpoint-medium){
-  .logo {
-    max-width: 175px;
-  }
+    .logo {
+      max-width: 175px;
+    }
   }
 
 
@@ -440,11 +448,30 @@ header{
   }
 //end header
 }
+}
 
 main{
-  margin-top: 2.7rem;
-  @media screen and (min-width: $breakpoint-large){
+  margin-top: 1.85rem;
+  @media screen and (min-width: $breakpoint-medium){
     margin-top: 2.95rem;
   }
 }
+//english only
+:lang(en){
+  main{
+    margin-top: 2.7rem;
+    @media screen and (min-width: $breakpoint-large){
+      margin-top: 2.95rem;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
   

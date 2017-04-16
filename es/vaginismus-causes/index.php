@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="/img/causes/causes-hero-mobile.jpeg" alt="Causas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/causes/causes-hero-mobile.jpg" alt="Causas del Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text hero-text-right">

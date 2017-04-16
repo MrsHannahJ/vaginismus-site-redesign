@@ -16,7 +16,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-       <img src="/img/symptoms/symptoms-header-mobile-en.jpeg" alt="Sintomas do Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
+       <img src="/img/symptoms/symptoms-header-mobile-en.jpg" alt="Sintomas do Vaginismo" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
             
@@ -122,7 +122,7 @@
 
     <!--       NEEDS TO BE CONVERTED TO HTML RATHER THAN IMG-->
 
-            <img src="/img/por/pain-chart-por.png" alt="Nível 1, um pequeno desconforto: menor desconforto ou queima com aperto é experiente com a entrada vaginal ou empurrando, mas poderá não diminuir; Nível 2, ardente e aperto: ardor e sensação de aperto Mais significativo é experiente com a entrada vaginal ou empurrão e tende a persistir; Nível 3, Involuntário Aperto: aperto involuntária dos músculos vaginais torna a entrada e movimento difícil; Nível 4, dor significativa: Parceiro é incapaz de penetrar devido à abertura vaginal bem fechado. dor significativa resulta se a entrada é forçada.">
+            <img src="/img/por/pain-chart-por.jpg" alt="Nível 1, um pequeno desconforto: menor desconforto ou queima com aperto é experiente com a entrada vaginal ou empurrando, mas poderá não diminuir; Nível 2, ardente e aperto: ardor e sensação de aperto Mais significativo é experiente com a entrada vaginal ou empurrão e tende a persistir; Nível 3, Involuntário Aperto: aperto involuntária dos músculos vaginais torna a entrada e movimento difícil; Nível 4, dor significativa: Parceiro é incapaz de penetrar devido à abertura vaginal bem fechado. dor significativa resulta se a entrada é forçada.">
           </div>
         </div>
       </section>

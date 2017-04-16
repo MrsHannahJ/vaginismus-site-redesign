@@ -1,6 +1,71 @@
+// IIFE - Immediately Invoked Function Expression
+(function (yourcode) {
 
-$(document).ready(function(){
+// The global jQuery object is passed as a parameter
+  yourcode(window.jQuery, window, document);
 
+}(function ($, window, document) {
+
+// The $ is now locally scoped 
+  $(function () {
+// The DOM is ready!
+//mobile nav slideout
+    $nav = $('.nav-js');
+    $navOverlay = $('.nav-overlay');
+    $('.nav-toggle').click(function (e) {
+      e.preventDefault();
+      $nav.toggleClass('open');
+      $navOverlay.toggleClass('open');
+    });
+    $navOverlay.click(function () {
+      $nav.removeClass('open');
+      $navOverlay.removeClass('open');
+    });
+//initiate slick carousel
+    $(".img-carousel").slick({
+      centerMode: true,
+      centerPadding: "5px",
+      slidesToShow: 3,
+      autoplay: true,
+      dots: true,
+      arrows: true,
+      infinite: true,
+  //  autoplaySpeed:3000,
+      speed: 600,
+      responsive: [
+  //    {
+  //      breakpoint: 980,
+  //      settings: {
+  //        arrows: false,
+  //        centerMode: true,
+  //        centerPadding: '40px',
+  //        slidesToShow: 3
+  //      }
+  //    },
+      //small screens
+        {
+          breakpoint: 768,
+          settings: {
+            arrows: false,
+            centerMode: true,
+  //        centerPadding: '5px',
+            slidesToShow: 1
+          }
+        }
+      ]
+    });
+    
+    
+    
+  });
+          // The rest of your code goes here!
+}
+  ));
+
+
+
+//$(function () {
+//  "use strict";
 //menu slideout
 
 //$nav=$('.nav');
@@ -9,55 +74,7 @@ $(document).ready(function(){
 //$navOverlay.toggleClass('open');});
 //$navOverlay.click(function(){$nav.removeClass('open');$navOverlay.removeClass('open')});
 
-$nav = $('.nav-js');
-$navOverlay = $('.nav-overlay');
-$('.nav-toggle').click(function(e) {
-  e.preventDefault();
-  $nav.toggleClass('open');
-  $navOverlay.toggleClass('open');
-});
-$navOverlay.click(function() {
-  $nav.removeClass('open');
-  $navOverlay.removeClass('open')
-});
-
   
-  
-  
-//initiate slick carousel
-   
-$('.img-carousel').slick({
-  centerMode: true,
-  centerPadding: '5px',
-  slidesToShow: 3,
-  autoplay: true,
-  dots: true,
-  arrows: true,
-  infinite:true,
-//  autoplaySpeed:3000,
-  speed: 600,
-  responsive: [
-//    {
-//      breakpoint: 980,
-//      settings: {
-//        arrows: false,
-//        centerMode: true,
-//        centerPadding: '40px',
-//        slidesToShow: 3
-//      }
-//    },
-    //small screens
-    {
-      breakpoint: 768,
-      settings: {
-        arrows: false,
-        centerMode: true,
-//        centerPadding: '5px',
-        slidesToShow: 1
-      }
-    }
-  ]
-});
   
 
 
@@ -110,7 +127,7 @@ $('.img-carousel').slick({
 
  
     
-});
+//});
 
 
 

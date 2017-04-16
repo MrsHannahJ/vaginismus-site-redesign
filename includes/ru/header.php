@@ -37,14 +37,8 @@
   <meta name="twitter:description" content="<?php echo $pagedescription; ?>" />
   <meta name="twitter:image" content="<?php echo $pageimagepath; ?>" />
   
-  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
-  
-<script src="/js/vendor/jquery-3.1.1.min.js" async></script>
-<script src="/js/main.js"></script>
-<!--where javascript is disabled, use this stylesheet-->
-  <noscript>
-    <link rel="stylesheet" href="/css/stylesheets/no-js.css" />
-  </noscript>
+  <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />
+
 
 </head>
 
@@ -100,7 +94,7 @@
     </div>
 
 
-<!--    <div class="nav-overlay"></div>-->
+    <div class="nav-overlay"></div>
 
 
 </header>

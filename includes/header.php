@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <!--[if IE 6]><html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
 <!--[if IE 7]><html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
@@ -37,7 +35,7 @@
   <meta name="twitter:description" content="<?php echo $pagedescription; ?>" />
   <meta name="twitter:image" content="<?php echo $pageimagepath; ?>" />
   
-  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />
 
 
 </head>
@@ -96,7 +94,7 @@
     </div>
 
 
-<!--    <div class="nav-overlay"></div>-->
+    <div class="nav-overlay"></div>
 
 
 </header>

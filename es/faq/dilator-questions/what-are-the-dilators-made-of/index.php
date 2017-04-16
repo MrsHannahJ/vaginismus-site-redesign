@@ -25,8 +25,8 @@
           <ul>
             <li><a href="/es/vaginismus-treatment/index.php">Dilatadores vaginales</a></li>
             <li><a href="/es/products/vaginismus-treatment-kit/index.php">Tratamiento del vaginismo</a></li>
-            <li><a href="/es/faq/dialtor-questions/vaginal-dilators-treating-vaginismus/index.php">¿Porqué se utilizan dilatadores vaginales en el tratamiento del vaginismo?</a></li>
-            <li><a href="/es/faq/dialtor-questions/vaginal-dilators-for-treating-vaginismus/index.php">¿Qué tipos de dilatadores vaginales son los mejores para el tratamiento del vaginismo?</a></li>
+            <li><a href="/es/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php">¿Porqué se utilizan dilatadores vaginales en el tratamiento del vaginismo?</a></li>
+            <li><a href="/es/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php">¿Qué tipos de dilatadores vaginales son los mejores para el tratamiento del vaginismo?</a></li>
           </ul>
           
           <hr class="hidden-desktop"/>
@@ -37,13 +37,13 @@
           <aside class="large-3">
           <h2>PMF Sobre el Dilatador</h2>
           <ul>
-            <li><a href="/es/faq/dialtor-questions/what-are-the-dilators-made-of/index.php" class="active"><i class="icon-angle-double-right"></i>¿De qué están hechos los dilatadores?</a></li>
-            <li><a href="/es/faq/dialtor-questions/health-insurance-cover-dilators/index.php"><i class="icon-angle-double-right"></i>¿Cubrirá mi seguro médico el costo de la compra de los dilatadores?</a></li>
-            <li><a href="/es/faq/dialtor-questions/vaginal-dilators-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Porqué se utilizan dilatadores vaginales en el tratamiento del vaginismo?</a></li>
-            <li><a href="/es/faq/dialtor-questions/can-i-just-get-dilators/index.php"><i class="icon-angle-double-right"></i>¿Usa los dilatadores sin seguir un programa?</a></li>
-            <li><a href="/es/faq/dialtor-questions/dilators-treat-other-conditions/index.php"><i class="icon-angle-double-right"></i>¿Se pueden usar los dilatadores para el tratamiento de otros padecimientos aparte del vaginismo?</a></li>
-            <li><a href="/es/faq/dialtor-questions/will-dilators-break-hymen/index.php"><i class="icon-angle-double-right"></i>Si mi himen sigue intacto, ¿podría romperse con el uso de los dilatadores? y ¿dolerá?</a></li>
-            <li><a href="/es/faq/dialtor-questions/vaginal-dilators-for-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Qué tipos de dilatadores vaginales son los mejores para el tratamiento del vaginismo y de padecimientos similares?</a></li>
+            <li><a href="/es/faq/dilator-questions/what-are-the-dilators-made-of/index.php" class="active"><i class="icon-angle-double-right"></i>¿De qué están hechos los dilatadores?</a></li>
+            <li><a href="/es/faq/dilator-questions/health-insurance-cover-dilators/index.php"><i class="icon-angle-double-right"></i>¿Cubrirá mi seguro médico el costo de la compra de los dilatadores?</a></li>
+            <li><a href="/es/faq/dilator-questions/vaginal-dilators-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Porqué se utilizan dilatadores vaginales en el tratamiento del vaginismo?</a></li>
+            <li><a href="/es/faq/dilator-questions/can-i-just-get-dilators/index.php"><i class="icon-angle-double-right"></i>¿Usa los dilatadores sin seguir un programa?</a></li>
+            <li><a href="/es/faq/dilator-questions/dilators-treat-other-conditions/index.php"><i class="icon-angle-double-right"></i>¿Se pueden usar los dilatadores para el tratamiento de otros padecimientos aparte del vaginismo?</a></li>
+            <li><a href="/es/faq/dilator-questions/will-dilators-break-hymen/index.php"><i class="icon-angle-double-right"></i>Si mi himen sigue intacto, ¿podría romperse con el uso de los dilatadores? y ¿dolerá?</a></li>
+            <li><a href="/es/faq/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php"><i class="icon-angle-double-right"></i>¿Qué tipos de dilatadores vaginales son los mejores para el tratamiento del vaginismo y de padecimientos similares?</a></li>
           </ul>
           <a href='/es/faq/index.php' class="shaded-btn">Ver Todo PMFs</a>
         </aside>
