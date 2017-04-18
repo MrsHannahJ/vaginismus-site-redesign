@@ -7,18 +7,18 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
       <?php
       $active = 'varying';
       include(ROOT_PATH.'/includes/sidebar-general-faq.php');
     ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Are there varying degrees of symptoms with vaginismus?</h1>
           <h3>Vaginismus Symptoms Range</h3>
           <p>Vaginismus manifests itself in varying <a href="../../../vaginismus-symptoms/index.html">symptoms</a> and degrees of intensity in different women. Fortunately, the treatment method is <a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">almost the same</a> regardless of the intensity or specific variation. The symptoms range depending upon type, causes, and complications present. It broadly affects women from all stages of life in that it can be triggered in both younger and older women; in those with no sexual experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">primary vaginismus</a>) and those with years of experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">secondary vaginismus</a>).</p>
@@ -40,8 +40,9 @@
             <li>Ongoing sexual discomfort or pain following childbirth, yeast/urinary infections, STDs, IC, hysterectomy, cancer, surgeries, rape, menopause, or other medical issue.</li>
             <li>Sexual pain of unknown origin or with no apparent cause.</li>
           </ul>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr/>
-          
+
           <h3>See Also</h3>
           <ul>
             <li><a href="../../../vaginismus-symptoms/index.html">Vaginismus Symptoms</a></li>
@@ -51,17 +52,17 @@
             <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

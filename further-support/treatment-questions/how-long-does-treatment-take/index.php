@@ -8,17 +8,17 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'long';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>How long does treatment take?</h1>
 
           <h3>Successful resolution of vaginismus in reasonable time is the normal outcome of vaginismus treatment.</h3>
@@ -88,30 +88,30 @@
 
           <h3>Completing the Program</h3>
           <p>Generally, if the process lengthens much beyond a few months, there are often emotional, motivational or <a href="../how-can-i-stay-motivated/index.html">avoidance</a> issues, or issues related to the resolution of complex problems that may have little to do directly with treatment steps.</p>
-          <p>Our <a href="../../../products/vaginismus-treatment-kit/index.html">self-help</a> program has been instrumental in assisting women through the process of recovery—see <a href="../../../reviews/index.html">user feedback</a>                    and <a href="../../../reviews/medical-specialist-reviews/index.html">medical reviews</a> for practical, real-life examples. While there are many influencing factors that may have an effect on the duration of treatment, treatment outcomes are nearly always positive with full success.</p>
-          
+          <p>Our <a href="../../../products/vaginismus-treatment-kit/index.html">self-help</a> program has been instrumental in assisting women through the process of recovery—see <a href="../../../reviews/index.html">user feedback</a> and <a href="../../../reviews/medical-specialist-reviews/index.html">medical reviews</a> for practical, real-life examples. While there are many influencing factors that may have an effect on the duration of treatment, treatment outcomes are nearly always positive with full success.</p>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-              <li><a href="../vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-              <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+            <li><a href="../vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

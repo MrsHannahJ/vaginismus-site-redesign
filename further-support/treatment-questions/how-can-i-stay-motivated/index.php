@@ -7,17 +7,17 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-   
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'motivated';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>How can I stay motivated and positive through treatment? I struggle with avoidance.</h1>
 
           <h3>Avoiding vaginismus diagnosis and treatment keeps many women suffering needlessly. Taking positive corrective action is key to breaking the cycle of avoidance and defeat.</h3>
@@ -49,31 +49,31 @@
             <li><strong>Give yourself a break.</strong> Consider planning for occasional or milestone breaks (as long as they don&#8217;t lead to avoidance or loss of progress). For example, after working through steps consistently for several days in row perhaps take a weekend off, etc.</li>
             <li><strong>Be determined.</strong> Significant life achievements require patient determination. Be determined to overcome your fears and all other stumbling blocks to resolve vaginismus and find freedom. You can do it!</li>
           </ul>
-              
-                
 
+
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-                <li><a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnostic and treatment help for vaginismus?</a></li>
-                <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-                <li><a href="../will-sex-ever-feel-good/index.html">Will sex ever feel good?</a></li>
-                <li><a href="../../../reviews/index.html">Customer Feedback &amp; Reviews</a></li>
-            </ul>
+          <ul>
+            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnostic and treatment help for vaginismus?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="../will-sex-ever-feel-good/index.html">Will sex ever feel good?</a></li>
+            <li><a href="../../../reviews/index.html">Customer Feedback &amp; Reviews</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

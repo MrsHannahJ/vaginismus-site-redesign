@@ -8,17 +8,17 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'primary';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Is there a difference between the treatment for primary and secondary vaginismus?</h1>
 
           <h3>Vaginismus treatment differs only slightly, depending upon the type and causes.</h3>
@@ -31,28 +31,28 @@
 
           <h3>Treatment for Primary &amp; Secondary Vaginismus</h3>
           <p>Women with complex histories may have difficulty identifying whether they have primary or secondary vaginismus. The overall treatment approach is similar for both, and there is no harm in reviewing every <a href="../../../vaginismus-treatment/index.html#10-steps">step</a> in the treatment process. In most cases, women with uncertainty will likely benefit from reviewing all the steps thoroughly and completing a full program.</p>
-
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../general-questions/what-is-vaginismus/index.html">What is vaginismus?</a></li>
-              <li><a href="../../general-questions/primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals such as physicians, gynecologists, physical therapists, psychologists, psychiatrists, counselors, sexual therapists or others?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../general-questions/what-is-vaginismus/index.html">What is vaginismus?</a></li>
+            <li><a href="../../general-questions/primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
+            <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals such as physicians, gynecologists, physical therapists, psychologists, psychiatrists, counselors, sexual therapists or others?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

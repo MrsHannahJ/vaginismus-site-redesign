@@ -8,16 +8,16 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'support';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Is there any further support with the treament kits?</h1>
 
           <h3>Having support available can be very helpful in the process of overcoming vaginismus.</h3>
@@ -41,29 +41,29 @@
           <h3>Phone Support</h3>
           <p>Where other support methods are insufficient, we provide phone-based help and support.</p>
           <p>In keeping with our <a href="../../../about-us/index.html">mission</a>, we do not charge for any of these support methods and provide free ongoing help for those going through <a href="../index.html">vaginismus treatment</a> to the best of our abilities.</p>
-  
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../../resources/index.html">Resource Library</a></li>
-              <li><a href="../../../forum-introduction/index.html">Vaginismus Private Forum</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-              <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../../resources/index.html">Resource Library</a></li>
+            <li><a href="../../../forum-introduction/index.html">Vaginismus Private Forum</a></li>
+            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

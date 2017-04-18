@@ -8,17 +8,17 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'passionate';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Vaginismus has taken its toll on our marriage. How do we become passionate again?</h1>
           <h3>There are many things that couples can do to help reignite their passion for each other.</h3>
 
@@ -41,30 +41,30 @@
             <li>Spend more time thinking positively about your partner throughout your day. Remember positive moments of love from the past and reflect warmly about him or her.</li>
           </ul>
           <p>For more information on this subject, there are many books focusing on &#8220;reclaiming the flame&#8221; that have terrific ideas—see our <a href="../../../resources/index.html">Resource</a> page for examples.</p>
-  
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-              <li><a href="../will-sex-ever-feel-good/index.html">Will sex ever feel good?</a></li>
-              <li><a href="../../general-questions/vaginismus-affect-husbands/index.html">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-              <li><a href="../../../reviews/index.html">Customer Feedback &amp; Reviews</a></li>
-            </ul>
+          <ul>
+            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="../will-sex-ever-feel-good/index.html">Will sex ever feel good?</a></li>
+            <li><a href="../../general-questions/vaginismus-affect-husbands/index.html">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="../../../reviews/index.html">Customer Feedback &amp; Reviews</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

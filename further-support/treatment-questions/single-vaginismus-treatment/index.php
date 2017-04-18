@@ -7,17 +7,17 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'single';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Can you completely overcome vaginismus if you are single?</h1>
 
           <h3>Vaginismus treatment can be completed while single, up to the point of being fully ready to transition to intercourse.</h3>
@@ -31,28 +31,28 @@
           <h3>Support in the Forum</h3>
           <p>To help with encouragement and any emotional issues, we encourage single women beginning vaginismus treatment to find some measure of <a href="../further-support-after/index.html">support</a>. We strongly recommend that they consider joining an online support group and/or seek the assistance of a compassionate and skillful counselor/therapist/health care professional. A good place to start is in our <a href="../../../forum-introduction/index.html">Vaginismus Private Forum</a> (a forum pass comes with every <a href="../../../products/vaginismus-treatment-kit/index.html">treatment kit</a> purchase) where there are single women actively supporting and encouraging one another.</p>
           <p>Support is also available through other channels (see links on our <a href="../../../resources/index.html">Resources</a> page for more information and online groups).</p>
-  
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-              <li><a href="../vaginismus-treatment-help-severe-cases/index.html">Does your kit only work for mild or marginal cases of vaginismus? Will it work for severe cases as well?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="../vaginismus-treatment-help-severe-cases/index.html">Does your kit only work for mild or marginal cases of vaginismus? Will it work for severe cases as well?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

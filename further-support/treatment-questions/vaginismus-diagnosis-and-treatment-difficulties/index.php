@@ -7,28 +7,28 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'diagnosis';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Why is it so difficult to get diagnostic and treatment help for vaginismus?</h1>
-                
+
           <h3>Professional Help Isn&#8217;t Always Accessible</h3>
           <p>Vaginismus is sufficiently rare that many physicians have never heard of it or have little experience with diagnosis or treatment.</p>
 
           <h3>Some Physicians Don&#8217;t Understand the Condition</h3>
-          <p>Vaginismus is a disorder that often &#8220;falls between the cracks&#8221; of general medical practices. Women may simply not get the care they need or in many cases initially experience incorrect <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a>                    or <a href="../../../vaginismus-treatment/index.html">treatment</a> advice from physicians who are simply unfamiliar with the condition. As vaginismus is considered to be in the &#8220;less-than-1%-of-the-population&#8221; category, most physicians are not trained to screen for it or to even have familiarity with it.</p>
+          <p>Vaginismus is a disorder that often &#8220;falls between the cracks&#8221; of general medical practices. Women may simply not get the care they need or in many cases initially experience incorrect <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a> or <a href="../../../vaginismus-treatment/index.html">treatment</a> advice from physicians who are simply unfamiliar with the condition. As vaginismus is considered to be in the &#8220;less-than-1%-of-the-population&#8221; category, most physicians are not trained to screen for it or to even have familiarity with it.</p>
           <p>Also, as there may be no purely physical ailment that is apparent with vaginismus, some physicians feel that it is a condition that would be better suited to another health specialization. Unfortunately, as a result, some women are left feeling that the medical professions do not understand vaginismus, that the problem is untreatable, or that there are few <a href="../../../vaginismus-treatment/index.html">treatment</a> options.</p>
 
           <h3>Barriers in Getting Help from Knowledgeable Medical Specialists</h3>
-          <p>Beyond sometimes being difficult to find professionals that are familiar with vaginismus, there are still other barriers to getting care with knowledgeable vaginismus specialists. Obtaining a proper <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a>                    and quality <a href="../../../vaginismus-treatment/index.html">treatment</a> by medical specialists or therapists can be hampered by a variety of factors such as:</p>
+          <p>Beyond sometimes being difficult to find professionals that are familiar with vaginismus, there are still other barriers to getting care with knowledgeable vaginismus specialists. Obtaining a proper <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a> and quality <a href="../../../vaginismus-treatment/index.html">treatment</a> by medical specialists or therapists can be hampered by a variety of factors such as:</p>
           <ul>
             <li>Global shortage of specialists or clinics qualified to diagnose and treat vaginismus</li>
             <li>Long waiting lists for new clients &#8211; some specialists report waits exceeding 6 months</li>
@@ -50,29 +50,30 @@
             <li>Lankveld, J., Everaerd, W., &amp; Grotjohann, Y. (2001). Cognitive-behavioral bibliotherapy for sexual dysfunctions in heterosexual couples: A randomized waiting-list controlled clinical trial in the Netherlands. <em>J Sex Res, 38</em>(1), 51-67.</li>
             <li>Schnyder, U., Schnyder-Luthi, C., Ballinari, P., &amp; Blaser, A. (1998). Therapy for vaginismus: In vivo versus in vitro desensitization. <em>Can J Psychiatry, 43</em>(9), 941-44.</li>
           </ol>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../../resources/professional-organizations/index.html">Professional Organizations</a></li>
-              <li><a href="../../../vaginismus-diagnosis/index.html">Vaginismus Diagnosis</a></li>
-              <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-              <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-              <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../../resources/professional-organizations/index.html">Professional Organizations</a></li>
+            <li><a href="../../../vaginismus-diagnosis/index.html">Vaginismus Diagnosis</a></li>
+            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

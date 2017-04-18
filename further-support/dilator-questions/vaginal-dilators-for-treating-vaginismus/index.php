@@ -9,21 +9,21 @@
 
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'treating';
           include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>What types of vaginal dilators are best for treating vaginismus and similar conditions?</h1>
-     
-                 
-          
+
+
+
           <figure>
             <figcaption>
               <h3>Several factors help determine the effectiveness of dilators in treating vaginismus.</h3>
@@ -45,10 +45,10 @@
           <h3>The Handle</h3>
           <p>Dilator handles assist women to have greater fine control over the insertion process (easier control over the angle and exact depth) and also helps with hygiene—keeping the hands away from the insertion tip and keeping lubricant off of the hands.</p>
           <p>Please note that without an effective program, dilators have limited value in helping with vaginismus. The proper use of vaginal dilators is essential for <a href="../..//treatment-questions/vaginismus-treatment-success-rates/index.html">successful treatment outcomes</a>. When accompanied with a full program to complete the other necessary steps to treatment success, dilators are a helpful tool in retraining the body. Effectively used, they help with treatment exercises designed to eliminate vaginal penetration difficulties and to make a more seamless transition to pain-free intercourse.</p>
-                  
-                      
+
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
           <ul>
             <li><a href="../../../products/vaginismus-treatment-kit/index.html">Vaginismus Treatment Kit</a></li>
@@ -57,17 +57,17 @@
             <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Why are vaginal dilators used in treating vaginismus?</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

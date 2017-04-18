@@ -2864,14 +2864,30 @@ strong {
 /**
  * Clear inner floats
  */
-.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix {
+.wrapper:after, :lang(en) header:after,
+:lang(pt) header:after,
+:lang(es) header:after,
+:lang(ru) header:after,
+:lang(tr) header:after, html[dir="rtl"] header:after,
+clearfix {
   *zoom: 1;
 }
-.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix:before, clearfix:after {
+.wrapper:after, :lang(en) header:after,
+:lang(pt) header:after,
+:lang(es) header:after,
+:lang(ru) header:after,
+:lang(tr) header:after, html[dir="rtl"] header:after,
+clearfix:before,
+clearfix:after {
   content: " ";
   display: table;
 }
-.wrapper:after, :lang(en) header:after, :lang(pt) header:after, :lang(es) header:after, :lang(ru) header:after, :lang(tr) header:after, html[dir="rtl"] header:after, clearfix:after {
+.wrapper:after, :lang(en) header:after,
+:lang(pt) header:after,
+:lang(es) header:after,
+:lang(ru) header:after,
+:lang(tr) header:after, html[dir="rtl"] header:after,
+clearfix:after {
   clear: both;
 }
 
@@ -2950,6 +2966,22 @@ strong {
     overflow: hidden;
   }
 }
+:target {
+  position: relative;
+  border-top: 2rem solid transparent;
+  margin-top: -1rem;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+
+:target:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
 #page-container {
   width: 100%;
 }
@@ -3061,7 +3093,11 @@ strong {
   }
 }
 /*--------------HEADER---------------*/
-:lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
+:lang(en) header,
+:lang(pt) header,
+:lang(es) header,
+:lang(ru) header,
+:lang(tr) header {
   z-index: 90000;
   top: 0;
   background: #ffffff;
@@ -3074,15 +3110,27 @@ strong {
   font-size: 1rem;
   font-family: "Raleway", sans-serif;
 }
-:lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
+:lang(en) header .logo,
+:lang(pt) header .logo,
+:lang(es) header .logo,
+:lang(ru) header .logo,
+:lang(tr) header .logo {
   max-width: 150px;
 }
-:lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
+:lang(en) header .cart,
+:lang(pt) header .cart,
+:lang(es) header .cart,
+:lang(ru) header .cart,
+:lang(tr) header .cart {
   float: right;
   width: 2rem;
   position: relative;
 }
-:lang(en) header .cart-count, :lang(pt) header .cart-count, :lang(es) header .cart-count, :lang(ru) header .cart-count, :lang(tr) header .cart-count {
+:lang(en) header .cart-count,
+:lang(pt) header .cart-count,
+:lang(es) header .cart-count,
+:lang(ru) header .cart-count,
+:lang(tr) header .cart-count {
   position: absolute;
   top: -0.25rem;
   right: -0.25rem;
@@ -3092,21 +3140,41 @@ strong {
   color: #ffffff;
   font-size: 12px;
 }
-:lang(en) header .cart-count:before, :lang(en) header .cart-count:after, :lang(pt) header .cart-count:before, :lang(pt) header .cart-count:after, :lang(es) header .cart-count:before, :lang(es) header .cart-count:after, :lang(ru) header .cart-count:before, :lang(ru) header .cart-count:after, :lang(tr) header .cart-count:before, :lang(tr) header .cart-count:after {
+:lang(en) header .cart-count:before, :lang(en) header .cart-count:after,
+:lang(pt) header .cart-count:before,
+:lang(pt) header .cart-count:after,
+:lang(es) header .cart-count:before,
+:lang(es) header .cart-count:after,
+:lang(ru) header .cart-count:before,
+:lang(ru) header .cart-count:after,
+:lang(tr) header .cart-count:before,
+:lang(tr) header .cart-count:after {
   content: '\200B';
   display: inline-block;
   line-height: 0px;
   padding-top: 25%;
   padding-bottom: 25%;
 }
-:lang(en) header .cart-count:before, :lang(pt) header .cart-count:before, :lang(es) header .cart-count:before, :lang(ru) header .cart-count:before, :lang(tr) header .cart-count:before {
+:lang(en) header .cart-count:before,
+:lang(pt) header .cart-count:before,
+:lang(es) header .cart-count:before,
+:lang(ru) header .cart-count:before,
+:lang(tr) header .cart-count:before {
   padding-left: 4px;
 }
-:lang(en) header .cart-count:after, :lang(pt) header .cart-count:after, :lang(es) header .cart-count:after, :lang(ru) header .cart-count:after, :lang(tr) header .cart-count:after {
+:lang(en) header .cart-count:after,
+:lang(pt) header .cart-count:after,
+:lang(es) header .cart-count:after,
+:lang(ru) header .cart-count:after,
+:lang(tr) header .cart-count:after {
   padding-right: 4px;
 }
 @media screen and (max-width: 979.99px) {
-  :lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
+  :lang(en) header,
+  :lang(pt) header,
+  :lang(es) header,
+  :lang(ru) header,
+  :lang(tr) header {
     /* --------- */
     /* Slide Out */
     /* --------- */
@@ -3114,24 +3182,40 @@ strong {
     /* Scrollbar */
     /* --------- */
   }
-  :lang(en) header .desktop-navbar, :lang(pt) header .desktop-navbar, :lang(es) header .desktop-navbar, :lang(ru) header .desktop-navbar, :lang(tr) header .desktop-navbar {
+  :lang(en) header .desktop-navbar,
+  :lang(pt) header .desktop-navbar,
+  :lang(es) header .desktop-navbar,
+  :lang(ru) header .desktop-navbar,
+  :lang(tr) header .desktop-navbar {
     display: flex;
     height: 100%;
     margin: 0.5rem 0.5rem 0;
   }
-  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
+  :lang(en) header .logo,
+  :lang(pt) header .logo,
+  :lang(es) header .logo,
+  :lang(ru) header .logo,
+  :lang(tr) header .logo {
     display: block;
     margin: 0 auto;
     text-indent: 1rem;
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
+  :lang(en) header .logo,
+  :lang(pt) header .logo,
+  :lang(es) header .logo,
+  :lang(ru) header .logo,
+  :lang(tr) header .logo {
     text-indent: 1.5rem;
   }
 }
 @media screen and (max-width: 979.99px) {
-  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
+  :lang(en) header nav,
+  :lang(pt) header nav,
+  :lang(es) header nav,
+  :lang(ru) header nav,
+  :lang(tr) header nav {
     position: fixed;
     display: block;
     top: 0;
@@ -3146,12 +3230,20 @@ strong {
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
+  :lang(en) header nav,
+  :lang(pt) header nav,
+  :lang(es) header nav,
+  :lang(ru) header nav,
+  :lang(tr) header nav {
     left: -310px;
   }
 }
 @media screen and (max-width: 979.99px) {
-  :lang(en) header nav.open, :lang(pt) header nav.open, :lang(es) header nav.open, :lang(ru) header nav.open, :lang(tr) header nav.open {
+  :lang(en) header nav.open,
+  :lang(pt) header nav.open,
+  :lang(es) header nav.open,
+  :lang(ru) header nav.open,
+  :lang(tr) header nav.open {
     left: 0;
     -moz-transition: left 0.3s ease-in-out 0s;
     -o-transition: left 0.3s ease-in-out 0s;
@@ -3159,7 +3251,11 @@ strong {
     -webkit-transition-delay: 0s;
     transition: left 0.3s ease-in-out 0s;
   }
-  :lang(en) header .nav-toggle, :lang(pt) header .nav-toggle, :lang(es) header .nav-toggle, :lang(ru) header .nav-toggle, :lang(tr) header .nav-toggle {
+  :lang(en) header .nav-toggle,
+  :lang(pt) header .nav-toggle,
+  :lang(es) header .nav-toggle,
+  :lang(ru) header .nav-toggle,
+  :lang(tr) header .nav-toggle {
     z-index: 2000000;
     margin: 0.775rem 0 0 0.5rem;
     float: right;
@@ -3179,7 +3275,11 @@ strong {
     transition: all .5s ease-in-out;
     cursor: pointer;
   }
-  :lang(en) header .nav-toggle span, :lang(pt) header .nav-toggle span, :lang(es) header .nav-toggle span, :lang(ru) header .nav-toggle span, :lang(tr) header .nav-toggle span {
+  :lang(en) header .nav-toggle span,
+  :lang(pt) header .nav-toggle span,
+  :lang(es) header .nav-toggle span,
+  :lang(ru) header .nav-toggle span,
+  :lang(tr) header .nav-toggle span {
     display: block;
     position: absolute;
     height: 2px;
@@ -3197,31 +3297,51 @@ strong {
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
   }
-  :lang(en) header .nav-toggle span:nth-child(1), :lang(pt) header .nav-toggle span:nth-child(1), :lang(es) header .nav-toggle span:nth-child(1), :lang(ru) header .nav-toggle span:nth-child(1), :lang(tr) header .nav-toggle span:nth-child(1) {
+  :lang(en) header .nav-toggle span:nth-child(1),
+  :lang(pt) header .nav-toggle span:nth-child(1),
+  :lang(es) header .nav-toggle span:nth-child(1),
+  :lang(ru) header .nav-toggle span:nth-child(1),
+  :lang(tr) header .nav-toggle span:nth-child(1) {
     top: 0px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  :lang(en) header .nav-toggle span:nth-child(2), :lang(pt) header .nav-toggle span:nth-child(2), :lang(es) header .nav-toggle span:nth-child(2), :lang(ru) header .nav-toggle span:nth-child(2), :lang(tr) header .nav-toggle span:nth-child(2) {
+  :lang(en) header .nav-toggle span:nth-child(2),
+  :lang(pt) header .nav-toggle span:nth-child(2),
+  :lang(es) header .nav-toggle span:nth-child(2),
+  :lang(ru) header .nav-toggle span:nth-child(2),
+  :lang(tr) header .nav-toggle span:nth-child(2) {
     top: 9px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  :lang(en) header .nav-toggle span:nth-child(3), :lang(pt) header .nav-toggle span:nth-child(3), :lang(es) header .nav-toggle span:nth-child(3), :lang(ru) header .nav-toggle span:nth-child(3), :lang(tr) header .nav-toggle span:nth-child(3) {
+  :lang(en) header .nav-toggle span:nth-child(3),
+  :lang(pt) header .nav-toggle span:nth-child(3),
+  :lang(es) header .nav-toggle span:nth-child(3),
+  :lang(ru) header .nav-toggle span:nth-child(3),
+  :lang(tr) header .nav-toggle span:nth-child(3) {
     top: 18px;
     -webkit-transform-origin: left center;
     -moz-transform-origin: left center;
     -o-transform-origin: left center;
     transform-origin: left center;
   }
-  :lang(en) header .open .nav-toggle span, :lang(pt) header .open .nav-toggle span, :lang(es) header .open .nav-toggle span, :lang(ru) header .open .nav-toggle span, :lang(tr) header .open .nav-toggle span {
+  :lang(en) header .open .nav-toggle span,
+  :lang(pt) header .open .nav-toggle span,
+  :lang(es) header .open .nav-toggle span,
+  :lang(ru) header .open .nav-toggle span,
+  :lang(tr) header .open .nav-toggle span {
     background: #4eb3b3;
   }
-  :lang(en) header .open .nav-toggle span:nth-child(1), :lang(pt) header .open .nav-toggle span:nth-child(1), :lang(es) header .open .nav-toggle span:nth-child(1), :lang(ru) header .open .nav-toggle span:nth-child(1), :lang(tr) header .open .nav-toggle span:nth-child(1) {
+  :lang(en) header .open .nav-toggle span:nth-child(1),
+  :lang(pt) header .open .nav-toggle span:nth-child(1),
+  :lang(es) header .open .nav-toggle span:nth-child(1),
+  :lang(ru) header .open .nav-toggle span:nth-child(1),
+  :lang(tr) header .open .nav-toggle span:nth-child(1) {
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -o-transform: rotate(45deg);
@@ -3229,11 +3349,19 @@ strong {
     top: 0;
     left: 0;
   }
-  :lang(en) header .open .nav-toggle span:nth-child(2), :lang(pt) header .open .nav-toggle span:nth-child(2), :lang(es) header .open .nav-toggle span:nth-child(2), :lang(ru) header .open .nav-toggle span:nth-child(2), :lang(tr) header .open .nav-toggle span:nth-child(2) {
+  :lang(en) header .open .nav-toggle span:nth-child(2),
+  :lang(pt) header .open .nav-toggle span:nth-child(2),
+  :lang(es) header .open .nav-toggle span:nth-child(2),
+  :lang(ru) header .open .nav-toggle span:nth-child(2),
+  :lang(tr) header .open .nav-toggle span:nth-child(2) {
     width: 0%;
     opacity: 0;
   }
-  :lang(en) header .open .nav-toggle span:nth-child(3), :lang(pt) header .open .nav-toggle span:nth-child(3), :lang(es) header .open .nav-toggle span:nth-child(3), :lang(ru) header .open .nav-toggle span:nth-child(3), :lang(tr) header .open .nav-toggle span:nth-child(3) {
+  :lang(en) header .open .nav-toggle span:nth-child(3),
+  :lang(pt) header .open .nav-toggle span:nth-child(3),
+  :lang(es) header .open .nav-toggle span:nth-child(3),
+  :lang(ru) header .open .nav-toggle span:nth-child(3),
+  :lang(tr) header .open .nav-toggle span:nth-child(3) {
     -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
     -o-transform: rotate(-45deg);
@@ -3241,11 +3369,19 @@ strong {
     top: 22px;
     left: 0;
   }
-  :lang(en) header .close-hamburger, :lang(pt) header .close-hamburger, :lang(es) header .close-hamburger, :lang(ru) header .close-hamburger, :lang(tr) header .close-hamburger {
+  :lang(en) header .close-hamburger,
+  :lang(pt) header .close-hamburger,
+  :lang(es) header .close-hamburger,
+  :lang(ru) header .close-hamburger,
+  :lang(tr) header .close-hamburger {
     max-width: 2rem;
     margin: 1rem 0 0 1rem;
   }
-  :lang(en) header .nav-menu, :lang(pt) header .nav-menu, :lang(es) header .nav-menu, :lang(ru) header .nav-menu, :lang(tr) header .nav-menu {
+  :lang(en) header .nav-menu,
+  :lang(pt) header .nav-menu,
+  :lang(es) header .nav-menu,
+  :lang(ru) header .nav-menu,
+  :lang(tr) header .nav-menu {
     position: relative;
     padding-top: 20px;
     padding-top: 1rem;
@@ -3257,18 +3393,34 @@ strong {
   }
 }
 @media screen and (max-width: 979.99px) and (min-width: 375px) {
-  :lang(en) header .nav-menu, :lang(pt) header .nav-menu, :lang(es) header .nav-menu, :lang(ru) header .nav-menu, :lang(tr) header .nav-menu {
+  :lang(en) header .nav-menu,
+  :lang(pt) header .nav-menu,
+  :lang(es) header .nav-menu,
+  :lang(ru) header .nav-menu,
+  :lang(tr) header .nav-menu {
     width: 310px;
   }
 }
 @media screen and (max-width: 979.99px) {
-  :lang(en) header .nav-menu ul, :lang(pt) header .nav-menu ul, :lang(es) header .nav-menu ul, :lang(ru) header .nav-menu ul, :lang(tr) header .nav-menu ul {
+  :lang(en) header .nav-menu ul,
+  :lang(pt) header .nav-menu ul,
+  :lang(es) header .nav-menu ul,
+  :lang(ru) header .nav-menu ul,
+  :lang(tr) header .nav-menu ul {
     list-style-type: none;
   }
-  :lang(en) header .nav-menu li, :lang(pt) header .nav-menu li, :lang(es) header .nav-menu li, :lang(ru) header .nav-menu li, :lang(tr) header .nav-menu li {
+  :lang(en) header .nav-menu li,
+  :lang(pt) header .nav-menu li,
+  :lang(es) header .nav-menu li,
+  :lang(ru) header .nav-menu li,
+  :lang(tr) header .nav-menu li {
     margin: 0;
   }
-  :lang(en) header .nav-menu a, :lang(pt) header .nav-menu a, :lang(es) header .nav-menu a, :lang(ru) header .nav-menu a, :lang(tr) header .nav-menu a {
+  :lang(en) header .nav-menu a,
+  :lang(pt) header .nav-menu a,
+  :lang(es) header .nav-menu a,
+  :lang(ru) header .nav-menu a,
+  :lang(tr) header .nav-menu a {
     display: block;
     padding: 0.4rem 2rem;
     font-size: 20px;
@@ -3282,30 +3434,58 @@ strong {
     -webkit-transition-delay: 0s;
     transition: color 0.3s ease-in-out 0s;
   }
-  :lang(en) header #nav, :lang(pt) header #nav, :lang(es) header #nav, :lang(ru) header #nav, :lang(tr) header #nav {
+  :lang(en) header #nav,
+  :lang(pt) header #nav,
+  :lang(es) header #nav,
+  :lang(ru) header #nav,
+  :lang(tr) header #nav {
     padding-top: 2rem;
   }
-  :lang(en) header ul#nav > li > a, :lang(pt) header ul#nav > li > a, :lang(es) header ul#nav > li > a, :lang(ru) header ul#nav > li > a, :lang(tr) header ul#nav > li > a {
+  :lang(en) header ul#nav > li > a,
+  :lang(pt) header ul#nav > li > a,
+  :lang(es) header ul#nav > li > a,
+  :lang(ru) header ul#nav > li > a,
+  :lang(tr) header ul#nav > li > a {
     color: #4eb3b3;
     text-transform: uppercase;
     font-weight: 600;
   }
-  :lang(en) header ul#nav > li > ul > li > a, :lang(pt) header ul#nav > li > ul > li > a, :lang(es) header ul#nav > li > ul > li > a, :lang(ru) header ul#nav > li > ul > li > a, :lang(tr) header ul#nav > li > ul > li > a {
+  :lang(en) header ul#nav > li > ul > li > a,
+  :lang(pt) header ul#nav > li > ul > li > a,
+  :lang(es) header ul#nav > li > ul > li > a,
+  :lang(ru) header ul#nav > li > ul > li > a,
+  :lang(tr) header ul#nav > li > ul > li > a {
     font-style: italic;
     font-weight: 400;
   }
-  :lang(en) header ::-webkit-scrollbar, :lang(pt) header ::-webkit-scrollbar, :lang(es) header ::-webkit-scrollbar, :lang(ru) header ::-webkit-scrollbar, :lang(tr) header ::-webkit-scrollbar {
+  :lang(en) header ::-webkit-scrollbar,
+  :lang(pt) header ::-webkit-scrollbar,
+  :lang(es) header ::-webkit-scrollbar,
+  :lang(ru) header ::-webkit-scrollbar,
+  :lang(tr) header ::-webkit-scrollbar {
     width: 6px;
   }
-  :lang(en) header ::-webkit-scrollbar-track, :lang(pt) header ::-webkit-scrollbar-track, :lang(es) header ::-webkit-scrollbar-track, :lang(ru) header ::-webkit-scrollbar-track, :lang(tr) header ::-webkit-scrollbar-track {
+  :lang(en) header ::-webkit-scrollbar-track,
+  :lang(pt) header ::-webkit-scrollbar-track,
+  :lang(es) header ::-webkit-scrollbar-track,
+  :lang(ru) header ::-webkit-scrollbar-track,
+  :lang(tr) header ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
   }
-  :lang(en) header ::-webkit-scrollbar-thumb, :lang(pt) header ::-webkit-scrollbar-thumb, :lang(es) header ::-webkit-scrollbar-thumb, :lang(ru) header ::-webkit-scrollbar-thumb, :lang(tr) header ::-webkit-scrollbar-thumb {
+  :lang(en) header ::-webkit-scrollbar-thumb,
+  :lang(pt) header ::-webkit-scrollbar-thumb,
+  :lang(es) header ::-webkit-scrollbar-thumb,
+  :lang(ru) header ::-webkit-scrollbar-thumb,
+  :lang(tr) header ::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
   }
-  :lang(en) header .nav-overlay, :lang(pt) header .nav-overlay, :lang(es) header .nav-overlay, :lang(ru) header .nav-overlay, :lang(tr) header .nav-overlay {
+  :lang(en) header .nav-overlay,
+  :lang(pt) header .nav-overlay,
+  :lang(es) header .nav-overlay,
+  :lang(ru) header .nav-overlay,
+  :lang(tr) header .nav-overlay {
     display: none;
     position: fixed;
     top: 0;
@@ -3322,7 +3502,11 @@ strong {
     -webkit-transition-delay: 0s, 0.6s;
     transition: opacity 0.3s ease-in-out 0s, z-index 0s ease 0.6s;
   }
-  :lang(en) header .nav-overlay.open, :lang(pt) header .nav-overlay.open, :lang(es) header .nav-overlay.open, :lang(ru) header .nav-overlay.open, :lang(tr) header .nav-overlay.open {
+  :lang(en) header .nav-overlay.open,
+  :lang(pt) header .nav-overlay.open,
+  :lang(es) header .nav-overlay.open,
+  :lang(ru) header .nav-overlay.open,
+  :lang(tr) header .nav-overlay.open {
     display: block;
     top: 0;
     left: 0;
@@ -3337,34 +3521,66 @@ strong {
   }
 }
 @media screen and (min-width: 768px) {
-  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
+  :lang(en) header .logo,
+  :lang(pt) header .logo,
+  :lang(es) header .logo,
+  :lang(ru) header .logo,
+  :lang(tr) header .logo {
     max-width: 175px;
   }
 }
 @media screen and (min-width: 980px) {
-  :lang(en) header, :lang(pt) header, :lang(es) header, :lang(ru) header, :lang(tr) header {
+  :lang(en) header,
+  :lang(pt) header,
+  :lang(es) header,
+  :lang(ru) header,
+  :lang(tr) header {
     /* APPLIES THE ACTIVE STATE */
     /* THE SUBMENU LIST HIDDEN BY DEFAULT */
     /* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
   }
-  :lang(en) header .desktop-navbar, :lang(pt) header .desktop-navbar, :lang(es) header .desktop-navbar, :lang(ru) header .desktop-navbar, :lang(tr) header .desktop-navbar {
+  :lang(en) header .desktop-navbar,
+  :lang(pt) header .desktop-navbar,
+  :lang(es) header .desktop-navbar,
+  :lang(ru) header .desktop-navbar,
+  :lang(tr) header .desktop-navbar {
     display: flex;
     height: 100%;
   }
-  :lang(en) header .logo, :lang(pt) header .logo, :lang(es) header .logo, :lang(ru) header .logo, :lang(tr) header .logo {
+  :lang(en) header .logo,
+  :lang(pt) header .logo,
+  :lang(es) header .logo,
+  :lang(ru) header .logo,
+  :lang(tr) header .logo {
     margin: 0.5rem 0 0 1rem;
   }
-  :lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
+  :lang(en) header .cart,
+  :lang(pt) header .cart,
+  :lang(es) header .cart,
+  :lang(ru) header .cart,
+  :lang(tr) header .cart {
     margin: 0.5rem 1rem 0 0;
   }
-  :lang(en) header #menu, :lang(pt) header #menu, :lang(es) header #menu, :lang(ru) header #menu, :lang(tr) header #menu {
+  :lang(en) header #menu,
+  :lang(pt) header #menu,
+  :lang(es) header #menu,
+  :lang(ru) header #menu,
+  :lang(tr) header #menu {
     clear: both;
   }
-  :lang(en) header nav, :lang(pt) header nav, :lang(es) header nav, :lang(ru) header nav, :lang(tr) header nav {
+  :lang(en) header nav,
+  :lang(pt) header nav,
+  :lang(es) header nav,
+  :lang(ru) header nav,
+  :lang(tr) header nav {
     flex-grow: 2;
     margin: 0 auto;
   }
-  :lang(en) header ul#nav, :lang(pt) header ul#nav, :lang(es) header ul#nav, :lang(ru) header ul#nav, :lang(tr) header ul#nav {
+  :lang(en) header ul#nav,
+  :lang(pt) header ul#nav,
+  :lang(es) header ul#nav,
+  :lang(ru) header ul#nav,
+  :lang(tr) header ul#nav {
     float: left;
     width: 100%;
     margin: 0;
@@ -3373,10 +3589,18 @@ strong {
     display: flex;
     justify-content: center;
   }
-  :lang(en) header ul#nav li, :lang(pt) header ul#nav li, :lang(es) header ul#nav li, :lang(ru) header ul#nav li, :lang(tr) header ul#nav li {
+  :lang(en) header ul#nav li,
+  :lang(pt) header ul#nav li,
+  :lang(es) header ul#nav li,
+  :lang(ru) header ul#nav li,
+  :lang(tr) header ul#nav li {
     display: inline;
   }
-  :lang(en) header ul#nav li a, :lang(pt) header ul#nav li a, :lang(es) header ul#nav li a, :lang(ru) header ul#nav li a, :lang(tr) header ul#nav li a {
+  :lang(en) header ul#nav li a,
+  :lang(pt) header ul#nav li a,
+  :lang(es) header ul#nav li a,
+  :lang(ru) header ul#nav li a,
+  :lang(tr) header ul#nav li a {
     float: left;
     font: bold 1.1em;
     line-height: 3rem;
@@ -3388,19 +3612,31 @@ strong {
     padding: 0 30px;
   }
   :lang(en) header ul#nav li:hover > a,
-  :lang(en) header ul#nav li:active > a, :lang(pt) header ul#nav li:hover > a,
-  :lang(pt) header ul#nav li:active > a, :lang(es) header ul#nav li:hover > a,
-  :lang(es) header ul#nav li:active > a, :lang(ru) header ul#nav li:hover > a,
-  :lang(ru) header ul#nav li:active > a, :lang(tr) header ul#nav li:hover > a,
+  :lang(en) header ul#nav li:active > a,
+  :lang(pt) header ul#nav li:hover > a,
+  :lang(pt) header ul#nav li:active > a,
+  :lang(es) header ul#nav li:hover > a,
+  :lang(es) header ul#nav li:active > a,
+  :lang(ru) header ul#nav li:hover > a,
+  :lang(ru) header ul#nav li:active > a,
+  :lang(tr) header ul#nav li:hover > a,
   :lang(tr) header ul#nav li:active > a {
     color: #4eb3b3;
     opacity: 1;
     transition: none;
   }
-  :lang(en) header ul#nav ul, :lang(pt) header ul#nav ul, :lang(es) header ul#nav ul, :lang(ru) header ul#nav ul, :lang(tr) header ul#nav ul {
+  :lang(en) header ul#nav ul,
+  :lang(pt) header ul#nav ul,
+  :lang(es) header ul#nav ul,
+  :lang(ru) header ul#nav ul,
+  :lang(tr) header ul#nav ul {
     display: none;
   }
-  :lang(en) header ul#nav li:hover > ul, :lang(pt) header ul#nav li:hover > ul, :lang(es) header ul#nav li:hover > ul, :lang(ru) header ul#nav li:hover > ul, :lang(tr) header ul#nav li:hover > ul {
+  :lang(en) header ul#nav li:hover > ul,
+  :lang(pt) header ul#nav li:hover > ul,
+  :lang(es) header ul#nav li:hover > ul,
+  :lang(ru) header ul#nav li:hover > ul,
+  :lang(tr) header ul#nav li:hover > ul {
     position: absolute;
     display: block;
     width: 100%;
@@ -3412,7 +3648,11 @@ strong {
     background: #656565;
     z-index: -5;
   }
-  :lang(en) header ul#nav li:hover > ul li a, :lang(pt) header ul#nav li:hover > ul li a, :lang(es) header ul#nav li:hover > ul li a, :lang(ru) header ul#nav li:hover > ul li a, :lang(tr) header ul#nav li:hover > ul li a {
+  :lang(en) header ul#nav li:hover > ul li a,
+  :lang(pt) header ul#nav li:hover > ul li a,
+  :lang(es) header ul#nav li:hover > ul li a,
+  :lang(ru) header ul#nav li:hover > ul li a,
+  :lang(tr) header ul#nav li:hover > ul li a {
     float: none;
     line-height: 45px;
     color: #ffffff;
@@ -3424,17 +3664,33 @@ strong {
     font-size: 16px;
     font-size: 1rem;
   }
-  :lang(en) header ul#nav li:hover > ul li a:hover, :lang(pt) header ul#nav li:hover > ul li a:hover, :lang(es) header ul#nav li:hover > ul li a:hover, :lang(ru) header ul#nav li:hover > ul li a:hover, :lang(tr) header ul#nav li:hover > ul li a:hover {
+  :lang(en) header ul#nav li:hover > ul li a:hover,
+  :lang(pt) header ul#nav li:hover > ul li a:hover,
+  :lang(es) header ul#nav li:hover > ul li a:hover,
+  :lang(ru) header ul#nav li:hover > ul li a:hover,
+  :lang(tr) header ul#nav li:hover > ul li a:hover {
     opacity: 0.8;
   }
-  :lang(en) header ul#nav li:hover > ul li a:hover, :lang(pt) header ul#nav li:hover > ul li a:hover, :lang(es) header ul#nav li:hover > ul li a:hover, :lang(ru) header ul#nav li:hover > ul li a:hover, :lang(tr) header ul#nav li:hover > ul li a:hover {
+  :lang(en) header ul#nav li:hover > ul li a:hover,
+  :lang(pt) header ul#nav li:hover > ul li a:hover,
+  :lang(es) header ul#nav li:hover > ul li a:hover,
+  :lang(ru) header ul#nav li:hover > ul li a:hover,
+  :lang(tr) header ul#nav li:hover > ul li a:hover {
     text-decoration: none;
     text-shadow: none;
   }
-  :lang(en) header .primary-nav-item > a, :lang(pt) header .primary-nav-item > a, :lang(es) header .primary-nav-item > a, :lang(ru) header .primary-nav-item > a, :lang(tr) header .primary-nav-item > a {
+  :lang(en) header .primary-nav-item > a,
+  :lang(pt) header .primary-nav-item > a,
+  :lang(es) header .primary-nav-item > a,
+  :lang(ru) header .primary-nav-item > a,
+  :lang(tr) header .primary-nav-item > a {
     position: relative;
   }
-  :lang(en) header .primary-nav-item:hover > a:after, :lang(pt) header .primary-nav-item:hover > a:after, :lang(es) header .primary-nav-item:hover > a:after, :lang(ru) header .primary-nav-item:hover > a:after, :lang(tr) header .primary-nav-item:hover > a:after {
+  :lang(en) header .primary-nav-item:hover > a:after,
+  :lang(pt) header .primary-nav-item:hover > a:after,
+  :lang(es) header .primary-nav-item:hover > a:after,
+  :lang(ru) header .primary-nav-item:hover > a:after,
+  :lang(tr) header .primary-nav-item:hover > a:after {
     content: '';
     position: absolute;
     left: 45%;
@@ -3446,10 +3702,18 @@ strong {
     border-top: 8px solid white;
     z-index: 3;
   }
-  :lang(en) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(pt) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(es) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(ru) header ul#nav li:hover > ul:hover .primary-nav-item:after, :lang(tr) header ul#nav li:hover > ul:hover .primary-nav-item:after {
+  :lang(en) header ul#nav li:hover > ul:hover .primary-nav-item:after,
+  :lang(pt) header ul#nav li:hover > ul:hover .primary-nav-item:after,
+  :lang(es) header ul#nav li:hover > ul:hover .primary-nav-item:after,
+  :lang(ru) header ul#nav li:hover > ul:hover .primary-nav-item:after,
+  :lang(tr) header ul#nav li:hover > ul:hover .primary-nav-item:after {
     display: inline;
   }
-  :lang(en) header .cart, :lang(pt) header .cart, :lang(es) header .cart, :lang(ru) header .cart, :lang(tr) header .cart {
+  :lang(en) header .cart,
+  :lang(pt) header .cart,
+  :lang(es) header .cart,
+  :lang(ru) header .cart,
+  :lang(tr) header .cart {
     float: right;
   }
 }

@@ -9,18 +9,18 @@
 
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
       <?php
         $active = 'primary';
         include(ROOT_PATH.'/includes/sidebar-general-faq.php');
       ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>What is the difference between primary vaginismus and secondary vaginismus?</h1>
           <h3>Vaginismus has Two Major Classifications</h3>
           <p>Vaginismus can be experienced by women at any age or time in life. It has two major classifications: primary vaginismus and secondary vaginismus. The medical community typically uses these terms to indicate the time of onset. These labels assist the medical community and researchers in diagnosis and classification. For the individual woman, the distinction between the two types tends to be of less importance. Whether primary or secondary, both are highly <a href="../../../vaginismus-treatment/index.html">treatable</a>.</p>
@@ -35,6 +35,7 @@
           <p>Beyond the above basic classifications, physicians and specialists may use other medical terms referring to vaginismus such as:</p>
           <p><em>Apareunia</em> is a general term that refers to a condition where one is unable to have sexual intercourse. Vaginismus is one type of apareunia (if it is completely <a href="../../../vaginismus-symptoms/#unconsummated-marriages">preventing penetrative intercourse</a>).</p>
           <p><em>Dyspareunia</em> is a general term that refers to a condition where there is pain during sexual intercourse. Vaginismus has been considered to be one type of <a href="../dyspareunia-diagnosis-treatment/index.html">dyspareunia</a>, but is closely associated with all types of sexual pain. As of 2013, genito-pelvic pain/penetration disorder replaces vaginismus and dyspareunia in the <em>DSM 5</em>.</p>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
           <h3>See Also</h3>
           <ul>
@@ -42,17 +43,17 @@
             <li><a href="https://www.vaginismus.com/faq/general-questions/dyspareunia-diagnosis-treatment/">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -8,19 +8,19 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'pregnancy'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
       <?php
         $active = 'clock';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
       ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>I can&#8217;t have intercourse and my biological clock is ticking. Any advice?</h1>
-              
+
           <h3>The pressures of wanting children, but being unable to conceive due to vaginismus, can be overwhelming.</h3>
           <p>One of the more heartbreaking complications of vaginismus, when it exists in forms that <a href="../../vaginismus-symptoms/index.html#unconsummated-marriages">prevent penetration</a> or make sex very difficult, is the inability to conceive a child. The longer a woman lives with vaginismus, the more she may begin to wonder if biological children might ever become a reality in her life. Deep longings to have children may become overwhelming as the years click by.</p>
           <p>Women may feel a sense of desperation, yet the silence surrounding vaginismus often keeps them from explaining to others why they are unable to conceive. Questions from family and friends such as &#8220;Are you planning to have children?&#8221;, &#8220;When are you going to give us a grandchild?&#8221;, &#8220;Isn&#8217;t it about time you started a family?&#8221; and others, can add pressure and further increase a woman&#8217;s feelings of shame, failure, and isolation.</p>
@@ -37,29 +37,29 @@
           <h3>Natural Conception</h3>
           <p>For couples who are not faced with extreme time pressures, overcoming vaginismus may be the most practical and viable option and should be considered first before alternative methods of conception.</p>
           <p>Overcoming vaginismus is life-changing and can be a wonderful boost to a couple&#8217;s relationship. <a href="../../vaginismus-treatment/index.html">Resolving vaginismus</a> prior to having children allows pregnancy, childbirth, and parenting to be more fully enjoyed without the ongoing stress and pressures of vaginismus in the relationship.</p>
-            
-                      
+
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="adopting/index.html">Should we consider adopting if our time is running out? Should we just give up and move-on?</a></li>
-              <li><a href="../treatment-questions/how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
-              <li><a href="../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
-              <li><a href="../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            </ul>
+          <ul>
+            <li><a href="adopting/index.html">Should we consider adopting if our time is running out? Should we just give up and move-on?</a></li>
+            <li><a href="../treatment-questions/how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
+            <li><a href="../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
+            <li><a href="../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

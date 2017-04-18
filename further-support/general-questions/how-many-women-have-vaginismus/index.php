@@ -8,17 +8,17 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
       <?php
         $active = 'many';
         include(ROOT_PATH.'/includes/sidebar-general-faq.php');
       ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>How many women have vaginismus?</h1>
           <h3>Roughly 2 women in 1000 have vaginismus.</h3>
           <p>It is commonly accepted that <strong>roughly 2 women in 1000</strong> will experience vaginismus. However, that number could be higher. Gathering reliable statistics for vaginismus occurrence is hindered by many factors such as:</p>
@@ -55,7 +55,7 @@
               </ul>
             </li>
           </ul>
-
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
 
           <h3>References</h3>
@@ -71,17 +71,17 @@
             <li><a href="../what-is-vaginismus/index.html">What is vaginismus?</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

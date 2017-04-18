@@ -1,15 +1,15 @@
 // IIFE - Immediately Invoked Function Expression
 (function (yourcode) {
 
-// The global jQuery object is passed as a parameter
+  // The global jQuery object is passed as a parameter
   yourcode(window.jQuery, window, document);
 
 }(function ($, window, document) {
 
-// The $ is now locally scoped 
+  // The $ is now locally scoped 
   $(function () {
-// The DOM is ready!
-//mobile nav slideout
+    // The DOM is ready!
+    //mobile nav slideout
     $nav = $('.nav-js');
     $navOverlay = $('.nav-overlay');
     $('.nav-toggle').click(function (e) {
@@ -21,7 +21,21 @@
       $nav.removeClass('open');
       $navOverlay.removeClass('open');
     });
-//initiate slick carousel
+
+    //smooth scroll
+    var $root = $('html, body');
+    $('a').click(function () {
+      var href = $.attr(this, 'href');
+      $root.animate({
+        scrollTop: $(href).offset().top
+      }, 500, function () {
+        window.location.hash = href;
+      });
+      return false;
+    });
+
+
+    //initiate slick carousel
     $(".img-carousel").slick({
       centerMode: true,
       centerPadding: "5px",
@@ -30,7 +44,7 @@
       dots: true,
       arrows: true,
       infinite: true,
-  //  autoplaySpeed:3000,
+      //  autoplaySpeed:3000,
       speed: 600,
       responsive: [
   //    {
@@ -48,19 +62,17 @@
           settings: {
             arrows: false,
             centerMode: true,
-  //        centerPadding: '5px',
+            //        centerPadding: '5px',
             slidesToShow: 1
           }
         }
       ]
     });
-    
-    
-    
+
+
   });
-          // The rest of your code goes here!
-}
-  ));
+  // The rest of your code goes here!
+}));
 
 
 
@@ -74,8 +86,8 @@
 //$navOverlay.toggleClass('open');});
 //$navOverlay.click(function(){$nav.removeClass('open');$navOverlay.removeClass('open')});
 
-  
-  
+
+
 
 
 
@@ -108,8 +120,8 @@
 //      return true;
 //    }
 //  });
-  
-  
+
+
 // Footer Accordion
 //	$("#accordian h5").click(function(){
 //		//slide up all the link lists
@@ -122,13 +134,9 @@
 //          $(this).addClass("selected");
 //		}
 //	})
-    
 
 
- 
-    
+
+
+
 //});
-
-
-
-

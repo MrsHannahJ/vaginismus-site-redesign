@@ -8,17 +8,17 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
       <?php
         $active = 'orgasms';
         include(ROOT_PATH.'/includes/sidebar-general-faq.php');
       ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>I can&#8217;t seem to have orgasms. Could this be related to vaginismus?</h1>
           <h3>Vaginismus may impede orgasm in some cases.</h3>
           <p>Intercourse is not necessary to achieve orgasms. The key to most orgasms for women is clitoral stimulation. However, for some women with vaginismus, the arousal process is interrupted when the intercourse attempt becomes uncomfortable or painful. If a woman’s body reacts to stimulation by triggering the vaginismus response, the tightened pelvic floor may abruptly end the arousal process.</p>
@@ -30,6 +30,7 @@
           <h3>Developing Intimacy Through Pleasure</h3>
           <p>Finally, if the problem is unrelated to vaginismus, couples may find it helpful to read up on the subject to learn better techniques at lovemaking. There are many books on sex and intimacy that discuss orgasm issues and methods to help achieve orgasm.</p>
           <p>For more information about female orgasm issues see the helpful article &#8220;<a href="https://sogc.org/publications-resources/public-information-pamphlets.html?id=6">Female Orgasms Myths &amp; Facts</a>&#8221; at www.sogc.org.</p>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
           <h3>See Also</h3>
           <ul>
@@ -40,17 +41,17 @@
             <li><a href="../../../vaginismus-symptoms/index.html">Vaginismus Symptoms</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

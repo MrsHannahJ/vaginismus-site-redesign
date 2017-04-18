@@ -8,18 +8,18 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'professional';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>As a vaginismus treatment professional, how does the vaginismus.com program help my patients?</h1>
-                
+
           <h3>Our program provides a comprehensive framework for treating vaginismus that&#8217;s helpful for treatment professionals and their patients.</h3>
           <ul>
             <li>The program assists busy medical professionals and specialists by providing a reference for the programming and delivery of individualized treatment, including home exercises.</li>
@@ -33,30 +33,30 @@
           </ul>
           <p>For questions about how our vaginismus products can assist health professionals with vaginismus treatment and patient care, <a href="../../../contact-us/index.html">contact us</a> directly for more information or assistance.</p>
 
-                     
-                      
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+
           <hr>
-          
+
           <h3>See Also</h3>
-            <ul>
-              <li><a href="../../../reviews/index.html">Medical Specialist Reviews &amp; User Feedback</a></li>
-              <li><a href="../../../resources/professional-organizations/index.html">Professional Organizations</a></li>
-              <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-              <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-              <li><a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnostic and treatment help for vaginismus?</a></li>
-            </ul>
+          <ul>
+            <li><a href="../../../reviews/index.html">Medical Specialist Reviews &amp; User Feedback</a></li>
+            <li><a href="../../../resources/professional-organizations/index.html">Professional Organizations</a></li>
+            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnostic and treatment help for vaginismus?</a></li>
+          </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

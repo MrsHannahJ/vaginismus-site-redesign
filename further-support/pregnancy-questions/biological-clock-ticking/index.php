@@ -17,7 +17,7 @@
       <?php
         $active = 'clock';  include(ROOT_PATH.'/includes/sidebar-pregnancy-faq.php');
       ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>I can&#8217;t have intercourse and my biological clock is ticking. Any advice?</h1>
               
           <h3>The pressures of wanting children, but being unable to conceive due to vaginismus, can be overwhelming.</h3>
@@ -37,7 +37,7 @@
           <p>For couples who are not faced with extreme time pressures, overcoming vaginismus may be the most practical and viable option and should be considered first before alternative methods of conception.</p>
           <p>Overcoming vaginismus is life-changing and can be a wonderful boost to a couple&#8217;s relationship. <a href="../../../vaginismus-treatment/index.html">Resolving vaginismus</a> prior to having children allows pregnancy, childbirth, and parenting to be more fully enjoyed without the ongoing stress and pressures of vaginismus in the relationship.</p>
             
-                      
+<a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
           
           <h3>See Also</h3>

@@ -8,19 +8,19 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'treatment'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'sa';  include(ROOT_PATH.'/includes/sidebar-treatment-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>We’re really struggling with our lack of a sexual relationship. My husband is seeking relief in porn and may have a sexual addiction as well. Is there help?</h1>
-                
+
           <p>Some men may develop sexual addictions and/or other sexually addictive behaviors, partially as a result of struggles with an absence of sex in marriage (or relationship), due to vaginismus or another sexual pain problem. Addictions can impede the restoration of a healthy sexual relationship and can contribute to ongoing relational difficulties.</p>
           <p>Getting support is key. Professional help and peer support is available for both partners. See the links as a starting point. </p>
 
@@ -33,6 +33,7 @@
             <li><a href="http://www.xxxchurch.com" target="_blank">XXX Church Online Recovery Program</a></li>
             <li><a href="http://www.sexaddict.com" target="_blank">Heart to Heart Counseling</a></li>
           </ol>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
 
           <h3>See Also</h3>
@@ -44,17 +45,17 @@
           </ul>
 
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

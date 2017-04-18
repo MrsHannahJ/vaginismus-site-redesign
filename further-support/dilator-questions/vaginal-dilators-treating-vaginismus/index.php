@@ -7,21 +7,21 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
 
-<!--   MAIN SECTION   -->
-    <?php
+
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'dilator'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-    <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
       $active = 'why';
       include(ROOT_PATH.'/includes/sidebar-dilator-faq.php');
     ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>Why are vaginal dilators used in treating vaginismus?</h1>
-               
+
           <figure>
             <figcaption>
               <h3>There are many benefits in using vaginal dilators to treat vaginismus.</h3>
@@ -42,10 +42,10 @@
           <h3>Dual Purpose Situations</h3>
           <p>A portion of women, especially those who are recovering from <a href="../../../resources/sexual-pain-resources/vaginal-atrophy-resources/index.html">pelvic surgery or suffering from age related hormone changes like menopause</a>, have a dual purpose for the dilators, both in the rehabilitative stretching of vaginal tissues and the rehabilitation of the pelvic floor musculature responses (tightness from vaginismus). <a href="../../../products/vaginal-dilator-set/index.html">Dilators</a> are helpful aids that are most effective when part of a complete <a href="../../../vaginismus-treatment/index.html#ten-steps">process</a> with proper physical instruction and transition steps.</p>
 
-                     
-                      
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+
           <hr>
-          
+
           <h3>See Also</h3>
           <ul>
             <li><a href="../../../products/vaginismus-treatment-kit/index.html">Vaginismus Treatment Kit</a></li>
@@ -55,18 +55,18 @@
             <li><a href="../../../products/vaginal-dilator-set/index.html">Vaginal Dilator Set</a></li>
           </ul>
         </section>
-        
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

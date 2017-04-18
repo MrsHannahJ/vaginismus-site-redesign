@@ -9,17 +9,17 @@
 
 
 
-<!--   MAIN SECTION   -->
-    <?php
+  <!--   MAIN SECTION   -->
+  <?php
       $opened = 'general'; include(ROOT_PATH.'/includes/faq-header-temp.php');
     ?>
-<!--   FAQ BODY   -->
-      <div class="wrapper faq-body">
-        <?php
+    <!--   FAQ BODY   -->
+    <div class="wrapper faq-body">
+      <?php
           $active = 'dyspareunia';
           include(ROOT_PATH.'/includes/sidebar-general-faq.php');
         ?>
-        <section class="">
+        <section class="" id="question-answered">
           <h1>What is dyspareunia? What is the connection between dyspareunia and vaginismus?</h1>
           <h3>Any type of dyspareunia (general sex pain) may trigger vaginismus (ongoing sex pain or penetration problem from involuntary vaginal tightness).</h3>
 
@@ -33,7 +33,7 @@
           <h3>Finding Evidence for a Diagnosis</h3>
           <p><a href="../../../vaginismus-diagnosis/index.html">Diagnosing</a> and treating sexual pain can become quite difficult when there are overlapping complications from vaginismus. It can be frustrating for both physicians and patients. Take for example, a woman who experienced a temporary infection (one form of dyspareunia) that triggered vaginismus. Perhaps by the time a visit is made to a physician the infection had resolved itself but the vaginismus remains.</p>
           <p>When the physician attempts to discover the source of the pain, there may seem to be no physical cause evident, since the patient continues to experience pain from vaginismus and no longer from the original infection. Moreover, the woman&#8217;s description of the pain may seem confusing since there was really two separate pain-causing issues at different times.</p>
-          <p>Where there are two forms of sexual pain present at the same time, and the second one is vaginismus, most specialists recommend treating the original medical condition first, and then taking the steps necessary to <a href="../../../vaginismus-treatment/index.html">treat</a>                    the vaginismus.</p>
+          <p>Where there are two forms of sexual pain present at the same time, and the second one is vaginismus, most specialists recommend treating the original medical condition first, and then taking the steps necessary to <a href="../../../vaginismus-treatment/index.html">treat</a> the vaginismus.</p>
           <h3>Myths About Vaginismus Treatment</h3>
           <p>Caution: Surgeries and medical procedures have been thought necessary by physicians and their patients when in fact a simple case of vaginismus was present which could have been resolved without any invasive procedures.</p>
           <p>Patients should be careful to seek second opinions with physicians who are experienced in treating female sexual pain disorders, especially if they are contemplating invasive surgical treatment options. <a href="../../../vaginismus-treatment/index.html">Vaginismus treatment</a> does not normally involve surgery.</p>
@@ -64,6 +64,7 @@
             <li><a href="../../../resources/related-conditions/endometriosis/index.html">Endometriosis</a></li>
           </ul>
           <p>It is important to note that vaginismus can co-exist with the above conditions or continue to be present even after they have been resolved or managed.</p>
+          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
           <h3>References</h3>
           <ol>
@@ -81,17 +82,17 @@
             <li><a href="../../../vaginismus-diagnosis/index.html">Vaginismus Diagnosis</a></li>
           </ul>
         </section>
-      </div>
-<!--      PRE-FOOTER-NAV SECTION      -->
-  
-<?php
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
   $pagebacklink = '/further-support/index.php';
   $pageback = 'Further Support';
   $pageforwardlink = '/further-support/related-conditions/index.php';
   $pageforward = 'Related Conditions';
   include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-    </main>
-<?php
+      </main>
+      <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
