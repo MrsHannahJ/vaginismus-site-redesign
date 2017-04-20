@@ -2,145 +2,145 @@
 // This file contains all styles related to the banner-image component.
 // -----------------------------------------------------------------------------
 //English Redesign Only
-#hero-english{
+#hero-english {
   min-height: 20rem;
   text-align: center;
   margin-top: 0.9rem;
-  h1:after{
+  h1:after {
     @include dash($white);
   }
-  p{
-    font-weight:300;
+  p {
+    font-weight: 300;
   }
-//  a{
-//    display: block;
-//    margin: 2rem auto 1rem;
-//    max-width: 280px;
-//  }
-//MOBILE ONLY
-  @media screen and (max-width: 767.99px){
+  //  a{
+  //    display: block;
+  //    margin: 2rem auto 1rem;
+  //    max-width: 280px;
+  //  }
+  //MOBILE ONLY
+  @media screen and (max-width: 767.99px) {
     background: url(/img/understanding/hero-mobile.jpg);
     background-size: cover;
     background-position: top;
-    h1, a, p{
+    h1,
+    a,
+    p {
       color: $white;
     }
-    
   }
-  
-  @media screen and (min-width: $breakpoint-medium){
+  @media screen and (min-width: $breakpoint-medium) {
     margin-top: 1rem;
-    
-    .large-8{
-      float:right;
-      background:rgba(255, 255, 255, 0.5);
+    .large-8 {
+      float: right;
+      background: rgba(255, 255, 255, 0.5);
     }
-    h1{
-      margin-top:1rem;
-//      font-size: 30px;
-      &:after{
+    h1 {
+      margin-top: 1rem;
+      //      font-size: 30px;
+      &:after {
         border-bottom-color: $dark-gray-text;
       }
     }
-    a,p{
-     color: $dark-gray-text;
+    a,
+    p {
+      color: $dark-gray-text;
     }
   }
-  
-  @media screen and (min-width: $breakpoint-large){
+  @media screen and (min-width: $breakpoint-large) {
     min-height: 25rem;
     margin-top: 0;
-    .large-8{
-      background:transparent;
+    .large-8 {
+      background: transparent;
     }
-    h1{
-//        font-size: 32px;
-      }
-      p{
-        max-width: 25rem;
-        margin:0 auto;
-        font-size: 18px;
-      }
+    h1 {
+      //        font-size: 32px;
+    }
+    p {
+      max-width: 25rem;
+      margin: 0 auto;
+      font-size: 18px;
+    }
   }
-  
 }
 
-
-
 //IMG BANNERS
-.banner-image{
+.banner-image {
   background-repeat: no-repeat;
   background-size: cover;
-  width:100%;
+  width: 100%;
   background-position: center;
-//  padding: 5% 0;
+  //  padding: 5% 0;
 }
 
 //HERO BANNERS
-.hero-banner-image{
+.hero-banner-image {
   padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  @media screen and (min-width: $breakpoint-medium){
+  @media screen and (min-width: $breakpoint-medium) {
     padding: 6%;
   }
-  @media screen and (min-width: $breakpoint-large){
+  @media screen and (min-width: $breakpoint-large) {
     padding: 10%;
   }
-  .breadcrumbs-desktop{
+  .breadcrumbs-desktop {
     position: absolute;
-    left:0;
-    top:4rem;
-//    background: rgba(255,255,255,0.5);
+    left: 0;
+    top: 4rem;
+    //    background: rgba(255,255,255,0.5);
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+17,ffffff+100&1+92,0+100 */
-    background: -moz-linear-gradient(left,  rgba(255,255,255,0.7) 17%, rgba(255,255,255,0.5) 92%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  rgba(255,255,255,0.7) 17%,rgba(255,255,255,0.5) 92%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  rgba(255,255,255,0.7) 17%,rgba(255,255,255,0.5) 92%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
-
+    background: -moz-linear-gradient(left, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=1);
+    /* IE6-9 */
     padding-left: 1rem;
     padding-right: 5%;
-    li{
-      display:inline;
+    li {
+      display: inline;
     }
-    a{
+    a {
       font-size: 0.9rem;
       font-weight: 400;
       word-wrap: break-word;
       color: $brand;
       padding: 0 0.5rem;
     }
-//    .hamburger-logo{
-//      width: 20px;
-//      vertical-align: middle;
-//    }
+    //    .hamburger-logo{
+    //      width: 20px;
+    //      vertical-align: middle;
+    //    }
   }
 }
+
 //section .hero-banner-image{
 //  padding: 0;
 //}
-
-.hero-text{
+.hero-text {
   text-align: center;
   line-height: 1.5;
-//  padding: 3% 0;
-//  h2{
-//    @include font-size(20px);
-//  }
-//  h3{
-//    @include font-size(20px);
-//  }
-  @media screen and (min-width: $breakpoint-medium){
+  //  padding: 3% 0;
+  //  h2{
+  //    @include font-size(20px);
+  //  }
+  //  h3{
+  //    @include font-size(20px);
+  //  }
+  @media screen and (min-width: $breakpoint-medium) {
     text-align: left;
     width: 50%;
-//    h2{
-//      font-size: 20px;
-//    }
+    //    h2{
+    //      font-size: 20px;
+    //    }
   }
 }
-.hero-text-right{
+
+.hero-text-right {
   @extend .hero-text;
-  @media screen and (min-width: $breakpoint-medium){
+  @media screen and (min-width: $breakpoint-medium) {
     float: right;
   }
 }

@@ -8,37 +8,37 @@
 ?>
 
 
-    <main id="forum-intro">
-<!--      HERO      -->
-  
+  <main id="forum-intro">
+    <!--      HERO      -->
+
     <section class="hero-banner-image">
       <img src="/img/forum-introduction/forum-introduction-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="forum introduction">
       <div class="wrapper">
         <div class="large-12 medium-12">
           <div class="hero-text-right">
             <h1>Join Thousands of Women Helping Each Other Grow</h1>
-            <h3>Find friendship, support, and healing in the Vaginismus Private Forum with thousands of members from all over the world—growing together.</h3>
+            <p>Find friendship, support, and healing in the Vaginismus Private Forum with thousands of members from all over the world—growing together.</p>
             <h2>Log In</h2>
-<!--    NEED TO REWORK FORM    -->
-            <form title="Enter your username and password to login to the Vaginismus Private Forums" action="http://www.vaginismus.com/forum/ucp.php?mode=login" method="post" >
-            <div id="forum_login">
-              <p>Username:</p>
-              <input id="username" class="field" maxlength="40" name="username" type="text" value="" />
-            </div>
-            <div id="fpw">
-              <p>Password: <a href="http://www.vaginismus.com/forum/ucp.php?mode=sendpassword">Forgot?</a></p>
-              <input id="password" class="field" maxlength="32" name="password" type="password" value="" />
-              <input name="login" type="submit" value="Log in" />
-              <input name="autologin" type="hidden" />
-              <input name="redirect" type="hidden" value="" />
-            </div>
+            <!--    NEED TO REWORK FORM    -->
+            <form title="Enter your username and password to login to the Vaginismus Private Forums" action="http://www.vaginismus.com/forum/ucp.php?mode=login" method="post">
+              <div id="forum_login">
+                <p>Username:</p>
+                <input id="username" class="field" maxlength="40" name="username" type="text" value="" />
+              </div>
+              <div id="fpw">
+                <p>Password: <a href="http://www.vaginismus.com/forum/ucp.php?mode=sendpassword">Forgot?</a></p>
+                <input id="password" class="field" maxlength="32" name="password" type="password" value="" />
+                <input name="login" type="submit" value="Log in" />
+                <input name="autologin" type="hidden" />
+                <input name="redirect" type="hidden" value="" />
+              </div>
             </form>
           </div>
         </div>
       </div>
     </section>
-      
-<!--      PRIVATE FORUM SECTION      -->
+
+    <!--      PRIVATE FORUM SECTION      -->
 
     <section id="private-forum">
       <div class="wrapper">
@@ -53,8 +53,8 @@
         </div>
       </div>
     </section>
-       
-<!--      FORUM BANNER      -->
+
+    <!--      FORUM BANNER      -->
 
     <section class="grad1">
       <div class="wrapper">
@@ -75,9 +75,9 @@
         </div>
       </div>
     </section>
-       
-<!--      NETWORK OF SUPPORT SECTION      -->
-    
+
+    <!--      NETWORK OF SUPPORT SECTION      -->
+
     <section class="forum-testimonials">
       <h2>A Network of Support with Encouragement &amp; Real Answers</h2>
       <div class="wrapper">
@@ -128,24 +128,24 @@
         </div>
       </div>
     </section>
-          
-<!--      PASS SECTION      -->
-    
-     <section>
-       <div class="wrapper">
-         <div class="large-6">
-           <img src="/img/forum-introduction/forum-introduction-pass.jpg" alt="forum pass">
-         </div>
-         <div class="large-6">
-           <h2>How Do I Get a Pass?</h2>
-           <p>There is now a free forum pass, included in every treatment kit and book set purchase. The Vaginismus Private Forum is reserved for those who are going through our program and have received our books (passes are not included when only a dilator set is ordered). As there are public forums for vaginismus sufferers currently available on the web, our forum is specifically geared to women who are familiar with and working through our program.</p>
-           <p>Our forum pass enables you to create a private and anonymous password and username. Once you have your username and password, you are able to receive entrance into the Vaginismus Private Forum, gaining access to the support of hundreds of women worldwide.</p>
-           <p>NOTE: If you have previously ordered these products and do not have a pass, please <strong><a href="../contact-us/index.html">contact us</a></strong> to obtain one (at no cost).</p>
-         </div>
-       </div>
-     </section>
-          
-<!--      HUSBANDS SECTION      -->
+
+    <!--      PASS SECTION      -->
+
+    <section>
+      <div class="wrapper">
+        <div class="large-6">
+          <img src="/img/forum-introduction/forum-introduction-pass.jpg" alt="forum pass">
+        </div>
+        <div class="large-6">
+          <h2>How Do I Get a Pass?</h2>
+          <p>There is now a free forum pass, included in every treatment kit and book set purchase. The Vaginismus Private Forum is reserved for those who are going through our program and have received our books (passes are not included when only a dilator set is ordered). As there are public forums for vaginismus sufferers currently available on the web, our forum is specifically geared to women who are familiar with and working through our program.</p>
+          <p>Our forum pass enables you to create a private and anonymous password and username. Once you have your username and password, you are able to receive entrance into the Vaginismus Private Forum, gaining access to the support of hundreds of women worldwide.</p>
+          <p>NOTE: If you have previously ordered these products and do not have a pass, please <strong><a href="../contact-us/index.html">contact us</a></strong> to obtain one (at no cost).</p>
+        </div>
+      </div>
+    </section>
+
+    <!--      HUSBANDS SECTION      -->
     <section class="spouses-allowed">
       <div class="wrapper">
         <div class="large-6 opaque-box">
@@ -156,9 +156,9 @@
       </div>
     </section>
 
- 
-    </main>
-    
-<?php
+
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

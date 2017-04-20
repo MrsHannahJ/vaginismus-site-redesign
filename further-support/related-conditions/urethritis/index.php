@@ -8,16 +8,23 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+
+      <?php
+  $active = 'urethritis';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Urethritis</h1>
 
           <p>Urethritis is the inflammation of the urethra (the hole which pee comes out). This is usually caused by an infection, often triggered by a sexually transmitted disease. Less common causes are bacterial, viral, or related to the use of catheters. Medical consultation is critical to assess the type of infection and receive the appropriate treatment.</p>
 
-          <h3>Resources</h3>
+          <h3>Links of Interest</h3>
           <ol>
             <li><a href="http://www.emedicine.com/med/topic2342.htm" target="_blank">&#8220;Urethritis&#8221; General Information</a></li>
           </ol>
@@ -32,17 +39,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
 
-<?php
-  $active = 'urethritis';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-                 

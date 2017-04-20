@@ -4,32 +4,31 @@
 
 /*-------------SIDEBAR---------------*/
 
-aside{
-  h2{
+aside {
+  h2 {
     @include font-size(26px);
     margin: 0 0 1rem 0;
     font-weight: 600;
   }
-  a{
+  a {
     color: $light-gray-text;
-//    @include font-size(20px);
+    //    @include font-size(20px);
     font-weight: 600;
     font-family: $sans;
   }
-  
-  .active, i{
+  .active,
+  i {
     color: $brand;
   }
-  i:before{
+  i:before {
     font-size: 16px;
   }
-
-  ul li{
+  ul li {
     list-style: none;
     padding-bottom: 1rem;
     margin-left: 1rem;
   }
-  .shaded-btn{
+  .shaded-btn {
     border-radius: 0;
     padding: 1rem;
     @include font-size(16px);
@@ -37,49 +36,45 @@ aside{
     text-align: center;
     margin-top: 0.5rem;
   }
-
-  
-//For Press and Blog Pages
-  img{
+  //For Press and Blog Pages
+  img {
     width: 80%;
     max-width: 200px;
     display: block;
     margin: 0 auto;
   }
-  .sidebar-img{
+  .sidebar-img {
     text-align: center;
-    a{
+    a {
       @include font-size(16px);
     }
   }
-//TABLET
-  @media screen and (min-width:$breakpoint-medium){
-//For Press and Blog Pages
-    img{
+  //TABLET
+  @media screen and (min-width:$breakpoint-medium) {
+    //For Press and Blog Pages
+    img {
       max-width: 250px;
     }
   }
-    
-//DESKTOP
-  @media screen and (min-width:$breakpoint-large){
+  //DESKTOP
+  @media screen and (min-width:$breakpoint-large) {
     margin-top: 3rem;
-    
-    ul li{
+    ul li {
       margin-left: 0;
     }
-    h2{
+    h2 {
       margin: 3rem 0 1rem 0;
     }
-//For Press and Blog Pages
-    img{
+    //For Press and Blog Pages
+    img {
       max-width: 150px;
     }
-    
   }
 }
+
 //to make the long sidebar have a border when the section is short
-@media screen and (min-width:$breakpoint-large){
-  .long-side aside{
+@media screen and (min-width:$breakpoint-large) {
+  .long-side aside {
     border-left: 2px solid $light-gray-background;
   }
 }

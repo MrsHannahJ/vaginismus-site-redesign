@@ -8,16 +8,22 @@
 ?>
 
 
-    
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+      <?php
+  $active = 'dyspareunia';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Dyspareunia (Painful Sex)</h1>
           <p>There are many causes of dyspareunia (painful sex). Vaginismus is one type of dyspareunia. It is important to seek a medical <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a> so appropriate treatment can be initiated. See &#8220;<a href="../../../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>&#8221; for more information.</p>
 
-          <h3>Resources</h3>
+          <h3>Links of Interest</h3>
           <ol>
             <li><a href="http://sexuality.about.com/od/anatomyresponse/a/cause_pain_sex.htm" target="_blank">&#8220;Causes of Pain During Sex&#8221;</a></li>
             <li><a href="http://www.mayoclinic.com/health/cancer-treatment/SA00071" target="_blank">&#8220;Sexuality After Cancer Treatment: What Women Can Expect&#8221;</a></li>
@@ -25,10 +31,10 @@
             <li><a href="http://www.aafp.org/afp/20010415/1535.html" target="_blank">&#8220;Evaluation &amp; Differential Diagnosis of Dyspareunia&#8221;</a></li>
             <li><a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=420291" target="_blank">&#8220;Female Dyspareunia: 10 Minute Consultation Tips for Physicians&#8221;</a></li>
           </ol>
-                  
 
-                     
-                      
+
+
+
           <hr />
 
           <h3>See Also</h3>
@@ -43,15 +49,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
-<?php
-  $active = 'dyspareunia';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

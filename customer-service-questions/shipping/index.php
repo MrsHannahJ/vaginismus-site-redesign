@@ -8,12 +8,15 @@
 ?>
 
 
-    <main class="faq-question">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
+  <main class="cust-serv">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+      <?php
+  $active = 'shipping';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+?>
         <section class="large-9">
           <h1>Shipping FAQs</h1>
-            
+
           <h4>What shipping methods are available?</h4>
           <p>At the time of ordering, when you choose the shipping destination online, the shipping options available for your country will appear. Typical options include United States Postal Service (USPS) and DHL. If you desire other options than what is offered during this process, please <a href="../../../contact-us/index.html">contact us</a> directly before completing the transaction.</p>
 
@@ -30,8 +33,8 @@
           <p>On international orders (outside the U.S.), every country has their own individual rules for determining applicable customs charges, taxes, or duties. The customer is responsible for all such charges and any applicable courier customs processing fees. Each country collects its own customs fees.</p>
 
           <h4>When can I expect my order to arrive?</h4>
-          
-<!--
+
+          <!--
           <table class="shipping-rates">
             <thead>
               <tr>
@@ -159,88 +162,88 @@
                 <td>2-3 Business Days<br/><br/></td>
                 <td>1-2 Business Days<br/><br/></td>
               </tr>
-              </tbody>
+            </tbody>
           </table>
-          
-          
+
+
           <table class="shipping-rates">
             <thead>
               <tr>
                 <th></th>
-            
+
                 <th>Priority Mail International</th>
                 <th>Priority Mail Express<br /> International</th>
                 <th>DHL Express Worldwide</th>
               </tr>
             </thead>
             <tbody>
-              
+
               <tr>
                 <td class="country-name">Canada</td>
-               
+
                 <td>1-2 Weeks (plus 1-2 weeks for Customs)</td>
                 <td>5-8 Business Days (plus 1-2 weeks for Customs)</td>
                 <td>1-5 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Mexico</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>4-7 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">United Kingdom</td>
-                
+
                 <td>1-3 Weeks (plus 1-2 weeks for Customs)</td>
                 <td>1-2 Weeks (plus 1-2 weeks for Customs)</td>
                 <td>2-4 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Europe</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>2-4 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Australia</td>
-                
+
                 <td>1-3 Weeks (plus 1-2 weeks for Customs)</td>
                 <td>1-2 Weeks (plus 1-2 weeks for Customs)</td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">New Zealand</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">South America</td>
-               
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Africa</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Middle East</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
               </tr>
               <tr>
                 <td class="country-name">Asia (India, China)</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td><br/>&#8211;<br/><br/></td>
                 <td>3-6 Weekdays (plus 1-2 weeks for Customs)</td>
@@ -248,19 +251,19 @@
 
               <tr>
                 <td class="country-name">Russia</td>
-                
+
                 <td><br/>&#8211;<br/><br/></td>
                 <td>4-5 Business Days (plus 1-2 weeks for Customs)</td>
                 <td><br/>&#8211;<br/><br/></td>
               </tr>
             </tbody>
           </table>
-          
+
           <p>*All USPS shipping days include Saturday<br /> *Cannot ship to Egypt due to Customs restrictions.<br /> *DHL cannot ships to Russian residential addresses.<br /> *All costs in USD.</p>
 
         </section>
-        
-<?php
-  $active = 'shipping';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+    </div>
+  </main>
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

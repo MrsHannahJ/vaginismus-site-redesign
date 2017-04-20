@@ -7,13 +7,28 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <section id="hero-english">
       <div class="wrapper">
-<!--   MAIN SECTION   -->
+        <div class="large-8 medium-8">
+          <h1>Related Sexual Pain Conditions</h1>
+          <p>Select any of the following related sexual pain conditions from the list below for more information and resources for that coniditon.</p>
+        </div>
+      </div>
+    </section>
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+      <?php
+  $active = 'cancer';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+
         <section class="large-9">
           <h1>Cancer</h1>
-                
+
           <p>Cancer, and associated symptoms and treatments, may contribute to temporary pain during sex. Like other pain causing conditions, cancer may cause or contribute to problems with vaginismus.</p>
 
           <h3>Links of Interest</h3>
@@ -37,16 +52,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
 
-<?php
-  $active = 'cancer';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
 include(ROOT_PATH.'/includes/footer.php');
 ?>

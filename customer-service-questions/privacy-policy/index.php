@@ -9,12 +9,15 @@
 
 
 
-    <main class="faq-question">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
+  <main class="cust-serv">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+      <?php
+  $active = 'privacy';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+?>
         <section class="large-9">
           <h1>Privacy Policy</h1>
-               
+
           <p>We maintain the highest respect for the privacy and confidentiality of all data from visitors and customers of this website. Our mission is to help couples with vaginismus sexual pain or penetration difficulties and related problems. For this reason, we go to great lengths to ensure couple’s privacy, confidentiality, and complete security. As such, we have very strict principles:</p>
           <ul>
             <li>Our privacy policy applies to all customers and any other parties with respect to information that is gathered throughout this website. Information that is collected is intended for the sole purpose of conducting legal business practices including all aspects of order fulfillment and customer service inquiries.</li>
@@ -30,8 +33,8 @@
           <p><em>Effective: January 2004. Updated: April 2016.</em></p>
 
         </section>
-        
-<?php
-  $active = 'privacy';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+    </div>
+  </main>
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -1,0 +1,80 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to all the pages with sidebars.
+// -----------------------------------------------------------------------------
+.related-conditions {
+  #hero-english {
+    min-height: 1rem;
+    p {
+      text-align: center;
+    }
+  }
+  aside {
+    h2 {
+      margin: 0 0 1rem;
+      padding: 0.75rem 0 0;
+    }
+    ul li {
+      margin-left: 0;
+      padding-left: 1rem;
+      text-indent: -1rem;
+    }
+  }
+  section {
+    line-height: 1.4;
+    h3 {
+      text-align: left;
+      padding: 1.5rem 0 0.25rem 0;
+    }
+    p {
+      text-align: justify;
+    }
+    a {
+      font-weight: 600;
+    }
+    hr {
+      color: $light-gray-text;
+      opacity: .5;
+      margin: 1rem 0;
+    }
+    //list styles
+    ol,
+    ul {
+      margin-left: 1rem;
+      padding: 0.5rem 0;
+      li {
+        padding-bottom: 1rem;
+      }
+    }
+    ul li {
+      list-style: disc;
+    }
+    ol li {
+      list-style: upper-roman;
+      text-indent: 0.5rem;
+    }
+  }
+  //TABLET AND UP
+  @media screen and (min-width: $breakpoint-medium) {
+    #hero-english {
+      background: url(/img/home/home-header-en.jpg);
+      background-size: cover;
+      background-position: top;
+    }
+    aside {
+      margin: 0;
+      //        h2 {
+      //        padding: 0;
+      //      }
+    }
+    section ul,
+    section ol {
+      margin-left: 3rem;
+    }
+  }
+  //DESKTOP
+  @media screen and (min-width:$breakpoint-large) {
+    section {
+      border-left: 2px solid $light-gray-background;
+    }
+  }
+}

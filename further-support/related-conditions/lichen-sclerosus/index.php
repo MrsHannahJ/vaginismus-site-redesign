@@ -7,18 +7,24 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+      <?php
+  $active = 'lichen';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Lichen Sclerosus</h1>
-               
+
           <p>Lichen sclerosus is a painful skin disorder that typically affects the vulva and/or anus in women. Symptoms include itching and/or burning, thinning skin, white patches of skin, sores or ulcers from scratching, and pain during sexual intercourse. If not treated can lead to fusing of the skin, atrophy, and narrowing of the vagina.</p>
           <p>Lichen sclerosus, like other pain causing conditions, may cause or contribute to problems with vaginismus and/or may coexist with vaginismus on an ongoing basis. As a result, women may need to address both conditions before they are able to fully restore pain-free intercourse.</p>
 
-          <h3>Resources</h3>
+          <h3>Links of Interest</h3>
           <ol>
             <li><a href="http://www.lichensclerosus.org" target="_blank">Lichen Sclerosus Organization</a></li>
             <li><a href="http://www.niams.nih.gov/hi/topics/lichen/lichen.htm" target="_blank">Questions and Answers about Lichen Sclerosus</a></li>
@@ -35,17 +41,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
-<?php
-  $active = 'lichen';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-                
-                  

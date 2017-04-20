@@ -8,16 +8,23 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+
+      <?php
+  $active = 'short';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Short&#47;Absent Vagina - MRKH</h1>
-          
+
           <p>Some females are born with an undeveloped or underdeveloped vagina. One such congenital condition that causes this is Mayer-Rokitansky-Kuster-Houser Syndrome (MRKH). In addition, to the vagina being shorter and narrower than usual or absent, the uterus is also absent or smaller than normal. Other organs are also often affected. Diagnosis typically occurs during the mid to later teen years when menstruation has not occurred. Attempts at sexual intercourse prior to diagnosis and treatment are often difficult and painful.</p>
           <p>Consultation with an experienced medical specialist is highly recommended. Treatment protocol often includes the use of dilators to expand or create the vaginal space and/or surgery.</p>
-          
+
           <hr />
           <h3>Links of Interest</h3>
           <ol>
@@ -37,17 +44,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
 
-<?php
-  $active = 'short';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-      

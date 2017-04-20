@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the contact page.
+// -----------------------------------------------------------------------------
+#contact-us {
+  /*---------HERO---------------*/
+  #hero-english {
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      background: url(/img/contact-us/contact-us.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: left;
+    }
+  }
+  .contact-options {
+    text-align: center;
+    img {
+      width: 5rem;
+    }
+  }
+}

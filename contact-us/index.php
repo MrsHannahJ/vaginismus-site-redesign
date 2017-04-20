@@ -7,20 +7,17 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    <main id="contact-us">
-<!--      HERO      -->
-  
-    <section class="hero-banner-image">
-      <img src="/img/contact-us/contact-us-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="contact us">
+  <main id="contact-us">
+    <!--      HERO      -->
+    <section id="hero-english">
       <div class="wrapper">
-         <div class="large-12 medium-12">
-           <div class="hero-text hero-text-right">
-             <h1>Your Satisfaction is Very Important to Us</h1>
-             <h3>We strive for the highest possible quality customer service. If you have any questions, concerns, feedback, or media requests, please contact us anytime. We reply to all inquiries the same or next business day. If you have sent us a message and have not heard back from us, please check your spam folder. Provide your phone number, if you would like us to contact you by phone.</h3>
-           </div>
+        <div class="large-8 medium-8">
+          <h1>Your Satisfaction is Very Important to Us</h1>
+          <p>We strive for the highest possible quality customer service. If you have any questions, concerns, feedback, or media requests, please contact us anytime. We reply to all inquiries the same or next business day. If you have sent us a message and have not heard back from us, please check your spam folder. Provide your phone number, if you would like us to contact you by phone.</p>
         </div>
       </div>
     </section>
+
 
     <section class="contact-options">
       <h1>Contact Us</h1>
@@ -44,18 +41,18 @@
     </section>
 
 
-<!--      CONTACT US BANNER      -->
-  
+    <!--      CONTACT US BANNER      -->
+
     <section class="grad1">
       <div class="wrapper">
-       <h2>Visit Our Customer Service FAQs</h2>
-       <a href="../faq/index.html#customer">Learn More</a>
-     </div>
+        <h2>Visit Our Customer Service FAQs</h2>
+        <a href="../faq/index.html#customer">Learn More</a>
+      </div>
     </section>
-      
-  
-    </main>
+<!--    <img src="/img/contact-us/contact-us-hero-mobile.jpg" alt="">-->
 
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>

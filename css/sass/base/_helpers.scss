@@ -134,19 +134,10 @@ clearfix {
 }
 
 //anchor top fix for fixed header
-//:target {
-//  position: relative;
-//  border-top: 2.8rem solid transparent;
-//  margin: -2.8rem 0 0;
-//  -webkit-background-clip: padding-box;
-//  -moz-background-clip: padding;
-//  background-clip: padding-box;
-//}
-
 :target {
   position: relative;
   //  padding: 15px;
-  border-top: 2rem solid transparent;
+  border-top: 2.5rem solid transparent;
   margin-top: -1rem;
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
@@ -161,4 +152,3 @@ clearfix {
   right: 0;
   //  border-top: 3rem solid transparent;
 }
-

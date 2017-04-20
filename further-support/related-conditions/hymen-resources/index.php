@@ -7,14 +7,20 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+      <?php
+  $active = 'hymen';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Hymen Resources</h1>
-               
+
           <h3>There is much confusion surrounding the hymen.</h3>
           <p>Although hymen problems rarely cause penetration difficulties, they are often suspected due to the anatomical location (usually it is vaginismus that causes problems with penetration). More information about the hymen can be found in the articles &#8220;<a href="../../../faq/general-questions/hymen-problems/index.html">Could my hymen be causing my problem?</a>&#8221; and &#8220;<a href="../../../faq/dilator-questions/will-dilators-break-hymen/index.html">If my hymen is still intact, will using the dilators break it and will this hurt?</a>&#8220;. Other resources are referenced below:</p>
 
@@ -26,10 +32,10 @@
             <li>Rogers, D., &amp; Stark, M. (1998). The hymen is not necessarily torn after sexual intercourse [Letter]. BMJ, 317, 414.</li>
             <li>Shanahan, K. <em>Surgery for imperforate hymen</em>.</li>
           </ol>
-                  
 
-                     
-                      
+
+
+
           <hr />
 
           <h3>See Also</h3>
@@ -39,16 +45,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
-<?php
-  $active = 'hymen';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-  

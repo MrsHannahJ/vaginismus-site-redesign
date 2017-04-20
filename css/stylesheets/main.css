@@ -2789,13 +2789,18 @@ h4 {
   font-size: 1.25rem;
 }
 
-p, li {
+p,
+li {
   font-size: 16px;
   font-size: 1rem;
   line-height: 1.3;
 }
 
-a, figcaption, table, th, td {
+a,
+figcaption,
+table,
+th,
+td {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -2816,47 +2821,263 @@ strong {
   text-align: center;
 }
 
-#home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1, .faq-english h1 {
+#home-english h1,
+.what-is h1,
+.understanding h1,
+.further-support h1,
+.treatment-english h1,
+.professional-assist h1,
+.product-page-english h1,
+.faq-english h1,
+.related-conditions h1,
+.contact-english h1,
+.cust-serv h1,
+#forum-intro h1,
+#symptoms h1,
+#causes h1,
+#diagnosis h1,
+#treatment h1 {
   font-size: 30px;
   font-size: 1.875rem;
+  font-weight: 400;
 }
 @media screen and (min-width: 980px) {
-  #home-english h1, .what-is h1, .understanding h1, .further-support h1, .treatment-english h1, .professional-assist h1, .product-page-english h1, .faq-english h1 {
+  #home-english h1,
+  .what-is h1,
+  .understanding h1,
+  .further-support h1,
+  .treatment-english h1,
+  .professional-assist h1,
+  .product-page-english h1,
+  .faq-english h1,
+  .related-conditions h1,
+  .contact-english h1,
+  .cust-serv h1,
+  #forum-intro h1,
+  #symptoms h1,
+  #causes h1,
+  #diagnosis h1,
+  #treatment h1 {
     font-size: 36px;
     font-size: 2.25rem;
   }
 }
-#home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2, .faq-english h2 {
+#home-english h2,
+.what-is h2,
+.understanding h2,
+.further-support h2,
+.treatment-english h2,
+.professional-assist h2,
+.product-page-english h2,
+.faq-english h2,
+.related-conditions h2,
+.contact-english h2,
+.cust-serv h2,
+#forum-intro h2,
+#symptoms h2,
+#causes h2,
+#diagnosis h2,
+#treatment h2 {
   font-size: 24px;
   font-size: 1.5rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  #home-english h2, .what-is h2, .understanding h2, .further-support h2, .treatment-english h2, .professional-assist h2, .product-page-english h2, .faq-english h2 {
+  #home-english h2,
+  .what-is h2,
+  .understanding h2,
+  .further-support h2,
+  .treatment-english h2,
+  .professional-assist h2,
+  .product-page-english h2,
+  .faq-english h2,
+  .related-conditions h2,
+  .contact-english h2,
+  .cust-serv h2,
+  #forum-intro h2,
+  #symptoms h2,
+  #causes h2,
+  #diagnosis h2,
+  #treatment h2 {
     font-size: 28px;
     font-size: 1.75rem;
   }
 }
-#home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3, .faq-english h3 {
+#home-english h3,
+.what-is h3,
+.understanding h3,
+.further-support h3,
+.treatment-english h3,
+.professional-assist h3,
+.product-page-english h3,
+.faq-english h3,
+.related-conditions h3,
+.contact-english h3,
+.cust-serv h3,
+#forum-intro h3,
+#symptoms h3,
+#causes h3,
+#diagnosis h3,
+#treatment h3 {
   font-size: 21px;
   font-size: 1.3125rem;
   font-weight: 400;
 }
 @media screen and (min-width: 768px) {
-  #home-english h3, .what-is h3, .understanding h3, .further-support h3, .treatment-english h3, .professional-assist h3, .product-page-english h3, .faq-english h3 {
+  #home-english h3,
+  .what-is h3,
+  .understanding h3,
+  .further-support h3,
+  .treatment-english h3,
+  .professional-assist h3,
+  .product-page-english h3,
+  .faq-english h3,
+  .related-conditions h3,
+  .contact-english h3,
+  .cust-serv h3,
+  #forum-intro h3,
+  #symptoms h3,
+  #causes h3,
+  #diagnosis h3,
+  #treatment h3 {
     font-size: 24px;
     font-size: 1.5rem;
   }
 }
-#home-english h4, .what-is h4, .understanding h4, .further-support h4, .treatment-english h4, .professional-assist h4, .product-page-english h4, .faq-english h4 {
+#home-english h4,
+.what-is h4,
+.understanding h4,
+.further-support h4,
+.treatment-english h4,
+.professional-assist h4,
+.product-page-english h4,
+.faq-english h4,
+.related-conditions h4,
+.contact-english h4,
+.cust-serv h4,
+#forum-intro h4,
+#symptoms h4,
+#causes h4,
+#diagnosis h4,
+#treatment h4 {
   font-size: 20px;
   font-size: 1.25rem;
 }
-#home-english p, #home-english li, .what-is p, .what-is li, .understanding p, .understanding li, .further-support p, .further-support li, .treatment-english p, .treatment-english li, .professional-assist p, .professional-assist li, .product-page-english p, .product-page-english li, .faq-english p, .faq-english li {
+#home-english p,
+#home-english li,
+.what-is p,
+.what-is li,
+.understanding p,
+.understanding li,
+.further-support p,
+.further-support li,
+.treatment-english p,
+.treatment-english li,
+.professional-assist p,
+.professional-assist li,
+.product-page-english p,
+.product-page-english li,
+.faq-english p,
+.faq-english li,
+.related-conditions p,
+.related-conditions li,
+.contact-english p,
+.contact-english li,
+.cust-serv p,
+.cust-serv li,
+#forum-intro p,
+#forum-intro li,
+#symptoms p,
+#symptoms li,
+#causes p,
+#causes li,
+#diagnosis p,
+#diagnosis li,
+#treatment p,
+#treatment li {
   font-size: 16px;
   font-size: 1rem;
 }
-#home-english a, #home-english figcaption, #home-english table, #home-english th, #home-english td, .what-is a, .what-is figcaption, .what-is table, .what-is th, .what-is td, .understanding a, .understanding figcaption, .understanding table, .understanding th, .understanding td, .further-support a, .further-support figcaption, .further-support table, .further-support th, .further-support td, .treatment-english a, .treatment-english figcaption, .treatment-english table, .treatment-english th, .treatment-english td, .professional-assist a, .professional-assist figcaption, .professional-assist table, .professional-assist th, .professional-assist td, .product-page-english a, .product-page-english figcaption, .product-page-english table, .product-page-english th, .product-page-english td, .faq-english a, .faq-english figcaption, .faq-english table, .faq-english th, .faq-english td {
+#home-english a,
+#home-english figcaption,
+#home-english table,
+#home-english th,
+#home-english td,
+.what-is a,
+.what-is figcaption,
+.what-is table,
+.what-is th,
+.what-is td,
+.understanding a,
+.understanding figcaption,
+.understanding table,
+.understanding th,
+.understanding td,
+.further-support a,
+.further-support figcaption,
+.further-support table,
+.further-support th,
+.further-support td,
+.treatment-english a,
+.treatment-english figcaption,
+.treatment-english table,
+.treatment-english th,
+.treatment-english td,
+.professional-assist a,
+.professional-assist figcaption,
+.professional-assist table,
+.professional-assist th,
+.professional-assist td,
+.product-page-english a,
+.product-page-english figcaption,
+.product-page-english table,
+.product-page-english th,
+.product-page-english td,
+.faq-english a,
+.faq-english figcaption,
+.faq-english table,
+.faq-english th,
+.faq-english td,
+.related-conditions a,
+.related-conditions figcaption,
+.related-conditions table,
+.related-conditions th,
+.related-conditions td,
+.contact-english a,
+.contact-english figcaption,
+.contact-english table,
+.contact-english th,
+.contact-english td,
+.cust-serv a,
+.cust-serv figcaption,
+.cust-serv table,
+.cust-serv th,
+.cust-serv td,
+#forum-intro a,
+#forum-intro figcaption,
+#forum-intro table,
+#forum-intro th,
+#forum-intro td,
+#symptoms a,
+#symptoms figcaption,
+#symptoms table,
+#symptoms th,
+#symptoms td,
+#causes a,
+#causes figcaption,
+#causes table,
+#causes th,
+#causes td,
+#diagnosis a,
+#diagnosis figcaption,
+#diagnosis table,
+#diagnosis th,
+#diagnosis td,
+#treatment a,
+#treatment figcaption,
+#treatment table,
+#treatment th,
+#treatment td {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -2968,7 +3189,7 @@ clearfix:after {
 }
 :target {
   position: relative;
-  border-top: 2rem solid transparent;
+  border-top: 2.5rem solid transparent;
   margin-top: -1rem;
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
@@ -3886,7 +4107,8 @@ aside a {
   font-weight: 600;
   font-family: "Open Sans", sans-serif;
 }
-aside .active, aside i {
+aside .active,
+aside i {
   color: #4eb3b3;
 }
 aside i:before {
@@ -4252,7 +4474,9 @@ aside .sidebar-img a {
     background-size: cover;
     background-position: top;
   }
-  #hero-english h1, #hero-english a, #hero-english p {
+  #hero-english h1,
+  #hero-english a,
+  #hero-english p {
     color: #ffffff;
   }
 }
@@ -4270,7 +4494,8 @@ aside .sidebar-img a {
   #hero-english h1:after {
     border-bottom-color: #333333;
   }
-  #hero-english a, #hero-english p {
+  #hero-english a,
+  #hero-english p {
     color: #333333;
   }
 }
@@ -4322,7 +4547,7 @@ aside .sidebar-img a {
   /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to right, rgba(255, 255, 255, 0.7) 17%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=1);
   /* IE6-9 */
   padding-left: 1rem;
   padding-right: 5%;
@@ -4533,7 +4758,8 @@ aside .sidebar-img a {
     height: 48px;
     height: 3rem;
   }
-  #home .vaginismus-banner h3, #home .vaginismus-banner a {
+  #home .vaginismus-banner h3,
+  #home .vaginismus-banner a {
     display: inline;
     line-height: 48px;
     line-height: 3rem;
@@ -4606,7 +4832,9 @@ aside .sidebar-img a {
   margin: 0.5rem 0.25rem;
 }
 @media screen and (max-width: 979.99px) {
-  #home .highlighted-content-1, #home .highlighted-content-2, #home .highlighted-content-3 {
+  #home .highlighted-content-1,
+  #home .highlighted-content-2,
+  #home .highlighted-content-3 {
     -webkit-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     -moz-box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
     box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.07);
@@ -4623,13 +4851,17 @@ aside .sidebar-img a {
     margin: 0.5rem;
     width: 25%;
   }
-  #home #highlighted-content .highlighted-content-2 a, #home #highlighted-content .highlighted-content-3 a, #home #highlighted-content .highlighted-content-4 a {
+  #home #highlighted-content .highlighted-content-2 a,
+  #home #highlighted-content .highlighted-content-3 a,
+  #home #highlighted-content .highlighted-content-4 a {
     display: block;
     width: 25%;
     margin: 0 auto;
     text-align: center;
   }
-  #home #highlighted-content .highlighted-content-2 p, #home #highlighted-content .highlighted-content-3 p, #home #highlighted-content .highlighted-content-4 p {
+  #home #highlighted-content .highlighted-content-2 p,
+  #home #highlighted-content .highlighted-content-3 p,
+  #home #highlighted-content .highlighted-content-4 p {
     padding: 0.5rem 0 1rem;
   }
 }
@@ -4641,7 +4873,9 @@ aside .sidebar-img a {
   #home #highlighted-content .large-4 {
     width: 40%;
   }
-  #home #highlighted-content .hc-text, #home #highlighted-content .hc-text h2, #home #highlighted-content .hc-text h3 {
+  #home #highlighted-content .hc-text,
+  #home #highlighted-content .hc-text h2,
+  #home #highlighted-content .hc-text h3 {
     text-align: left;
   }
   #home #highlighted-content .highlighted-content-1 {
@@ -4659,10 +4893,14 @@ aside .sidebar-img a {
     text-align: center;
     width: 40%;
   }
-  #home #highlighted-content .highlighted-content-2, #home #highlighted-content .highlighted-content-3, #home #highlighted-content .highlighted-content-4 {
+  #home #highlighted-content .highlighted-content-2,
+  #home #highlighted-content .highlighted-content-3,
+  #home #highlighted-content .highlighted-content-4 {
     min-height: 400px;
   }
-  #home #highlighted-content .highlighted-content-2 a, #home #highlighted-content .highlighted-content-3 a, #home #highlighted-content .highlighted-content-4 a {
+  #home #highlighted-content .highlighted-content-2 a,
+  #home #highlighted-content .highlighted-content-3 a,
+  #home #highlighted-content .highlighted-content-4 a {
     display: inline-block;
     width: 50%;
   }
@@ -4678,7 +4916,8 @@ aside .sidebar-img a {
     background-image: url(/img/home/home-pregnancy.jpg);
     background-position: 20% 50%;
   }
-  #home #highlighted-content .highlighted-content-2 .hc-text, #home #highlighted-content .highlighted-content-4 .hc-text {
+  #home #highlighted-content .highlighted-content-2 .hc-text,
+  #home #highlighted-content .highlighted-content-4 .hc-text {
     float: right;
   }
 }
@@ -4715,7 +4954,10 @@ aside .sidebar-img a {
 #home #common-links {
   text-align: center;
 }
-#home #common-links .common-links-1, #home #common-links .common-links-2, #home #common-links .common-links-3, #home #common-links .common-links-4 {
+#home #common-links .common-links-1,
+#home #common-links .common-links-2,
+#home #common-links .common-links-3,
+#home #common-links .common-links-4 {
   max-width: 275px;
   margin: 0 auto;
 }
@@ -4733,17 +4975,21 @@ aside .sidebar-img a {
 }
 
 @media screen and (min-width: 768px) {
-  :lang(es) #home .hero-banner-image, :lang(pt) #home .hero-banner-image {
+  :lang(es) #home .hero-banner-image,
+  :lang(pt) #home .hero-banner-image {
     background-image: url("/img/es/home-header-es.jpg");
     background-position: left;
   }
-  :lang(es) #home .hero-banner-image .hero-text, :lang(es) #home .hero-banner-image .hero-text-right, :lang(pt) #home .hero-banner-image .hero-text, :lang(pt) #home .hero-banner-image .hero-text-right {
+  :lang(es) #home .hero-banner-image .hero-text, :lang(es) #home .hero-banner-image .hero-text-right,
+  :lang(pt) #home .hero-banner-image .hero-text,
+  :lang(pt) #home .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
   }
 }
 
 @media screen and (min-width: 768px) {
-  :lang(ar) #home .hero-banner-image, :lang(tr) #home .hero-banner-image {
+  :lang(ar) #home .hero-banner-image,
+  :lang(tr) #home .hero-banner-image {
     background-image: url("/img/ar/home-header-ar.jpg");
     background-position: left;
   }
@@ -5046,21 +5292,27 @@ aside .sidebar-img a {
 }
 
 @media screen and (min-width: 768px) {
-  :lang(es) #stories .hero-banner-image, :lang(pt) #stories .hero-banner-image {
+  :lang(es) #stories .hero-banner-image,
+  :lang(pt) #stories .hero-banner-image {
     background-image: url("/img/es/stories-header-es.jpg");
     background-position: right;
   }
-  :lang(es) #stories .hero-banner-image .hero-text, :lang(es) #stories .hero-banner-image .hero-text-right, :lang(pt) #stories .hero-banner-image .hero-text, :lang(pt) #stories .hero-banner-image .hero-text-right {
+  :lang(es) #stories .hero-banner-image .hero-text, :lang(es) #stories .hero-banner-image .hero-text-right,
+  :lang(pt) #stories .hero-banner-image .hero-text,
+  :lang(pt) #stories .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
   }
 }
 
 @media screen and (min-width: 768px) {
-  :lang(ar) #stories .hero-banner-image, :lang(tr) #stories .hero-banner-image {
+  :lang(ar) #stories .hero-banner-image,
+  :lang(tr) #stories .hero-banner-image {
     background-image: url("/img/ar/stories-header-ar.jpg");
     background-position: right;
   }
-  :lang(ar) #stories .hero-banner-image .hero-text, :lang(ar) #stories .hero-banner-image .hero-text-right, :lang(tr) #stories .hero-banner-image .hero-text, :lang(tr) #stories .hero-banner-image .hero-text-right {
+  :lang(ar) #stories .hero-banner-image .hero-text, :lang(ar) #stories .hero-banner-image .hero-text-right,
+  :lang(tr) #stories .hero-banner-image .hero-text,
+  :lang(tr) #stories .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
   }
 }
@@ -5068,6 +5320,16 @@ aside .sidebar-img a {
 @media screen and (min-width: 768px) {
   :lang(ar) #stories .hero-text, :lang(ar) #stories .hero-text-right {
     float: left;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(ru) #stories .hero-banner-image {
+    background-image: url("/img/ru/stories-hero.jpg");
+    background-position: right;
+  }
+  :lang(ru) #stories .hero-banner-image h3 {
+    font-weight: 400;
   }
 }
 
@@ -5162,14 +5424,22 @@ aside .sidebar-img a {
 }
 
 @media screen and (min-width: 768px) {
-  :lang(es) #diagnosis .hero-banner-image, :lang(pt) #diagnosis .hero-banner-image {
+  :lang(ru) #diagnosis .hero-banner-image {
+    background-image: url("/img/ru/diagnosis-hero.jpg");
+  }
+}
+
+@media screen and (min-width: 768px) {
+  :lang(es) #diagnosis .hero-banner-image,
+  :lang(pt) #diagnosis .hero-banner-image {
     background-image: url("/img/es/diagnosis-header-es.jpg");
     background-position: right;
   }
 }
 
 @media screen and (min-width: 768px) {
-  :lang(ar) #diagnosis .hero-banner-image, :lang(tr) #diagnosis .hero-banner-image {
+  :lang(ar) #diagnosis .hero-banner-image,
+  :lang(tr) #diagnosis .hero-banner-image {
     background-image: url("/img/ar/diagnosis-header-ar.jpg");
     background-position: right;
   }
@@ -6129,95 +6399,130 @@ p .white-btn {
   color: #333333;
 }
 
-.search-page #site-map [class*='large-'], .search-page #site-map [class*='medium-'], .page-404 #site-map [class*='large-'], .page-404 #site-map [class*='medium-'] {
+.search-page #hero-english,
+.page-404 #hero-english {
+  min-height: 1rem;
+}
+.search-page #site-map [class*='large-'],
+.search-page #site-map [class*='medium-'],
+.page-404 #site-map [class*='large-'],
+.page-404 #site-map [class*='medium-'] {
   padding-bottom: 0;
   padding-top: 0;
 }
-.search-page #site-map h1, .page-404 #site-map h1 {
+.search-page #site-map h1,
+.page-404 #site-map h1 {
   padding-top: 4.5rem;
 }
-.search-page #site-map p, .page-404 #site-map p {
+.search-page #site-map p,
+.page-404 #site-map p {
   text-align: center;
 }
-.search-page #site-map a, .page-404 #site-map a {
+.search-page #site-map a,
+.page-404 #site-map a {
   font-weight: 400;
   color: #656565;
   padding-bottom: 0.75rem;
 }
 @media screen and (min-width: 980px) {
-  .search-page #site-map a, .page-404 #site-map a {
+  .search-page #site-map a,
+  .page-404 #site-map a {
     padding-bottom: 0.5rem;
   }
 }
-.search-page #site-map h2, .search-page #site-map h3, .search-page #site-map h4, .page-404 #site-map h2, .page-404 #site-map h3, .page-404 #site-map h4 {
+.search-page #site-map h2,
+.search-page #site-map h3,
+.search-page #site-map h4,
+.page-404 #site-map h2,
+.page-404 #site-map h3,
+.page-404 #site-map h4 {
   text-align: left;
   text-decoration: none;
   font-family: "Raleway", sans-serif;
 }
-.search-page #site-map h2, .page-404 #site-map h2 {
+.search-page #site-map h2,
+.page-404 #site-map h2 {
   font-size: 1.5rem;
   font-weight: 400;
 }
-.search-page #site-map h2 a, .page-404 #site-map h2 a {
+.search-page #site-map h2 a,
+.page-404 #site-map h2 a {
   font-size: inherit;
 }
-.search-page #site-map h2 span, .page-404 #site-map h2 span {
+.search-page #site-map h2 span,
+.page-404 #site-map h2 span {
   font-size: 16px;
   font-size: 1rem;
   vertical-align: middle;
   color: #4eb3b3;
 }
-.search-page #site-map h2 img, .page-404 #site-map h2 img {
+.search-page #site-map h2 img,
+.page-404 #site-map h2 img {
   transform: rotate(-90deg);
   max-width: 2rem;
   vertical-align: bottom;
 }
-.search-page #site-map hr, .page-404 #site-map hr {
+.search-page #site-map hr,
+.page-404 #site-map hr {
   margin-bottom: 0.5rem;
 }
-.search-page #site-map h3, .page-404 #site-map h3 {
+.search-page #site-map h3,
+.page-404 #site-map h3 {
   padding-bottom: 0.75rem;
 }
 @media screen and (min-width: 980px) {
-  .search-page #site-map h3, .page-404 #site-map h3 {
+  .search-page #site-map h3,
+  .page-404 #site-map h3 {
     padding-bottom: 0.5rem;
   }
 }
-.search-page #site-map h3 a, .page-404 #site-map h3 a {
+.search-page #site-map h3 a,
+.page-404 #site-map h3 a {
   font-weight: 600;
 }
-.search-page #site-map ul, .page-404 #site-map ul {
+.search-page #site-map ul,
+.page-404 #site-map ul {
   padding-left: 15px;
 }
-.search-page #site-map ul li, .page-404 #site-map ul li {
+.search-page #site-map ul li,
+.page-404 #site-map ul li {
   margin-left: 15px;
   text-indent: -15px;
   padding-bottom: 0.75rem;
 }
-.search-page #site-map ul li.site-map-stories, .page-404 #site-map ul li.site-map-stories {
+.search-page #site-map ul li.site-map-stories,
+.page-404 #site-map ul li.site-map-stories {
   padding-bottom: 0.5rem;
 }
 @media screen and (min-width: 980px) {
-  .search-page #site-map ul li, .page-404 #site-map ul li {
+  .search-page #site-map ul li,
+  .page-404 #site-map ul li {
     padding-bottom: 0.5rem;
   }
 }
-.search-page #site-map ul li a, .page-404 #site-map ul li a {
+.search-page #site-map ul li a,
+.page-404 #site-map ul li a {
   font-size: 16px;
   font-size: 1rem;
 }
-.search-page #site-map ul ul li a, .page-404 #site-map ul ul li a {
+.search-page #site-map ul ul li a,
+.page-404 #site-map ul ul li a {
   font-size: 14px;
   font-size: 0.875rem;
 }
-.search-page #site-map i, .page-404 #site-map i {
+.search-page #site-map i,
+.page-404 #site-map i {
   font-size: 14px;
   color: #4eb3b3;
 }
-.search-page #site-map i:before, .page-404 #site-map i:before {
+.search-page #site-map i:before,
+.page-404 #site-map i:before {
   margin-right: 0;
 }
 
+#contact-us {
+  /*---------HERO---------------*/
+}
 #contact-us .grad1 a {
   text-decoration: underline;
 }
@@ -6228,45 +6533,42 @@ p .white-btn {
   display: block;
   margin: 0 auto;
 }
-
-/*---------HERO---------------*/
-.hero-banner-image {
+#contact-us .hero-banner-image {
   background: #f2f2f2;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 2% 0;
 }
 @media screen and (min-width: 768px) and (max-width: 979px) {
-  .hero-banner-image {
+  #contact-us .hero-banner-image {
     background: url(/img/contact-us/contact-us-hero-mobile.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
-  .hero-banner-image .hero-text, .hero-banner-image .hero-text-right {
+  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
     width: 100%;
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
   }
 }
 @media screen and (min-width: 980px) {
-  .hero-banner-image {
+  #contact-us .hero-banner-image {
     background: url(/img/contact-us/contact-us.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
   }
-  .hero-banner-image .hero-text, .hero-banner-image .hero-text-right {
+  #contact-us .hero-banner-image .hero-text, #contact-us .hero-banner-image .hero-text-right {
     background: rgba(255, 255, 255, 0.7);
     padding: 0 1rem 0.5rem;
     width: 60%;
   }
 }
-
-.contact-options {
+#contact-us .contact-options {
   text-align: center;
 }
-.contact-options img {
+#contact-us .contact-options img {
   width: 5rem;
 }
 
@@ -6289,15 +6591,19 @@ html[dir="rtl"] [class*='large-'] {
   html[dir="rtl"] #home #highlighted-content .hc-text p, html[dir="rtl"] #home #highlighted-content .hc-text h2, html[dir="rtl"] #home #highlighted-content .hc-text h3 {
     text-align: right;
   }
-  html[dir="rtl"] #home #highlighted-content .highlighted-content-2 a, html[dir="rtl"] #home #highlighted-content .highlighted-content-3 a, html[dir="rtl"] #home #highlighted-content .highlighted-content-4 a {
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-2 a,
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-3 a,
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-4 a {
     display: block;
     margin: inherit;
   }
-  html[dir="rtl"] #home #highlighted-content .highlighted-content-1 .hc-text, html[dir="rtl"] #home #highlighted-content .highlighted-content-3 .hc-text {
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-1 .hc-text,
+  html[dir="rtl"] #home #highlighted-content .highlighted-content-3 .hc-text {
     float: left;
   }
 }
-html[dir="rtl"] #home #common-links li, html[dir="rtl"] #home #common-links a {
+html[dir="rtl"] #home #common-links li,
+html[dir="rtl"] #home #common-links a {
   text-align: right;
 }
 
@@ -6321,7 +6627,8 @@ html[dir="rtl"] #treatment main #ten-steps img {
 /*------------------------------*/
 /*------------STORIES-----------*/
 /*------------------------------*/
-html[dir="rtl"] #stories h3, html[dir="rtl"] #stories h4 {
+html[dir="rtl"] #stories h3,
+html[dir="rtl"] #stories h4 {
   text-align: right;
 }
 @media screen and (min-width: 980px) {
@@ -6337,10 +6644,22 @@ html[dir="rtl"] #symptoms .hero-text, html[dir="rtl"] #symptoms .hero-text-right
 /*------------------------------*/
 /*------------PRODUCTS-----------*/
 /*------------------------------*/
-html[dir="rtl"] .product-page .product-kit h2, html[dir="rtl"] .product-page .product-dilators h2, html[dir="rtl"] .product-page .product-books h2, html[dir="rtl"] .product-page .product-video h2, html[dir="rtl"] .product-page .product-description-0 h2, html[dir="rtl"] .product-page .product-description-1 h2, html[dir="rtl"] .product-page .product-description-2 h2, html[dir="rtl"] .product-page .product-description-3 h2, html[dir="rtl"] .product-page .product-description-4 h2, html[dir="rtl"] .product-page .product-description-5 h2, html[dir="rtl"] .product-page .product-description-6 h2, html[dir="rtl"] .product-page .order-today h2 {
+html[dir="rtl"] .product-page .product-kit h2,
+html[dir="rtl"] .product-page .product-dilators h2,
+html[dir="rtl"] .product-page .product-books h2,
+html[dir="rtl"] .product-page .product-video h2,
+html[dir="rtl"] .product-page .product-description-0 h2,
+html[dir="rtl"] .product-page .product-description-1 h2,
+html[dir="rtl"] .product-page .product-description-2 h2,
+html[dir="rtl"] .product-page .product-description-3 h2,
+html[dir="rtl"] .product-page .product-description-4 h2,
+html[dir="rtl"] .product-page .product-description-5 h2,
+html[dir="rtl"] .product-page .product-description-6 h2,
+html[dir="rtl"] .product-page .order-today h2 {
   text-align: right;
 }
-html[dir="rtl"] .product-page .product-description-4 h3, html[dir="rtl"] .product-page .product-description-5 h3 {
+html[dir="rtl"] .product-page .product-description-4 h3,
+html[dir="rtl"] .product-page .product-description-5 h3 {
   text-align: right;
 }
 html[dir="rtl"] .product-page .badge-box ul {
@@ -6361,7 +6680,8 @@ html[dir="rtl"] #faq .brochure-download {
   display: block;
 }
 @media screen and (min-width: 768px) {
-  html[dir="rtl"] #faq #brochures [class*='large-'], html[dir="rtl"] #faq #brochures [class*='medium-'] {
+  html[dir="rtl"] #faq #brochures [class*='large-'],
+  html[dir="rtl"] #faq #brochures [class*='medium-'] {
     float: left;
   }
   html[dir="rtl"] #faq #brochures .brochure-download {
@@ -6373,7 +6693,9 @@ html[dir="rtl"] #faq .brochure-download {
 /*------------------------------*/
 /*------------FORUM-------------*/
 /*------------------------------*/
-html[dir="rtl"] #forum-intro .hero-text, html[dir="rtl"] #forum-intro .hero-text-right, html[dir="rtl"] #forum-intro .hero-text h2, html[dir="rtl"] #forum-intro .hero-text-right h2 {
+html[dir="rtl"] #forum-intro .hero-text, html[dir="rtl"] #forum-intro .hero-text-right,
+html[dir="rtl"] #forum-intro .hero-text h2,
+html[dir="rtl"] #forum-intro .hero-text-right h2 {
   text-align: right;
 }
 html[dir="rtl"] #forum-intro #private-forum h2 {
@@ -6383,69 +6705,90 @@ html[dir="rtl"] #forum-intro #private-forum h2 {
 /*------------------------------*/
 /*----------SIDEBAR PAGES-------*/
 /*------------------------------*/
-html[dir="rtl"] .faq-question section h3, html[dir="rtl"] .faq-question section h4, html[dir="rtl"] .resource-page section h3, html[dir="rtl"] .resource-page section h4 {
+html[dir="rtl"] .faq-question section h3,
+html[dir="rtl"] .faq-question section h4,
+html[dir="rtl"] .resource-page section h3,
+html[dir="rtl"] .resource-page section h4 {
   text-align: right;
 }
-html[dir="rtl"] .faq-question section ul, html[dir="rtl"] .resource-page section ul {
+html[dir="rtl"] .faq-question section ul,
+html[dir="rtl"] .resource-page section ul {
   margin-right: 1rem;
 }
-html[dir="rtl"] .faq-question section ol, html[dir="rtl"] .resource-page section ol {
+html[dir="rtl"] .faq-question section ol,
+html[dir="rtl"] .resource-page section ol {
   margin-right: 1rem;
 }
-html[dir="rtl"] .faq-question section th, html[dir="rtl"] .resource-page section th {
+html[dir="rtl"] .faq-question section th,
+html[dir="rtl"] .resource-page section th {
   font-weight: bold;
   padding: 1rem;
   border-bottom: 2px solid #e0e0e0;
   border-collapse: collapse;
 }
-html[dir="rtl"] .faq-question section thead tr:nth-child(2) th, html[dir="rtl"] .resource-page section thead tr:nth-child(2) th {
+html[dir="rtl"] .faq-question section thead tr:nth-child(2) th,
+html[dir="rtl"] .resource-page section thead tr:nth-child(2) th {
   padding: 0.5rem;
   text-align: right;
 }
-html[dir="rtl"] .faq-question section td, html[dir="rtl"] .resource-page section td {
+html[dir="rtl"] .faq-question section td,
+html[dir="rtl"] .resource-page section td {
   padding: 0.75rem;
   border-bottom: 2px solid #e0e0e0;
   border-collapse: collapse;
 }
-html[dir="rtl"] .faq-question section td:first-child, html[dir="rtl"] .resource-page section td:first-child {
+html[dir="rtl"] .faq-question section td:first-child,
+html[dir="rtl"] .resource-page section td:first-child {
   width: 30%;
   padding-right: 1rem;
 }
-html[dir="rtl"] .faq-question section .shipping-rates thead, html[dir="rtl"] .resource-page section .shipping-rates thead {
+html[dir="rtl"] .faq-question section .shipping-rates thead,
+html[dir="rtl"] .resource-page section .shipping-rates thead {
   background-color: #e0e0e0;
   color: #333333;
 }
-html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .faq-question section .shipping-rates th, html[dir="rtl"] .resource-page section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates th {
+html[dir="rtl"] .faq-question section .shipping-rates td,
+html[dir="rtl"] .faq-question section .shipping-rates th,
+html[dir="rtl"] .resource-page section .shipping-rates td,
+html[dir="rtl"] .resource-page section .shipping-rates th {
   border: 1px solid #e0e0e0;
   border-collapse: collapse;
   font-size: 14px;
   font-size: 0.875rem;
 }
-html[dir="rtl"] .faq-question section .shipping-rates .country-name, html[dir="rtl"] .resource-page section .shipping-rates .country-name {
+html[dir="rtl"] .faq-question section .shipping-rates .country-name,
+html[dir="rtl"] .resource-page section .shipping-rates .country-name {
   font-weight: bold;
 }
-html[dir="rtl"] .faq-question section .indent, html[dir="rtl"] .resource-page section .indent {
+html[dir="rtl"] .faq-question section .indent,
+html[dir="rtl"] .resource-page section .indent {
   padding-left: 30px;
 }
-html[dir="rtl"] .faq-question section .article-title, html[dir="rtl"] .resource-page section .article-title {
+html[dir="rtl"] .faq-question section .article-title,
+html[dir="rtl"] .resource-page section .article-title {
   text-align: left;
 }
-html[dir="rtl"] .faq-question section .article-preview, html[dir="rtl"] .resource-page section .article-preview {
+html[dir="rtl"] .faq-question section .article-preview,
+html[dir="rtl"] .resource-page section .article-preview {
   padding-top: 0;
 }
-html[dir="rtl"] .faq-question section h2 a, html[dir="rtl"] .resource-page section h2 a {
+html[dir="rtl"] .faq-question section h2 a,
+html[dir="rtl"] .resource-page section h2 a {
   font-size: 24px;
   font-size: 1.5rem;
   color: #333333;
 }
-html[dir="rtl"] .faq-question section #comments ul, html[dir="rtl"] .resource-page section #comments ul {
+html[dir="rtl"] .faq-question section #comments ul,
+html[dir="rtl"] .resource-page section #comments ul {
   margin-left: 0;
 }
-html[dir="rtl"] .faq-question section #comments p, html[dir="rtl"] .resource-page section #comments p {
+html[dir="rtl"] .faq-question section #comments p,
+html[dir="rtl"] .resource-page section #comments p {
   padding-top: 0;
   padding-bottom: 0.25rem;
 }
-html[dir="rtl"] .faq-question section .comment-list li, html[dir="rtl"] .resource-page section .comment-list li {
+html[dir="rtl"] .faq-question section .comment-list li,
+html[dir="rtl"] .resource-page section .comment-list li {
   list-style-type: none;
   background: #ffffff;
   border: 1px solid #f2f2f2;
@@ -6455,100 +6798,127 @@ html[dir="rtl"] .faq-question section .comment-list li, html[dir="rtl"] .resourc
   -moz-box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
   box-shadow: 0px 5px 4px 0px rgba(8, 8, 8, 0.2);
 }
-html[dir="rtl"] .faq-question section .comment-list p, html[dir="rtl"] .resource-page section .comment-list p {
+html[dir="rtl"] .faq-question section .comment-list p,
+html[dir="rtl"] .resource-page section .comment-list p {
   font-size: 16px;
   font-size: 1rem;
 }
-html[dir="rtl"] .faq-question section .comment-list .comment-name, html[dir="rtl"] .resource-page section .comment-list .comment-name {
+html[dir="rtl"] .faq-question section .comment-list .comment-name,
+html[dir="rtl"] .resource-page section .comment-list .comment-name {
   font-weight: bold;
 }
-html[dir="rtl"] .faq-question section .blog-article, html[dir="rtl"] .resource-page section .blog-article {
+html[dir="rtl"] .faq-question section .blog-article,
+html[dir="rtl"] .resource-page section .blog-article {
   margin-top: 1rem;
 }
-html[dir="rtl"] .faq-question section .blog-article ol li, html[dir="rtl"] .resource-page section .blog-article ol li {
+html[dir="rtl"] .faq-question section .blog-article ol li,
+html[dir="rtl"] .resource-page section .blog-article ol li {
   list-style: decimal;
   text-indent: 0;
   font-size: 19px;
   font-size: 1.1875rem;
 }
-html[dir="rtl"] .faq-question section p.blog-meta, html[dir="rtl"] .faq-question section .blog-meta a, html[dir="rtl"] .resource-page section p.blog-meta, html[dir="rtl"] .resource-page section .blog-meta a {
+html[dir="rtl"] .faq-question section p.blog-meta,
+html[dir="rtl"] .faq-question section .blog-meta a,
+html[dir="rtl"] .resource-page section p.blog-meta,
+html[dir="rtl"] .resource-page section .blog-meta a {
   font-size: 16px;
   font-size: 1rem;
   padding: 0;
 }
-html[dir="rtl"] .faq-question section .review, html[dir="rtl"] .resource-page section .review {
+html[dir="rtl"] .faq-question section .review,
+html[dir="rtl"] .resource-page section .review {
   margin-bottom: 1rem;
   border-bottom: 1px solid #f2f2f2;
   padding: 0.5rem;
   margin-bottom: 2rem;
 }
-html[dir="rtl"] .faq-question section .review:last-child, html[dir="rtl"] .resource-page section .review:last-child {
+html[dir="rtl"] .faq-question section .review:last-child,
+html[dir="rtl"] .resource-page section .review:last-child {
   border: none;
 }
-html[dir="rtl"] .faq-question section .review-body p, html[dir="rtl"] .resource-page section .review-body p {
+html[dir="rtl"] .faq-question section .review-body p,
+html[dir="rtl"] .resource-page section .review-body p {
   font-size: 18px;
   font-size: 1.125rem;
 }
-html[dir="rtl"] .faq-question section .review-body p:last-child, html[dir="rtl"] .resource-page section .review-body p:last-child {
+html[dir="rtl"] .faq-question section .review-body p:last-child,
+html[dir="rtl"] .resource-page section .review-body p:last-child {
   padding-bottom: 0.5rem;
 }
-html[dir="rtl"] .faq-question section .review-body h2, html[dir="rtl"] .resource-page section .review-body h2 {
+html[dir="rtl"] .faq-question section .review-body h2,
+html[dir="rtl"] .resource-page section .review-body h2 {
   text-align: right;
 }
 @media screen and (max-width: 768px -0.01px) {
-  html[dir="rtl"] .faq-question section .shipping-rates, html[dir="rtl"] .resource-page section .shipping-rates {
-    /*
-    Label the data
-    */
+  html[dir="rtl"] .faq-question section .shipping-rates,
+  html[dir="rtl"] .resource-page section .shipping-rates {
+        /*
+Label the data
+*/
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td, html[dir="rtl"] .resource-page section .shipping-rates td {
+  html[dir="rtl"] .faq-question section .shipping-rates td,
+  html[dir="rtl"] .resource-page section .shipping-rates td {
     word-wrap: normal;
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-child(1), html[dir="rtl"] .resource-page section .shipping-rates td:nth-child(1) {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-child(1),
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-child(1) {
     text-indent: 0;
     width: 100%;
     text-align: center;
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(1):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(1):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(1):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(1):before {
     content: "";
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(2):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(2):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(2):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(2):before {
     content: "	╪¿╪▒┘è╪» ╪░┘ê ╪º┘ê┘ä┘ê┘è╪⌐";
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(3):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(3):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(3):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(3):before {
     content: "╪º┘ä╪ú┘ê┘ä┘ê┘è╪⌐ ╪º┘ä╪¿╪▒┘è╪» ╪º┘ä┘à┘à╪¬╪º╪▓";
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(4):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(4):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(4):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(4):before {
     content: "╪¿╪▒┘è╪» ╪»┘ê┘ä┘è ╪│╪▒┘è╪╣";
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(5):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(5):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(5):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(5):before {
     content: "╪º┘ä╪ú┘ê┘ä┘ê┘è╪⌐ ╪º┘ä╪¿╪▒┘è╪» ╪º┘ä╪│╪▒┘è╪╣ ╪º┘ä╪»┘ê┘ä┘è";
   }
-  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(6):before, html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(6):before {
+  html[dir="rtl"] .faq-question section .shipping-rates td:nth-of-type(6):before,
+  html[dir="rtl"] .resource-page section .shipping-rates td:nth-of-type(6):before {
     content: "╪»┘è ╪Ñ╪¬╪┤ ╪Ñ┘ä ╪Ñ┘â╪│╪¿╪▒╪│ ┘ü┘è ╪¼┘à┘è╪╣ ╪ú┘å╪¡╪º╪í ╪º┘ä╪╣╪º┘ä┘à";
   }
 }
 @media screen and (min-width: 980px) {
-  html[dir="rtl"] .faq-question section, html[dir="rtl"] .resource-page section {
+  html[dir="rtl"] .faq-question section,
+  html[dir="rtl"] .resource-page section {
     border-left: 2px solid #f2f2f2;
     border-right: none;
   }
-  html[dir="rtl"] .faq-question section .long-side section, html[dir="rtl"] .resource-page section .long-side section {
+  html[dir="rtl"] .faq-question section .long-side section,
+  html[dir="rtl"] .resource-page section .long-side section {
     border-left: none;
   }
-  html[dir="rtl"] .faq-question section .long-side aside, html[dir="rtl"] .resource-page section .long-side aside {
+  html[dir="rtl"] .faq-question section .long-side aside,
+  html[dir="rtl"] .resource-page section .long-side aside {
     border-right: 2px solid #f2f2f2;
     border-left: none;
   }
 }
-html[dir="rtl"] .faq-question aside h2, html[dir="rtl"] .resource-page aside h2 {
+html[dir="rtl"] .faq-question aside h2,
+html[dir="rtl"] .resource-page aside h2 {
   text-align: right;
 }
 
 /*-------------------------------------*/
 /*------------SEARCH & 404-------------*/
 /*-------------------------------------*/
-html[dir="rtl"] #site-map h2, html[dir="rtl"] #site-map h3, html[dir="rtl"] #site-map h4 {
+html[dir="rtl"] #site-map h2,
+html[dir="rtl"] #site-map h3,
+html[dir="rtl"] #site-map h4 {
   text-align: right;
 }
 html[dir="rtl"] #site-map h2 img {
@@ -6580,6 +6950,7 @@ html[dir="rtl"] #site-map ul li {
 /*------------HEADER-------------*/
 /*-------------------------------*/
 html[dir="rtl"] header {
+  padding: 0 0.5rem;
   z-index: 90000;
   top: 0;
   background: #ffffff;
@@ -6867,6 +7238,7 @@ html[dir="rtl"] header .cart-count:after {
   html[dir="rtl"] header .desktop-navbar {
     display: flex;
     height: 100%;
+    margin: 0.5rem 0.5rem 0;
   }
   html[dir="rtl"] header .logo {
     margin: 0.5rem 0 0 1rem;
@@ -7117,13 +7489,17 @@ html[dir="rtl"] header .cart-count:after {
     font-size: 20px;
   }
 }
-#home-english .what-is-symptoms a, #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
+#home-english .what-is-symptoms a,
+#home-english .what-is-causes a,
+#home-english .what-is-diagnosis a {
   display: block;
   position: relative;
   border: 1px solid #cacaca;
   margin: 0 auto;
 }
-#home-english .what-is-symptoms a h3, #home-english .what-is-causes a h3, #home-english .what-is-diagnosis a h3 {
+#home-english .what-is-symptoms a h3,
+#home-english .what-is-causes a h3,
+#home-english .what-is-diagnosis a h3 {
   position: absolute;
   top: 35%;
   color: #656565;
@@ -7131,7 +7507,9 @@ html[dir="rtl"] header .cart-count:after {
   text-align: center;
 }
 @media screen and (max-width: 767.99px) {
-  #home-english .what-is-symptoms a, #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
+  #home-english .what-is-symptoms a,
+  #home-english .what-is-causes a,
+  #home-english .what-is-diagnosis a {
     max-width: 331px;
     height: 110px;
   }
@@ -7175,10 +7553,12 @@ html[dir="rtl"] header .cart-count:after {
   #home-english .what-is-symptoms a h3 {
     top: 13%;
   }
-  #home-english .what-is-causes, #home-english .what-is-diagnosis {
+  #home-english .what-is-causes,
+  #home-english .what-is-diagnosis {
     padding: 0;
   }
-  #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
+  #home-english .what-is-causes a,
+  #home-english .what-is-diagnosis a {
     height: 215px;
   }
   #home-english .what-is-causes a {
@@ -7198,7 +7578,8 @@ html[dir="rtl"] header .cart-count:after {
   #home-english .what-is-symptoms a {
     height: 478px;
   }
-  #home-english .what-is-causes a, #home-english .what-is-diagnosis a {
+  #home-english .what-is-causes a,
+  #home-english .what-is-diagnosis a {
     height: 229px;
   }
 }
@@ -7301,18 +7682,27 @@ html[dir="rtl"] header .cart-count:after {
 #home-english #highlighted-content-english {
   margin-bottom: 2rem;
 }
-#home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
+#home-english #highlighted-content-english .highlighted-content-1 a,
+#home-english #highlighted-content-english .highlighted-content-2 a,
+#home-english #highlighted-content-english .highlighted-content-3 a {
   display: block;
   position: relative;
   border: 1px solid #cacaca;
   margin: 0 auto;
 }
-#home-english #highlighted-content-english .highlighted-content-1 a h3, #home-english #highlighted-content-english .highlighted-content-1 a p, #home-english #highlighted-content-english .highlighted-content-2 a h3, #home-english #highlighted-content-english .highlighted-content-2 a p, #home-english #highlighted-content-english .highlighted-content-3 a h3, #home-english #highlighted-content-english .highlighted-content-3 a p {
+#home-english #highlighted-content-english .highlighted-content-1 a h3,
+#home-english #highlighted-content-english .highlighted-content-1 a p,
+#home-english #highlighted-content-english .highlighted-content-2 a h3,
+#home-english #highlighted-content-english .highlighted-content-2 a p,
+#home-english #highlighted-content-english .highlighted-content-3 a h3,
+#home-english #highlighted-content-english .highlighted-content-3 a p {
   position: absolute;
   color: #656565;
 }
 @media screen and (max-width: 767.99px) {
-  #home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
+  #home-english #highlighted-content-english .highlighted-content-1 a,
+  #home-english #highlighted-content-english .highlighted-content-2 a,
+  #home-english #highlighted-content-english .highlighted-content-3 a {
     max-width: 331px;
     height: 110px;
   }
@@ -7332,7 +7722,8 @@ html[dir="rtl"] header .cart-count:after {
     padding: 1rem 0;
     width: 58%;
   }
-  #home-english #highlighted-content-english .highlighted-content-3 h3, #home-english #highlighted-content-english .highlighted-content-1 h3 {
+  #home-english #highlighted-content-english .highlighted-content-3 h3,
+  #home-english #highlighted-content-english .highlighted-content-1 h3 {
     right: 0.25rem;
   }
 }
@@ -7340,7 +7731,9 @@ html[dir="rtl"] header .cart-count:after {
   #home-english #highlighted-content-english .wrapper {
     max-width: 720px;
   }
-  #home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
+  #home-english #highlighted-content-english .highlighted-content-1 a,
+  #home-english #highlighted-content-english .highlighted-content-2 a,
+  #home-english #highlighted-content-english .highlighted-content-3 a {
     height: 450px;
   }
   #home-english #highlighted-content-english .highlighted-content-1 a {
@@ -7358,13 +7751,16 @@ html[dir="rtl"] header .cart-count:after {
   #home-english #highlighted-content-english h3 {
     width: 100%;
     text-align: center;
+    padding: 1rem;
   }
 }
 @media screen and (min-width: 980px) {
   #home-english #highlighted-content-english .wrapper {
     max-width: 996px;
   }
-  #home-english #highlighted-content-english .highlighted-content-1 a, #home-english #highlighted-content-english .highlighted-content-2 a, #home-english #highlighted-content-english .highlighted-content-3 a {
+  #home-english #highlighted-content-english .highlighted-content-1 a,
+  #home-english #highlighted-content-english .highlighted-content-2 a,
+  #home-english #highlighted-content-english .highlighted-content-3 a {
     height: 478px;
   }
 }
@@ -8295,14 +8691,17 @@ html[dir="rtl"] header .cart-count:after {
   list-style: none;
   text-indent: -1.25rem;
 }
-.faq-english section ol li, .faq-english section ul li {
+.faq-english section ol li,
+.faq-english section ul li {
   margin-left: 1rem;
   padding: 0.75rem 0;
 }
-.faq-english section ol li ul, .faq-english section ul li ul {
+.faq-english section ol li ul,
+.faq-english section ul li ul {
   margin-left: 2rem;
 }
-.faq-english section ol li ul li:last-child, .faq-english section ul li ul li:last-child {
+.faq-english section ol li ul li:last-child,
+.faq-english section ul li ul li:last-child {
   padding-bottom: 0;
 }
 .faq-english section ol li {
@@ -8345,7 +8744,8 @@ html[dir="rtl"] header .cart-count:after {
   .faq-english .faq-body {
     width: 100%;
   }
-  .faq-english .faq-body aside, .faq-english .faq-body section {
+  .faq-english .faq-body aside,
+  .faq-english .faq-body section {
     padding: 1rem 1rem 0;
   }
 }
@@ -8424,11 +8824,291 @@ html[dir="rtl"] header .cart-count:after {
     padding: 1rem;
     margin-top: 0;
   }
+  .faq-english .faq-body aside ul {
+    margin-top: 1.25rem;
+  }
   .faq-english .faq-body section {
     width: 70%;
     padding: 1rem;
   }
   .faq-english .faq-body section h1 {
     font-size: 28px;
+  }
+}
+
+.related-conditions #hero-english {
+  min-height: 1rem;
+}
+.related-conditions #hero-english p {
+  text-align: center;
+}
+.related-conditions aside h2 {
+  margin: 0 0 1rem;
+  padding: 0.75rem 0 0;
+}
+.related-conditions aside ul li {
+  margin-left: 0;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+.related-conditions section {
+  line-height: 1.4;
+}
+.related-conditions section h3 {
+  text-align: left;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.related-conditions section p {
+  text-align: justify;
+}
+.related-conditions section a {
+  font-weight: 600;
+}
+.related-conditions section hr {
+  color: #656565;
+  opacity: .5;
+  margin: 1rem 0;
+}
+.related-conditions section ol,
+.related-conditions section ul {
+  margin-left: 1rem;
+  padding: 0.5rem 0;
+}
+.related-conditions section ol li,
+.related-conditions section ul li {
+  padding-bottom: 1rem;
+}
+.related-conditions section ul li {
+  list-style: disc;
+}
+.related-conditions section ol li {
+  list-style: upper-roman;
+  text-indent: 0.5rem;
+}
+@media screen and (min-width: 768px) {
+  .related-conditions #hero-english {
+    background: url(/img/home/home-header-en.jpg);
+    background-size: cover;
+    background-position: top;
+  }
+  .related-conditions aside {
+    margin: 0;
+  }
+  .related-conditions section ul,
+  .related-conditions section ol {
+    margin-left: 3rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  .related-conditions section {
+    border-left: 2px solid #f2f2f2;
+  }
+}
+
+#contact-us {
+  /*---------HERO---------------*/
+}
+@media screen and (min-width: 768px) {
+  #contact-us #hero-english {
+    background: url(/img/contact-us/contact-us.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+}
+#contact-us .contact-options {
+  text-align: center;
+}
+#contact-us .contact-options img {
+  width: 5rem;
+}
+
+.cust-serv {
+  /*---------HERO---------------*/
+  /*---------CUST SERV FAQ BODY--------------*/
+}
+.cust-serv #hero-english {
+  min-height: 1rem;
+  background: url(/img/home/home-header-en.jpg);
+  background-size: cover;
+  background-position: top;
+}
+@media screen and (min-width: 768px) {
+  .cust-serv #hero-english {
+    padding-bottom: 0;
+  }
+  .cust-serv #hero-english p {
+    padding: 0 0 1rem;
+  }
+}
+.cust-serv aside h2 {
+  margin: 0 0 1rem;
+  padding: 0.75rem 0 0;
+}
+.cust-serv aside ul li {
+  margin-left: 0;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+.cust-serv section {
+  line-height: 1.4;
+}
+.cust-serv section h3,
+.cust-serv section h4 {
+  text-align: left;
+  padding: 1.5rem 0 0.25rem 0;
+}
+.cust-serv section p {
+  text-align: justify;
+}
+.cust-serv section a {
+  font-weight: 600;
+}
+.cust-serv section hr {
+  color: #656565;
+  opacity: .5;
+  margin: 1rem 0;
+}
+.cust-serv section ol,
+.cust-serv section ul {
+  margin-left: 1rem;
+  padding: 0.5rem 0;
+}
+.cust-serv section ol li,
+.cust-serv section ul li {
+  padding-bottom: 1rem;
+}
+.cust-serv section ul li {
+  list-style: disc;
+}
+.cust-serv section ol li {
+  list-style: upper-roman;
+  text-indent: 0.5rem;
+}
+.cust-serv section table {
+  margin: 1rem auto;
+}
+.cust-serv section th {
+  font-weight: bold;
+  padding: 1rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+.cust-serv section thead tr:nth-child(2) th {
+  padding: 0.5rem;
+  text-align: left;
+}
+.cust-serv section td {
+  padding: 0.75rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-collapse: collapse;
+}
+.cust-serv section td:first-child {
+  width: 30%;
+  padding-right: 1rem;
+}
+.cust-serv section .treatment-rate-table td:first-child {
+  font-weight: bold;
+}
+.cust-serv section .shipping-rates thead {
+  background-color: #e0e0e0;
+  color: #333333;
+}
+.cust-serv section .shipping-rates td,
+.cust-serv section .shipping-rates th {
+  border: 1px solid #e0e0e0;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+.cust-serv section .shipping-rates .country-name {
+  font-weight: bold;
+}
+.cust-serv section .indent {
+  padding-left: 30px;
+}
+@media screen and (max-width: 767.99px) {
+  .cust-serv .shipping-rates {
+    display: block;
+    border: 1px solid #e0e0e0;
+    /* Force table to not be like tables anymore */
+    /* Hide table headers (but not display: none;, for accessibility) */
+    /*
+        Label the data
+        */
+  }
+  .cust-serv .shipping-rates thead,
+  .cust-serv .shipping-rates tbody,
+  .cust-serv .shipping-rates th,
+  .cust-serv .shipping-rates td,
+  .cust-serv .shipping-rates tr {
+    display: block;
+  }
+  .cust-serv .shipping-rates thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  .cust-serv .shipping-rates td:first-child {
+    width: auto;
+  }
+  .cust-serv .shipping-rates td:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  .cust-serv .shipping-rates td:nth-child(1) {
+    background-color: #e0e0e0;
+    text-indent: -30px;
+  }
+  .cust-serv .shipping-rates td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+  }
+  .cust-serv .shipping-rates td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: pre-wrap;
+  }
+  .cust-serv .shipping-rates td:nth-of-type(1):before {
+    content: "";
+  }
+  .cust-serv .shipping-rates td:nth-of-type(2):before {
+    content: "Priority Mail";
+  }
+  .cust-serv .shipping-rates td:nth-of-type(3):before {
+    content: "Priority Mail Express";
+  }
+  .cust-serv .shipping-rates td:nth-of-type(4):before {
+    content: "Priority Mail International";
+  }
+  .cust-serv .shipping-rates td:nth-of-type(5):before {
+    content: "Priority Mail Express International";
+  }
+  .cust-serv .shipping-rates td:nth-of-type(6):before {
+    content: "DHL Express Worldwide";
+  }
+}
+@media screen and (min-width: 768px) {
+  .cust-serv aside {
+    margin: 0;
+  }
+  .cust-serv section ul,
+  .cust-serv section ol {
+    margin-left: 3rem;
+  }
+}
+@media screen and (min-width: 980px) {
+  .cust-serv section {
+    border-left: 2px solid #f2f2f2;
+  }
+  .cust-serv section tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
   }
 }

@@ -1,268 +1,247 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the home page.
 // -----------------------------------------------------------------------------
-
-#home-english{
-  
-/*---------HERO---------------*/
-#hero{
-  background-image: url(/img/home/home-header-mobile.jpg);
-  background-size: cover;
-  background-position: right;
-  background-repeat: no-repeat;
-  text-align: left;
-  .hero-text-box{
-    margin-bottom: 20rem;
-  }
-  h1{
-    padding-bottom: 0.5rem;
-    text-align: left;
-    font-size: 26px;
-    width: 350px;
-    float: left;
-    @media screen and (max-width: 360px){
-      text-align: center;
-      width: 100%;
-    }
-  }
-  ul{
-    clear: both;
-  }
-  li{
-    font-family: $accent-font-common;
-    font-weight: 500;
-  }
-
-
-//TABLET AND UP
-  @media screen and (min-width: $breakpoint-medium){
-    background-image: url(/img/home/home-header-en.jpg);
+#home-english {
+  /*---------HERO---------------*/
+  #hero {
+    background-image: url(/img/home/home-header-mobile.jpg);
+    background-size: cover;
     background-position: right;
-    .hero-text-box{
-      margin: 2rem 0 4rem;
+    background-repeat: no-repeat;
+    text-align: left;
+    .hero-text-box {
+      margin-bottom: 20rem;
     }
-    h1{
-      font-size: 32px;
-      width: 420px;
+    h1 {
+      padding-bottom: 0.5rem;
+      text-align: left;
+      font-size: 26px;
+      width: 350px;
+      float: left;
+      @media screen and (max-width: 360px) {
+        text-align: center;
+        width: 100%;
+      }
     }
-    ul{
-      text-indent: 1rem;
+    ul {
+      clear: both;
     }
-    li{
-      line-height: 1.5;
-      font-size: 20px;
+    li {
+      font-family: $accent-font-common;
+      font-weight: 500;
+    }
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      background-image: url(/img/home/home-header-en.jpg);
+      background-position: right;
+      .hero-text-box {
+        margin: 2rem 0 4rem;
+      }
+      h1 {
+        font-size: 32px;
+        width: 420px;
+      }
+      ul {
+        text-indent: 1rem;
+      }
+      li {
+        line-height: 1.5;
+        font-size: 20px;
+      }
     }
   }
-  
-}
-  
-
-/*-----------WHAT IS LINKS SECTION-------------*/
-
-  .what-is-symptoms a, .what-is-causes a, .what-is-diagnosis a{
+  /*-----------WHAT IS LINKS SECTION-------------*/
+  .what-is-symptoms a,
+  .what-is-causes a,
+  .what-is-diagnosis a {
     display: block;
     position: relative;
     border: 1px solid $light-gray-border;
     margin: 0 auto;
-    h3{
-       position:absolute;
-       top: 35%;
-       color: $light-gray-text;
+    h3 {
+      position: absolute;
+      top: 35%;
+      color: $light-gray-text;
       width: 100%;
       text-align: center;
-     }
+    }
   }
-
-//MOBILE ONLY
-  @media screen and (max-width: 767.99px){
-    .what-is-symptoms a, .what-is-causes a, .what-is-diagnosis a{
+  //MOBILE ONLY
+  @media screen and (max-width: 767.99px) {
+    .what-is-symptoms a,
+    .what-is-causes a,
+    .what-is-diagnosis a {
       max-width: 331px;
       height: 110px;
     }
-    .what-is-symptoms{
-    padding: 1rem 0 0;
-    a{
-      background: url(/img/home/button-symptoms-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
-    }
-  }
-  .what-is-causes-diagnosis{
-    padding: 1rem 0;
-  }
-    .what-is-causes{
-    padding: 0;
-   a{
-      background: url(/img/home/button-causes-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
-  }
-    }
-      .what-is-diagnosis{
-    padding: 1rem 0;
-   a{
-      background: url(/img/home/button-diagnosis-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
-  }
-    }
-  }
-  
-  
-  
-//TABLET AND UP
-  
-  @media screen and (min-width: $breakpoint-medium){
-    #what-is-links .wrapper{
-        max-width: 720px;
+    .what-is-symptoms {
+      padding: 1rem 0 0;
+      a {
+        background: url(/img/home/button-symptoms-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
       }
-    h3{
-      font-weight: 400;
-      
     }
-    .what-is-symptoms{
-      a{
+    .what-is-causes-diagnosis {
+      padding: 1rem 0;
+    }
+    .what-is-causes {
+      padding: 0;
+      a {
+        background: url(/img/home/button-causes-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
+      }
+    }
+    .what-is-diagnosis {
+      padding: 1rem 0;
+      a {
+        background: url(/img/home/button-diagnosis-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
+      }
+    }
+  }
+  //TABLET AND UP
+  @media screen and (min-width: $breakpoint-medium) {
+    #what-is-links .wrapper {
+      max-width: 720px;
+    }
+    h3 {
+      font-weight: 400;
+    }
+    .what-is-symptoms {
+      a {
         background: url(/img/home/button-symptoms.jpg) no-repeat center;
         background-size: auto 100%;
         height: 450px;
-        h3{
+        h3 {
           top: 13%;
         }
       }
     }
-    .what-is-causes, .what-is-diagnosis{
+    .what-is-causes,
+    .what-is-diagnosis {
       padding: 0;
-      a{
+      a {
         height: 215px;
       }
     }
-    .what-is-causes a{
-        background: url(/img/home/button-causes.jpg) no-repeat center;
-        background-size: auto 100%;
-        margin-bottom: 20px;
+    .what-is-causes a {
+      background: url(/img/home/button-causes.jpg) no-repeat center;
+      background-size: auto 100%;
+      margin-bottom: 20px;
     }
-    .what-is-diagnosis a{
-        background: url(/img/home/button-diagnosis.jpg) no-repeat center;
-        background-size: auto 100%;
+    .what-is-diagnosis a {
+      background: url(/img/home/button-diagnosis.jpg) no-repeat center;
+      background-size: auto 100%;
     }
   }
-  
-// DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-      #what-is-links .wrapper{
-        max-width: 800px;
-      }
-    .what-is-symptoms{
-      a{
+  // DESKTOP ONLY
+  @media screen and (min-width: $breakpoint-large) {
+    #what-is-links .wrapper {
+      max-width: 800px;
+    }
+    .what-is-symptoms {
+      a {
         height: 478px;
-//        padding: 1rem 0;
+        //        padding: 1rem 0;
       }
     }
-    .what-is-causes, .what-is-diagnosis{
-      a{
-//        padding: 1rem 0;
+    .what-is-causes,
+    .what-is-diagnosis {
+      a {
+        //        padding: 1rem 0;
         height: 229px;
       }
     }
   }
-
-
-
-/*-----------PRODUCTS SECTION-------------*/
-
-#products{
-  text-align: center;
-  img{
-    width: 100%;
-    height: auto;
-    margin: 5% 0;
-  }
-  p{
-    margin-bottom:0.5rem;
-  }
-  
-//TABLET AND UP
-  @media screen and (min-width: $breakpoint-medium){
-    text-align: left;
-    .wrapper{
-      position: relative;
+  /*-----------PRODUCTS SECTION-------------*/
+  #products {
+    text-align: center;
+    img {
+      width: 100%;
+      height: auto;
+      margin: 5% 0;
     }
-    .white-box-float{
-      position: absolute;
-      width: 330px;
-      background: $white;
-      top: 2.5rem;
-      padding: 0.5rem;
-      -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-      -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-      box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-      border: 1px solid $light-gray-border;
-      .text-box{
-        padding: 1rem 1rem 1.5rem 1.5rem ;
+    p {
+      margin-bottom: 0.5rem;
+    }
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      text-align: left;
+      .wrapper {
+        position: relative;
       }
-        p{
+      .white-box-float {
+        position: absolute;
+        width: 330px;
+        background: $white;
+        top: 2.5rem;
+        padding: 0.5rem;
+        -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+        -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+        box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+        border: 1px solid $light-gray-border;
+        .text-box {
+          padding: 1rem 1rem 1.5rem 1.5rem;
+        }
+        p {
           text-align: left;
           margin-bottom: 1rem;
         }
+      }
+      h3 {
+        margin-bottom: 0.5rem;
+        line-height: 1.2;
+        text-align: left;
+      }
+      img {
+        width: 600px;
+        float: right;
+        max-width: none;
+        max-height: none;
+        margin: 2rem auto;
+      }
     }
-
-    h3{
-      margin-bottom: 0.5rem;
-      line-height: 1.2;
-      text-align: left;
+    //DESKTOP ONLY
+    @media screen and (min-width: $breakpoint-large) {
+      .white-box-float {
+        top: 4.5rem;
+      }
+      img {
+        width: 750px;
+      }
+      p {
+        margin: 0.5rem 0 1.5rem;
+      }
     }
-    img{
-      width: 600px;
-      float: right;
-      max-width: none;
-      max-height: none;
-      margin: 2rem auto;
-    }
-  }
-  
-//DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-    .white-box-float{
-      top: 4.5rem;
-    }
-
-    img{
-      width: 750px;
-    }
-    p{
-      margin:0.5rem 0 1.5rem;
-    }
-  }
-      @media screen and (min-width: 1200px){
-      .text-box{
+    @media screen and (min-width: 1200px) {
+      .text-box {
         margin: 1.5rem;
       }
-      .white-box-float{
+      .white-box-float {
         top: 5rem;
         width: 350px;
       }
-      img{
-        width:900px;
+      img {
+        width: 900px;
       }
-  }
-    @media screen and (min-width: 1500px){
-
-      .white-box-float{
+    }
+    @media screen and (min-width: 1500px) {
+      .white-box-float {
         top: 4.5rem;
         width: 350px;
       }
-      img{
-        width:90%;
+      img {
+        width: 90%;
       }
+    }
   }
-  }
-
-/*-----------FORUM SECTION-------------*/
-  
-  #home-forum{
+  /*-----------FORUM SECTION-------------*/
+  #home-forum {
     position: relative;
-    margin:1rem 0;
+    margin: 1rem 0;
     text-align: center;
   }
-  
-  .transparent-link{
+  .transparent-link {
     position: absolute;
     background: transparent;
     width: 40%;
@@ -271,93 +250,90 @@
     left: 30%;
     height: 100%;
     top: 0;
-    }
-
-
-/*-----------HIGHLIGHTED CONTENT SECTION-------------*/
-#highlighted-content-english{
-  margin-bottom: 2rem;
-  .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
-    display: block;
-    position: relative;
-    border: 1px solid $light-gray-border;
-    margin: 0 auto;
-    h3, p{
-       position:absolute;
-       color: $light-gray-text;
-     }
   }
-
-//MOBILE ONLY
-  @media screen and (max-width: 767.99px){
-    .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
-      max-width: 331px;
-      height: 110px;
+  /*-----------HIGHLIGHTED CONTENT SECTION-------------*/
+  #highlighted-content-english {
+    margin-bottom: 2rem;
+    .highlighted-content-1 a,
+    .highlighted-content-2 a,
+    .highlighted-content-3 a {
+      display: block;
+      position: relative;
+      border: 1px solid $light-gray-border;
+      margin: 0 auto;
+      h3,
+      p {
+        position: absolute;
+        color: $light-gray-text;
+      }
     }
-    .highlighted-content-1 a{
-      background: url(/img/home/sexless-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
+    //MOBILE ONLY
+    @media screen and (max-width: 767.99px) {
+      .highlighted-content-1 a,
+      .highlighted-content-2 a,
+      .highlighted-content-3 a {
+        max-width: 331px;
+        height: 110px;
+      }
+      .highlighted-content-1 a {
+        background: url(/img/home/sexless-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
+      }
+      .highlighted-content-2 a {
+        background: url(/img/home/pregnancy-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
+      }
+      .highlighted-content-3 a {
+        background: url(/img/home/menopause-mobile.jpg) no-repeat center;
+        background-size: auto 100%;
+      }
+      h3 {
+        padding: 1rem 0;
+        width: 58%;
+      }
+      .highlighted-content-3 h3,
+      .highlighted-content-1 h3 {
+        right: 0.25rem;
+      }
     }
-
-    .highlighted-content-2 a{
-      background: url(/img/home/pregnancy-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
-    }
-      .highlighted-content-3 a{
-      background: url(/img/home/menopause-mobile.jpg) no-repeat center;
-      background-size: auto 100%;
-    }
-    h3{
-      padding: 1rem 0;
-      width: 58%;
-    }
-    .highlighted-content-3 h3, .highlighted-content-1 h3{
-      right: 0.25rem;
-    }
-  }
-  
-  
-  
-//TABLET AND UP
-  
-  @media screen and (min-width: $breakpoint-medium){
-    .wrapper{
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      .wrapper {
         max-width: 720px;
       }
-
-    .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
-      height: 450px;
-    }
-    .highlighted-content-1 a{
+      .highlighted-content-1 a,
+      .highlighted-content-2 a,
+      .highlighted-content-3 a {
+        height: 450px;
+      }
+      .highlighted-content-1 a {
         background: url(/img/home/sexless.jpg) no-repeat center;
         background-size: auto 100%;
-    }
-    .highlighted-content-2 a{
+      }
+      .highlighted-content-2 a {
         background: url(/img/home/pregnancy.jpg) no-repeat center;
         background-size: auto 100%;
-    }
-    .highlighted-content-3 a{
+      }
+      .highlighted-content-3 a {
         background: url(/img/home/menopause.jpg) no-repeat center;
         background-size: auto 100%;
+      }
+      h3 {
+        width: 100%;
+        text-align: center;
+        padding: 1rem;
+      }
     }
-    h3{
-      width: 100%;
-      text-align: center;
-    }
-  }
-  
-// DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-       .wrapper{
+    // DESKTOP ONLY
+    @media screen and (min-width: $breakpoint-large) {
+      .wrapper {
         max-width: 996px;
       }
-    .highlighted-content-1 a, .highlighted-content-2 a, .highlighted-content-3 a{
-      height: 478px;
+      .highlighted-content-1 a,
+      .highlighted-content-2 a,
+      .highlighted-content-3 a {
+        height: 478px;
+      }
     }
-
   }
-    
-
-
-}
 }

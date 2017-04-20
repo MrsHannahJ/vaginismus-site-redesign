@@ -1,0 +1,207 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the faq pages.
+// -----------------------------------------------------------------------------
+.cust-serv {
+  /*---------HERO---------------*/
+  #hero-english {
+    min-height: 1rem;
+    background: url(/img/home/home-header-en.jpg);
+    background-size: cover;
+    background-position: top;
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      padding-bottom: 0;
+      p {
+        padding: 0 0 1rem;
+      }
+    }
+  }
+  /*---------CUST SERV FAQ BODY--------------*/
+  //  related
+  aside {
+    h2 {
+      margin: 0 0 1rem;
+      padding: 0.75rem 0 0;
+    }
+    ul li {
+      margin-left: 0;
+      padding-left: 1rem;
+      text-indent: -1rem;
+    }
+  }
+  section {
+    line-height: 1.4;
+    h3,
+    h4 {
+      text-align: left;
+      padding: 1.5rem 0 0.25rem 0;
+    }
+    p {
+      text-align: justify;
+    }
+    a {
+      font-weight: 600;
+    }
+    hr {
+      color: $light-gray-text;
+      opacity: .5;
+      margin: 1rem 0;
+    }
+    //list styles
+    ol,
+    ul {
+      margin-left: 1rem;
+      padding: 0.5rem 0;
+      li {
+        padding-bottom: 1rem;
+      }
+    }
+    ul li {
+      list-style: disc;
+    }
+    ol li {
+      list-style: upper-roman;
+      text-indent: 0.5rem;
+    }
+    //table styles
+    table {
+      margin: 1rem auto;
+    }
+    //    table, th {
+    //      @include font-size(19px);
+    //    }
+    th {
+      font-weight: bold;
+      padding: 1rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+    }
+    thead tr:nth-child(2) th {
+      padding: 0.5rem;
+      text-align: left;
+    }
+    td {
+      padding: 0.75rem;
+      border-bottom: 2px solid $gray-background;
+      border-collapse: collapse;
+      &:first-child {
+        width: 30%;
+        padding-right: 1rem;
+      }
+    }
+    .treatment-rate-table td:first-child {
+      font-weight: bold;
+    }
+    .shipping-rates {
+      thead {
+        background-color: $gray-background;
+        color: $dark-gray-text;
+      }
+      td,
+      th {
+        border: 1px solid $gray-background;
+        border-collapse: collapse;
+        @include font-size(14px);
+      }
+      .country-name {
+        font-weight: bold;
+      }
+    }
+    .indent {
+      padding-left: 30px;
+    }
+  }
+  //MOBILE ONLY
+  @media screen and (max-width: 767.99px) {
+    .shipping-rates {
+      display: block;
+      border: 1px solid $gray-background;
+      /* Force table to not be like tables anymore */
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+      }
+      /* Hide table headers (but not display: none;, for accessibility) */
+      thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+      }
+      td:first-child {
+        width: auto;
+      }
+      td:nth-child(even) {
+        background-color: $light-gray-background;
+      }
+      td:nth-child(1) {
+        background-color: $gray-background;
+        text-indent: -30px;
+      }
+      td {
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 50%;
+        //              line-height: 2;
+        //            height: 7rem;
+      }
+      td:before {
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: pre-wrap;
+      }
+      /*
+          Label the data
+          */
+      td:nth-of-type(1):before {
+        content: "";
+      }
+      td:nth-of-type(2):before {
+        content: "Priority Mail";
+      }
+      td:nth-of-type(3):before {
+        content: "Priority Mail Express";
+      }
+      td:nth-of-type(4):before {
+        content: "Priority Mail International";
+      }
+      td:nth-of-type(5):before {
+        content: "Priority Mail Express International";
+      }
+      td:nth-of-type(6):before {
+        content: "DHL Express Worldwide";
+      }
+    }
+  }
+  //TABLET AND UP
+  @media screen and (min-width: $breakpoint-medium) {
+    aside {
+      margin: 0;
+      //        h2 {
+      //        padding: 0;
+      //      }
+    }
+    section ul,
+    section ol {
+      margin-left: 3rem;
+    }
+  }
+  //DESKTOP
+  @media screen and (min-width:$breakpoint-large) {
+    section {
+      border-left: 2px solid $light-gray-background;
+      tbody tr:nth-child(even) {
+        background-color: $light-gray-background;
+      }
+    }
+  }
+}

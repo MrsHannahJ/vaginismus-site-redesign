@@ -10,18 +10,20 @@
 
 <head>
   <!--[if IE]><![endif]-->
-  
+
 
   <meta charset="UTF-8" />
-  <title> Vaginismus.com | <?php echo $pagetitle; ?></title>
+  <title> Vaginismus.com |
+    <?php echo $pagetitle; ?>
+  </title>
   <link rel="shortcut icon" href="/img/v-favicon.png" />
   <meta name="description" content="<?php echo $pagedescription; ?>" />
   <link rel="canonical" href="<?php echo $pagecanonical; ?>" />
-  
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="robots" content="index, follow" />
-  
+
   <meta property="og:locale" content="ru_RU" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Vaginismus.com | <?php echo $pagetitle; ?>" />
@@ -36,8 +38,11 @@
   <meta name="twitter:title" content="Vaginismus.com | <?php echo $pagetitle; ?>" />
   <meta name="twitter:description" content="<?php echo $pagedescription; ?>" />
   <meta name="twitter:image" content="<?php echo $pageimagepath; ?>" />
-  
-  <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />
+
+  <!--dev-->
+  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
+  <!--production-->
+  <!--  <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />-->
 
 
 </head>
@@ -46,55 +51,55 @@
 
   <div id="page-container">
 
-<!--      HEADER      -->
-  
-  <header>
+    <!--      HEADER      -->
 
-    <div class="desktop-navbar">
-      <div class="logo">
-        <a href="/ru/index.php" title="вернуться на главную страницу"><img src="/img/logo.png" alt="Vaginismus.com (Pусский)" /></a>
-      </div>
-      <nav class="nav-js">
-        <a class="nav-toggle hidden-desktop" href="#">
-          <span></span>
-          <span></span>
-          <span></span>
-        </a>
-        <div class="nav-menu">
-          <ul id="nav">
-            <li class="primary-nav-item"><a href="#">Что такое вагинизм?</a>
-              <ul>
-                <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php">Что такое вагинизм?</a></li>
-                <li><a href="/ru/vaginismus-symptoms/index.php">Симптомы</a></li>
-                <li><a href="/ru/vaginismus-causes/index.php">Причины</a></li>
-                <li><a href="/ru/vaginismus-diagnosis/index.php">Диагноз</a></li>
-              </ul>
-            </li>
-            <li class="primary-nav-item"><a href="#">Лечение</a>
-              <ul>
-                <li><a href="/ru/vaginismus-treatment/index.php">Лечение</a></li>
-                <li><a href="/ru/products/index.php">Продукты</a></li>
-              </ul>
-            </li>
-  <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
-            <li class="primary-nav-item"><a href="#">Дальнейшая поддержка</a>
-              <ul>
-                <li><a href="/ru/faq/index.php">ЧЗВ</a></li>
-                <li><a href="/ru/contact-us/index.php">Связаться с нами</a></li>
-                <li><a href="/ru/forum-introduction/index.php">Форум</a></li>
-              </ul>
-          </ul>
+    <header>
+
+      <div class="desktop-navbar">
+        <div class="logo">
+          <a href="/ru/index.php" title="вернуться на главную страницу"><img src="/img/logo.png" alt="Vaginismus.com (Pусский)" /></a>
         </div>
-      </nav>
-      <div class="cart">
-        <a href="#"><img src="/img/icons/cart.png" alt="Ваша корзина" /></a>
-        <!--  needs to be connected to cart  -->
-        <span class="cart-count">0</span>
+        <nav class="nav-js">
+          <a class="nav-toggle hidden-desktop" href="#">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+          <div class="nav-menu">
+            <ul id="nav">
+              <li class="primary-nav-item"><a href="#">Что такое вагинизм?</a>
+                <ul>
+                  <li><a href="/ru/faq/general-questions/what-is-vaginismus/index.php">Что такое вагинизм?</a></li>
+                  <li><a href="/ru/vaginismus-symptoms/index.php">Симптомы</a></li>
+                  <li><a href="/ru/vaginismus-causes/index.php">Причины</a></li>
+                  <li><a href="/ru/vaginismus-diagnosis/index.php">Диагноз</a></li>
+                </ul>
+              </li>
+              <li class="primary-nav-item"><a href="#">Лечение</a>
+                <ul>
+                  <li><a href="/ru/vaginismus-treatment/index.php">Лечение</a></li>
+                  <li><a href="/ru/products/index.php">Продукты</a></li>
+                </ul>
+              </li>
+              <!-- style="text-align: right; padding-right: 20px;"style="text-align: left; padding-left: 20px;"-->
+              <li class="primary-nav-item"><a href="#">Дальнейшая поддержка</a>
+                <ul>
+                  <li><a href="/ru/faq/index.php">ЧЗВ</a></li>
+                  <li><a href="/ru/contact-us/index.php">Связаться с нами</a></li>
+                  <li><a href="/ru/forum-introduction/index.php">Форум</a></li>
+                </ul>
+            </ul>
+          </div>
+        </nav>
+        <div class="cart">
+          <a href="#"><img src="/img/icons/cart.png" alt="Ваша корзина" /></a>
+          <!--  needs to be connected to cart  -->
+          <span class="cart-count">0</span>
+        </div>
       </div>
-    </div>
 
 
-    <div class="nav-overlay"></div>
+      <div class="nav-overlay"></div>
 
 
-</header>
+    </header>

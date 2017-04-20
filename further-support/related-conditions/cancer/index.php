@@ -8,13 +8,21 @@
 ?>
 
 
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+
+      <!--   SIDEBAR   -->
+      <?php
+  $active = 'cancer';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Cancer</h1>
-                
+
           <p>Cancer, and associated symptoms and treatments, may contribute to temporary pain during sex. Like other pain causing conditions, cancer may cause or contribute to problems with vaginismus.</p>
 
           <h3>Links of Interest</h3>
@@ -38,16 +46,21 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
-<?php
-  $active = 'cancer';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+
+    <!--      PRE-FOOTER-NAV SECTION      -->
+
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-    
-    
-<?php
+  </main>
+
+
+  <?php
 include(ROOT_PATH.'/includes/footer.php');
 ?>

@@ -8,13 +8,16 @@
 ?>
 
 
-    
-    <main class="faq-question">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
+
+  <main class="cust-serv">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+      <?php
+  $active = 'ordering';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+?>
         <section class="large-9">
           <h1>Ordering &#038; Return FAQs</h1>
-                
+
           <h3>Ordering FAQs</h3>
           <h4>What currency is used for billing when I order? How can I calculate the conversion?</h4>
           <p>All prices quoted are in U.S. dollars. At the time of ordering, your credit card company will automatically perform the conversion for you. If you want to roughly calculate the currency conversion in advance, you can use this <a href="http://www.xe.com/" target="_blank">free calculator</a>.</p>
@@ -39,13 +42,8 @@
           <p>You may return any unused books or DVDs within 30 days in the original packaging for a full credit, minus shipping/handling charges and restocking fee of $10.00. To request this service please contact us directly.</p>
 
         </section>
-        
-<?php
-  $active = 'ordering';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
+    </div>
+  </main>
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-
-              
-                  
-                    
-                  

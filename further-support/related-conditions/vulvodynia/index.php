@@ -7,14 +7,21 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-    
-<!--   MAIN SECTION   -->
-    <main class="resource-page">
-      <div class="wrapper">
-<!--   MAIN SECTION   -->
-        <section class="large-9">
+
+  <!--   MAIN SECTION   -->
+  <main class="related-conditions">
+    <div class="wrapper">
+      <!--   MAIN SECTION   -->
+
+      <!--   SIDEBAR   -->
+
+      <?php
+  $active = 'vulvodynia';
+  include(ROOT_PATH.'/includes/sidebar-related.php');
+?>
+        <section class="large-9" id="section-related">
           <h1>Vulvodynia &amp; Vestibulitis</h1>
-                
+
           <h3>Vulvodynia</h3>
           <p>Vulvodynia is a chronic pain condition characterized by burning, stinging, irritation, and/or rawness in the female genital area, according to <a href="http://www.issvd.org" target="_blank">www.issvd.org</a>. Pain is not always present solely with sexual intercourse or vaginal penetration but typically also occurs during everyday activities (a key way to help differentiate between vaginismus and vulvodynia).</p>
 
@@ -43,8 +50,7 @@
             <li><em><a href="http://www.amazon.com/Book-Doctors-Complete-Vulvovaginal-Health/dp/0553381148" target="_blank">The V Book: A Doctor&#8217;s Guide to Complete Vulvovaginal Health</a></em> by Elizabeth Stewart &amp; Paula Spencer<br /> Women will learn everything they need to know about the basics of vulvovaginal—or “V”–health, an essential yet often overlooked area of women’s health.</li>
             <li><a href="http://www.amazon.com/Vulvodynia-Survival-Guide-Overcome-Lifestyle/dp/1572242914" target="_blank"><em>The Vulvodynia Survival Guide: How to Overcome Painful Vaginal Symptoms and Enjoy an Active Lifestyle</em> </a>by Howard GlazerThis book offers the most current and effective techniques for overcoming this problem.
 
-            <li><a href="https://www.amazon.com/Vulva-Vagina-Manual-Graeme-Dennerstein-ebook/dp/B004OYUEZO" target="_blank"><em>The Vulva and Vagina Manual</em></a> by Dennerstein by  Graeme Dennerstein, 
-              James Scurry &amp; John Brenan</li>
+              <li><a href="https://www.amazon.com/Vulva-Vagina-Manual-Graeme-Dennerstein-ebook/dp/B004OYUEZO" target="_blank"><em>The Vulva and Vagina Manual</em></a> by Dennerstein by Graeme Dennerstein, James Scurry &amp; John Brenan</li>
           </ul>
           <p>For medical practitioners. Presents a scientific basis for diagnosis and management of vulval diseases.</p>
 
@@ -68,17 +74,19 @@
           </ul>
 
         </section>
-        
-<!--   SIDEBAR   -->
+        <a href="#" class="hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+    </div>
+    <!--      PRE-FOOTER-NAV SECTION      -->
 
-<?php
-  $active = 'vulvodynia';
-  include(ROOT_PATH.'/includes/sidebar-related.php');
+    <?php
+  $pagebacklink = '/further-support/general-questions/index.php';
+  $pageback = 'Common Questions';
+  $pageforwardlink = '/further-support/professional-assistance/index.php';
+  $pageforward = 'Professional Assistance';
+  include(ROOT_PATH.'/includes/pre-footer.php');
 ?>
-      </div>
-    </main>
-                    
-<?php
+  </main>
+
+  <?php
   include(ROOT_PATH.'/includes/footer.php');
 ?>
-  

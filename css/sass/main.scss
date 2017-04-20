@@ -1,76 +1,63 @@
 @charset 'UTF-8';
-
 // 1. Configuration and helpers
-@import
-  'abstracts/variables',
-  'abstracts/functions',
-  'abstracts/mixins';
-
+@import 'abstracts/variables',
+'abstracts/functions',
+'abstracts/mixins';
 // 2. Vendors
-@import
-  'vendor/normalize',
-  'vendor/slick',
-  'vendor/slick-theme',
-  'vendor/video-js';
-
+@import 'vendor/normalize',
+'vendor/slick',
+'vendor/slick-theme',
+'vendor/video-js';
 // 2b. Vendors
-@import
-  'vendor-extensions/video-js';
-
+@import 'vendor-extensions/video-js';
 // 3. Base stuff
-@import
-  'base/base',
-  'base/fonts',
-  'base/typography',
-  'base/helpers';
-
+@import 'base/base',
+'base/fonts',
+'base/typography',
+'base/helpers';
 // 4. Layout-related sections
-@import
-  'layout/grid',
-  'layout/header',
-  'layout/footer',
-  'layout/sidebar';
-
+@import 'layout/grid',
+'layout/header',
+'layout/footer',
+'layout/sidebar';
 // 5. Components
-@import
-  'components/button',
-  'components/call-out',
-  'components/pre-footer-nav',
-  'components/banner-solid',
-  'components/parallax-background',
-  'components/banner-image',
-  'components/product-pre-footer';
-
+@import 'components/button',
+'components/call-out',
+'components/pre-footer-nav',
+'components/banner-solid',
+'components/parallax-background',
+'components/banner-image',
+'components/product-pre-footer';
 // 6. Page-specific styles
-@import
-  'pages/home',
-  'pages/symptoms',
-  'pages/causes',
-  'pages/stories',
-  'pages/diagnosis',
-  'pages/treatment',
-  'pages/faq',
-  'pages/reviews',
-  'pages/sidebar-pages',
-  'pages/product-pages',
-  'pages/resources',
-  'pages/forum-introduction',
-  'pages/search',
-  'pages/contact',
-  'pages/arabic',
-  'pages/press',
-  'pages/home-english',
-  'pages/understanding',
-  'pages/what-is',
-  'pages/further-support',
-  'pages/treatment-english',
-  'pages/professional-assistance',
-  'pages/product-pages-english',
-  'pages/faq-english';
-
+@import 'pages/home',
+'pages/symptoms',
+'pages/causes',
+'pages/stories',
+'pages/diagnosis',
+'pages/treatment',
+'pages/faq',
+'pages/reviews',
+'pages/sidebar-pages',
+'pages/product-pages',
+'pages/resources',
+'pages/forum-introduction',
+'pages/search',
+'pages/contact',
+'pages/arabic',
+'pages/press',
+'pages/home-english',
+'pages/understanding',
+'pages/what-is',
+'pages/further-support',
+'pages/treatment-english',
+'pages/professional-assistance',
+'pages/product-pages-english',
+'pages/faq-english',
+'pages/related-conditions',
+'pages/contact-english',
+'pages/cust-serv';
 // 7. Themes
 //@import
 //  'themes/default';
 //can delete, not using
-
 //delete read me file in each subfolder (pages, vendors, etc.)
