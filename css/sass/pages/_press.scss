@@ -4,11 +4,14 @@
 .press {
   #hero-english {
     min-height: 1rem;
+    p {
+      text-align: center;
+    }
     //TABLET
     @media screen and (min-width: $breakpoint-medium) {
-      #hero-english {
-        background: url(/img/related-cond-hero.jpg);
-      }
+      background: url(/img/press/press-hero.jpg);
+      background-size: cover;
+      background-position: top;
     }
   }
   h1 {
@@ -102,7 +105,7 @@
           padding: 0;
         }
       }
-      &:nth-child(even) .wrapper {
+      &:nth-child(odd) .wrapper {
         flex-direction: row-reverse;
       }
       h2 {

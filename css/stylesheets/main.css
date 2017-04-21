@@ -7365,9 +7365,14 @@ html[dir="rtl"] header .cart-count:after {
 .press #hero-english {
   min-height: 1rem;
 }
+.press #hero-english p {
+  text-align: center;
+}
 @media screen and (min-width: 768px) {
-  .press #hero-english #hero-english {
-    background: url(/img/related-cond-hero.jpg);
+  .press #hero-english {
+    background: url(/img/press/press-hero.jpg);
+    background-size: cover;
+    background-position: top;
   }
 }
 .press h1 {
@@ -7471,7 +7476,7 @@ html[dir="rtl"] header .cart-count:after {
   .press #press-section .wrapper .large-6:first-child {
     padding: 0;
   }
-  .press #press-section:nth-child(even) .wrapper {
+  .press #press-section:nth-child(odd) .wrapper {
     flex-direction: row-reverse;
   }
   .press #press-section h2 {

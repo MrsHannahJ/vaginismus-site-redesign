@@ -24,7 +24,7 @@
         <h2 class="hidden-tablet hidden-desktop">&#8220;Why Sex Sometimes Hurts&#8221;</h2>
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="/img/press/Cosmo-mobile.jpg" alt="Woman reading about self-treatment">
+            <img src="/img/press/Cosmo-mobile.jpg" alt="Cosmopolitan magazine cover">
           </div>
           <div class="large-6 medium-6">
             <h2 class="hidden-mobile">&#8220;Why Sex Sometimes Hurts&#8221;</h2>
@@ -49,13 +49,14 @@
             <li>Wider, J. (2007). Why Sex Sometimes Hurts. <em>Cosmopolitan Magazine</em>, August, 214.</li>
           </ol>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
       </section>
       <section class="box" id="press-section">
         <h2 class="hidden-tablet hidden-desktop">&#8220;When Sex Hurts&#8221;</h2>
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="/img/treatment/10-steps.jpg" alt="Woman reading about self-treatment">
+            <img src="/img/press/When-Sex-Hurts.jpg" alt="Screenshot of Article in Today's Christian Woman">
           </div>
           <div class="large-6 medium-6">
             <h2 class="hidden-mobile">&#8220;When Sex Hurts&#8221;</h2>
@@ -79,6 +80,7 @@
             <li>Cardwell, K. (2004). When sex hurts. <em>Today&#8217;s Christian Woman, November/December</em>, 62-64.</li>
           </ol>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
       </section>
 
@@ -86,7 +88,7 @@
         <h2 class="hidden-tablet hidden-desktop">&#8220;When Sex is a Pain&#8221;</h2>
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="/img/press/Bella-mobile.jpg" alt="Woman reading about self-treatment">
+            <img src="/img/press/Bella-mobile.jpg" alt="Bella Magazine Cover">
           </div>
           <div class="large-6 medium-6">
             <h2 class="hidden-mobile">&#8220;When Sex is a Pain&#8221;</h2>
@@ -109,13 +111,14 @@
             <li>Mears, J. (2005). When sex is a pain. <em>Bella Magazine, February, Issue 5</em>, 17.</li>
           </ol>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
       </section>
       <section class="box" id="press-section">
         <h2 class="hidden-tablet hidden-desktop"><em>Product News &amp; Reviews &#8211; Complete Vaginismus Treatment Kit</em></h2>
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="/img/press/womans-health-mobile.jpg" alt="Woman reading about self-treatment">
+            <img src="/img/press/womans-health-mobile.jpg" alt="APTA Journal of Women’s Health Physical Therapy">
           </div>
           <div class="large-6 medium-6">
             <h2 class="hidden-mobile"><em>Product News &amp; Reviews &#8211; Complete Vaginismus Treatment Kit</em></h2>
@@ -144,6 +147,7 @@
             <li>Shelly, B., Edwards, D. (Editor) (Winter 2005). <a href="http://journals.lww.com/jwhpt/Citation/2005/29030/Complete_Vaginismus_Treatment_Kit.28.aspx" target="_blank">Product News &amp; Reviews &#8211; Complete Vaginismus Treatment Kit. APTA J of Women&#8217;s Health Physical Therapy, 29(3), 74.</a></li>
           </ol>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
 
       </section>
@@ -153,7 +157,7 @@
         <h2 class="hidden-tablet hidden-desktop">&#8220;Clampdown&#8221;</h2>
         <div class="wrapper">
           <div class="large-6 medium-6">
-            <img src="/img/press/glow-mobile.jpg" alt="Woman reading about self-treatment">
+            <img src="/img/press/glow-mobile.jpg" alt="Glow Magazine Cover">
           </div>
           <div class="large-6 medium-6">
             <h2 class="hidden-mobile">&#8220;Clampdown&#8221;</h2>
@@ -174,6 +178,7 @@
             <li>Rae, K. (2007). Clampdown. <em>Glow Magazine</em>, May/June, G5-6.</li>
           </ol>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
       </section>
       <section class="box" id="press-section">
@@ -207,6 +212,7 @@
           <p>One way to include the partner in the treatment is to predict that he or she will likely have strong responses to the protocols, thus normalizing any strong reactions that occur. A second way to include the partner is to suggest that he/she keep their own journal about the treatment. The Sex Therapist can then inquire about the partner&#8217;s reactions and journal in such a way that lets the couple know that the relationship will be addressed.</p>
           <p><strong>Reviewed by Maya Bat-Ami, Psy.D &#8211; (website: DocMaya.net)</strong></p>
           <button class="gray-btn closePressArticle">Collapse Article</button>
+          <hr />
         </div>
       </section>
     </div>
