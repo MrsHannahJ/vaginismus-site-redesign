@@ -34,6 +34,76 @@
       return false;
     });
 
+    //press dropdown
+    //button that slides article bottom up/down
+    $('.togglePressArticle, .closePressArticle').on('click', function () {
+
+      var $this = $(this);
+      $parent_box = $(this).closest('.box');
+      $parent_box.siblings().find('.bottom').slideUp();
+      $parent_box.find('.bottom').slideToggle(500, 'swing');
+
+      //change button text on click to open/close
+      $('.togglePressArticle').text('Read Full Article');
+      $kk = $parent_box.find('.togglePressArticle');
+      $kk.toggleClass('openArticleBtn');
+      if ($kk.hasClass('openArticleBtn')) {
+        $kk.text('Collapse Article');
+      } else if (!$kk.hasClass('openArticleBtn')) {
+        $kk.text('Read Full Article');
+      }
+
+
+      //      $bottom = $this.closest('.bottom');
+      //      $kk = $this.closest('.togglePressArticle');
+      //      if ($bottom.css('display') == 'none') {
+      //        $kk.text('Collapse Article');
+      //      } else {
+      //        $kk.text('Read Full Article');
+      //      }
+      //      $kk.toggleClass('pressArticleBtn');
+      //      if ($kk.hasClass('pressArticleBtn')) {
+      //        $kk.text('Collapse Article');
+      //      } else {
+      //        $kk.text('Read Full Article');
+      //      }
+      //      if ($kk.text('Read Full Article')) {
+      //        $kk.text('Collapse Article');
+      //      } else if ($kk.text('Collapse Article')) {
+      //        $kk.text('Read Full Article');
+      //      }
+    });
+    //close button inside of bottom article
+    $('.closePressArticle').on('click', function () {
+      //      $aa = $this.closest('.togglePressArticle');
+      //      $aa.toggleClass('kittens');
+      //      if ($kk.hasClass('french')) {
+      //        $kk.text('hi');
+      //      } else if (!$kk.hasClass('french')) {
+      //        $kk.text('lo');
+      //      }
+
+
+      //      $parent_box = $(this).closest('.box');
+      //$parent_box.siblings().find('.bottom').slideUp();
+      //$parent_box.find('.bottom').slideToggle(500, 'swing');
+      //      $('.togglePressArticle').show(500);
+      //change button text on click to open/close
+      //      $toggle2 = $(this).closest(".togglePressArticle");
+      //      if ($toggle2.text() == 'Read Full Article') {
+      //        $toggle2.text('Collapse Article');
+      //      } else {
+      //        $toggle2.text('Read Full Article');
+      //      }
+      //animate scroll up to top of closest section
+
+
+
+      $nextsection = $(this).closest("#press-section");
+      $('html, body').animate({
+        scrollTop: $nextsection.offset().top - 48
+      }, 500);
+    });
 
     //initiate slick carousel
     $(".img-carousel").slick({

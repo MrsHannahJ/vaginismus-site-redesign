@@ -1,133 +1,125 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to all the pages with sidebars.
 // -----------------------------------------------------------------------------
-
-.press{
-    h1{
-     margin-bottom: 1rem;
-    }
-
-  #press-menu div{
-    border: 1px solid $light-gray-text;
-    border-radius: 10px;
-    background-color: $light-gray-background;
-    padding: 0.5rem;
-    clear: both;
-    margin: 1rem auto;
-    @media screen and (min-width: $breakpoint-large){
-      padding: 1rem;
-      width: 98%;
-      transition: width 0.2s;
-      &:hover{
-        width: 100%;
-      }
-    }
-    h2{
-      color: $dark-gray-text;
-      text-align: left;
-      font-size: 16px;
-      font-weight: 600;
-      padding: 0;
-    }
-    p{
-      color: $light-gray-text;
-      font-weight: 400;
-//      display: inline;
-      &:last-child{
-        color: $brand;
-        font-weight: 600;
-        padding: 0;
-        @media screen and (min-width: $breakpoint-large){
-          text-align: right;
-        }
+.press {
+  #hero-english {
+    min-height: 1rem;
+    //TABLET
+    @media screen and (min-width: $breakpoint-medium) {
+      #hero-english {
+        background: url(/img/related-cond-hero.jpg);
       }
     }
   }
-
-  
-//  section{
-
-
-//    h2 a{
-//      color: $dark-gray-text;
-//    }
-  
-    h3{
-      text-align: left;
-      font-family: $accent-font-common;
-      padding: 1.5rem 0 0.25rem 0;
+  h1 {
+    margin-bottom: 1rem;
+  }
+  h3 {
+    text-align: left;
+    font-family: $accent-font-common;
+    padding: 1.5rem 0 0.25rem 0;
+  }
+  h4 {
+    text-align: left;
+    font-weight: 500;
+    padding: 1.5rem 0 0.25rem 0;
+  }
+  p {
+    padding-bottom: 1rem;
+    text-align: justify;
+  }
+  a {
+    font-weight: 500;
+  }
+  hr {
+    color: $light-gray-text;
+    opacity: .5;
+    margin: 1rem 0;
+  }
+  //list styles
+  ul {
+    margin-left: 1rem;
+    li {
+      list-style: disc;
+      padding-bottom: 1.5rem;
+      &:first-child {
+        padding-top: 1rem;
+      }
     }
-    
-    h4{
-      text-align: left;
-      font-weight: 600;
-      padding: 1.5rem 0 0.25rem 0;
-    }
-    p{
+  }
+  ol {
+    margin-left: 1rem;
+    padding: 0.5rem 0;
+    li {
+      list-style: upper-roman;
+      text-indent: 0.5rem;
       padding-bottom: 1rem;
-      text-align: justify;
     }
-    a{
-      font-weight: 600;
+  }
+  #press-section {
+    margin-top: 1rem;
+    background: $white;
+    h3:after {
+      @include dash($dark-gray-text);
     }
-
-    hr{
-      color: $light-gray-text;
-      opacity: .5;
-      margin: 1rem 0;
+    a {
+      font-weight: 400;
     }
-//list styles
-    ul{
-      margin-left: 1rem;
-      li{
-        list-style: disc;
-        padding-bottom: 1.5rem;
-        &:first-child{
-          padding-top:1rem;
+    .bottom {
+      display: none;
+    }
+    .article {
+      padding: 1rem;
+      h4 {
+        font-size: 16px;
+      }
+    }
+    //MOBILE ONLY
+    @media screen and (max-width: 767.99px) {
+      padding-bottom: 1.5rem;
+      -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      border: 1px solid $light-gray-background;
+      text-align: center;
+      h2 {
+        padding: 0.5rem 0;
+      }
+      h3 {
+        display: inline;
+        &:after {
+          @include dash($dark-gray-text);
         }
       }
     }
-    ol{
-      margin-left: 1rem;
-      padding: 0.5rem 0;
-      li{
-        list-style: upper-roman;
-        text-indent: 0.5rem;
-        padding-bottom: 1rem;
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      text-align: left;
+      .wrapper {
+        display: flex;
+        align-items: center;
+        .large-6:first-child {
+          padding: 0;
+        }
+      }
+      &:nth-child(even) .wrapper {
+        flex-direction: row-reverse;
+      }
+      h2 {
+        text-align: left;
+        padding: 0;
+        font-size: 20px;
+      }
+      h3 {
+        padding: 0.5rem 0;
+        font-size: 18px;
+      }
+      h3:after {
+        margin: 1rem 0;
+      }
+      p {
+        padding-top: 0;
       }
     }
-
-//    .article-title{
-//      text-align: left;
-//      line-height: 1;
-//
-//    }
-//    .article-preview{
-//      padding-top: 0;
-//    }
-
-
-    
-    
-//MOBILE ONLY
-
-
-
-    
-//TABLET
-    @media screen and (min-width:$breakpoint-medium){
-
-    }
-
-//DESKTOP
-    @media screen and (min-width:$breakpoint-large){
-
-    }
-  
-//}
-  
+  }
 }
-
-
-
-    

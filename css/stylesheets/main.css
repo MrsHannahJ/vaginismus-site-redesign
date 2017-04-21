@@ -2832,6 +2832,7 @@ strong {
 .related-conditions h1,
 .contact-english h1,
 .cust-serv h1,
+.press h1,
 #forum-intro h1,
 #symptoms h1,
 #causes h1,
@@ -2853,6 +2854,7 @@ strong {
   .related-conditions h1,
   .contact-english h1,
   .cust-serv h1,
+  .press h1,
   #forum-intro h1,
   #symptoms h1,
   #causes h1,
@@ -2873,6 +2875,7 @@ strong {
 .related-conditions h2,
 .contact-english h2,
 .cust-serv h2,
+.press h2,
 #forum-intro h2,
 #symptoms h2,
 #causes h2,
@@ -2894,6 +2897,7 @@ strong {
   .related-conditions h2,
   .contact-english h2,
   .cust-serv h2,
+  .press h2,
   #forum-intro h2,
   #symptoms h2,
   #causes h2,
@@ -2914,6 +2918,7 @@ strong {
 .related-conditions h3,
 .contact-english h3,
 .cust-serv h3,
+.press h3,
 #forum-intro h3,
 #symptoms h3,
 #causes h3,
@@ -2935,6 +2940,7 @@ strong {
   .related-conditions h3,
   .contact-english h3,
   .cust-serv h3,
+  .press h3,
   #forum-intro h3,
   #symptoms h3,
   #causes h3,
@@ -2955,6 +2961,7 @@ strong {
 .related-conditions h4,
 .contact-english h4,
 .cust-serv h4,
+.press h4,
 #forum-intro h4,
 #symptoms h4,
 #causes h4,
@@ -2985,6 +2992,8 @@ strong {
 .contact-english li,
 .cust-serv p,
 .cust-serv li,
+.press p,
+.press li,
 #forum-intro p,
 #forum-intro li,
 #symptoms p,
@@ -3053,6 +3062,11 @@ strong {
 .cust-serv table,
 .cust-serv th,
 .cust-serv td,
+.press a,
+.press figcaption,
+.press table,
+.press th,
+.press td,
 #forum-intro a,
 #forum-intro figcaption,
 #forum-intro table,
@@ -7348,47 +7362,16 @@ html[dir="rtl"] header .cart-count:after {
     margin: 0.5rem 1rem 0 0;
   }
 }
+.press #hero-english {
+  min-height: 1rem;
+}
+@media screen and (min-width: 768px) {
+  .press #hero-english #hero-english {
+    background: url(/img/related-cond-hero.jpg);
+  }
+}
 .press h1 {
   margin-bottom: 1rem;
-}
-.press #press-menu div {
-  border: 1px solid #656565;
-  border-radius: 10px;
-  background-color: #f2f2f2;
-  padding: 0.5rem;
-  clear: both;
-  margin: 1rem auto;
-}
-@media screen and (min-width: 980px) {
-  .press #press-menu div {
-    padding: 1rem;
-    width: 98%;
-    transition: width 0.2s;
-  }
-  .press #press-menu div:hover {
-    width: 100%;
-  }
-}
-.press #press-menu div h2 {
-  color: #333333;
-  text-align: left;
-  font-size: 16px;
-  font-weight: 600;
-  padding: 0;
-}
-.press #press-menu div p {
-  color: #656565;
-  font-weight: 400;
-}
-.press #press-menu div p:last-child {
-  color: #4eb3b3;
-  font-weight: 600;
-  padding: 0;
-}
-@media screen and (min-width: 980px) {
-  .press #press-menu div p:last-child {
-    text-align: right;
-  }
 }
 .press h3 {
   text-align: left;
@@ -7397,7 +7380,7 @@ html[dir="rtl"] header .cart-count:after {
 }
 .press h4 {
   text-align: left;
-  font-weight: 600;
+  font-weight: 500;
   padding: 1.5rem 0 0.25rem 0;
 }
 .press p {
@@ -7405,7 +7388,7 @@ html[dir="rtl"] header .cart-count:after {
   text-align: justify;
 }
 .press a {
-  font-weight: 600;
+  font-weight: 500;
 }
 .press hr {
   color: #656565;
@@ -7430,6 +7413,82 @@ html[dir="rtl"] header .cart-count:after {
   list-style: upper-roman;
   text-indent: 0.5rem;
   padding-bottom: 1rem;
+}
+.press #press-section {
+  margin-top: 1rem;
+  background: #ffffff;
+}
+.press #press-section h3:after {
+  content: "";
+  display: block;
+  width: 3.5rem;
+  border-bottom: 0.1875rem solid #333333;
+  margin: 1rem auto;
+}
+.press #press-section a {
+  font-weight: 400;
+}
+.press #press-section .bottom {
+  display: none;
+}
+.press #press-section .article {
+  padding: 1rem;
+}
+.press #press-section .article h4 {
+  font-size: 16px;
+}
+@media screen and (max-width: 767.99px) {
+  .press #press-section {
+    padding-bottom: 1.5rem;
+    -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+    border: 1px solid #f2f2f2;
+    text-align: center;
+  }
+  .press #press-section h2 {
+    padding: 0.5rem 0;
+  }
+  .press #press-section h3 {
+    display: inline;
+  }
+  .press #press-section h3:after {
+    content: "";
+    display: block;
+    width: 3.5rem;
+    border-bottom: 0.1875rem solid #333333;
+    margin: 1rem auto;
+  }
+}
+@media screen and (min-width: 768px) {
+  .press #press-section {
+    text-align: left;
+  }
+  .press #press-section .wrapper {
+    display: flex;
+    align-items: center;
+  }
+  .press #press-section .wrapper .large-6:first-child {
+    padding: 0;
+  }
+  .press #press-section:nth-child(even) .wrapper {
+    flex-direction: row-reverse;
+  }
+  .press #press-section h2 {
+    text-align: left;
+    padding: 0;
+    font-size: 20px;
+  }
+  .press #press-section h3 {
+    padding: 0.5rem 0;
+    font-size: 18px;
+  }
+  .press #press-section h3:after {
+    margin: 1rem 0;
+  }
+  .press #press-section p {
+    padding-top: 0;
+  }
 }
 
 #home-english {
@@ -8836,8 +8895,8 @@ html[dir="rtl"] header .cart-count:after {
   }
 }
 
-.related-conditions #hero-english {
-  min-height: 1rem;
+.related-conditions #hero-english .large-8 {
+  margin-top: 2rem;
 }
 .related-conditions #hero-english p {
   text-align: center;
@@ -8887,7 +8946,7 @@ html[dir="rtl"] header .cart-count:after {
 }
 @media screen and (min-width: 768px) {
   .related-conditions #hero-english {
-    background: url(/img/home/home-header-en.jpg);
+    background: url(/img/related-cond-hero.jpg);
     background-size: cover;
     background-position: top;
   }
