@@ -15,7 +15,8 @@
       <?php
   $active = 'privacy';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
 ?>
-        <section class="large-9">
+        <section class="large-9" id="section-question">
+          <hr class="hidden-desktop" />
           <h1>Privacy Policy</h1>
 
           <p>We maintain the highest respect for the privacy and confidentiality of all data from visitors and customers of this website. Our mission is to help couples with vaginismus sexual pain or penetration difficulties and related problems. For this reason, we go to great lengths to ensure couple’s privacy, confidentiality, and complete security. As such, we have very strict principles:</p>
@@ -31,7 +32,7 @@
           </ul>
           <p>Customer service is our highest priority. Our mission is to help people, and anything contrary to that will be avoided. If for some reason there is a problem, we will rectify it immediately to the full satisfaction of the customer.</p>
           <p><em>Effective: January 2004. Updated: April 2016.</em></p>
-
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
         </section>
     </div>
   </main>

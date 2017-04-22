@@ -14,7 +14,8 @@
       <?php
   $active = 'shipping';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
 ?>
-        <section class="large-9">
+        <section class="large-9" id="section-question">
+          <hr class="hidden-desktop" />
           <h1>Shipping FAQs</h1>
 
           <h4>What shipping methods are available?</h4>
@@ -260,7 +261,7 @@
           </table>
 
           <p>*All USPS shipping days include Saturday<br /> *Cannot ship to Egypt due to Customs restrictions.<br /> *DHL cannot ships to Russian residential addresses.<br /> *All costs in USD.</p>
-
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
         </section>
     </div>
   </main>

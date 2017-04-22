@@ -21,6 +21,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Menopause</h1>
 
           <p>With age and hormonal changes, the sexual experience changes. Studies show a vibrant and loving relationship extended throughout life is beneficial to one’s overall health and happiness. It is helpful to be aware of the changes aging brings so adjustments can be made. The resources below help explain what to expect and contain suggestions on how to make the most of sex during this life phase. </p>

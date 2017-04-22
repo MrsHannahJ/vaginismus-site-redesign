@@ -16,6 +16,7 @@
       <?php $active = 'endometriosis';  include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
       <section class="large-9" id="section-related">
+        <hr class="hidden-desktop" />
         <h1>Endometriosis</h1>
 
         <p>Endometriosis is a condition where tissue from the lining of the uterus grows outside the uterus and attaches to other organs in the abdominal cavity. It is a common cause of pelvic pain that, like other pain causing conditions, may cause or contribute to problems with vaginismus and/or may coexist with vaginismus on an ongoing basis. As a result, women may need to address both conditions before they are able to fully restore pain-free intercourse.</p>

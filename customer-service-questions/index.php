@@ -22,6 +22,7 @@
   $active = 'ordering';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
 ?>
         <section class="large-9">
+          <hr class="hidden-desktop" />
           <h1>Ordering &#038; Return FAQs</h1>
 
           <h3>Ordering FAQs</h3>

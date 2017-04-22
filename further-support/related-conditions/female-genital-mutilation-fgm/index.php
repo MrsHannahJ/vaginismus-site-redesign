@@ -19,6 +19,7 @@
   $active = 'fgm';  include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Female Genital Mutilation (FGM)</h1>
           <p>Female genital mutilation (FGM) refers to the cutting of any part of the female genitalia for cultural, religious or non-medical reason. Like other pain causing conditions, FGM may cause or contribute to problems with vaginismus and/or may cause other barriers to achieving normal, pleasurable intercourse.</p>
           <hr />

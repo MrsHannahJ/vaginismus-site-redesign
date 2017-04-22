@@ -21,6 +21,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Cancer</h1>
 
           <p>Cancer, and associated symptoms and treatments, may contribute to temporary pain during sex. Like other pain causing conditions, cancer may cause or contribute to problems with vaginismus.</p>

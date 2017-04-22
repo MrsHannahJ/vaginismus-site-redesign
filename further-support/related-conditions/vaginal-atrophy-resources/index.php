@@ -20,6 +20,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Vaginal Atrophy</h1>
 
           <p>We hear from many women who are struggling with painful intercourse. It has been our experience that the number one concern of older women who contact us is painful intercourse related to vaginal atrophy. Vaginal atrophy is a surprisingly common condition.</p>

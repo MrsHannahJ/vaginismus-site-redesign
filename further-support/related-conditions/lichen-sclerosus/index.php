@@ -19,6 +19,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Lichen Sclerosus</h1>
 
           <p>Lichen sclerosus is a painful skin disorder that typically affects the vulva and/or anus in women. Symptoms include itching and/or burning, thinning skin, white patches of skin, sores or ulcers from scratching, and pain during sexual intercourse. If not treated can lead to fusing of the skin, atrophy, and narrowing of the vagina.</p>

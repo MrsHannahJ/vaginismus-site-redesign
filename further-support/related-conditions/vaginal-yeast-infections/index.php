@@ -21,6 +21,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Vaginal Yeast Infections</h1>
 
           <p>Vaginal yeast infections are characterized by severe itching, vaginal discharge, soreness or irritation, burning sensation, and pain during sexual intercourse.</p>

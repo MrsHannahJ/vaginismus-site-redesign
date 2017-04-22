@@ -5017,6 +5017,7 @@ aside .sidebar-img a {
   /*---------COMMON SYMPTOMS SECTION-------------*/
   /*---------EXAMPLES OF EFFECTS SECTION---------------*/
   /*---------VARIATIONS IN EXPERIENCE SECTION--------------*/
+  /*---------SEVERITY SECTION---------------*/
   /*---------INVOLUNTARY SECTION---------------*/
   /*---------UNCOMMATED MARRIAGES SECTION---------------*/
 }
@@ -5080,7 +5081,8 @@ aside .sidebar-img a {
 #symptoms #variations-experience {
   background: url(/img/white-wood-bkgd.jpg);
 }
-#symptoms #variations-experience .did-you-know, #symptoms #variations-experience .opaque-box {
+#symptoms #variations-experience .did-you-know,
+#symptoms #variations-experience .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   margin-top: 0;
   width: 100%;
@@ -5105,6 +5107,10 @@ aside .sidebar-img a {
 #symptoms .banner-solid-gray p {
   padding-bottom: 1rem;
 }
+#symptoms #symptoms-severity .wrapper {
+  display: flex;
+  align-items: center;
+}
 #symptoms #involuntary {
   padding: 0 1rem 2rem 1rem;
 }
@@ -5124,7 +5130,8 @@ aside .sidebar-img a {
 }
 
 @media screen and (min-width: 768px) {
-  :lang(ar) #symptoms .hero-banner-image, :lang(tr) #symptoms .hero-banner-image {
+  :lang(ar) #symptoms .hero-banner-image,
+  :lang(tr) #symptoms .hero-banner-image {
     background-image: url("/img/ar/symptoms-ar.jpg");
     background-position: right;
   }
@@ -8314,7 +8321,7 @@ html[dir="rtl"] header .cart-count:after {
     margin-bottom: 2rem;
   }
   .treatment-english #treatment-products img {
-    width: 750px;
+    width: 700px;
   }
 }
 @media screen and (min-width: 1200px) {
@@ -8325,7 +8332,7 @@ html[dir="rtl"] header .cart-count:after {
     width: 350px;
   }
   .treatment-english #treatment-products img {
-    width: 900px;
+    margin-left: 7rem;
   }
 }
 @media screen and (max-height: 767.99px) {
@@ -8352,14 +8359,17 @@ html[dir="rtl"] header .cart-count:after {
     margin-right: 1.5rem;
   }
 }
-.treatment-english #treatment-forum, .treatment-english .self-help {
+.treatment-english #treatment-forum,
+.treatment-english .self-help {
   text-align: center;
   padding-top: 0;
 }
-.treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
+.treatment-english #treatment-forum .wrapper,
+.treatment-english .self-help .wrapper {
   position: relative;
 }
-.treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
+.treatment-english #treatment-forum .white-box-float,
+.treatment-english .self-help .white-box-float {
   -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
@@ -8371,31 +8381,38 @@ html[dir="rtl"] header .cart-count:after {
   max-width: 450px;
 }
 @media screen and (max-width: 767.99px) {
-  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
+  .treatment-english #treatment-forum .white-box-float,
+  .treatment-english .self-help .white-box-float {
     margin-bottom: 1rem;
     padding-bottom: 1.5rem;
   }
 }
-.treatment-english #treatment-forum p, .treatment-english .self-help p {
+.treatment-english #treatment-forum p,
+.treatment-english .self-help p {
   margin-bottom: 1rem;
 }
 @media screen and (min-width: 768px) {
-  .treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
+  .treatment-english #treatment-forum .wrapper,
+  .treatment-english .self-help .wrapper {
     text-align: left;
   }
-  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
+  .treatment-english #treatment-forum .white-box-float,
+  .treatment-english .self-help .white-box-float {
     position: absolute;
     width: 375px;
     top: 6rem;
     left: 0;
   }
-  .treatment-english #treatment-forum .white-box-float .text-box, .treatment-english .self-help .white-box-float .text-box {
+  .treatment-english #treatment-forum .white-box-float .text-box,
+  .treatment-english .self-help .white-box-float .text-box {
     padding: 1rem 2rem 1.5rem;
   }
-  .treatment-english #treatment-forum h2, .treatment-english .self-help h2 {
+  .treatment-english #treatment-forum h2,
+  .treatment-english .self-help h2 {
     text-align: left;
   }
-  .treatment-english #treatment-forum img, .treatment-english .self-help img {
+  .treatment-english #treatment-forum img,
+  .treatment-english .self-help img {
     width: 600px;
     float: right;
     max-width: none;
@@ -8404,24 +8421,30 @@ html[dir="rtl"] header .cart-count:after {
   }
 }
 @media screen and (min-width: 980px) {
-  .treatment-english #treatment-forum .wrapper, .treatment-english .self-help .wrapper {
+  .treatment-english #treatment-forum .wrapper,
+  .treatment-english .self-help .wrapper {
     max-width: 1100px;
   }
-  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
+  .treatment-english #treatment-forum .white-box-float,
+  .treatment-english .self-help .white-box-float {
     top: 8rem;
   }
-  .treatment-english #treatment-forum p, .treatment-english .self-help p {
+  .treatment-english #treatment-forum p,
+  .treatment-english .self-help p {
     margin: 0.5rem 0 1.5rem;
   }
-  .treatment-english #treatment-forum img, .treatment-english .self-help img {
+  .treatment-english #treatment-forum img,
+  .treatment-english .self-help img {
     width: 750px;
   }
 }
 @media screen and (min-width: 1200px) {
-  .treatment-english #treatment-forum .white-box-float, .treatment-english .self-help .white-box-float {
+  .treatment-english #treatment-forum .white-box-float,
+  .treatment-english .self-help .white-box-float {
     top: 9rem;
   }
-  .treatment-english #treatment-forum img, .treatment-english .self-help img {
+  .treatment-english #treatment-forum img,
+  .treatment-english .self-help img {
     width: 800px;
   }
 }
@@ -8991,15 +9014,20 @@ html[dir="rtl"] header .cart-count:after {
   /*---------HERO---------------*/
   /*---------CUST SERV FAQ BODY--------------*/
 }
-.cust-serv #hero-english {
-  min-height: 1rem;
-  background: url(/img/home/home-header-en.jpg);
-  background-size: cover;
-  background-position: top;
+@media screen and (max-width: 767.99px) {
+  .cust-serv #hero-english {
+    min-height: 1rem;
+  }
 }
 @media screen and (min-width: 768px) {
   .cust-serv #hero-english {
+    background: url(/img/about-hero.jpg);
+    background-size: cover;
+    background-position: center;
     padding-bottom: 0;
+  }
+  .cust-serv #hero-english .large-8 {
+    margin-top: 3rem;
   }
   .cust-serv #hero-english p {
     padding: 0 0 1rem;
@@ -9098,8 +9126,8 @@ html[dir="rtl"] header .cart-count:after {
     /* Force table to not be like tables anymore */
     /* Hide table headers (but not display: none;, for accessibility) */
     /*
-        Label the data
-        */
+      Label the data
+      */
   }
   .cust-serv .shipping-rates thead,
   .cust-serv .shipping-rates tbody,

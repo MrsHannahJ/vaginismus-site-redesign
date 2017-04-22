@@ -15,7 +15,8 @@
       <?php
   $active = 'ordering';  include(ROOT_PATH.'/includes/sidebar-customer-service.php');
 ?>
-        <section class="large-9">
+        <section class="large-9" id="section-question">
+<hr class="hidden-desktop" />
           <h1>Ordering &#038; Return FAQs</h1>
 
           <h3>Ordering FAQs</h3>
@@ -40,7 +41,7 @@
 
           <h4>What is the return policy for unopened books or videos?</h4>
           <p>You may return any unused books or DVDs within 30 days in the original packaging for a full credit, minus shipping/handling charges and restocking fee of $10.00. To request this service please contact us directly.</p>
-
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
         </section>
     </div>
   </main>

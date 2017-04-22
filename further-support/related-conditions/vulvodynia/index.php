@@ -20,6 +20,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Vulvodynia &amp; Vestibulitis</h1>
 
           <h3>Vulvodynia</h3>

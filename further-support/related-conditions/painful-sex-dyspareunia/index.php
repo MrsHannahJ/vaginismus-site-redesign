@@ -20,6 +20,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Dyspareunia (Painful Sex)</h1>
           <p>There are many causes of dyspareunia (painful sex). Vaginismus is one type of dyspareunia. It is important to seek a medical <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a> so appropriate treatment can be initiated. See &#8220;<a href="../../../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>&#8221; for more information.</p>
 

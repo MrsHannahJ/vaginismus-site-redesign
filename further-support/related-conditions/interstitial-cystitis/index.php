@@ -19,6 +19,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Interstitial Cystitis</h1>
 
           <p>Interstitial cystitis is a chronic inflammation of the bladder wall. Symptoms include frequency of urination, urgency and often times pelvic pain and pressure. Interstitial cystitis differs from a typical bladder, cystitis, or urinary tract infection (UTI) in that it does not appear to be caused by bacteria and does not respond to routine antibiotic treatment.</p>

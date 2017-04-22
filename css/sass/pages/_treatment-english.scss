@@ -1,277 +1,259 @@
 // -----------------------------------------------------------------------
 // This file contains styles that are specific to the what is treatment page.
 // -----------------------------------------------------------------------
-
-.treatment-english{
-  
-  
-/*---------HERO---------------*/
-#hero-english{
-
-//TABLET
-  @media screen and (min-width: $breakpoint-medium){
-    background: url(/img/treatment/hero.jpg);
-    background-position: center;
-    background-size: cover;
-    .large-8{
-      margin-top: 2rem;
+.treatment-english {
+  /*---------HERO---------------*/
+  #hero-english {
+    //TABLET
+    @media screen and (min-width: $breakpoint-medium) {
+      background: url(/img/treatment/hero.jpg);
+      background-position: center;
+      background-size: cover;
+      .large-8 {
+        margin-top: 2rem;
+      }
     }
   }
-}
-  
-  
-/*---------SELF HELP SECTION-------------*/
-//.self-help{
-//  text-align: center;
-//  .treatment-button{
-//    color: $light-gray-text;
-//  }
-//
-////MOBILE ONLY
-//  @media screen and (max-width: 767.99px){
-//    padding-top:0;
-//    p{
-//      padding-bottom:1.5rem;
-//    }
-//  }
-//  
-//  
-//  
-////TABLET AND UP
-//  
-//  @media screen and (min-width: $breakpoint-medium){
-//    margin-top: 1rem;
-//    
-//    .wrapper{
-//      max-width: 720px;
-//    }
-//    .treatment-button{
-//      display: block;
-//      margin: 0 auto;
-//      height: 250px;
-//      background: url(/img/treatment/further-support.jpg) no-repeat center;
-//      background-size: auto 100%;
-//      position: relative;
-//      border: 1px solid $light-gray-border;
-//      -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-//      -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-//      box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
-//      .text-box{
-//        position:absolute;
-//        width: 70%;
-//        right: 1rem;
-//        top: 0;
-//        text-align: right;
-//      }
-//      h2{
-//        text-align: right;
-//      }
-//      p{
-//          margin-bottom:1rem;
-//      }
-//      .gray-btn{
-//        display: inline;
-//      }
-//    }
-//  }
-//  
-//// DESKTOP ONLY
-//  @media screen and (min-width: $breakpoint-large){
-//    .wrapper{
-//      max-width: 875px;
-//    }
-//    .treatment-button{
-//      height: 328px;
-//      background-position: left;
-//      .text-box{
-//        width: 60%;
-//      }
-//    }
-//  }
-// }
-  
+  /*---------SELF HELP SECTION-------------*/
+  //.self-help{
+  //  text-align: center;
+  //  .treatment-button{
+  //    color: $light-gray-text;
+  //  }
+  //
+  ////MOBILE ONLY
+  //  @media screen and (max-width: 767.99px){
+  //    padding-top:0;
+  //    p{
+  //      padding-bottom:1.5rem;
+  //    }
+  //  }
+  //  
+  //  
+  //  
+  ////TABLET AND UP
+  //  
+  //  @media screen and (min-width: $breakpoint-medium){
+  //    margin-top: 1rem;
+  //    
+  //    .wrapper{
+  //      max-width: 720px;
+  //    }
+  //    .treatment-button{
+  //      display: block;
+  //      margin: 0 auto;
+  //      height: 250px;
+  //      background: url(/img/treatment/further-support.jpg) no-repeat center;
+  //      background-size: auto 100%;
+  //      position: relative;
+  //      border: 1px solid $light-gray-border;
+  //      -webkit-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  //      -moz-box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  //      box-shadow: 5px 5px 4px 0px rgba(8, 8, 8, 0.2);
+  //      .text-box{
+  //        position:absolute;
+  //        width: 70%;
+  //        right: 1rem;
+  //        top: 0;
+  //        text-align: right;
+  //      }
+  //      h2{
+  //        text-align: right;
+  //      }
+  //      p{
+  //          margin-bottom:1rem;
+  //      }
+  //      .gray-btn{
+  //        display: inline;
+  //      }
+  //    }
+  //  }
+  //  
+  //// DESKTOP ONLY
+  //  @media screen and (min-width: $breakpoint-large){
+  //    .wrapper{
+  //      max-width: 875px;
+  //    }
+  //    .treatment-button{
+  //      height: 328px;
+  //      background-position: left;
+  //      .text-box{
+  //        width: 60%;
+  //      }
+  //    }
+  //  }
+  // }
   /*-----------PRODUCTS SECTION-------------*/
-
-#treatment-products{
-  text-align: center;
-//  padding-top:2rem;
-//  li{
-//    padding-bottom: 0.75rem;
-//  }
-  p{
-      margin-bottom:1rem;
+  #treatment-products {
+    text-align: center;
+    //  padding-top:2rem;
+    //  li{
+    //    padding-bottom: 0.75rem;
+    //  }
+    p {
+      margin-bottom: 1rem;
     }
-
-  
-//TABLET AND UP
-  @media screen and (min-width: $breakpoint-medium){
-    .wrapper{
-      position: relative;
-      text-align: right;
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      .wrapper {
+        position: relative;
+        text-align: right;
+      }
+      .white-box-float {
+        position: absolute;
+        width: 375px;
+        //      background: $white;
+        //      top: 4rem;
+        right: 0;
+        //      -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
+        //      -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
+        //      box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
+        //      border: 1px solid $light-gray-border;
+        //      .text-box{
+        //        padding: 1rem 2rem 2rem;
+        //      }
+      }
+      h2 {
+        text-align: right;
+        padding-top: 0;
+      }
+      p {
+        margin-bottom: 0.5rem;
+      }
+      img {
+        width: 600px;
+        float: left;
+        max-width: none;
+        max-height: none;
+        margin: 2rem auto;
+      }
     }
-    .white-box-float{
-      position: absolute;
-      width: 375px;
-//      background: $white;
-//      top: 4rem;
-      right: 0;
-//      -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-//      -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-//      box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-//      border: 1px solid $light-gray-border;
-//      .text-box{
-//        padding: 1rem 2rem 2rem;
-//      }
+    //DESKTOP ONLY
+    @media screen and (min-width: $breakpoint-large) {
+      //    .white-box-float{
+      //      top: 6rem;
+      //    }
+      p {
+        margin-bottom: 2rem;
+      }
+      img {
+        width: 700px;
+      }
     }
-    h2{
-      text-align: right;
-      padding-top: 0;
-    }
-    p{
-      margin-bottom:0.5rem;
-    }
-    img{
-      width: 600px;
-      float: left;
-      max-width: none;
-      max-height: none;
-      margin: 2rem auto;
-    }
-  }
-  
-//DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-//    .white-box-float{
-//      top: 6rem;
-//    }
-    p{
-      margin-bottom:2rem;
-    }
-    img{
-      width: 750px;
-    }
-  }
-  @media screen and (min-width: 1200px){
-    .wrapper{
-      max-width: 1100px;
-    }
-    .white-box-float{
-//        top: 6.5rem;
-      width: 350px;
-    }
-    img{
-      width:900px;
+    @media screen and (min-width: 1200px) {
+      .wrapper {
+        max-width: 1100px;
+      }
+      .white-box-float {
+        //        top: 6.5rem;
+        width: 350px;
+      }
+      img {
+        //        width: 900px;
+        margin-left: 7rem;
+      }
     }
   }
-}
-  
-/*---------DILATOR BANNER--------*/
-  .banner-solid{
-    @media screen and (max-height:767.99px){
+  /*---------DILATOR BANNER--------*/
+  .banner-solid {
+    @media screen and (max-height: 767.99px) {
       margin-top:2rem;
     }
-    a{
-      @media screen and (max-width: 767.99px){
+    a {
+      @media screen and (max-width: 767.99px) {
         margin: 0.75rem auto;
         display: block;
         max-width: 250px;
-        &:nth-child(3){
-          margin-top:1.5rem;
+        &:nth-child(3) {
+          margin-top: 1.5rem;
         }
       }
-      @media screen and (min-width: $breakpoint-medium){
+      @media screen and (min-width: $breakpoint-medium) {
         display: inline;
         margin-bottom: 0.5rem;
-        &:nth-child(2){
+        &:nth-child(2) {
           margin-right: 1.5rem;
         }
       }
     }
   }
-  
-/*---------SELF-HELP & FORUM SECTIONS-----------*/
-#treatment-forum, .self-help{
-  text-align: center;
-  padding-top:0;
-  .wrapper{
-    position: relative;
-  }
-  .white-box-float{
-    -webkit-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-    -moz-box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-    box-shadow: 5px 5px 4px 0px rgba(0,0,0,0.2);
-    border: 1px solid $light-gray-border;
-    margin:-2rem auto 0;
-    background: $white;
-    z-index:2;
-    padding: 0 0.5rem 0.5rem;
-    max-width:450px;
-    @media screen and (max-width: 767.99px){
-      margin-bottom:1rem;
-      padding-bottom:1.5rem;
+  /*---------SELF-HELP & FORUM SECTIONS-----------*/
+  #treatment-forum,
+  .self-help {
+    text-align: center;
+    padding-top: 0;
+    .wrapper {
+      position: relative;
     }
-  }
-  p{
-    margin-bottom:1rem;
-  }
-  
-//TABLET AND UP
-  @media screen and (min-width: $breakpoint-medium){
-    .wrapper{
-      text-align: left;
-    }
-    .white-box-float{
-      position: absolute;
-      width: 375px;
-      top: 6rem;
-      left: 0;
-      .text-box{
-        padding: 1rem 2rem 1.5rem;
+    .white-box-float {
+      -webkit-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      -moz-box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.2);
+      border: 1px solid $light-gray-border;
+      margin: -2rem auto 0;
+      background: $white;
+      z-index: 2;
+      padding: 0 0.5rem 0.5rem;
+      max-width: 450px;
+      @media screen and (max-width: 767.99px) {
+        margin-bottom:1rem;
+        padding-bottom: 1.5rem;
       }
     }
-    h2{
-      text-align: left;
+    p {
+      margin-bottom: 1rem;
     }
-    img{
-      width: 600px;
-      float: right;
-      max-width: none;
-      max-height: none;
-      margin: 2rem auto;
+    //TABLET AND UP
+    @media screen and (min-width: $breakpoint-medium) {
+      .wrapper {
+        text-align: left;
+      }
+      .white-box-float {
+        position: absolute;
+        width: 375px;
+        top: 6rem;
+        left: 0;
+        .text-box {
+          padding: 1rem 2rem 1.5rem;
+        }
+      }
+      h2 {
+        text-align: left;
+      }
+      img {
+        width: 600px;
+        float: right;
+        max-width: none;
+        max-height: none;
+        margin: 2rem auto;
+      }
     }
-  }
-  
-//DESKTOP ONLY
-  @media screen and (min-width: $breakpoint-large){
-    .wrapper{
+    //DESKTOP ONLY
+    @media screen and (min-width: $breakpoint-large) {
+      .wrapper {
         max-width: 1100px;
       }
-    .white-box-float{
-      top: 8rem;
+      .white-box-float {
+        top: 8rem;
+      }
+      p {
+        margin: 0.5rem 0 1.5rem;
+      }
+      img {
+        width: 750px;
+      }
     }
-    p{
-      margin:0.5rem 0 1.5rem;
-    }
-    img{
-      width: 750px;
+    @media screen and (min-width: 1200px) {
+      .white-box-float {
+        top: 9rem;
+      }
+      img {
+        width: 800px;
+      }
     }
   }
-  
-  @media screen and (min-width: 1200px){
-    .white-box-float{
-      top: 9rem;
-    }
-    img{
-      width:800px;
-    }
-  }
-}
-  
-/*-------FURTHER SUPPORT BANNER---------*/
-  .banner-solid-gray{
+  /*-------FURTHER SUPPORT BANNER---------*/
+  .banner-solid-gray {
     margin-bottom: 2rem;
   }
-  
 }
-
-

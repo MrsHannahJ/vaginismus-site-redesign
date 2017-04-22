@@ -19,6 +19,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Hymen Resources</h1>
 
           <h3>There is much confusion surrounding the hymen.</h3>

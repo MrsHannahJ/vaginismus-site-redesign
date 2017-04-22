@@ -20,6 +20,7 @@
   include(ROOT_PATH.'/includes/sidebar-related.php');
 ?>
         <section class="large-9" id="section-related">
+          <hr class="hidden-desktop" />
           <h1>Urethritis</h1>
 
           <p>Urethritis is the inflammation of the urethra (the hole which pee comes out). This is usually caused by an infection, often triggered by a sexually transmitted disease. Less common causes are bacterial, viral, or related to the use of catheters. Medical consultation is critical to assess the type of infection and receive the appropriate treatment.</p>
