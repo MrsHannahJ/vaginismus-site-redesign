@@ -26,20 +26,20 @@
           <p>As a woman labors, the vaginal canal opens and stretches as the baby progresses through and exits the birth canal (with no adverse effect from vaginismus). Pain medication, such as epidurals are usually available if so desired.</p>
 
           <h3>Treatment Options During Pregnancy</h3>
-          <p>Although childbirth is typically experienced naturally, just as it occurs for women without vaginismus, there may be difficulties with <a href="../../../vaginismus-diagnosis/index.html#pelvic-exam">pelvic exams</a> and other <a href="../unable-to-have-gynecological-exams/index.html">pre/post-natal procedures</a> or with medical interventions during complications of delivery. Thus, women would be advised to consider resolving their vaginismus prior to delivery. Please note that a consultation with a physician is necessary to confirm the applicability of <a href="../../../vaginismus-treatment/index.html">treatment</a> options and to ensure that there are no risks posed by any treatment methods.</p>
+          <p>Although childbirth is typically experienced naturally, just as it occurs for women without vaginismus, there may be difficulties with <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php#pelvic-exam">pelvic exams</a> and other <a href="/further-support/pregnancy-questions/unable-to-have-gynecological-exams/index.php">pre/post-natal procedures</a> or with medical interventions during complications of delivery. Thus, women would be advised to consider resolving their vaginismus prior to delivery. Please note that a consultation with a physician is necessary to confirm the applicability of <a href="/treatment/index.php">treatment</a> options and to ensure that there are no risks posed by any treatment methods.</p>
 
 
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../unable-to-have-gynecological-exams/index.html">If I am unable to have gynecological exams due to vaginismus, how can I get through all the doctor&#8217;s visits and vaginal ultrasounds for my pregnancy?</a></li>
-            <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
-            <li><a href="../can-childbirth-help-vaginismus/index.html">Can natural childbirth help relieve pre-existing vaginismus by stretching the vaginal opening?</a></li>
-            <li><a href="../../treatment-questions/queasy-about-treatment/index.html">I can&#8217;t even look at myself &#8220;down there&#8221; and I feel queasy just considering penetration or any type of vaginal insertion. How can I make it through treatment?</a></li>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/pregnancy-questions/unable-to-have-gynecological-exams/index.php">If I am unable to have gynecological exams due to vaginismus, how can I get through all the doctor&#8217;s visits and vaginal ultrasounds for my pregnancy?</a></li>
+            <li><a href="/further-support/treatment-questions/how-long-does-treatment-take/index.php">How long does treatment take?</a></li>
+            <li><a href="/further-support/pregnancy-questions/can-childbirth-help-vaginismus/index.php">Can natural childbirth help relieve pre-existing vaginismus by stretching the vaginal opening?</a></li>
+            <li><a href="/further-support/treatment-questions/queasy-about-treatment/index.php">I can&#8217;t even look at myself &#8220;down there&#8221; and I feel queasy just considering penetration or any type of vaginal insertion. How can I make it through treatment?</a></li>
+            <li><a href="/further-support/treatment-questions/vaginismus-treatment-success-rates/index.php">How successful is vaginismus treatment?</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
           </ul>
         </section>
     </div>

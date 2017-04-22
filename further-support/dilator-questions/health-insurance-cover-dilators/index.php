@@ -26,16 +26,16 @@
           <p>In practice, we know that some women have received reimbursement, while other&#8217;s claims have been rejected. In some cases, women have been asked for &#8220;letters of necessity” from a treating physician before their insurance would process the claim.</p>
           <p>In the USA, the codes most often used for insurance reimbursement are:</p>
           <p class="indent"><em>CPT Code: Procedure 57400 or 58999</em><br /> <em>HCPCS Code: E1399</em><br /> <em>Supplies: 99070</em></p>
-          <p>As our mandate is to help as many women as possible with vaginismus and related conditions, we have made our <a href="../../../products/vaginal-dilator-set/index.html">dilators</a> as affordable as possible with the lowest prices in the world for a quality, medical grade product.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <p>As our mandate is to help as many women as possible with vaginismus and related conditions, we have made our <a href="/treatment/products/vaginal-dilator-set/index.php">dilators</a> as affordable as possible with the lowest prices in the world for a quality, medical grade product.</p>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../products/vaginal-dilator-set/index.html">Vaginal Dilator Set</a></li>
-            <li><a href="../../customer-service-questions/ordering-faqs/index.html">Can I return the dilators for a refund if I don&#8217;t use them?</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Why are vaginal dilators used in treating vaginismus?</a></li>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
+            <li><a href="/treatment/products/vaginal-dilator-set/index.php">Vaginal Dilator Set</a></li>
+            <li><a href="/customer-service-questions/ordering/index.php">Can I return the dilators for a refund if I don&#8217;t use them?</a></li>
+            <li><a href="/further-support/dilator-questions/vaginal-dilators-treating-vaginismus/index.php">Why are vaginal dilators used in treating vaginismus?</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
           </ul>
         </section>
     </div>

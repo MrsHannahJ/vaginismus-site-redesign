@@ -23,7 +23,7 @@
           <h3>There are no drugs, vitamins, magnets, or surgical procedures that cure vaginismus.</h3>
 
           <h3>Vitamins &amp; Drugs</h3>
-          <p>Online pseudo-pharmacies falsely promoting vitamins or drugs as cures for vaginismus are typically taking advantage of people. Vitamins will not have any effect whatsoever on vaginismus as involuntary pelvic floor reactions require straight-forward <a href="../../../vaginismus-treatment/index.html">retraining processes</a> to overcome.</p>
+          <p>Online pseudo-pharmacies falsely promoting vitamins or drugs as cures for vaginismus are typically taking advantage of people. Vitamins will not have any effect whatsoever on vaginismus as involuntary pelvic floor reactions require straight-forward <a href="/treatment/self-help-program/index.php">retraining processes</a> to overcome.</p>
           <p>In some cases, doctors have prescribed pain medications (oral or topical) to women with vaginismus as part of treatment. These medications may help with pain management, but they will not normally cure vaginismus unless combined with a treatment program that fully addresses the root of the problem.</p>
 
           <h3>Surgeries</h3>
@@ -31,16 +31,16 @@
 
           <h3>Alternative &amp; Experimental Treatments</h3>
           <p>There is some research, although scarce, into the use of Botox&#174; as a treatment for vaginismus. This procedure often requires the use of dilators for a period of time.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            <li><a href="../../../resources/vaginismus-blog/10-common-myths-about-vaginismus/index.html">10 Common Myths About Vaginismus</a></li>
-            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/general-questions/10-common-myths-about-vaginismus/index.php">10 Common Myths About Vaginismus</a></li>
+            <li><a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
           </ul>
         </section>
     </div>

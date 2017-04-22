@@ -26,8 +26,8 @@
           <p>Research has shown that even two-week time frames are potentially realistic where there is an intense &#8220;full-time&#8221; effort, professional assistance, and no significant complications. Masters &amp; Johnson were original pioneers of the two-week intensive therapy window concept for successfully treating conditions such as vaginismus.</p>
 
           <h3>Working with Professionals</h3>
-          <p>Treatment times may be enhanced if the program is administered by a healthcare specialist, such as a physical therapist, physician, or counselor. Although, in some cases <a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">access to specialists</a> may be difficult and actually slow the process.</p>
-          <p>One of the great advantages of the <a href="../../../products/vaginismus-treatment-kit/">self-help</a> approach is that women can work at a pace which is comfortable and spend more or less time in specific areas where warranted. Highly motivated women may complete the program more quickly, but individuals can take whatever time they need to complete the steps comfortably.</p>
+          <p>Treatment times may be enhanced if the program is administered by a healthcare specialist, such as a physical therapist, physician, or counselor. Although, in some cases <a href="/further-support/treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.php">access to specialists</a> may be difficult and actually slow the process.</p>
+          <p>One of the great advantages of the <a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a> approach is that women can work at a pace which is comfortable and spend more or less time in specific areas where warranted. Highly motivated women may complete the program more quickly, but individuals can take whatever time they need to complete the steps comfortably.</p>
 
           <table>
             <thead>
@@ -42,7 +42,7 @@
               </tr>
               <tr>
                 <td>Avoidance issues</td>
-                <td>Some proceed through treatment exercises immediately, while others struggle with <a href="../how-can-i-stay-motivated/index.html">avoidance</a>.</td>
+                <td>Some proceed through treatment exercises immediately, while others struggle with <a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">avoidance</a>.</td>
               </tr>
               <tr>
                 <td>Varying levels of motivation</td>
@@ -78,27 +78,27 @@
               </tr>
               <tr>
                 <td>Other support</td>
-                <td>Connecting with other women going through treatment or finding support from those who have already gone through the process can be a tremendous help (see <a href="../further-support-after/index.html">Support</a>)</td>
+                <td>Connecting with other women going through treatment or finding support from those who have already gone through the process can be a tremendous help (see <a href="/further-support/treatment-questions/further-support-after/index.php">Support</a>)</td>
               </tr>
             </tbody>
           </table>
           <h3>Going at Your Own Pace</h3>
-          <p>Some women with competing life demands require a slower approach. Regardless of the pace, successful resolution is the normal outcome with pain-free penetration and intercourse fully restored at the end of the <a href="../index.html#10-steps">treatment process</a>.</p>
+          <p>Some women with competing life demands require a slower approach. Regardless of the pace, successful resolution is the normal outcome with pain-free penetration and intercourse fully restored at the end of the <a href="/treatment/self-help-program/index.php#ten-steps">treatment process</a>.</p>
           <p>The apparent severity of vaginismus is not necessarily correlated to the length of the treatment process. The ease of resolution depends largely upon the individual and the individual&#8217;s unique circumstances. Some women report resolving primary vaginismus with successful intercourse in less than a week even after years of seemingly impossible intercourse, while others have reported treatment duration lasting as long as months, though their vaginismus seemed less severe to begin with.</p>
 
           <h3>Completing the Program</h3>
-          <p>Generally, if the process lengthens much beyond a few months, there are often emotional, motivational or <a href="../how-can-i-stay-motivated/index.html">avoidance</a> issues, or issues related to the resolution of complex problems that may have little to do directly with treatment steps.</p>
-          <p>Our <a href="../../../products/vaginismus-treatment-kit/index.html">self-help</a> program has been instrumental in assisting women through the process of recovery—see <a href="../../../reviews/index.html">user feedback</a> and <a href="../../../reviews/medical-specialist-reviews/index.html">medical reviews</a> for practical, real-life examples. While there are many influencing factors that may have an effect on the duration of treatment, treatment outcomes are nearly always positive with full success.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <p>Generally, if the process lengthens much beyond a few months, there are often emotional, motivational or <a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">avoidance</a> issues, or issues related to the resolution of complex problems that may have little to do directly with treatment steps.</p>
+          <p>Our <a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a> program has been instrumental in assisting women through the process of recovery—see <a href="/treatment/products/vaginismus-treatment-kit/kit-reviews/index.php">user feedback</a> and <a href="/further-support/professional-assistance/medical-specialist-reviews/index.php">medical reviews</a> for practical, real-life examples. While there are many influencing factors that may have an effect on the duration of treatment, treatment outcomes are nearly always positive with full success.</p>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            <li><a href="../vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
-            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/treatment-questions/vaginismus-treatment-success-rates/index.php">How successful is vaginismus treatment?</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
           </ul>
         </section>
     </div>

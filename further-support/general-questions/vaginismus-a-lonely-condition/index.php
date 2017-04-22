@@ -48,7 +48,7 @@
             <p>The forum is a unique place of hope and comfort designed to help women who need healing in a unique way. Hundreds of women have already found help through this free and informative service. We hope you will join us.</p>
             <p>We wish you all the best, Kate Cardwell<br /> Vaginismus.com Forum Moderator</p>
           </div>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
         </section>
     </div>
     <!--      PRE-FOOTER-NAV SECTION      -->

@@ -22,7 +22,7 @@
         <section class="large-9" id="section-related">
           <hr class="hidden-desktop" />
           <h1>Dyspareunia (Painful Sex)</h1>
-          <p>There are many causes of dyspareunia (painful sex). Vaginismus is one type of dyspareunia. It is important to seek a medical <a href="../../../vaginismus-diagnosis/index.html">diagnosis</a> so appropriate treatment can be initiated. See &#8220;<a href="../../../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>&#8221; for more information.</p>
+          <p>There are many causes of dyspareunia (painful sex). Vaginismus is one type of dyspareunia. It is important to seek a medical <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">diagnosis</a> so appropriate treatment can be initiated. See &#8220;<a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>&#8221; for more information.</p>
 
           <h3>Links of Interest</h3>
           <ol>
@@ -40,13 +40,13 @@
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-            <li><a href="../../../faq/general-questions/had-pleasurable-intercourse-before/index.html">Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</a></li>
-            <li><a href="../../../faq/dilator-questions/dilators-treat-other-conditions/index.html">Can the dilators be used to treat other conditions besides vaginismus?</a></li>
-            <li><a href="../../../faq/general-questions/what-is-vaginismus/index.html">What is vaginismus?</a></li>
-            <li><a href="../../../faq/general-questions/primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
-            <li><a href="../../../faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
-            <li><a href="../../../vaginismus-diagnosis/index.html">Vaginismus Diagnosis</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/had-pleasurable-intercourse-before/index.php">Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</a></li>
+            <li><a href="/further-support/dilator-questions/dilators-treat-other-conditions/index.php">Can the dilators be used to treat other conditions besides vaginismus?</a></li>
+            <li><a href="/what-is-vaginismus/index.php">What is vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
+            <li><a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">Vaginismus Diagnosis</a></li>
           </ul>
 
         </section>

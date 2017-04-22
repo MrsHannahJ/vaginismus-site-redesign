@@ -70,11 +70,11 @@
           </ul>
 
           <h3>What is Vaginismus?</h3>
-          <p><a href="../../../faq/general-questions/what-is-vaginismus/index.html">Vaginismus</a> is a condition where there is involuntary tightness of the vagina during attempted intercourse. Reacting to the anticipation of pain, the body automatically tightens the vaginal muscles, bracing to protect itself from harm. Sex becomes uncomfortable or painful, and entry may be more difficult or impossible depending upon the severity of this tightened state.<br /> (see <a href="../../../vaginismus-causes/index.html">Causes</a>)</p>
+          <p><a href="/what-is-vaginismus/index.php">Vaginismus</a> is a condition where there is involuntary tightness of the vagina during attempted intercourse. Reacting to the anticipation of pain, the body automatically tightens the vaginal muscles, bracing to protect itself from harm. Sex becomes uncomfortable or painful, and entry may be more difficult or impossible depending upon the severity of this tightened state.<br /> (see <a href="/what-is-vaginismus/vaginismus-causes/index.php">Causes</a>)</p>
 
           <h3>Vaginal Atrophy &amp; Vaginismus</h3>
-          <p>When vaginal atrophy goes undiagnosed and a woman continues to attempt to engage in intercourse, <a href="../../../faq/general-questions/what-is-vaginismus/index.html">vaginismus</a> may develop. It is important in these situations to address both the vaginal atrophy and vaginismus. Both problems will need to be treated to ensure full resolution. Without addressing the vaginal atrophy, it will be difficult to resolve the vaginismus as it may continue to be
-            <a href="../../../vaginismus-causes/index.html">triggered by pain</a> from the atrophy condition.</p>
+          <p>When vaginal atrophy goes undiagnosed and a woman continues to attempt to engage in intercourse, <a href="/what-is-vaginismus/index.php">vaginismus</a> may develop. It is important in these situations to address both the vaginal atrophy and vaginismus. Both problems will need to be treated to ensure full resolution. Without addressing the vaginal atrophy, it will be difficult to resolve the vaginismus as it may continue to be
+            <a href="/what-is-vaginismus/vaginismus-causes/index.php">triggered by pain</a> from the atrophy condition.</p>
 
           <h3>Questions to Ask Yourself if You Suspect Vaginal Atrophy</h3>
           <ul>
@@ -89,7 +89,7 @@
 
           <h3>Solutions For Vaginal Atrophy</h3>
           <p>If you suspect you may have vaginal atrophy see your physician or a gynecologist for a consultation. She/he will take your personal history and likely do a pelvic exam to examine your vagina. Based on the assessment, a course of treatment will be recommended and will take into account your personal history, symptoms, and severity.</p>
-          <p>The course of treatment for vaginal atrophy may include use of personal lubricant, estrogen supplements, <a href="../../../products/vaginal-dilator-set/index.html">vaginal dilators</a>, and/or pelvic floor therapy (physical therapy).</p>
+          <p>The course of treatment for vaginal atrophy may include use of personal lubricant, estrogen supplements, <a href="/treatment/products/vaginal-dilator-set/index.php">vaginal dilators</a>, and/or pelvic floor therapy (physical therapy).</p>
 
           <h3>Why Dilators are Recommended</h3>
           <p><em>Vaginal dilators</em> are used to slowly increase the size of the vagina, restoring length, shape, and elasticity. They are used to gently massage and stretch the vaginal tissue making penetration more comfortable. This is especially effective due to the narrowing of the vaginal canal.</p>
@@ -97,13 +97,13 @@
           <h3>Other Treatments</h3>
           <p><em>Personal lubricants</em> help make the vaginal canal more slippery so there is less dryness and friction during penetration.</p>
           <p><em>Vaginal moisturizers</em> help alleviate ongoing vaginal dryness (examples: Replens, olive oil, coconut oil).</p>
-          <p><em>Kegels</em> are <a href="../../../vaginismus-causes/index.html#pc-muscles">pelvic floor</a> exercises that help to draw blood flow to the vagina, increase elasticity, and strengthen the pelvic floor muscles. They also help to improve control over the vaginal muscles.</p>
+          <p><em>Kegels</em> are <a href="/what-is-vaginismus/vaginismus-causes/index.php#pc-muscles">pelvic floor</a> exercises that help to draw blood flow to the vagina, increase elasticity, and strengthen the pelvic floor muscles. They also help to improve control over the vaginal muscles.</p>
           <p><em>Estrogen</em> is primarily used to help rebuild the tissue or lining of the vagina. This leads to increased lubrication. There are many different options in using estrogen ranging from <em>vaginal cream, suppositories, or rings, and hormone replacement therapy (HRT)</em>. Be sure to discuss any and all hormone-based treatments with your physician.</p>
           <p>Professionally trained physical therapists can provide <em>pelvic floor therapy</em> for the treatment of vagina atrophy as well as any accompanying vaginismus.</p>
-          <p>For women with vaginal atrophy and no accompanying <a href="../../../faq/general-questions/what-is-vaginismus/index.html">vaginismus</a>, regular and consistent use of vaginal dilators is often suggested. Typical protocol follows inserting a lubricated dilator, leaving it in for a period of time each day, then gradually increasing the size of the dilator inserted.</p>
+          <p>For women with vaginal atrophy and no accompanying <a href="/what-is-vaginismus/index.php">vaginismus</a>, regular and consistent use of vaginal dilators is often suggested. Typical protocol follows inserting a lubricated dilator, leaving it in for a period of time each day, then gradually increasing the size of the dilator inserted.</p>
 
           <h3>Vaginal Atrophy &amp; Dilators</h3>
-          <p><a href="../../../products/vaginal-dilator-set/index.html">Vaginal dilators</a> as a treatment for vaginal atrophy are recommended by medical specialists.</p>
+          <p><a href="/treatment/products/vaginal-dilator-set/index.php">Vaginal dilators</a> as a treatment for vaginal atrophy are recommended by medical specialists.</p>
           <p>Click on the following links to see Dr. Oz’s recommendation for the use of vaginal dilators as well as others:</p>
           <ul>
             <li><a href="http://www.sharecare.com/question/what-are-ways-to-stop-vaginal-atrophy" target="_blank">What are ways to stop vaginal atrophy?</a></li>
@@ -114,18 +114,18 @@
           <h3>References</h3>
           <ol>
             <li>Notelovitz, M (1997). Urogenital aging: Solutions in clinical practice. <em>International Journal of Gynecology &amp; Obstetrics, 59</em>, (1 Suppl.), S35-S39.</li>
-            <li>Corio, L (2011). http://blogs.webmd.com/womens-health/2011/05/a-for-atrophy.html.</li>
+            <li>Corio, L (2011). http://blogs.webmd.com/womens-health/2011/05/a-for-atrophy.php.</li>
             <li>Eden &amp; Wylie (2009). Quality of sexual life and menopause. <em>Women’s Health (Lond Engl)</em>, Jul:5(4): 385-96.</li>
           </ol>
           <hr />
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../sex-menopause/index.html">Sex &amp; Women With Menopause</a></li>
-            <li><a href="../../../faq/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-            <li><a href="../../../faq/general-questions/primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
-            <li><a href="../../../faq/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
-            <li><a href="../../../faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/related-conditions/sex-menopause/index.php">Sex &amp; Women With Menopause</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
           </ul>
 
         </section>

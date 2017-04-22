@@ -21,8 +21,8 @@
         <section class="" id="question-answered">
           <h1>Are there varying degrees of symptoms with vaginismus?</h1>
           <h3>Vaginismus Symptoms Range</h3>
-          <p>Vaginismus manifests itself in varying <a href="../../../vaginismus-symptoms/index.html">symptoms</a> and degrees of intensity in different women. Fortunately, the treatment method is <a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">almost the same</a> regardless of the intensity or specific variation. The symptoms range depending upon type, causes, and complications present. It broadly affects women from all stages of life in that it can be triggered in both younger and older women; in those with no sexual experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">primary vaginismus</a>) and those with years of experience (<a href="../primary-and-secondary-vaginismus-differences/index.html">secondary vaginismus</a>).</p>
-          <p>It can also be triggered by other pain conditions, surgery, or giving birth, and can pose confusing complications to other pelvic pain problems (see <a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>).</p>
+          <p>Vaginismus manifests itself in varying <a href="/what-is-vaginismus/vaginismus-symptoms/index.php">symptoms</a> and degrees of intensity in different women. Fortunately, the treatment method is <a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">almost the same</a> regardless of the intensity or specific variation. The symptoms range depending upon type, causes, and complications present. It broadly affects women from all stages of life in that it can be triggered in both younger and older women; in those with no sexual experience (<a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">primary vaginismus</a>) and those with years of experience (<a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">secondary vaginismus</a>).</p>
+          <p>It can also be triggered by other pain conditions, surgery, or giving birth, and can pose confusing complications to other pelvic pain problems (see <a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a>).</p>
           <p>Depending on the intensity, vaginismus symptoms range from tightness causing minor discomfort to total closure of the vagina with impossible penetration. The extensiveness of vaginismus varies from woman to woman.</p>
           <h3>Examples of Symptom Variations</h3>
           <ul>
@@ -40,16 +40,16 @@
             <li>Ongoing sexual discomfort or pain following childbirth, yeast/urinary infections, STDs, IC, hysterectomy, cancer, surgeries, rape, menopause, or other medical issue.</li>
             <li>Sexual pain of unknown origin or with no apparent cause.</li>
           </ul>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr/>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../vaginismus-symptoms/index.html">Vaginismus Symptoms</a></li>
-            <li><a href="../what-is-vaginismus/index.html">What is vaginismus?</a></li>
-            <li><a href="../primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
-            <li><a href="../../treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
-            <li><a href="../dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/what-is-vaginismus/vaginismus-symptoms/index.php">Vaginismus Symptoms</a></li>
+            <li><a href="/what-is-vaginismus/index.php">What is vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
         </section>
     </div>

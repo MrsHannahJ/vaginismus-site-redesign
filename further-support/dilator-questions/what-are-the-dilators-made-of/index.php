@@ -28,19 +28,19 @@
             <img src="/img/faq/general/medically-safe.jpg" alt="">
           </figure>
 
-          <p>Vaginismus.com <a href="../../../products/vaginal-dilator-set/index.html">dilators</a> are injection-molded from medical-grade plastics. They are non-toxic, BPA-free, and latex-free. The dilators are fabricated in a &#8220;clean-room&#8221; process, ensuring minimal contamination and high quality control. They are designed with a silky-smooth finish that ensures maximum comfort and ease of insertion.</p>
+          <p>Vaginismus.com <a href="/treatment/products/vaginal-dilator-set/index.php">dilators</a> are injection-molded from medical-grade plastics. They are non-toxic, BPA-free, and latex-free. The dilators are fabricated in a &#8220;clean-room&#8221; process, ensuring minimal contamination and high quality control. They are designed with a silky-smooth finish that ensures maximum comfort and ease of insertion.</p>
           <p>Beyond the materials, they are also designed with many other benefits such as the natural tip shape, external handle, slight taper for easier transition between sizes, an appropriate size range, and other benefits. They are highly effective for treating vaginismus, as well as for post-surgical recovery programs, dyspareunia, vaginal narrowing, vaginal agenesis, and other similar gynecological conditions.</p>
 
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../products/vaginal-dilator-set/index.html">Vaginal Dilator Set</a></li>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            <li><a href="../vaginal-dilators-treating-vaginismus/index.html">Why are vaginal dilators used in treating vaginismus?</a></li>
-            <li><a href="../vaginal-dilators-for-treating-vaginismus/index.html">What types of vaginal dilators are best for treating vaginismus?</a></li>
-            <li><a href="../can-i-just-get-dilators/index.html">Can I use dilators without a program?</a></li>
+            <li><a href="/treatment/products/vaginal-dilator-set/index.php">Vaginal Dilator Set</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/dilator-questions/vaginal-dilators-treating-vaginismus/index.php">Why are vaginal dilators used in treating vaginismus?</a></li>
+            <li><a href="/further-support/dilator-questions/vaginal-dilators-for-treating-vaginismus/index.php">What types of vaginal dilators are best for treating vaginismus?</a></li>
+            <li><a href="/further-support/dilator-questions/can-i-just-get-dilators/index.php">Can I use dilators without a program?</a></li>
           </ul>
 
         </section>

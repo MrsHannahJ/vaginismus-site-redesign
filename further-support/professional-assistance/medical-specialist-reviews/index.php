@@ -1232,77 +1232,31 @@
         <br><br>
         <ul>
           <li class="sidebar-img">
-            <a href="../../products/completely-overcome-vaginismus-book-set/index.html" title="Vaginismus Home Treatment Program"> <img src="../../img/myths/myths-product-3.jpg" alt="Two vaginismus home treatment books" />Vaginismus Home Treatment Program</a>
+            <a href="/treatment/products/completely-overcome-vaginismus-book-set/index.php" title="Vaginismus Home Treatment Program"> <img src="/img/myths/myths-product-3.jpg" alt="Two vaginismus home treatment books" />Vaginismus Home Treatment Program</a>
           </li>
           <li class="sidebar-img">
-            <a href="../../products/vaginal-dilator-set/index.html" title="Vaginal Dilator Set"> <img src="../../img/myths/myths-product-2.jpg" alt="Set of vaginal dilators" />Vaginal Dilator Set </a>
+            <a href="/treatment/products/vaginal-dilator-set/index.php" title="Vaginal Dilator Set"> <img src="/img/myths/myths-product-2.jpg" alt="Set of vaginal dilators" />Vaginal Dilator Set </a>
           </li>
           <li class="sidebar-img">
-            <a href="../../products/vaginismus-treatment-kit/index.html" title="Vaginismus Treatment Kit"> <img src="../../img/myths/myths-product-1.jpg" alt="vaginismus.com/products/treatment-kit/" />Vaginismus Treatment Kit</a>
+            <a href="/treatment/products/vaginismus-treatment-kit/index.php" title="Vaginismus Treatment Kit"> <img src="/img/myths/myths-product-1.jpg" alt="vaginismus.com/treatment/products/treatment-kit/" />Vaginismus Treatment Kit</a>
           </li>
         </ul>
-        <a href='../../resources/index.html' class="shaded-btn">See All Resources</a>
+        <a href='/treatment/products/vaginismus-treatment-kit/kit-reviews/index.php' class="shaded-btn">See Customer Reviews</a>
 
       </aside>
     </div>
   </main>
 
-  <!--   FOOTER   -->
+  <!--      PRE-FOOTER-NAV SECTION      -->
+  <?php
+  $pagebacklink = '/further-support/professional-assistance/index.php';
+  $pageback = 'Professional Assistance';
+  $pageforwardlink = '/contact-us/index.php';
+  $pageforward = 'Contact Us';
+  include(ROOT_PATH.'/includes/pre-footer.php');
+?>
+    <!--   FOOTER   -->
 
-  <footer>
-    <div id="footer-badges" class="wrapper">
-      <div class="social-container large-6 medium-6">
-        <ul>
-          <li>
-            <a href="https://www.facebook.com/womenshealthrs/" target="_blank"><img src="../../img/facebook.jpg" alt="Follow Us on Facebook"></a>
-          </li>
-          <li>
-            <a href="https://twitter.com/VaginismusCom" target="_blank"><img src="../../img/twitter.png" alt="Follow Us on Twitter"></a>
-          </li>
-          <li>
-            <a href="https://plus.google.com/+Vaginismuscom/" target="_blank"><img src="../../img/google-plus.png" alt="Follow Us on Google+"></a>
-          </li>
-          <li>
-            <a href="http://pinterest.com/VaginismusCom" target="_blank"><img src="../../img/pinterest.png" alt="Follow Us on Pinterest"></a>
-          </li>
-          <li>
-            <a href="http://instagram.com/VaginismusCom" target="_blank"><img src="../../img/instagram.png" alt="Follow Us on Instagram"></a>
-          </li>
-        </ul>
-      </div>
-      <div class="medium-6 large-6 secure-badges">
-        <a href="../../faq/customer-service-questions/index.html"><img src="../../img/footer-badge-set.png" alt="Toxic free guarantee, lowest prices guarantee and Norton secured" aria-hidden="true" /></a>
-      </div>
-
-    </div>
-
-    <!--
-SCROLL TO TOP FEATURE
-      </div><span class="et_pb_scroll_top et-pb-icon"></span>
--->
-    <div id="footer-menu">
-      <div class="wrapper">
-        <ul>
-          <li><a href="../../about-us/index.html">About</a></li>
-          <li><a href="../../faq/customer-service-questions/ordering-faqs/index.html">Customer Service &#038; Returns</a></li>
-          <li><a href="../../faq/customer-service-questions/privacy-policy/index.html">Privacy Policy</a></li>
-          <li><a href="../../faq/customer-service-questions/terms-of-use/index.html">Terms of Use</a></li>
-          <li><a href="../../forum-introduction/index.html">Forum</a></li>
-          <li><a href="../../products/index.html">Products</a></li>
-          <li><a href="../../contact-us/index.html">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="copyright" class="wrapper">
-      <p>All information provided on vaginismus.com is provided for educational purposes only and is not intended to be a substitute for professional medical advice.<br><br style="line-height:0.5;">Always consult your physician regarding the applicability of any information on this site with respect to your symptoms or medical conditions.</p>
-      <a href="../../index.html"><img src="../../img/logo.png" alt="Vaginismus.com"></a>
-      <p>&copy; 1999 - 2016, Vaginismus.com. All rights reserved.</p>
-    </div>
-
-  </footer>
-  </div>
-
-
-  </body>
-
-  </html>
+    <?php
+  include(ROOT_PATH.'/includes/footer.php');
+?>

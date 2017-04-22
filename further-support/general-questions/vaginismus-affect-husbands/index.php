@@ -36,26 +36,26 @@
             <li><strong>Distancing</strong> &#8211; &#8220;My home life is a mess and I don&#8217;t even want to see my wife right now. I might as well put my time into work or spend more time with the guys. At least my friends appreciate me and if I&#8217;m busy I won&#8217;t have to think about it.&#8221;</li>
           </ul>
           <h3>Understanding Avoidance</h3>
-          <p>It is important for male partners to understand that vaginismus is not something the woman intentionally caused to avoid having sex. The tightening of the <a href="../../../vaginismus-causes/index.html#pc-muscles">PC muscle</a> that causes the vagina to &#8220;clamp shut&#8221; is an unconscious reaction which is involuntary and happens without control or intention.</p>
+          <p>It is important for male partners to understand that vaginismus is not something the woman intentionally caused to avoid having sex. The tightening of the <a href="/what-is-vaginismus/vaginismus-causes/index.php#pc-muscles">PC muscle</a> that causes the vagina to &#8220;clamp shut&#8221; is an unconscious reaction which is involuntary and happens without control or intention.</p>
           <h3>Understanding Her Fears</h3>
-          <p>Even though a woman may very much want to engage in intercourse, there is a &#8220;disconnect&#8221; between her mind and body which triggers the PC muscle to spasm. There are many <a href="../../../vaginismus-causes/index.html#non-physical-causes">emotional</a> and <a href="../../../vaginismus-causes/index.html#physical-causes">physical</a> factors which may contribute to the development of vaginismus.</p>
-          <p>Emotional factors such as fear of penetration (not common to all types of vaginismus) will impact some women with vaginismus. In these cases it is important for a woman to understand and overcome her fear and negative thoughts about sex. The self-led emotional inventory included in the <a href="../../../products/vaginismus-treatment-kit/index.html">self-help</a> program helps a woman to get to the root of these factors and override them with positive sexual feelings.</p>
+          <p>Even though a woman may very much want to engage in intercourse, there is a &#8220;disconnect&#8221; between her mind and body which triggers the PC muscle to spasm. There are many <a href="/what-is-vaginismus/vaginismus-causes/index.php#non-physical-causes">emotional</a> and <a href="/what-is-vaginismus/vaginismus-causes/index.php#physical-causes">physical</a> factors which may contribute to the development of vaginismus.</p>
+          <p>Emotional factors such as fear of penetration (not common to all types of vaginismus) will impact some women with vaginismus. In these cases it is important for a woman to understand and overcome her fear and negative thoughts about sex. The self-led emotional inventory included in the <a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a> program helps a woman to get to the root of these factors and override them with positive sexual feelings.</p>
           <h3>Effects on The Relationship &amp; Intimacy</h3>
-          <p>It is not uncommon for men to &#8220;bottle up&#8221; their emotions and deny the anger, frustration and stress associated with living in an <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">unconsummated relationship</a>. Often men feel like they can&#8217;t tell anyone about their situation. They may also be worried about hurting their wife if they tell someone else about their &#8220;little secret&#8221; so they live with pent-up feelings of resentment and sadness—both for them and their partner.</p>
+          <p>It is not uncommon for men to &#8220;bottle up&#8221; their emotions and deny the anger, frustration and stress associated with living in an <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">unconsummated relationship</a>. Often men feel like they can&#8217;t tell anyone about their situation. They may also be worried about hurting their wife if they tell someone else about their &#8220;little secret&#8221; so they live with pent-up feelings of resentment and sadness—both for them and their partner.</p>
           <p>Sadly, many couples discontinue times of intimacy because of the pain and the frustration of failure at attempted intercourse. <em>Conflict is common and relationship issues may continue to escalate as the vaginismus remains untreated</em>. Communication breakdown may occur as spouses retreat to their own side of the bed or even sleep in separate beds.</p>
           <p>In addition to the vaginismus, a couple may also have to deal with the medical condition, surgery, or assault that possibly triggered the problem, potentially causing further relational strain.</p>
           <h3>There is a Solution</h3>
           <p>Typically, once a diagnosis has been made and a treatment process initiated, there is a reduction in the overall level of stress the couple has been experiencing. Many couples, after working through vaginismus treatment do find that they are emotionally closer to one another, have improved communication skills, and do not take their sexual relationship or partner for granted.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr/>
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../treatment-questions/men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-            <li><a href="../../../resources/related-conditions/sexual-addictions/index.html">Sexual Addiction Resources</a></li>
-            <li><a href="../../../resources/related-conditions/erectile-dysfunction/index.html">Erectile Difficulty/Dysfunction Resources</a></li>
-            <li><a href="../../treatment-questions/how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-            <li><a href="../../treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            <li><a href="../../../vaginismus-stories/">Vaginismus Stories</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/sexual-addictions/index.php">Sexual Addiction Resources</a></li>
+            <li><a href="/further-support/treatment-questions/erection-problems/index.php">Erectile Difficulty/Dysfunction Resources</a></li>
+            <li><a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/what-is-vaginismus/vaginismus-symptoms/vaginismus-stories/index.php">Vaginismus Stories</a></li>
           </ul>
         </section>
     </div>

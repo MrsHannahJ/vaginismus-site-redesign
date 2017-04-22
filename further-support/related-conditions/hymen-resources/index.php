@@ -23,7 +23,7 @@
           <h1>Hymen Resources</h1>
 
           <h3>There is much confusion surrounding the hymen.</h3>
-          <p>Although hymen problems rarely cause penetration difficulties, they are often suspected due to the anatomical location (usually it is vaginismus that causes problems with penetration). More information about the hymen can be found in the articles &#8220;<a href="../../../faq/general-questions/hymen-problems/index.html">Could my hymen be causing my problem?</a>&#8221; and &#8220;<a href="../../../faq/dilator-questions/will-dilators-break-hymen/index.html">If my hymen is still intact, will using the dilators break it and will this hurt?</a>&#8220;. Other resources are referenced below:</p>
+          <p>Although hymen problems rarely cause penetration difficulties, they are often suspected due to the anatomical location (usually it is vaginismus that causes problems with penetration). More information about the hymen can be found in the articles &#8220;<a href="/further-support/general-questions/hymen-problems/index.php">Could my hymen be causing my problem?</a>&#8221; and &#8220;<a href="/further-support/dilator-questions/will-dilators-break-hymen/index.php">If my hymen is still intact, will using the dilators break it and will this hurt?</a>&#8220;. Other resources are referenced below:</p>
 
           <h3>Medical Studies &amp; Articles</h3>
           <ol>
@@ -41,8 +41,8 @@
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../faq/general-questions/vagina-too-small/index.html">Is it possible that my vagina is just too small? Could it be smaller from lack of use?</a></li>
-            <li><a href="../../../faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/general-questions/vagina-too-small/index.php">Is it possible that my vagina is just too small? Could it be smaller from lack of use?</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
           </ul>
 
         </section>

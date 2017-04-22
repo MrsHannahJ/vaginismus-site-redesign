@@ -19,7 +19,7 @@
           <h1>Shipping FAQs</h1>
 
           <h4>What shipping methods are available?</h4>
-          <p>At the time of ordering, when you choose the shipping destination online, the shipping options available for your country will appear. Typical options include United States Postal Service (USPS) and DHL. If you desire other options than what is offered during this process, please <a href="../../../contact-us/index.html">contact us</a> directly before completing the transaction.</p>
+          <p>At the time of ordering, when you choose the shipping destination online, the shipping options available for your country will appear. Typical options include United States Postal Service (USPS) and DHL. If you desire other options than what is offered during this process, please <a href="/contact-us/index.php">contact us</a> directly before completing the transaction.</p>
 
           <h4>Where do your products ship from?</h4>
           <p>All products are shipped from California, U.S.A.</p>

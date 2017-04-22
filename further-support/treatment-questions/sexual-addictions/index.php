@@ -33,15 +33,15 @@
             <li><a href="http://www.xxxchurch.com" target="_blank">XXX Church Online Recovery Program</a></li>
             <li><a href="http://www.sexaddict.com" target="_blank">Heart to Heart Counseling</a></li>
           </ol>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../faq/treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            <li><a href="../../../faq/general-questions/vaginismus-affect-husbands/index.html">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
-            <li><a href="../../../faq/treatment-questions/men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-            <li><a href="../../../faq/treatment-questions/how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/general-questions/vaginismus-affect-husbands/index.php">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
           </ul>
 
         </section>

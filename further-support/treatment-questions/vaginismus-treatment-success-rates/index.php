@@ -70,10 +70,10 @@
             </tbody>
           </table>
           <h3>Treatment Success</h3>
-          <p>Vaginismus is considered the most successfully treatable female sexual disorder. Many studies have shown treatment success rates approaching nearly 100%. The <a href="../../../products/vaginismus-treatment-kit/index.html">self-help</a> approach is based on extensive research into the causes and treatment of vaginismus and includes a complete 10 step process with easy-to-follow, practical treatment solutions. This approach has been used successfully by thousands of women and medical professionals.</p>
+          <p>Vaginismus is considered the most successfully treatable female sexual disorder. Many studies have shown treatment success rates approaching nearly 100%. The <a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a> approach is based on extensive research into the causes and treatment of vaginismus and includes a complete 10 step process with easy-to-follow, practical treatment solutions. This approach has been used successfully by thousands of women and medical professionals.</p>
           <p>The chart above lists some of the published clinical statistics for the success of vaginismus treatment. Clinical statistics for treatment success vary from study to study, but nearly all independent studies show high success rates. Clinical treatment methodology primarily involves using a combination of desensitization exercises and behavioral instruction. The percentages listed represent the portion of women able to engage in pain-free penetrative sexual intercourse following treatment.</p>
           <p>Though there are some failures, these are usually attributed to couples dropping out or not completing treatment. For couples who complete treatment, outcomes are nearly always positive and successful, with full resolution.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
           <h3>References</h3>
           <ol>
@@ -93,13 +93,13 @@
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            <li><a href="../how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
-            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
-            <li><a href="../vaginismus-diagnosis-and-treatment-difficulties/index.html">Why is it so difficult to get diagnosis and treatment help for vaginismus?</a></li>
-            <li><a href="../../../resources/vaginismus-blog/10-common-myths-about-vaginismus/index.html">10 Common Myths About Vaginismus</a></li>
-            <li><a href="../how-can-i-stay-motivated/index.html">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
-            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/treatment-questions/how-long-does-treatment-take/index.php">How long does treatment take?</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/treatment-questions/vaginismus-diagnosis-and-treatment-difficulties/index.php">Why is it so difficult to get diagnosis and treatment help for vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/10-common-myths-about-vaginismus/index.php">10 Common Myths About Vaginismus</a></li>
+            <li><a href="/further-support/treatment-questions/how-can-i-stay-motivated/index.php">How can I stay motivated and positive through treatment? I struggle with avoidance.</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
           </ul>
         </section>
     </div>

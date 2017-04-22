@@ -23,16 +23,16 @@
 
           <h3>Dilators are successfully used by health professionals to treat a wide variety of medical conditions.</h3>
           <p>Physicians and other health professionals often recommend dilators for post-surgical recovery programs and conditions such as dyspareunia, vaginal narrowing, vaginal agenesis, vaginal atrophy, age related problems/changes, reconditioning the vagina after long periods of no sex, and other similar gynecological issues. The Vaginismus.com dilator set comes with a range of sizes, easy to use handle, and carrying case. In all instances, patients should consult with their physician or healthcare provider for professional treatment recommendations and applicability.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../products/vaginal-dilator-set/index.html">Vaginal Dilator Set</a></li>
-            <li><a href="../what-are-the-dilators-made-of/index.html">What are the dilators made of?</a></li>
-            <li><a href="../health-insurance-cover-dilators/index.html">Will my health insurance cover the cost of buying dilators?</a></li>
-            <li><a href="../../customer-service-questions/ordering-faqs/index.html">Can I return the dilators for a refund if I don&#8217;t use them?</a></li>
-            <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/treatment/products/vaginal-dilator-set/index.php">Vaginal Dilator Set</a></li>
+            <li><a href="/further-support/dilator-questions/what-are-the-dilators-made-of/index.php">What are the dilators made of?</a></li>
+            <li><a href="/further-support/dilator-questions/health-insurance-cover-dilators/index.php">Will my health insurance cover the cost of buying dilators?</a></li>
+            <li><a href="/customer-service-questions/ordering/index.php">Can I return the dilators for a refund if I don&#8217;t use them?</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
           </ul>
         </section>
     </div>

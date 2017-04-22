@@ -86,9 +86,9 @@
                 <tbody>
                   <tr>
                     <td>Medical conditions</td>
-                    <td><a href="../resources/related-conditions/urethritis/index.html">Urinary tract infections</a> or urination problems, <a href="../resources/related-conditions/vaginal-yeast-infections/index.html">yeast infections</a>,
-                      sexually transmitted disease, <a href="../resources/related-conditions/endometriosis/">endometriosis</a>, genital or pelvic tumors, cysts, <a href="../resources/related-conditions/cancer/index.html">cancer</a>,
-                      <a href="../resources/sexual-pain-resources/vulvodynia/index.html">vulvodynia / vestibulodynia</a>, pelvic inflammatory disease, lichen planus, <a href="../resources/related-conditions/lichen-sclerosus/index.html">lichen sclerosus</a>,
+                    <td><a href="/further-support/related-conditions/urethritis/index.php">Urinary tract infections</a> or urination problems, <a href="/further-support/related-conditions/vaginal-yeast-infections/index.php">yeast infections</a>,
+                      sexually transmitted disease, <a href="/further-support/related-conditions/endometriosis/">endometriosis</a>, genital or pelvic tumors, cysts, <a href="/further-support/related-conditions/cancer/index.php">cancer</a>,
+                      <a href="/further-support/related-conditions/vulvodynia/index.php">vulvodynia / vestibulodynia</a>, pelvic inflammatory disease, lichen planus, <a href="/further-support/related-conditions/lichen-sclerosus/index.php">lichen sclerosus</a>,
                       eczema, psoriasis, vaginal prolapse, etc.</td>
                   </tr>
                   <tr>
@@ -97,7 +97,7 @@
                   </tr>
                   <tr>
                     <td>Age-related changes</td>
-                    <td><a href="../resources/sexual-pain-resources/sex-menopause/index.html">Menopause and hormonal changes</a>, vaginal dryness / inadequate lubrication, <a href="../resources/sexual-pain-resources/vaginal-atrophy-resources/index.html#menopause">vaginal atrophy</a></td>
+                    <td><a href="/further-support/related-conditions/sex-menopause/index.php">Menopause and hormonal changes</a>, vaginal dryness / inadequate lubrication, <a href="/further-support/related-conditions/vaginal-atrophy-resources/index.php#menopause">vaginal atrophy</a></td>
                   </tr>
                   <tr>
                     <td>Temporary discomfort</td>
@@ -126,7 +126,7 @@
             <div class="did-you-know">
               <img src="/img/icons/lightbulb.png" alt="" aria-hidden="true">
               <h4>Did you know?</h4>
-              <p>Vaginismus does not have an obvious cause (see <a href="../vaginismus-diagnosis/index.html">Diagnosis</a>). Sometimes women with near perfect childhoods, great relationships, strong education, and few anxieties, have trouble finding any plausible explanation for what caused their vaginismus. Fortunately, though it is helpful to know the causes, full knowledge is not always necessary to complete successful treatment.</p>
+              <p>Vaginismus does not have an obvious cause (see <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">Diagnosis</a>). Sometimes women with near perfect childhoods, great relationships, strong education, and few anxieties, have trouble finding any plausible explanation for what caused their vaginismus. Fortunately, though it is helpful to know the causes, full knowledge is not always necessary to complete successful treatment.</p>
             </div>
           </div>
           <div class="large-8">
@@ -172,7 +172,7 @@
        <section class="grad1 body-retraining">
          <div class="wrapper">
            <h2>Retraining the Body</h2>
-           <p>Retraining the PC muscle group to respond differently to the anticipation of intercourse is key to the successful treatment of vaginismus. The process of learning to take conscious control of this muscle group changes the conditioned reflex so involuntary tightness no longer occurs (modifying the muscle memories or conditioned responses). <a href="../vaginismus-treatment/index.html#steps">steps</a> will comprehensively address both body and mind components to resolve all triggers so that when intercourse is attempted involuntary spasms no longer occur and pain is eliminated (see <a href="../vaginismus-treatment/index.html">Treatment</a> for more information).</p>
+           <p>Retraining the PC muscle group to respond differently to the anticipation of intercourse is key to the successful treatment of vaginismus. The process of learning to take conscious control of this muscle group changes the conditioned reflex so involuntary tightness no longer occurs (modifying the muscle memories or conditioned responses). <a href="/treatment/self-help-program/index.php#ten-steps">steps</a> will comprehensively address both body and mind components to resolve all triggers so that when intercourse is attempted involuntary spasms no longer occur and pain is eliminated (see <a href="/treatment/index.php">Treatment</a> for more information).</p>
          </div>
        </section>
 

@@ -24,14 +24,14 @@
           <h3>The temporary pains of childbirth can trigger ongoing vaginismus sexual pain.</h3>
           <p>Fortunately, vaginismus is not a normal outcome of natural childbirth. However, if a woman has experienced trauma, physical or emotional, during the birth process the vaginismus condition may be triggered.</p>
           <p>Intercourse following childbirth may be uncomfortable or painful due to temporary vaginal bruising, procedures such as episiotomies, tearing of the perineum, attempting to have intercourse before healing is complete, and/or vaginal dryness due to hormonal changes/breastfeeding. It is normal to have some vaginal tenderness upon commencing intercourse. However, ongoing penetration difficulties benefit from further investigation and may be due to vaginismus.</p>
-          <p>Once triggered, vaginismus causes the body to tighten the pelvic floor when penetration is attempted, making attempts at intercourse unavoidably difficult. When attempts at intercourse result in pain and failure, the body reacts even more strongly, further entrenching the vaginismus effect. This is sometimes referred to as the <a href="../../../vaginismus-causes/index.html">cycle of pain</a>, as it evolves into an ongoing, worsening experience. The quicker the vaginismus symptoms are diagnosed and treated, the easier they may be to resolve.</p>
+          <p>Once triggered, vaginismus causes the body to tighten the pelvic floor when penetration is attempted, making attempts at intercourse unavoidably difficult. When attempts at intercourse result in pain and failure, the body reacts even more strongly, further entrenching the vaginismus effect. This is sometimes referred to as the <a href="/what-is-vaginismus/vaginismus-causes/index.php">cycle of pain</a>, as it evolves into an ongoing, worsening experience. The quicker the vaginismus symptoms are diagnosed and treated, the easier they may be to resolve.</p>
 
           <h3>Painful Sex After Childbirth</h3>
-          <p>Vaginismus will typically continue to cause ongoing sexual pain and <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">penetration difficulties</a>, even months or years after childbirth was experienced, until it has been treated. Once triggered, vaginismus causes the body to tighten the pelvic floor when penetration is attempted, making attempts at re-initiating intercourse unavoidably difficult.</p>
-          <p>When attempts at intercourse result in pain and failure, the body reacts even more strongly, further entrenching the vaginismus effect. This is sometimes referred to as the vaginismus <a href="../../../vaginismus-causes/index.html#cycle-pain">cycle of pain</a>, as it evolves into an ongoing, worsening experience.</p>
+          <p>Vaginismus will typically continue to cause ongoing sexual pain and <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">penetration difficulties</a>, even months or years after childbirth was experienced, until it has been treated. Once triggered, vaginismus causes the body to tighten the pelvic floor when penetration is attempted, making attempts at re-initiating intercourse unavoidably difficult.</p>
+          <p>When attempts at intercourse result in pain and failure, the body reacts even more strongly, further entrenching the vaginismus effect. This is sometimes referred to as the vaginismus <a href="/what-is-vaginismus/vaginismus-causes/index.php#cycle-pain">cycle of pain</a>, as it evolves into an ongoing, worsening experience.</p>
 
           <h3>Discovery &amp; Treatment</h3>
-          <p>The longer the vaginismus pain response persists, the more intense the tightness tends to become. Eventually, simple penetration may become <a href="../../../vaginismus-symptoms/index.html#unconsummated-marriages">impossible</a> (note also that penetration difficulties can develop immediately). For this reason, the sooner the vaginismus symptoms are diagnosed and treated, the easier they may be to resolve.</p>
+          <p>The longer the vaginismus pain response persists, the more intense the tightness tends to become. Eventually, simple penetration may become <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">impossible</a> (note also that penetration difficulties can develop immediately). For this reason, the sooner the vaginismus symptoms are diagnosed and treated, the easier they may be to resolve.</p>
 
           <h3>Reducing Postnatal Vaginismus</h3>
           <p>There are a number of things that can be done to help reduce the chances of experiencing vaginismus following delivery, and to help make the resumption of intercourse as positive an experience as possible:</p>
@@ -48,18 +48,18 @@
           </ul>
 
           <h3>Concerns About Vaginismus Returning After Delivery</h3>
-          <p>For women who overcame vaginismus at an earlier time before pregnancy, there is often a concern that they might develop vaginismus again following delivery. Fortunately, with the skills learned through successfully <a href="../../../vaginismus-treatment/index.html">treating</a> vaginismus, any pelvic trauma experienced during labor that potentially could trigger <a href="../../general-questions/primary-and-secondary-vaginismus-differences/index.html">secondary vaginismus</a> should have a relatively quick resolution. Although every person and experience is different, in general, the process of overcoming vaginismus will become a lifelong skill, providing long-term, pain-free resolution of the problem.</p>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <p>For women who overcame vaginismus at an earlier time before pregnancy, there is often a concern that they might develop vaginismus again following delivery. Fortunately, with the skills learned through successfully <a href="/treatment/index.php">treating</a> vaginismus, any pelvic trauma experienced during labor that potentially could trigger <a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">secondary vaginismus</a> should have a relatively quick resolution. Although every person and experience is different, in general, the process of overcoming vaginismus will become a lifelong skill, providing long-term, pain-free resolution of the problem.</p>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr>
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../../vaginismus-causes/index.html">Vaginismus Causes</a></li>
-            <li><a href="../../../vaginismus-treatment/index.html">Vaginismus Treatment</a></li>
-            <li><a href="../vaginismus-complications-delivery/index.html">Will vaginismus cause complications or impede vaginal delivery of a baby? Will the pelvic floor muscles spasm or cause problems?</a></li>
-            <li><a href="../can-childbirth-help-vaginismus/index.html">Can natural childbirth help relieve pre-existing vaginismus by stretching the vaginal opening?</a></li>
-            <li><a href="../../general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-            <li><a href="../../general-questions/had-pleasurable-intercourse-before/index.html">Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</a></li>
+            <li><a href="/what-is-vaginismus/vaginismus-causes/index.php">Vaginismus Causes</a></li>
+            <li><a href="/treatment/index.php">Vaginismus Treatment</a></li>
+            <li><a href="/further-support/pregnancy-questions/vaginismus-complications-delivery/index.php">Will vaginismus cause complications or impede vaginal delivery of a baby? Will the pelvic floor muscles spasm or cause problems?</a></li>
+            <li><a href="/further-support/pregnancy-questions/can-childbirth-help-vaginismus/index.php">Can natural childbirth help relieve pre-existing vaginismus by stretching the vaginal opening?</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/had-pleasurable-intercourse-before/index.php">Can my problem still be vaginismus if I&#8217;ve had pleasurable intercourse before and now it hurts?</a></li>
           </ul>
         </section>
     </div>

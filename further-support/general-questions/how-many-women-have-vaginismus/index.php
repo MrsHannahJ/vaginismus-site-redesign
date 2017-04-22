@@ -55,7 +55,7 @@
               </ul>
             </li>
           </ul>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
 
           <h3>References</h3>
@@ -66,9 +66,9 @@
           <hr />
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../treatment-questions/vaginismus-treatment-success-rates/index.html">How successful is vaginismus treatment?</a></li>
-            <li><a href="../../treatment-questions/how-long-does-treatment-take/index.html">How long does treatment take?</a></li>
-            <li><a href="../what-is-vaginismus/index.html">What is vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/vaginismus-treatment-success-rates/index.php">How successful is vaginismus treatment?</a></li>
+            <li><a href="/further-support/treatment-questions/how-long-does-treatment-take/index.php">How long does treatment take?</a></li>
+            <li><a href="/what-is-vaginismus/index.php">What is vaginismus?</a></li>
           </ul>
         </section>
     </div>

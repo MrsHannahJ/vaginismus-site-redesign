@@ -46,10 +46,10 @@
 
           <h3>See Also</h3>
           <ul>
-            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.html">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
-            <li><a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.html">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
-            <li><a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.html">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
-            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/general-questions/dyspareunia-diagnosis-treatment/index.php">What is dyspareunia? What is the connection between dyspareunia and vaginismus?</a></li>
+            <li><a href="/further-support/general-questions/primary-and-secondary-vaginismus-differences/index.php">What is the difference between primary vaginismus and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/treatment-for-primary-and-secondary-vaginismus/index.php">Is there a difference between the treatment for primary and secondary vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
           </ul>
 
         </section>

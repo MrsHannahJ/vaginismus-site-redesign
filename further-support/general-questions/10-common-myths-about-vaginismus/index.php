@@ -36,7 +36,7 @@
               <li><strong>Surgery will fix my problem.</strong> There is no surgery to fix vaginismus—treatment success follows a straight-forward program. In extremely rare circumstances, a woman may have an especially thick or rigid hymen or other malformation that may require minor surgery to correct, but this is the exception.</li>
             </ol>
           </div>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
         </section>
     </div>
     <!--      PRE-FOOTER-NAV SECTION      -->

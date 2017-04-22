@@ -46,7 +46,7 @@
     <section class="grad1">
       <div class="wrapper">
         <h2>Visit Our Customer Service FAQs</h2>
-        <a href="../faq/index.html#customer">Learn More</a>
+        <a href="/customer-service-questions/index.php">Learn More</a>
       </div>
     </section>
 <!--    <img src="/img/contact-us/contact-us-hero-mobile.jpg" alt="">-->

@@ -36,14 +36,14 @@
             <li><a href="http://health.groups.yahoo.com/group/supportEDpartners/" target="_blank">Yahoo online support group for partners of men with ED</a></li>
             <li><a href="http://www.mayoclinic.com/health/erectile-dysfunction/DS00162" target="_blank">&#8220;Erectile Dysfunction&#8221;</a> &#8211; Mayo Clinic</li>
           </ol>
-          <a href="#hero-english" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
+          <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />
           <h3>See Also</h3>
           <ul>
-            <li><a href="../../general-questions/vaginismus-affect-husbands/index.html">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
-            <li><a href="../men-help-wives/index.html">What can men do to help their wives/partners through vaginismus?</a></li>
-            <li><a href="../../../resources/related-conditions/sexual-addictions/index.html">Sexual Addiction Resources</a></li>
-            <li><a href="../recommend-vaginismus-treatment-professionals/index.html">Do you recommend working with treatment professionals?</a></li>
+            <li><a href="/further-support/general-questions/vaginismus-affect-husbands/index.php">How does vaginismus affect husbands/partners of women with vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/men-help-wives/index.php">What can men do to help their wives/partners through vaginismus?</a></li>
+            <li><a href="/further-support/treatment-questions/sexual-addictions/index.php">Sexual Addiction Resources</a></li>
+            <li><a href="/further-support/treatment-questions/recommend-vaginismus-treatment-professionals/index.php">Do you recommend working with treatment professionals?</a></li>
           </ul>
         </section>
     </div>

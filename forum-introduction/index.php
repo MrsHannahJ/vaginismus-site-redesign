@@ -44,12 +44,12 @@
       <div class="wrapper">
         <div class="large-4">
           <h2>Our Private Forum</h2>
-          <p>The Vaginismus Private Forum is a safe place for women to receive practical information, solid advice, and encouragement from moderators and other women going through the <strong><a href="../products/vaginismus-treatment-kit/index.html">self-help</a></strong> programs.</p>
+          <p>The Vaginismus Private Forum is a safe place for women to receive practical information, solid advice, and encouragement from moderators and other women going through the <strong><a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a></strong> programs.</p>
           <p>See below for more information about the forum and how to obtain a forum pass.</p>
         </div>
         <div class="large-8">
           <img src="/img/forum-introduction/forum-features-bar.png" alt="Free Private Forum, 24/7 Access Online, Over 10,000 Members, Thousands of Posts, Moderated and Safe, Anonymous Identifies">
-          <h4>Get a forum pass—included <em>100% FREE </em>as part of the <a href="../products/vaginismus-treatment-kit/index.html">Vaginismus Treatment Kit</a>!</h4>
+          <h4>Get a forum pass—included <em>100% FREE </em>as part of the <a href="/treatment/products/vaginismus-treatment-kit/index.php">Vaginismus Treatment Kit</a>!</h4>
         </div>
       </div>
     </section>
@@ -71,7 +71,7 @@
         <div class="large-4">
           <img src="/img/icons/treatment.png" alt="you are not alone" aria-hidden="true">
           <h2>You&#8217;re Not Alone</h2>
-          <p>The forum is driven by women helping other women and moderators are available for technical and emotional support concerning vaginismus treatment. It is our desire that this will be a safe place of hope, encouragement, knowledge, inspiration, friendship and healing as women work through the<strong> <a href="../products/vaginismus-treatment-kit/index.html">self-help</a></strong> program together at the same time.</p>
+          <p>The forum is driven by women helping other women and moderators are available for technical and emotional support concerning vaginismus treatment. It is our desire that this will be a safe place of hope, encouragement, knowledge, inspiration, friendship and healing as women work through the<strong> <a href="/treatment/products/vaginismus-treatment-kit/index.php">self-help</a></strong> program together at the same time.</p>
         </div>
       </div>
     </section>
@@ -84,7 +84,7 @@
         <div class="large-4">
           <p>The primary goal of the forum is to provide a network of support for women who are actively working to overcome vaginismus. Our forum is available 24 hours a day. Women can ask questions about physical or emotional issues as well as gain much needed positive encouragement as they work through the program steps. Examples of topics covered in our forum include:</p>
           <ul>
-            <li>Questions specific to each step of the <a href="../products/vaginismus-treatment-kit/index.html">self-help</a> programs</li>
+            <li>Questions specific to each step of the <a href="/treatment/self-help-program/index.php">self-help</a> programs</li>
             <li>Vaginismus and relationships</li>
             <li>Emotional and physical distress issues</li>
             <li>Pregnancy and vaginismus</li>
@@ -140,7 +140,7 @@
           <h2>How Do I Get a Pass?</h2>
           <p>There is now a free forum pass, included in every treatment kit and book set purchase. The Vaginismus Private Forum is reserved for those who are going through our program and have received our books (passes are not included when only a dilator set is ordered). As there are public forums for vaginismus sufferers currently available on the web, our forum is specifically geared to women who are familiar with and working through our program.</p>
           <p>Our forum pass enables you to create a private and anonymous password and username. Once you have your username and password, you are able to receive entrance into the Vaginismus Private Forum, gaining access to the support of hundreds of women worldwide.</p>
-          <p>NOTE: If you have previously ordered these products and do not have a pass, please <strong><a href="../contact-us/index.html">contact us</a></strong> to obtain one (at no cost).</p>
+          <p>NOTE: If you have previously ordered these products and do not have a pass, please <strong><a href="/contact-us/index.php">contact us</a></strong> to obtain one (at no cost).</p>
         </div>
       </div>
     </section>

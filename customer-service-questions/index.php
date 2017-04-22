@@ -36,7 +36,7 @@
           <p>For those who are unable or do not wish to pay directly with a major credit card, <a href="http://paypal.com/" target="_blank">PayPal</a> is a popular alternate secure online payment processing method. PayPal allows users to pay using a number of different methods including bank accounts, various credit cards, and other options. With a PayPal account, you can order our products online by simply choosing this as your payment option.</p>
 
           <h4>How do I place an order if I do not have a credit card?</h4>
-          <p>Besides credit cards, we do accept other methods of payment: PayPal (online account or e-checks), U.S. dollar money order (guaranteed checks or other money instruments), or Western Union wire transfers. To request one of these last two services, please <a href="../../contact-us/index.html">contact us</a> directly. We do our utmost to ensure that a workable solution can be met for all women who are in need.</p>
+          <p>Besides credit cards, we do accept other methods of payment: PayPal (online account or e-checks), U.S. dollar money order (guaranteed checks or other money instruments), or Western Union wire transfers. To request one of these last two services, please <a href="/contact-us/index.php">contact us</a> directly. We do our utmost to ensure that a workable solution can be met for all women who are in need.</p>
 
           <h4>I am concerned about ordering over the Internet. Is your site secure?</h4>
           <p>Yes, we use the highest available security methods for your complete peace of mind. Norton Symantec is a recognized leader in Internet merchant security and provides the complete encryption and security for our online store.</p>

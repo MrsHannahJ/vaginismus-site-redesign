@@ -320,4 +320,30 @@
   //    }
   //
   //
+  //table styles
+  table {
+    margin: 1rem auto;
+  }
+  th {
+    font-weight: bold;
+    padding: 1rem;
+    border-bottom: 2px solid $gray-background;
+    border-collapse: collapse;
+  }
+  thead tr:nth-child(2) th {
+    padding: 0.5rem;
+    text-align: left;
+  }
+  td {
+    padding: 0.75rem;
+    border-bottom: 2px solid $gray-background;
+    border-collapse: collapse;
+    &:first-child {
+      width: 30%;
+      padding-right: 1rem;
+    }
+  }
+  tbody tr:nth-child(even) {
+    background-color: $light-gray-background;
+  }
 }
