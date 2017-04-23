@@ -18,7 +18,7 @@
         <div class="hero-text-box large-6 medium-8">
           <h1>Helping Women Overcome Sexual Pain</h1>
           <ul>
-            <li>What can't I have sex?</li>
+            <li>Why can't I have sex?</li>
             <li>Why does my vagina hurt?</li>
             <li>I used to have sex, but now I can't</li>
             <li>Sex hurts more now that I'm older</li>

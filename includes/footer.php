@@ -96,12 +96,14 @@
 </div>
 
 <!--development-->
+<!--
 <script src="/js/vendor/jquery-3.2.1.min.js"></script>
 <script src="/js/vendor/slick.min.js"></script>
 <script src="/js/vendor/video.min.js"></script>
 <script src="/js/main.js"></script>
+-->
 <!--production-->
-<!--<script src="/js/main.min.js"></script>-->
+<script src="/js/main.min.js"></script>
 
 </body>
 

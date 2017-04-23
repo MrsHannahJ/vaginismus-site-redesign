@@ -39,7 +39,10 @@
   <meta name="twitter:description" content="<?php echo $pagedescription; ?>" />
   <meta name="twitter:image" content="<?php echo $pageimagepath; ?>" />
 
-  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
+  <!--dev-->
+<!--  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />-->
+  <!--production-->
+    <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />
 
 
 </head>

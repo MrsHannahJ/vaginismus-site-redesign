@@ -38,9 +38,9 @@
   <meta name="twitter:image" content="<?php echo $pageimagepath; ?>" />
 
   <!--dev-->
-  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />
+<!--  <link rel='stylesheet' href='/css/stylesheets/main.css' type='text/css' media='all' />-->
   <!--production-->
-  <!--  <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />-->
+    <link rel='stylesheet' href='/css/stylesheets/main.min.css' type='text/css' media='all' />
   
 <!--  same in other languages-->
 
