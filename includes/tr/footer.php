@@ -9,7 +9,7 @@
   <div class="wrapper">
     <nav class="footer-nav">
       <div class="tab large-3 medium-3">
-        <input id="footer-label-1" type="radio" name="tabs2">
+        <input id="footer-label-1" type="checkbox" name="tabs2">
         <label for="footer-label-1">Hakkında</label>
         <div class="footer-label-content">
           <ul>
@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="tab large-3 medium-3">
-        <input id="footer-label-2" type="radio" name="tabs2">
+        <input id="footer-label-2" type="checkbox" name="tabs2">
         <label for="footer-label-2">Müşteri Servisi</label>
         <div class="footer-label-content">
           <ul>
@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="tab large-3 medium-3">
-        <input id="footer-label-3" type="radio" name="tabs2">
+        <input id="footer-label-3" type="checkbox" name="tabs2">
         <label for="footer-label-3">Indirmeler</label>
         <div class="footer-label-content">
           <ul>
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div class="tab large-3 medium-3">
-        <input id="footer-label-4" type="radio" name="tabs2">
+        <input id="footer-label-4" type="checkbox" name="tabs2">
         <label for="footer-label-4"><img src="/img/turkey.png" alt="Alternatif Diller" aria-hidden="true">Diller</label>
         <div class="footer-label-content">
           <ul>

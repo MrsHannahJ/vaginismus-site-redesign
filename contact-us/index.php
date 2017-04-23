@@ -7,7 +7,7 @@
   include(ROOT_PATH.'/includes/header.php');
 ?>
 
-  <main id="contact-us">
+  <main id="contact-us" class="contact-english">
     <!--      HERO      -->
     <section id="hero-english">
       <div class="wrapper">
@@ -49,7 +49,7 @@
         <a href="/customer-service-questions/index.php">Learn More</a>
       </div>
     </section>
-<!--    <img src="/img/contact-us/contact-us-hero-mobile.jpg" alt="">-->
+    <!--    <img src="/img/contact-us/contact-us-hero-mobile.jpg" alt="">-->
 
   </main>
 

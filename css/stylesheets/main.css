@@ -6962,8 +6962,12 @@ html[dir="rtl"] #site-map ul li {
   }
 }
 @media screen and (max-width: 767.99px) {
-  html[dir="rtl"] footer input[type=radio] + label::after {
+  html[dir="rtl"] footer input[type=checkbox] + label::after {
     transform: rotate(225deg);
+    margin-right: 0.5rem;
+  }
+  html[dir="rtl"] footer input[type=checkbox]:checked + label::after {
+    transform: rotate(135deg);
   }
 }
 

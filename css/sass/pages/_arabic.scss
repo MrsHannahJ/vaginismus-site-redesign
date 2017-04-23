@@ -430,8 +430,12 @@ html[dir="rtl"] footer {
     text-align: right;
   }
   @media screen and (max-width: 767.99px) {
-    input[type=radio]+label::after {
+    input[type=checkbox]+label::after {
       transform: rotate(225deg);
+      margin-right: 0.5rem;
+    }
+    input[type=checkbox]:checked+label::after {
+      transform: rotate(135deg);
     }
   }
 }
