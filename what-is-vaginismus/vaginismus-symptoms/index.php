@@ -135,21 +135,21 @@
 
     <section class="has-v-background">
       <div class="wrapper">
-        <div class="large-4 medium-6">
+        <div class="large-6 medium-6">
           <h2>Primary Vaginismus</h2>
           <p><strong>When a woman has never at any time been able to have pain-free intercourse due to vaginismus tightness, her condition is known as primary vaginismus.</strong></p>
           <p>Primary vaginismus refers to the experience of vaginismus with first-time intercourse attempts. Typically, primary vaginismus will be discovered when a woman attempts to have sex for the very first time. The spouse/partner is unable to achieve penetration and it is like he just bumps into a &#8220;wall&#8221; where there should be the opening to the vagina. Entry is impossible or insertion or gynecological exams. The PC muscles constrict and tighten the vaginal opening making it uncomfortable or in many cases virtually impossible to have entry.</p>
           <div class="call-out">
             <p>Primary vaginismus is the common cause of sexless, unconsummated marriages.</p>
           </div>
-        </div>
-        <div class="large-4 medium-6">
           <p>When tightened, attempts to insert anything into the vagina produce pain or discomfort. Some women also experience related spasms in other body muscle groups or even halted breathing. Generally, when the attempt to put something in the vagina has ended, the muscles relax and return to normal. <strong>For this reason, medical examinations often fail to reveal any apparent problems unless the tightness occurs and is noted during the <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php#pelvicexam">pelvic exam</a>.</strong></p>
+        </div>
+        <div class="large-6 medium-6">
+          
           <h2>Secondary Vaginismus</h2>
           <p><strong>Secondary vaginismus sexual pain can affect women in all stages of life, even women who have had many years of pain-free intercourse.</strong></p>
           <p>Secondary vaginismus refers to the experience of tightness pain or penetration difficulties later in life, after previously being able to have normal, pain-free intercourse. It typically follows or is triggered by temporary pelvic pain or other related problems. It can be triggered by medical conditions, traumatic events, relationship issues, surgery, life-changes (e.g. menopause), or for no apparent reason (see <a href="/what-is-vaginismus/vaginismus-causes/index.php#non-physical-causes">Causes</a> for more examples). Secondary vaginismus is the common culprit where there is continued, ongoing sexual pain or penetration tightness where there had been no problem before. Most commonly, secondary vaginismus strikes women experiencing temporary pelvic pain problems such as urinary or yeast infections, pain from delivering babies, menopause, or surgery.</p>
-        </div>
-        <div class="large-4">
+        
           <p>The initial pain problems are addressed medically, healed, and/or managed, yet women continue to experience ongoing sexual pain or penetration difficulties due to vaginismus. While the initial temporary pain was experienced, their bodies developed a conditioned response resulting in ongoing, involuntary vaginal tightness with attempts at intercourse.</p>
           <div class="call-out">
             <p>Left untreated, vaginismus often worsens because the experience of ongoing sexual pain further increases the duration and intensity of the involuntary PC muscle contraction.</p>

@@ -75,7 +75,7 @@
           <div class="wrapper">
             <div class="large-5 medium-5">
            <div class="did-you-know">
-              <img src="/img/icons/Lightbulb.png" alt="">
+              <img src="/img/icons/lightbulb.png" alt="">
               <h2>Did You Know?</h2>
               <p>Vaginismus is a common cause of ongoing sexual pain and is also the primary female cause of sexless (<a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">unconsummated</a>) marriages. Sexual pain can affect women in all stages of life; even women who have had years of comfortable sex. While temporarily experiencing discomfort during sexual intercourse is not unusual, ongoing problems should be <a href="/what-is-vaginismus/vaginismus-diagnosis/index.php">diagnosed</a> and treated.</p>
             </div>

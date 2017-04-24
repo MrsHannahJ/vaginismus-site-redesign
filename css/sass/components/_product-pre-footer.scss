@@ -125,13 +125,17 @@
     text-align: center;
   }
   .shipping-box-img{
-    display:flex;
+    
+    @media screen and (min-width: $breakpoint-medium){
+        display:flex;
     justify-content: center;
+      }
     img{
-      max-width:250px;
       margin: 0 1rem;
       @media screen and (min-width: $breakpoint-medium){
-        margin: 0 2rem;
+//        margin: 0 2rem;
+//        max-width:450px;
+        max-width:325px;
       }
     }
   }

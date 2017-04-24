@@ -193,13 +193,13 @@
       font-size: 16px;
       margin-top:1rem;
     }
-    @media screen and (max-width:767.99px){
-      img{
-        max-width: 400px;
-        display: block;
-        margin: 0 auto;
-      }
-    }
+//    @media screen and (min-width:$breakpoint-medium){
+//      img{
+//        max-width: 400px;
+//        display: block;
+//        margin: 0 auto;
+//      }
+//    }
     
   }
 
@@ -247,6 +247,11 @@
   .slick-dots{
     bottom: -35px;
   }
+//  @media screen and (min-width: 767.99px){
+//    .img-carousel img{
+//      height: 200px;
+//    }
+//  }
   @media screen and (min-width: $breakpoint-medium){
     .img-carousel img{
       transform: scale(0.65);

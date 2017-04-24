@@ -118,7 +118,7 @@
       <div class="wrapper">
         <div class="highlighted-content-1 large-4 medium-4">
           <a href="/what-is-vaginismus/vaginismus-symptoms/index.php#unconsummated-marriages">
-            <h3>Sexless Relationships</h3>
+            <h3>Sexless<br/> Relationships</h3>
             <!--            <p>"We can't have sex and its affecting our marriage"</p>-->
           </a>
         </div>
@@ -129,7 +129,7 @@
           </a>
         </div>
         <div class="highlighted-content-3 large-4 medium-4">
-          <a href="/further-support/related-conditions/vaginal-atrophy-resources/index.php">
+          <a href="/further-support/related-conditions/vaginal-atrophy-resources/index.php#section-related">
             <h3>Menopause &amp; Vaginal Atrophy</h3>
             <!--            <p>"I used to enjoy comfortable sex, but now it just hurts!"</p>-->
           </a>

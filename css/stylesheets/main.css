@@ -751,8 +751,8 @@ template {
 
 @font-face {
   font-family: VideoJS;
-  src: url("/fonts/videojs/videojs.eot") format("eot");
-  src: url("/fonts/videojs/videojs.eot") format("embedded-opentype"), url("/fonts/videojs/videojs.svg") format("svg"), url("/fonts/videojs/videojs.woff") format("woff"), url("/fonts/videojs/videojs.ttf") format("truetype");
+  src: url("/fonts/videoJS/VideoJS.eot") format("eot");
+  src: url("/fonts/videoJS/VideoJS.eot") format("embedded-opentype"), url("/fonts/videoJS/VideoJS.svg") format("svg"), url("/fonts/videoJS/VideoJS.woff") format("woff"), url("/fonts/videoJS/VideoJS.ttf") format("truetype");
 }
 .vjs-icon-play, .video-js .vjs-big-play-button, .video-js .vjs-play-control {
   font-family: VideoJS;
@@ -4695,17 +4695,18 @@ aside .sidebar-img a {
 #buy-product .shipping-box {
   text-align: center;
 }
-#buy-product .shipping-box-img {
-  display: flex;
-  justify-content: center;
+@media screen and (min-width: 768px) {
+  #buy-product .shipping-box-img {
+    display: flex;
+    justify-content: center;
+  }
 }
 #buy-product .shipping-box-img img {
-  max-width: 250px;
   margin: 0 1rem;
 }
 @media screen and (min-width: 768px) {
   #buy-product .shipping-box-img img {
-    margin: 0 2rem;
+    max-width: 325px;
   }
 }
 
@@ -5088,8 +5089,7 @@ aside .sidebar-img a {
   width: 100%;
 }
 #symptoms #variations-experience .opaque-box h2 {
-  padding-top: 2rem;
-  padding-bottom: 0;
+  padding: 2rem 1rem 0;
 }
 #symptoms #variations-experience .opaque-box p {
   padding: 0.25rem 2rem 0.5rem;
@@ -5107,9 +5107,11 @@ aside .sidebar-img a {
 #symptoms .banner-solid-gray p {
   padding-bottom: 1rem;
 }
-#symptoms #symptoms-severity .wrapper {
-  display: flex;
-  align-items: center;
+@media screen and (min-width: 980px) {
+  #symptoms #symptoms-severity .wrapper {
+    display: flex;
+    align-items: center;
+  }
 }
 #symptoms #involuntary {
   padding: 0 1rem 2rem 1rem;
@@ -5120,12 +5122,10 @@ aside .sidebar-img a {
 #symptoms #unconsummated-marriages img {
   display: block;
   margin: 0 auto;
-  max-width: 500px;
 }
 @media screen and (min-width: 980px) {
   #symptoms #unconsummated-marriages img {
     width: 100%;
-    max-width: 500px;
   }
 }
 
@@ -5184,6 +5184,12 @@ aside .sidebar-img a {
 #causes figcaption {
   text-align: justify;
 }
+@media screen and (min-width: 980px) {
+  #causes #cycle-pain .wrapper:first-child {
+    display: flex;
+    align-items: center;
+  }
+}
 #causes #cycle-pain .max-500 img {
   display: block;
   margin: 0 auto;
@@ -5195,19 +5201,23 @@ aside .sidebar-img a {
     max-width: 500px;
   }
 }
-#causes #non-physical-causes table, #causes #physical-causes table {
+#causes #non-physical-causes table,
+#causes #physical-causes table {
   border: 2px solid #e0e0e0;
   border-collapse: collapse;
 }
-#causes #non-physical-causes table a, #causes #physical-causes table a {
+#causes #non-physical-causes table a,
+#causes #physical-causes table a {
   font-weight: 600;
 }
-#causes #non-physical-causes table td, #causes #physical-causes table td {
+#causes #non-physical-causes table td,
+#causes #physical-causes table td {
   padding: 0.75rem;
   border: 3px solid #333333;
   border-collapse: collapse;
 }
-#causes #non-physical-causes table td:first-child, #causes #physical-causes table td:first-child {
+#causes #non-physical-causes table td:first-child,
+#causes #physical-causes table td:first-child {
   padding-right: 2rem;
   font-weight: 600;
 }
@@ -5220,7 +5230,8 @@ aside .sidebar-img a {
 #causes #other-medical {
   background: url(/img/white-wood-bkgd.jpg);
 }
-#causes #other-medical .did-you-know, #causes #other-medical .opaque-box {
+#causes #other-medical .did-you-know,
+#causes #other-medical .opaque-box {
   background: rgba(255, 255, 255, 0.7);
   margin-top: 0;
   width: 100%;
@@ -8701,13 +8712,6 @@ html[dir="rtl"] header .cart-count:after {
   font-weight: 600;
   font-size: 16px;
   margin-top: 1rem;
-}
-@media screen and (max-width: 767.99px) {
-  .product-page-english .bonus-banner img {
-    max-width: 400px;
-    display: block;
-    margin: 0 auto;
-  }
 }
 .product-page-english #reviews {
   background: url(/img/white-wood-bkgd.jpg);

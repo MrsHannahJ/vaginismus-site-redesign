@@ -6,7 +6,7 @@
 
 }(function ($, window, document) {
 
-  // The $ is now locally scoped 
+  // The $ is now locally scoped
   $(function () {
     // The DOM is ready!
     //mobile nav slideout

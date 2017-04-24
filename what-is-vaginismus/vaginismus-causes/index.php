@@ -32,20 +32,20 @@
             <p>Reacting to the anticipation of pain, the body automatically tightens the vaginal muscles, bracing to protect itself from harm. Sex becomes uncomfortable or painful, and entry may be more difficult or impossible depending upon the severity of this tightened state. With attempts at sex, any resulting discomfort further reinforces the reflex response so that it intensifies more. The body experiences increased pain and reacts by bracing more on an ongoing basis, further entrenching this response and creating a vaginismus <strong> cycle of pain</strong>.</p>
           </div>
           <div class="large-8">
-            <img src="/img/causes/Cycle-of-Pain-chart-EN.png" alt="Cycle of Pain. 1) Anicipate Pain: The body anticipates; fear/anxiety may contribute; 2)Involuntary Reaction: The body automatically tightens vaginal muscles; 3) Painful Sex: Tightens makes sex painful; penetration may be impossible; 4) Pain Reinforces: Pain intensifies reflex response; 5) Bracing: Body reacts by bracing more on an on-going basis; 6) Avoidance: Avoidance of intimacy, lack of desire may develop.">
+            <img src="/img/causes/cycle-of-pain-chart-en.png" alt="Cycle of Pain. 1) Anicipate Pain: The body anticipates; fear/anxiety may contribute; 2)Involuntary Reaction: The body automatically tightens vaginal muscles; 3) Painful Sex: Tightens makes sex painful; penetration may be impossible; 4) Pain Reinforces: Pain intensifies reflex response; 5) Bracing: Body reacts by bracing more on an on-going basis; 6) Avoidance: Avoidance of intimacy, lack of desire may develop.">
           </div>
         </div>
-        <div class="wrapper">
-          <div class="large-4 medium-6">
-            <p>Since vaginismus can be triggered by physical events as simple as having inadequate foreplay or lubrication, or non-physical emotions as simple as general anxiety, it is important that it be understood that vaginismus is not the woman’s fault. Once triggered, the involuntary muscle tightness occurs without conscious direction; <strong>the woman has not intentionally &#8220;caused&#8221; or directed her body to tighten and cannot simply make it stop</strong>. Women with vaginismus may initially be sexually responsive and deeply desire to make love but over time this desire may diminish due to pain and feelings of failure and discouragement. It is extremely frustrating to be unable to physically engage in pleasurable sexual intercourse.</p>
-          </div>
-          <div class="large-4 medium-6">
-            <p>The anticipation of pain, emotional anxieties, or unhealthy sexual messages can contribute to and reinforce the symptoms of vaginismus. Frequently, but not always, there are deep-seated underlying negative feelings of anxiety associated with vaginal penetration. Emotional triggers that result in vaginismus symptoms are not always readily apparent and require some exploration. It is important that effective treatment processes include addressing any emotional triggers so a full pain-free and pleasurable sexual relationship can be enjoyed upon resolution.</p>
-          </div>
-          <div class="large-4 max-500">
-            <img src="/img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
-          </div>
-        </div>
+<div class="wrapper">
+  <div class="large-4 medium-6">
+    <p>Since vaginismus can be triggered by physical events as simple as having inadequate foreplay or lubrication, or non-physical emotions as simple as general anxiety, it is important that it be understood that vaginismus is not the woman’s fault. Once triggered, the involuntary muscle tightness occurs without conscious direction; <strong>the woman has not intentionally &#8220;caused&#8221; or directed her body to tighten and cannot simply make it stop</strong>. Women with vaginismus may initially be sexually responsive and deeply desire to make love but over time this desire may diminish due to pain and feelings of failure and discouragement. It is extremely frustrating to be unable to physically engage in pleasurable sexual intercourse.</p>
+  </div>
+  <div class="large-4 medium-6">
+    <p>The anticipation of pain, emotional anxieties, or unhealthy sexual messages can contribute to and reinforce the symptoms of vaginismus. Frequently, but not always, there are deep-seated underlying negative feelings of anxiety associated with vaginal penetration. Emotional triggers that result in vaginismus symptoms are not always readily apparent and require some exploration. It is important that effective treatment processes include addressing any emotional triggers so a full pain-free and pleasurable sexual relationship can be enjoyed upon resolution.</p>
+  </div>
+  <div class="large-4 max-500">
+    <img src="/img/causes/causes-primary-vaginismus.png" alt="Primary Vaginismus: pc muscles tighten making penetration impossible">
+  </div>
+</div>
       </section>
       <section class="has-v-background">
         <div class="wrapper">
@@ -141,8 +141,8 @@
         </div>
       </section>
       <div class="banner-solid-gray">
-        <h3>Related Conditions</h3>
-        <a href="/further-support/related-conditions/index.php" class="gray-btn">Learn More about Conditions Related to Vaginal Pain</a>
+        <h3>Conditions Related to Vaginal Pain</h3>
+        <a href="/further-support/related-conditions/index.php" class="gray-btn">Learn More</a>
       </div>
       <section id="pc-muscles">
         <h2>The Role of the PC Muscle Group</h2>
