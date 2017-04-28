@@ -29,7 +29,7 @@
 
           <h3>Links of Interest</h3>
           <ol>
-            <li> <a href="http://seniorplanet.org/challenges-to-intimacy-iris-krasnow-on-sex-after-60-70-and-80/" target="_blank">&#8220;Challenges to intimacy&#8221;</a></li>
+            <li> <a href="https://seniorplanet.org/challenges-to-intimacy-iris-krasnow-on-sex-after-60-70-and-80/" target="_blank">&#8220;Challenges to intimacy&#8221;</a></li>
             <!--            <li> <a href="http://courses.cit.cornell.edu/psych431_nbb421/student2000/dp51/sex_tips.html" target="_blank">&#8220;Sex tips for older adults&#8221;</a></li>-->
             <li> <a href="http://www.cbsnews.com/stories/2005/07/14/health/webmd/main709215.shtml" target="_blank">&#8220;Sex important for older women&#8221;</a></li>
           </ol>

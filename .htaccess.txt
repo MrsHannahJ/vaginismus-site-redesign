@@ -1,0 +1,28 @@
+# secure .htaccess file
+<Files .htaccess>
+	Order allow,deny
+	Deny from all
+</Files>
+
+#To set up 404 page:
+ErrorDocument 404 /error-messages/404.php
+
+#Add www to anything without it here...
+#Redirect to www location
+RewriteEngine On
+RewriteCond %{HTTP_HOST}  !^www\.dev.vaginismus\.com$ [NC]
+RewriteRule ^(.*) https://www.dev.vaginismus.com/$1 [L,R]
+
+#Remove index.php from end of url
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+
+
+#Redirect any old Wordpress directories or files to home page
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+RewriteBase /
+RewriteCond %{QUERY_STRING} ^.+$
+RewriteRule ^wp-(.*)$ /index.php? [L,R=301,NC]
+

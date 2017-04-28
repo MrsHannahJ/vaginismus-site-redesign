@@ -98,7 +98,9 @@ strong {
 #symptoms,
 #causes,
 #diagnosis,
-#treatment {
+#treatment,
+.search-page,
+.page-404{
   h1 {
     @include font-size(30px);
     font-weight: 400;

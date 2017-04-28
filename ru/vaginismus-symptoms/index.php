@@ -16,7 +16,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-       <img src="/img/symptoms/symptoms-header-mobile-en.jpeg" alt="симптомы вагинизма" class="hidden-desktop hidden-tablet" aria-hidden="true">
+       <img src="/img/symptoms/symptoms-header-mobile-en.jpg" alt="симптомы вагинизма" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
             

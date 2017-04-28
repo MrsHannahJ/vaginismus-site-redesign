@@ -68,16 +68,16 @@
           <a href="https://www.facebook.com/womenshealthrs/" target="_blank"><img src="/img/facebook.jpg" alt="bizi takip edin Facebook"></a>
         </li>
         <li>
-          <a href="https://twitter.com/VaginismusCom" target="_blank"><img src="/img/twitter.png" alt="bizi takip edin Twitter"></a>
+          <a href="https://twitter.com/vaginismuscom" target="_blank"><img src="/img/twitter.png" alt="bizi takip edin Twitter"></a>
         </li>
         <li>
-          <a href="https://plus.google.com/+Vaginismuscom/" target="_blank"><img src="/img/google-plus.png" alt="bizi takip edin Google+"></a>
+          <a href="https://plus.google.com/+vaginismuscom/" target="_blank"><img src="/img/google-plus.png" alt="bizi takip edin Google+"></a>
         </li>
         <li>
-          <a href="http://pinterest.com/VaginismusCom" target="_blank"><img src="/img/pinterest.png" alt="bizi takip edin Pinterest"></a>
+          <a href="https://www.pinterest.com/vaginismuscom/" target="_blank"><img src="/img/pinterest.png" alt="bizi takip edin Pinterest"></a>
         </li>
         <li>
-          <a href="http://instagram.com/VaginismusCom" target="_blank"><img src="/img/instagram.png" alt="bizi takip edin Instagram"></a>
+          <a href="https://www.instagram.com/vaginismuscom/" target="_blank"><img src="/img/instagram.png" alt="bizi takip edin Instagram"></a>
         </li>
       </ul>
     </div>

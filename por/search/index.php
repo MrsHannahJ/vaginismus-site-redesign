@@ -47,7 +47,7 @@
                   <h4><a href="/por/products/completely-overcome-vaginismus-book-set/"><i class="icon-angle-double-right"></i>Programa de Tratamento em Casa para o Vaginismo</a></h4>
                 </li>
                 <li>
-                  <h4><a href="/por/products/vaginismus-video/index.html"><i class="icon-angle-double-right"></i>Kit de Tratamento para Vaginismo</a></h4>
+                  <h4><a href="/por/products/vaginismus-video/index.php"><i class="icon-angle-double-right"></i>Kit de Tratamento para Vaginismo</a></h4>
                 </li>
               </ul>
            </div>

@@ -29,11 +29,12 @@
           <h3>Links of Interest</h3>
           <ol>
             <li><a href="http://www.wcn.org" target="_blank">Women&#8217;s Cancer Network</a></li>
-            <li><a href="http://www.mayoclinic.com/health/cancer-treatment/SA00071" target="_blank">&#8220;Sexuality after cancer treatment&#58; What women can expect&#8221;</a> &#8211; Mayo Clinic</li>
+            <li><a href="http://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer-treatment/art-20047214" target="_blank">&#8220;Sexuality after cancer treatment&#58; What women can expect&#8221;</a> &#8211; Mayo Clinic</li>
             <li><a href="https://www.oncolink.org/support/sexuality-fertility/sexuality/women-s-guide-to-sexuality-during-after-cancer-treatment" target="_blank">Women&#39;s Guide to Sexuality During and After Cancer Treatment</a></li>
+            
             <li><a href="https://www.mdanderson.org/patients-family/diagnosis-treatment/emotional-physical-effects/sexuality-cancer.html" target="_blank">Sexuality and Cancer </a></li>
-            <li><a href="https://www.oncolink.org/support/sexuality-fertility/sexuality/vaginal-dilators-for-radiation-therapy " target="_blank">Vaginal Dilators for Radiation Therapy</a></li>
-            <li><a href="http://www.cancer.org/treatment/treatmentsandsideeffects/physicalsideeffects/sexualsideeffectsinwomen/sexualityforthewoman/sexuality-for-women-with-cancer-keeping-sex-life-despite-cancer-treatment" target="_blank">Keeping your sex life going despite cancer treatment</a></li>
+            <li><a href="https://www.oncolink.org/support/sexuality-fertility/sexuality/vaginal-dilators-for-radiation-therapy" target="_blank">Vaginal Dilators for Radiation Therapy</a></li>
+            <li><a href="https://www.cancer.org/content/cancer/en/treatment/treatments-and-side-effects/physical-side-effects/fertility-and-sexual-side-effects/sexuality-for-women-with-cancer/cancer-sex-sexuality.html" target="_blank">Keeping your sex life going despite cancer treatment</a></li>
             <li><a href="http://www.huffingtonpost.ca/sunnybrook-health-sciences-centre/women-sex-after-cancer_b_12119668.html" target="_blank">Sex And Intimacy After Cancer&#58; A Guide For Women</a></li>
           </ol>
           <hr />

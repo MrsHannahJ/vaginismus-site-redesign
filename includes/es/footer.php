@@ -128,16 +128,16 @@
           <a href="https://www.facebook.com/womenshealthrs/" target="_blank"><img src="/img/facebook.jpg" alt="Síguenos en Facebook"></a>
         </li>
         <li>
-          <a href="https://twitter.com/VaginismusCom" target="_blank"><img src="/img/twitter.png" alt="Síguenos en Twitter"></a>
+          <a href="https://twitter.com/vaginismuscom" target="_blank"><img src="/img/twitter.png" alt="Síguenos en Twitter"></a>
         </li>
         <li>
-          <a href="https://plus.google.com/+Vaginismuscom/" target="_blank"><img src="/img/google-plus.png" alt="Síguenos en Google+"></a>
+          <a href="https://plus.google.com/+vaginismuscom/" target="_blank"><img src="/img/google-plus.png" alt="Síguenos en Google+"></a>
         </li>
         <li>
-          <a href="http://pinterest.com/VaginismusCom" target="_blank"><img src="/img/pinterest.png" alt="Síguenos en Pinterest"></a>
+          <a href="https://www.pinterest.com/vaginismuscom/" target="_blank"><img src="/img/pinterest.png" alt="Síguenos en Pinterest"></a>
         </li>
         <li>
-          <a href="http://instagram.com/VaginismusCom" target="_blank"><img src="/img/instagram.png" alt="Síguenos en Instagram"></a>
+          <a href="https://www.instagram.com/vaginismuscom/" target="_blank"><img src="/img/instagram.png" alt="Síguenos en Instagram"></a>
         </li>
       </ul>
     </div>

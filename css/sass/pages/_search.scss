@@ -5,6 +5,12 @@
 .page-404 {
   #hero-english {
     min-height: 1rem;
+    a{
+      font-weight: 600;
+      @media screen and (min-width: $breakpoint-medium){
+        color: $brand;
+      }
+    }
   }
   #site-map {
     //    @media screen and (max-width: 767.99px){
@@ -15,7 +21,7 @@
     }
     //    }
     h1 {
-      padding-top: 4.5rem;
+//      padding-top: 4.5rem;
     }
     p {
       text-align: center;

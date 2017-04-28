@@ -34,7 +34,7 @@
           <h3>Resources</h3>
           <ol>
             <li><a href="http://health.groups.yahoo.com/group/supportEDpartners/" target="_blank">Yahoo online support group for partners of men with ED</a></li>
-            <li><a href="http://www.mayoclinic.com/health/erectile-dysfunction/DS00162" target="_blank">&#8220;Erectile Dysfunction&#8221;</a> &#8211; Mayo Clinic</li>
+            <li><a href="http://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/home/ovc-20314087" target="_blank">&#8220;Erectile Dysfunction&#8221;</a> &#8211; Mayo Clinic</li>
           </ol>
           <a href="#" class="hidden-tablet hidden-desktop">Back to Top<i class="icon-angle-double-right"></i></a>
           <hr />

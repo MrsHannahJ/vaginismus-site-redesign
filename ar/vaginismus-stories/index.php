@@ -11,7 +11,7 @@
 <!--      HERO      -->
   
       <section class="hero-banner-image">
-        <img src="/img/ar/stories-header-mobile-ar.jpeg" alt="قصص التشنج المهبلي" class="hidden-desktop hidden-tablet" aria-hidden="true">
+        <img src="/img/ar/stories-header-mobile-ar.jpg" alt="قصص التشنج المهبلي" class="hidden-desktop hidden-tablet" aria-hidden="true">
         <div class="wrapper">
            <div class="large-12 medium-12">
              <div class="hero-text">

@@ -27,7 +27,7 @@
 
           <h3>Medical Studies &amp; Articles</h3>
           <ol>
-            <li>Adams Hillard, P. <i>Imperforate hymen</i>. Available from <a href="http://emedicine.com/med/topic3329.htm" target="_blank">http://emedicine.com/med/topic3329.htm</a>.</li>
+            <li>Adams Hillard, P. <i>Imperforate hymen</i>. Available from <a href="http://emedicine.medscape.com/article/269050-overview" target="_blank">http://emedicine.medscape.com/article/269050-overview</a>.</li>
             <li>Curtis, E., &amp; Lazaro, C. (1999). Appearance of the hymen in adolescents not well documented [Letter]. BMJ, 318, 605.</li>
             <li>Emans, J., Woods, E., Allred, E., &amp; Grace, E. (1994). Hymenal findings in adolescent women: Impact of tampon use and consensual sexual activity. <em>J Pediatr</em>, 125, 153-160.</li>
             <li>Rogers, D., &amp; Stark, M. (1998). The hymen is not necessarily torn after sexual intercourse [Letter]. BMJ, 317, 414.</li>

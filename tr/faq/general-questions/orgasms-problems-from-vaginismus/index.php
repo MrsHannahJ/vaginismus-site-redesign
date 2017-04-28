@@ -22,6 +22,7 @@
           <p>Vajinismusu olan kadınların çoğu (giriş mümkün olsa da olmasa da) vajinismusu yenmek üzerinde çalışmaya devam ederken yine de elle ya da giriş olmadan orgazm olabilmektedir. Daha sonra, acısız cinsel ilişkide bulunabildiklerinde, cinsel birleşmeye eşlik eden orgazma erişmek için alıştırma ve deneme için bir geçiş zamanı gerekebilir. Acısız cinsel birleşmeye erişildikten sonra bazı kadınlar sevişmenin diğer aşamalarında girişli cinsel birleşmeden ayrı orgazm yaşamayı tercih etmeye devam edebilirler.  Vajinismusları olmasa da her kadın cinsel birleşme sırasında orgazma ulaşamaz; kadınların sadece üçte biri cinsel birleşme sırasında düzenli olarak orgazma ulaşır.</p>
           <h3>Zevk Sayesinde Yakınlık Kurmak</h3>
           <p>Son olarak, sorun vajinismusla ilgili değilse, çiftler sevişme konusunda daha iyi teknikler öğrenme konusunda yazılmış materyalleri okumayı faydalı bulabilirler. Orgazm sorunlarından ve orgazma ulaşma yöntemlerinden bahseden çok sayıda cinsellik ve yakınlık içerikli kitap bulunmaktadır.</p>
+          <p>Kadın orgazm sorunları hakkında daha fazla bilgi için yardım makalesine bakın &#8220;<a href="https://sogc.org/publications-resources/public-information-pamphlets.html?id=6">Female Orgasms Myths &amp; Facts</a>&#8221; at www.sogc.org.</p>
           <hr />
           <h3>Ayrıca Bkz</h3>
           <ul>

@@ -2837,7 +2837,9 @@ strong {
 #symptoms h1,
 #causes h1,
 #diagnosis h1,
-#treatment h1 {
+#treatment h1,
+.search-page h1,
+.page-404 h1 {
   font-size: 30px;
   font-size: 1.875rem;
   font-weight: 400;
@@ -2859,7 +2861,9 @@ strong {
   #symptoms h1,
   #causes h1,
   #diagnosis h1,
-  #treatment h1 {
+  #treatment h1,
+  .search-page h1,
+  .page-404 h1 {
     font-size: 36px;
     font-size: 2.25rem;
   }
@@ -2880,7 +2884,9 @@ strong {
 #symptoms h2,
 #causes h2,
 #diagnosis h2,
-#treatment h2 {
+#treatment h2,
+.search-page h2,
+.page-404 h2 {
   font-size: 24px;
   font-size: 1.5rem;
   font-weight: 400;
@@ -2902,7 +2908,9 @@ strong {
   #symptoms h2,
   #causes h2,
   #diagnosis h2,
-  #treatment h2 {
+  #treatment h2,
+  .search-page h2,
+  .page-404 h2 {
     font-size: 28px;
     font-size: 1.75rem;
   }
@@ -2923,7 +2931,9 @@ strong {
 #symptoms h3,
 #causes h3,
 #diagnosis h3,
-#treatment h3 {
+#treatment h3,
+.search-page h3,
+.page-404 h3 {
   font-size: 21px;
   font-size: 1.3125rem;
   font-weight: 400;
@@ -2945,7 +2955,9 @@ strong {
   #symptoms h3,
   #causes h3,
   #diagnosis h3,
-  #treatment h3 {
+  #treatment h3,
+  .search-page h3,
+  .page-404 h3 {
     font-size: 24px;
     font-size: 1.5rem;
   }
@@ -2966,7 +2978,9 @@ strong {
 #symptoms h4,
 #causes h4,
 #diagnosis h4,
-#treatment h4 {
+#treatment h4,
+.search-page h4,
+.page-404 h4 {
   font-size: 20px;
   font-size: 1.25rem;
 }
@@ -3003,7 +3017,11 @@ strong {
 #diagnosis p,
 #diagnosis li,
 #treatment p,
-#treatment li {
+#treatment li,
+.search-page p,
+.search-page li,
+.page-404 p,
+.page-404 li {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -3091,7 +3109,17 @@ strong {
 #treatment figcaption,
 #treatment table,
 #treatment th,
-#treatment td {
+#treatment td,
+.search-page a,
+.search-page figcaption,
+.search-page table,
+.search-page th,
+.search-page td,
+.page-404 a,
+.page-404 figcaption,
+.page-404 table,
+.page-404 th,
+.page-404 td {
   font-size: 16px;
   font-size: 1rem;
 }
@@ -6435,16 +6463,22 @@ p .white-btn {
 .page-404 #hero-english {
   min-height: 1rem;
 }
+.search-page #hero-english a,
+.page-404 #hero-english a {
+  font-weight: 600;
+}
+@media screen and (min-width: 768px) {
+  .search-page #hero-english a,
+  .page-404 #hero-english a {
+    color: #4eb3b3;
+  }
+}
 .search-page #site-map [class*='large-'],
 .search-page #site-map [class*='medium-'],
 .page-404 #site-map [class*='large-'],
 .page-404 #site-map [class*='medium-'] {
   padding-bottom: 0;
   padding-top: 0;
-}
-.search-page #site-map h1,
-.page-404 #site-map h1 {
-  padding-top: 4.5rem;
 }
 .search-page #site-map p,
 .page-404 #site-map p {

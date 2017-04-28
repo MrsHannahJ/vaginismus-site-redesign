@@ -12,7 +12,7 @@
 <!--      HERO      -->
   
     <section class="hero-banner-image">
-      <img src="/img/treatment/treatment-hero-mobile.jpeg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="лечение вагинизма">
+      <img src="/img/treatment/treatment-hero-mobile.jpg" class="hidden-desktop hidden-tablet" aria-hidden="true" alt="лечение вагинизма">
       <div class="wrapper">
          <div class="large-12 medium-12">
            <div class="hero-text-right">

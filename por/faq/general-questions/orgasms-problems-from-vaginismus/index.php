@@ -22,7 +22,7 @@
           <p>A maioria das mulheres com vaginismo (independentemente se a penetração é possível) ainda consegue orgasmos manuais ou sem penetração, ao mesmo tempo que elas continuam a tentar superar o vaginismo. Mais tarde, quando a relação sexual sem dor se torna uma realidade, o tempo de transição para a prática e a experimentação pode ser necessário para atingir a relação sexual acompanhada com o orgasmo. Quando a relação sexual sem dor começa, algumas mulheres podem preferir continuar a ter orgasmos durante outras fases do ato sexual, separados de relações sexuais com penetração. Nem todas as mulheres conseguem ter orgasmos durante a relação sexual, mesmo quando o vaginismo não está presente—cerca de um terço das mulheres tem orgasmo rotineiramente durante a relação sexual.</p>
           <h3>Criar Intimidade Através do Prazer</h3>
           <p>E por fim, se o problema não está relacionado com o vaginismo, sugere-se que os casais leiam sobre o assunto para aprender as melhores técnicas de fazer amor. Há muitos livros sobre sexo e intimidade que discutem questões de orgasmo e métodos para ajudar a atingir o orgasmo.</p>
-          <p>Para mais informações sobre questões relacionadas com o orgasmo feminino, consulte o artigo &#8220;<a href="https://sogc.org/publications-resources/public-information-pamphlets.php?id=6">Mitos e Fatos sobre o Orgasmo Feminino</a>&#8221; no site www.sogc.org.</p>
+          <p>Para mais informações sobre questões relacionadas com o orgasmo feminino, consulte o artigo &#8220;<a href="https://sogc.org/publications-resources/public-information-pamphlets.html?id=6">Mitos e Fatos sobre o Orgasmo Feminino</a>&#8221; no site www.sogc.org.</p>
           <hr />
           <h3>Veja Também</h3>
           <ul>

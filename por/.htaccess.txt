@@ -1,0 +1,5 @@
+#To set up 404 page:
+ErrorDocument 404 /por/404/index.php
+
+
+

@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /forum/
+Disallow: /mm5/
+Disallow: /Merchant2/
+Disallow: /errordocs/
+Disallow: /_lang/es/products/vaginismus_kit_dvd_google_shop/
+Disallow: /_lang/en/products/vaginismus_books_google_shop/
+Disallow: /_lang/en/products/vaginismus_kit_dvd_google_shop/
+Disallow: /_lang/en/products/dilator_set_google_shop/
+Disallow: /_lang/es/products/vaginismus_books_google_shop/
+Disallow: /_lang/es/products/dilator_set_google_shop/
+Disallow: /_lang/es/products/vaginismus_kit_dvd_google_shop/
+
+Sitemap: http://www.vaginismus.com/sitemap.xml
